@@ -303,13 +303,13 @@ body {
                    <ul class="dropdown-menu">
                        <li><a id="Mission" href="history.php"><i class="fas fa-history"></i> History</a></li>
                        <li class="divider"></li>
-                       <li><a href="PPIU_License_and_Accreditation.html"><i class="fas fa-certificate"></i> PPIU License and Accreditation</a></li>
+                       <li><a href="PPIU_License_and_Accreditation.php"><i class="fas fa-certificate"></i> PPIU License and Accreditation</a></li>
                        <li class="divider"></li>
-                       <li><a href="Vision_Mission_and_Values.html"><i class="fas fa-eye"></i> Vision, Mission, and Values</a></li>
+                       <li><a href="Vision_Mission_and_Values.php"><i class="fas fa-eye"></i> Vision, Mission, and Values</a></li>
                        <li class="divider"></li>
-                       <li><a href="Career_Opportunities.html"><i class="fas fa-briefcase"></i> Career Opportunities</a></li>
+                       <li><a href="Career_Opportunities.php"><i class="fas fa-briefcase"></i> Career Opportunities</a></li>
                        <li class="divider"></li>
-                       <li><a href="Alumni.html"><i class="fas fa-users"></i> ALUMNI</a></li>
+                       <li><a href="Alumni.php"><i class="fas fa-users"></i> ALUMNI</a></li>
                    </ul>
                </li>
                
@@ -379,6 +379,7 @@ body {
                <a href="#">Apply ▼</a>
            </div>
        </nav>
+       
     
 </body>
 </html>

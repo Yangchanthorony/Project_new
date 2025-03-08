@@ -5,6 +5,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<style>
+    .footer {
+    background-color: rgb(197, 29, 29); /* Dark blue background */
+    color: white;
+    padding: 40px 40px;
+    margin-top: 20px;
+  
+   
+}
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.footer .social-icons a {
+    margin: 0 10px;
+    color: white;
+    font-size: 1.5rem;
+}
+.footer .social-icons a:hover {
+    color: #007bff; /* Change color on hover */
+}
+ .copy {
+    text-align: center;
+   margin-top: 30px;
+    font-size: 0.9rem;
+    background-color: white;
+    height: 50px;
+   
+}
+
+</style>
 <body>
 <footer class="footer">
             <div class="container">

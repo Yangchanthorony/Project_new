@@ -1,5 +1,5 @@
 <?php 
-include("../components/header.php");
+ include("../components/header.php");
 include("../js/index.php");
 include("../css/index.php");
 
@@ -21,20 +21,35 @@ include("../css/index.php");
 <link href="https://fonts.googleapis.com/css2?family=Moul&display=swap" rel="stylesheet">
     <title>Navbar with Image</title>
   
-    
+  
     
 </head>
 <body>
+
     <div class=" container-fluid">
+    <div style="margin-top: 200px;" class="content-right" data-aos="fade-left">
+        <marquee   behavior="scroll" direction="left" scrollamount="5">
+            <div  class="text-news">
+                <i class="fas fa-angle-double-right"></i>
+                <a id="scroll" href="" data-aos="fade-up" data-aos-delay="400">
+                Let's sign up​​ to study get special price</a>
+             
+                <i class="fas fa-angle-double-right"></i>
+                <a id="scroll2" href="" data-aos="fade-up" data-aos-delay="200">Enrolment form today on!</a>
+                &ensp;
+            </div>
+        </marquee>
+    </div>
         <div class="mid">
             <!-- Bootstrap Carousel -->
-            <div  id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="2000">
+            <div   id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="2000">
+            
                 <div class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
                 </div>
-                <div style="margin-top: 210px;" class="carousel-inner ">
+                <div style="margin-top:5px;" class="carousel-inner ">
                     <div class="carousel-item active">
                         <img  src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" class="d-block w-100 slide-img" alt="Slide 1">
                         <div class="carousel-caption">
@@ -66,6 +81,7 @@ include("../css/index.php");
                     <span class="visually-hidden">Next</span>
                 </button>
             </div>
+            
             <div class="text">
                 <h1>Events</h1>
             </div>
@@ -81,7 +97,7 @@ include("../css/index.php");
                                     <h5>Seminar on "Resolving Disputes in a Globalized Economy"</h5>
                                     <p>📅 Date: 05 March 2025 | ⏰ Time: 1:30 PM - 3:00 PM</p>
                                     <p>📍 Location: AUPP Technology Center</p>
-                                    <a href="Evens.html" class="read-more">Read More</a>
+                                    <a href="Evens1.php" class="read-more">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +108,7 @@ include("../css/index.php");
                                     <h5>Seminar on "Resolving Disputes in a Globalized Economy"</h5>
                                     <p>📅 Date: 26 February 2025 | ⏰ Time: 1:00 PM - 5:00 PM</p>
                                     <p>📍 Location: AUPP Campus - ATC</p>
-                                    <a href="Evens2.html" class="read-more">Read More</a>
+                                    <a href="Evens2.php" class="read-more">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -103,7 +119,7 @@ include("../css/index.php");
                                     <h5>Seminar on "Resolving Disputes in a Globalized Economy"</h5>
                                     <p>📅 Date: 21-23 February 2025 | ⏰ Time: 8 AM - 5 PM</p>
                                     <p>📍 Location: AUPP Campus</p>
-                                    <a href="Evens3.html" class="read-more">Read More</a>
+                                    <a href="Evens3.php" class="read-more">Read More</a>
                                 </div>
                             </div>
                         </div>

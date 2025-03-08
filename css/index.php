@@ -101,7 +101,41 @@
             color: white !important;
         }
         
-       
+         /* marqiee */
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 20px;
+        }
+        .content-right {
+            background: white;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            margin: auto;
+            text-align: center;
+            background-color: #b80000;
+        }
+        .text-news {
+            display: inline-block;
+            white-space: nowrap;
+            font-size: 18px;
+        }
+        .text-news a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-right: 15px;
+        }
+        .text-news i {
+            color: #ff9800;
+            margin-right: 5px;
+        }
+
+        /* end marqiee */
+
         /* slide */
 
         .carousel-inner img {

@@ -5,15 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-         /* Header Section */
+       body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+      /* Header Section */
  .header {
       
       color: white;
-      margin-top: 185px;
-      margin-left: 210px;
+      margin-top: 190px;
+      margin-left: 185px;
       font-size: 40px;
       font-weight: bold;
-     
   }
   
   /* Content Section */
@@ -21,13 +25,17 @@
       padding: 50px 15%;
   }
   
- 
+  h2 {
+      color: #c00000;
+      font-weight: bold;
+  }
   
   p {
       font-size: 16px;
       line-height: 1.8;
       text-align: justify;
      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
   }
   
   /* Background Pattern */
@@ -47,12 +55,23 @@
       background-image: url('https://www.transparenttextures.com/patterns/cubes.png'); /* Example Pattern */
       opacity: 100;
   }
+  .certificate-img {
+      width: 100%;
+      max-width: 700px;
+      display: block;
+      margin: 20px auto;
+      border: 5px solid #ddd;
+      box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+      
+  }
   
   @media (max-width: 768px) {
       .content-container {
           padding: 30px 5%;
       }
   }
+  
+  
     </style>
 </head>
 <body>
