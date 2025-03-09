@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php 
 include("../components/header.php");
-include("../css/PPIU_License_and_Accreditation.php");
+
  include("../js/index.php");
 ?>
 <html lang="en">
@@ -14,7 +14,7 @@ include("../css/PPIU_License_and_Accreditation.php");
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <!-- Custom CSS -->
-  
+    <link rel="stylesheet" href="../css/PPIU_License_and_Accreditation.css">
 </head>
 <body>
     

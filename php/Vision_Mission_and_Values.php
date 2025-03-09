@@ -3,7 +3,7 @@
 <head>
     <?php 
     include("../components/header.php");
-    include("../css/Vision_Mission_and_Values.php");
+    
     include("../js/index.php");
     ?>
     <meta charset="UTF-8">
@@ -14,7 +14,7 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <!-- Custom CSS -->
-
+    <link rel="stylesheet" href="../css/Vision_Mission_and_Values.css">
 </head>
 <body>
    

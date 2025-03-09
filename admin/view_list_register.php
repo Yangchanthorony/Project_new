@@ -1,9 +1,7 @@
 <?php 
 include("../components/header.php");
-include("../php/Auth/function.php"); 
+include("../Auth/function.php");
 include("destory_register.php");
-
-
 
 ?>
 
@@ -15,33 +13,8 @@ include("destory_register.php");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bootstrap Table</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        
-       
-        .btn-update {
-            background-color: #dc3545;
-            color: white;
-            border: none;
-            padding: 5px 10px;
-            border-radius: 5px;
-        }
-        .btn-remove {
-            background-color: #007bff;
-            color: white;
-            border: none;
-            padding: 5px 10px;
-            border-radius: 5px;
-        }
-        .btn-update:hover {
-            background-color: #c82333;
-        }
-        .btn-remove:hover {
-            background-color: #0056b3;
-        }
-        .containerr{
-            margin-top: 210px;
-        }
-    </style>
+    <link rel="stylesheet" href="../css/view_list_register.css">
+   
 </head>
 <body>
 

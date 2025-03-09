@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
+
   body {
     font-family: Arial, sans-serif;
     background-color: #f8f9fa;
@@ -83,9 +77,3 @@ p {
     background-image: url('https://www.transparenttextures.com/patterns/cubes.png'); /* Example Pattern */
     opacity: 100;
 }
-    </style>
-</head>
-<body>
-    
-</body>
-</html>

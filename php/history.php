@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <?php 
 include("../components/header.php");
-include("../css/history.php");
+
 include("../js/index.php");
-include("../css/index.php");
+
 ?>
 <html lang="en">
 <head>
@@ -15,7 +15,7 @@ include("../css/index.php");
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <!-- Custom CSS -->
-    
+    <link rel="stylesheet" href="../css/history.css">
 </head>
 <body>
    

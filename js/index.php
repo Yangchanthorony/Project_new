@@ -29,7 +29,7 @@ const translations = {
     "Mission": { "en": "<i class='fas fa-bullseye'></i> Our Mission", "kh": "<i class='fas fa-bullseye'></i> បេសកម្ម" },
     "Academic": { "en": "Academic <i class='fas fa-chevron-down'></i>", "kh": "វគ្គសិក្សា <i class='fas fa-chevron-down'></i>"},
     "p": { "en": "Pay Application Fee", "kh": "បង់ថ្លៃពាក្យសុំ" },
-    "register": { "en": "register <i class='fas fa-sign-in-alt'></i>  ", "kh": "<i class='fas fa-sign-in-alt'></i> ចូល"},
+    "register": { "en": "register <i class='fas fa-sign-in-alt'></i>  ", "kh": "<i class='fas fa-sign-in-alt'></i> ចុះឈ្មោះ"},
     "scroll": { "en": "Enrolment form today on!", "kh": "PPIU ទទួលចុះឈ្មោះចូលរៀនចាប់ពីពេលនេះតទៅ!" },
     "scroll2": { "en": "Let's sign up get special price!", "kh": "តោះចុះឈ្នោះនឹងទទួលបានតម្លៃពិសេស!" },
 };

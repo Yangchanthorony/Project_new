@@ -1,0 +1,26 @@
+
+        
+       
+.btn-update {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.btn-remove {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.btn-update:hover {
+    background-color: #c82333;
+}
+.btn-remove:hover {
+    background-color: #0056b3;
+}
+.containerr{
+    margin-top: 210px;
+}

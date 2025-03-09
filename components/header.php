@@ -202,6 +202,10 @@ body {
             border-bottom: 1px solid #ddd; /* Thin gray line */
            
         }
+
+        .fa-sign-in-alt{
+            margin-right: 10px;
+        }
         
         .fa-chevron-down{
             margin-left: 5px;
@@ -284,7 +288,7 @@ body {
                <button onclick="toggleLanguage('en')">EN</button>
            </div>
            
-           <a href="register.php"><button id="register" class="login-btn">  
+           <a href="../admin/register.php"><button id="register" class="login-btn">  
                <i class="fas fa-sign-in-alt"></i>register</button></a>
            <!-- <p id="text">
                <span id="en">Hello, welcome to our website!</span>
