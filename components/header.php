@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 </head>
 <style>
     *{
@@ -283,8 +284,8 @@ body {
                <button onclick="toggleLanguage('en')">EN</button>
            </div>
            
-           <a href="login.php"><button id="login" class="login-btn">  
-               <i class="fas fa-sign-in-alt"></i>Login</button></a>
+           <a href="register.php"><button id="register" class="login-btn">  
+               <i class="fas fa-sign-in-alt"></i>register</button></a>
            <!-- <p id="text">
                <span id="en">Hello, welcome to our website!</span>
                <span id="kh" style="display: none;">សួស្តី, ស្វាគមន៍មកកាន់គេហទំព័ររបស់យើង!</span>

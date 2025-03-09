@@ -1,8 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-    <?php 
-        include("./Auth/function.php");
+<?php 
+
+    include("./Auth/function.php");
     ?>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    
     <style>
         /* Global Styles */
 body {
@@ -36,15 +43,16 @@ label {
     text-align: left;
 }
 
-.input-box {
+.box {
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #ddd;
     border-radius: 5px;
     font-size: 16px;
+    box-sizing: border-box;
 }
 
-.input-box:focus {
+.box:focus {
     outline: none;
     border-color: #007BFF;
 }
@@ -64,8 +72,6 @@ label {
     border-radius: 5px;
     cursor: pointer;
     text-decoration: none;
-    transition: background-color 0.3s ease;
-    font-weight: bold;
     margin-left: 110px;
 }
 
@@ -75,21 +81,6 @@ label {
 
 .btn:active {
     background-color: #00408b;
-}
-
-/* Input Field Adjustments */
-.box {
-    width: 100%;
-    padding: 12px;
-    margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-sizing: border-box;
-}
-
-.box:focus {
-    border-color: #007BFF;
-    outline: none;
 }
 
 /* Responsive Design */
@@ -102,32 +93,27 @@ label {
     .btn {
         width: 100%;
         margin-top: 10px;
-
     }
 }
 
     </style>
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="stylesheet" href="assets/style/theme.css">
 </head>
 <body>
     <div class="content-login">
-        <form method="post">
-        <label>Name or Email</label>
-        <input type="text" class="box" name="name_email" placeholder="Enter name and email">
-            <!-- <label> Email</label>
-            <input type="text" class="box" name="name_email"> -->
+        <form method="post" enctype="multipart/form-data" >
+            <label>Username</label>
+            <input type="text" name="username" class="box" placeholder="username">
+            <label>Email</label>
+            <input type="text" name="useremail" class="box" placeholder="useremail">
             <label>Password</label>
-            <input type="password" class="box" name="password"  placeholder="Enter password">
+            <input type="password" name="userpassword" class="box" placeholder="userpassword">
+           
             <div class="wrap-btn">
-              
-                <input type="submit" class="btn" name="btn_login" value="LOGIN">
+                
+                <input type="submit" class="btn" name="btn_register" value="SIGN UP">
             </div>
         </form>
     </div>
 </body>
+
 </html>

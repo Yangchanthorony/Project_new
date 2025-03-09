@@ -1,94 +1,101 @@
-
-<!DOCTYPE html>
 <?php 
 include("../components/header.php");
 include("../css/register.php");
-include("./function.php");
+include("./Auth/function.php");
 ?>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Components</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Registration Form</title>
     <style>
-        html, body {
-            height: 100%;
-            margin: 0;
+        body {
+            font-family: Arial, sans-serif;
             display: flex;
-            flex-direction: column;
-            margin-top: 120px;
-           
-        }
-        
-        .register-container {
-            flex: 1; /* Pushes the footer down */
-            display: flex;
-            flex-direction: column;
-            align-items: center;
             justify-content: center;
-            padding: 20px;
-           margin-bottom: 380px;
-            width: 40%;
-
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
             
         }
-      
-        
-        
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 500px;
+            margin-top: 200px;
+            margin-left: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+            
+        }
+        .form-control {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #218838;
+        }
+        h2{
+            text-align: center;
+        }
     </style>
 </head>
 <body>
-    
-<div class="register-container">
-    <h2>Register</h2>
-    <form action="" method="post" style="width: 520px;" id="registerForm">
-        <div class="col-md-12 d-flex">
-            <div class="form-group col-md-6">
-                <label for="First_Name">First Name</label>
-                <input name="first_name" type="text" id="First_Name" required>
-                <div class="error" id="First_NameError"></div>
+    <div class="container">
+        <h2>Register</h2>
+        <form action="" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="first-name">First Name</label>
+                <input type="text" id="first-name" name="first_name" class="form-control" required>
             </div>
-            <div class="form-group col-md-6">
-                <label for="Last_Name" style="margin-left: 10px;">Last Name</label>
-                <input name="last_name" type="text" id="Last_Name" style="margin-left: 10px;" required>
-                <div class="error" id="Last_NameError"></div>
+            
+            <div class="form-group">
+                <label for="last-name">Last Name</label>
+                <input type="text" id="last-name" name="last_name" class="form-control" required>
             </div>
-        </div>
-        <div class="form-group">
-            <label for="Email">Email</label>
-            <input name="email" type="email" id="Email" required>
-            <div class="error" id="EmailError"></div>
-        </div>
-        <div class="form-group">
-            <label for="Password">Password</label>
-            <input name="password" type="password" id="Password" required>
-            <div class="error" id="PasswordError"></div>
-        </div>
-        <div class="form-group">
-            <label for="confirmPassword">Confirm Password</label>
-            <input name="confirm_password" type="password" id="confirmPassword" required>
-            <div class="error" id="confirmPasswordError"></div>
-        </div>
-        <div class="form-group">
-            <label for="Date">Date of Birth</label>
-            <input name="date" type="date" id="Date" required>
-            <div class="error" id="dateError"></div>
-        </div>
-        <button type="submit" name="register-btn" class="register-btn">Register</button>
-    </form>
-</div>
-
-
-
-   
-    
-    
-  
-   
- 
-   
+            
+            <div class="form-group">
+                <label for="gender">Gender</label>
+                <select id="gender" name="gender" class="form-control" required>
+                    <option value="">Select</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" class="form-control" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="dob">Date of Birth</label>
+                <input type="date" id="dob" name="dob" class="form-control" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="date">Date</label>
+                <input type="date" id="date" name="date" class="form-control" required>
+            </div>
+            
+            <button name="register-btn" type="submit">Register</button>
+        </form>
+    </div>
 </body>
 </html>
