@@ -26,7 +26,7 @@ include("../js/index.php");
 </head>
 <body>
 
-    <div class=" container-fluid">
+<div class=" container-fluid">
     <div style="margin-top: 200px;" class="content-right" data-aos="fade-left">
         <marquee   behavior="scroll" direction="left" scrollamount="5">
             <div  class="text-news">
@@ -395,17 +395,19 @@ include("../js/index.php");
                 <div class="row ">
                     <div class="col-md-6 logo-section ">
                         <div class="logo-title">Dual Degree Partners</div>
-                        <div class="logo d-flex">
+                        <div style="margin-right: 100px;"  class="logo d-flex">
                             <img src="https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/c2765282-025a-4abb-87ad-a309ec66f543/feature-image.jpg" alt="The University of Arizona">
                            
                             
                             <img src="https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/c2765282-025a-4abb-87ad-a309ec66f543/feature-image.jpg" alt="Fort Hays State University">
-                            <div class="dividerr"></div>
+                           
                         </div>
+                       
                     </div>
+                    
                     <div class="col-md-6 logo-section">
                         <div class="logo-title">Our Subsidiaries</div>
-                        <div class="logo d-flex">
+                        <div style=" margin-left: 100px;" class="logo d-flex">
                             <img src="https://empm.education/wp-content/uploads/2023/09/EMPM-Logo-WhiteBG-01.png" alt="Alfy High School">
                             <img src="https://i.ytimg.com/vi/P5CjkPSjAJc/maxresdefault.jpg" alt="Foxcroft Academy">
                           
@@ -415,8 +417,11 @@ include("../js/index.php");
             </div>
         </div>
 
-
-    </div>
+        <div  class="map">
+        <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.836266581057!2d104.9088324748272!3d11.56359284418184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31095114f1138ac5%3A0x7619b468836cd886!2sPhnom%20Penh%20international%20university!5e0!3m2!1sen!2skh!4v1741534895919!5m2!1sen!2skh" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+    
+</div>
    <?php 
    include("../components/footer.php");
    ?>         

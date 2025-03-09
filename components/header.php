@@ -288,7 +288,7 @@ body {
                <button onclick="toggleLanguage('en')">EN</button>
            </div>
            
-           <a href="../admin/register.php"><button id="register" class="login-btn">  
+           <a href="../php/register.php"><button id="register" class="login-btn">  
                <i class="fas fa-sign-in-alt"></i>register</button></a>
            <!-- <p id="text">
                <span id="en">Hello, welcome to our website!</span>

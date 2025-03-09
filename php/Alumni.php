@@ -27,65 +27,64 @@
     </div>
 
     <!-- Content Section -->
-    <div class="container ">
-    <section class="text-section">
-        <h4 style="margin-top: 20px;" class="section-title">Academic Levels:</h4>
-        <p class="section-text">
-            Currently, Phnom Penh International University (PPU) is providing academic services to students of all ages at the following academic levels:
-        </p>
-        <p class="section-text ">
-         - Studying Short Course <br /> 
-         - Associate Degree in Associate (1st and Second) <br />
-         - Bachelor's Degree (II Year 2, 3 and 4)<br />
-         - Master's Degree Study (1st and 2nd Year)<br />
-         - PhD Study <br /> 
-         
-        </p>
-         <p class="section-text">
-            Students can choose the skills in the following college preferences: 
-        </p>
-    </section>
     
-        <section class="text-section">
-            <h4 class="section-title">About PPIU</h4>
-            <p class="section-text">
-            The American University of Phnom Penh is a private university with a non-profit mission, founded using the supportive guidance and initiative 
-            of experienced American educators. Our founders aspire to provide high-quality education to every student in Cambodia and across the Asian region 
-            from its operation within the cultural heart of Southeast Asia.
-            </p>
-            <p class="section-text">
-            In 2021, PPIU has continued its rapid growth. There are now seven undergraduate programs and an MBA program. We are also proud to be the only 
-            university in Cambodia to provide accredited international degrees through our dual-degree programs enabled by the generous efforts of our partner institutions: 
-            the University of Arizona and Fort Hays State University.
-            </p>
-        </section>
+    <div class="container mt-5">
+    <div class="row g-4">
+        <!-- Alumni Card 1 -->
+        <div class="col-md-3">
+            <div class="card alumni-card">
+                <img src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg" class="card-img-top" alt="Alumni Image">
+                <div class="card-body">
+                    <h5 class="card-title text-danger">Alumni Student Pro 12</h5>
+                    <p class="text-muted">Post Date: 27-Jun-2017</p>
+                    <p>We are sorry! This page is under construction.</p>
+                </div>
+            </div>
+        </div>
 
+        <!-- Alumni Card 2 -->
+        <div class="col-md-3">
+            <div class="card alumni-card">
+                <img src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg" class="card-img-top" alt="Alumni Image">
+                <div class="card-body">
+                    <h5 class="card-title text-danger">Alumni Student Pro 11</h5>
+                    <p class="text-muted">Post Date: 27-Jun-2017</p>
+                    <p>We are sorry! This page is under construction.</p>
+                </div>
+            </div>
+        </div>
 
-        <section class="text-section">
-            <h4 class="section-title">Working at PPIU</h4>
-            <p class="section-text">
-            PPIU offers a unique working environment with scholars from Cambodia and overseas alike. Our remuneration scheme has attracted many experienced faculty and staff 
-            members from the U.S., Canada, the U.K., and various other global regions. Our students' growth is our main motivation.
-            </p>
-            <p class="section-text">
-            In 2017, we moved into our new state-of-the-art campus located in northern Phnom Penh, the robust capital of Cambodia. The city, as well as Cambodia in general, 
-            is not only known for its rich history and culture but also for its friendly people.
-            </p>
-            <p class="section-text">
-            Whether you are a young scholar seeking to build your academic career, a veteran educator looking for ways to contribute, or anything in between, 
-            PPIU will provide a supportive environment where you can succeed while contributing to the human resources development of Cambodia. 
-            Furthermore, PPIU offers a competitive benefits package which includes round-trip airfare (conditions apply), a free visa, free work permit, 
-            and a subsidized international healthcare plan.
-            </p>
-        </section>
+        <!-- Alumni Card 3 -->
+        <div class="col-md-3">
+            <div class="card alumni-card">
+                <img src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg" class="card-img-top" alt="Alumni Image">
+                <div class="card-body">
+                    <h5 class="card-title text-danger">Alumni Student Pro 10</h5>
+                    <p class="text-muted">Post Date: 27-Apr-2017</p>
+                    <p>Under construction...</p>
+                </div>
+            </div>
+        </div>
 
+        <div class="col-md-3">
+            <div class="card alumni-card">
+                <img src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg" class="card-img-top" alt="Alumni Image">
+                <div class="card-body">
+                    <h5 class="card-title text-danger">Alumni Student Pro 10</h5>
+                    <p class="text-muted">Post Date: 27-Apr-2017</p>
+                    <p>Under construction...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
         
 
       
     
        
      
-    </div> 
+    
     <?php 
     include("../components/footer.php");
     ?>
