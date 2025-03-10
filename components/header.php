@@ -265,6 +265,38 @@ body {
             font-size: 18px;
             vertical-align: middle;
         }
+
+        .drop-right {
+            display: none;
+            position: absolute;
+            left: 100%; /* Moves the submenu to the right */
+            top: 0;
+            background-color: white;
+            min-width: 150px;
+            box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+        .drop-right li {
+            display: block;
+        }
+        .drop-right li a {
+            padding: 10px;
+            display: block;
+        }
+        .drop-right li a:hover {
+            background-color: red;
+        }
+        
+        /* Show drop-right menu on hover */
+        .has-dropright:hover .drop-right {
+            display: block;
+           
+        }
+        
+        ul{
+            list-style: none;
+        }
+        
         
 </style>
 <body>
@@ -323,11 +355,22 @@ body {
                        <a id="Academic" data-bs-toggle="collapse" href="#">
                            Academics <i class="fas fa-chevron-down"></i>
                        </a>
-                       <ul class="dropdown-menu">
+                    <ul class="dropdown-menu">
                            <li><a href="#"><i class="fas fa-school"></i> Schools, Programs, and FACULTIES</a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-graduation-cap"></i> Degree</a></li>
-                       </ul>
+                           
+                            <li class="has-dropright">
+                                <a href="#"><i class="fas fa-graduation-cap"></i> Degree</a>
+                                <ul class="drop-right">
+                                <li><a  href="#"><i class="fas fa-chalkboard-teacher"></i> PROFESSIONAL/ SHORT COURSE</a></li>
+                                <li><a href="#"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
+                                <li><a href="#"><i class="fas fa-university"></i> MASTER'S DEGREE</a></li>
+                                <li><a href="#"><i class="fas fa-graduation-cap"></i> BACHELOR</a></li>
+                                <li><a href="#"><i class="fas fa-award"></i> DOCTORAL</a></li>
+                                </ul>
+                            </li>
+                        
+                    </ul>
                    </li>
                    
 

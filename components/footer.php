@@ -11,12 +11,15 @@
     color: white;
     padding: 40px 40px;
     margin-top: 20px;
+    bottom: 0;
+    left: 0;
   
    
 }
 .footer a {
     color: white;
     text-decoration: none;
+
 }
 .footer a:hover {
     text-decoration: underline;

@@ -1,5 +1,5 @@
 <?php 
-include("../components/header.php");
+include("../components/header_admin.php");
 include("../Auth/function.php");
 include("destory_register.php");
 
@@ -18,7 +18,7 @@ include("destory_register.php");
 </head>
 <body>
 
-<div class="containerr ">
+<div style="margin-top: 20px;" class="container ">
     <table class="table table-bordered text-center align-middle">
         <thead class="table-light">
             <tr>
@@ -55,9 +55,7 @@ include("destory_register.php");
         
     </table>
          
-    <?php 
-    include("../components/footer.php");
-    ?>
+    
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
