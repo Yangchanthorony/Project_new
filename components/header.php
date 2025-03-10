@@ -136,6 +136,7 @@ body {
         
         .nav-links li {
             position: relative;
+           
           
             
         }
@@ -275,6 +276,7 @@ body {
             min-width: 150px;
             box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
             z-index: 1;
+            
         }
         .drop-right li {
             display: block;
@@ -351,26 +353,43 @@ body {
                </li>
                
                    
-                   <li style="margin-top: 3px;" class="dropdown">
+                <li style="margin-top: 3px;" class="dropdown">
                        <a id="Academic" data-bs-toggle="collapse" href="#">
                            Academics <i class="fas fa-chevron-down"></i>
                        </a>
+                     
                     <ul class="dropdown-menu">
-                           <li><a href="#"><i class="fas fa-school"></i> Schools, Programs, and FACULTIES</a></li>
-                           <li class="divider"></li>
-                           
                             <li class="has-dropright">
-                                <a href="#"><i class="fas fa-graduation-cap"></i> Degree</a>
+                            <a href="#"><i class="fas fa-graduation-cap"></i> DEGREE</a>
                                 <ul class="drop-right">
-                                <li><a  href="#"><i class="fas fa-chalkboard-teacher"></i> PROFESSIONAL/ SHORT COURSE</a></li>
-                                <li><a href="#"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
+                                <li><a  href="professional.php  "><i class="fas fa-chalkboard-teacher"></i> PROFESSIONAL/ SHORT COURSE</a></li>
+                                <li class="divider"></li>
+                                <li><a href="associate.php"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
+                                <li class="divider"></li>
                                 <li><a href="#"><i class="fas fa-university"></i> MASTER'S DEGREE</a></li>
-                                <li><a href="#"><i class="fas fa-graduation-cap"></i> BACHELOR</a></li>
+                                <li class="divider"></li>
+                                <a href="#"><i class="fas fa-user-graduate"></i> BACHELOR</a>
+                                <li class="divider"></li>
                                 <li><a href="#"><i class="fas fa-award"></i> DOCTORAL</a></li>
                                 </ul>
                             </li>
+                           <li class="divider"></li>
+                           
+                            <li class="has-dropright">
+                                    <a href="#"><i class="fas fa-building"></i> FACULTIES</a>
+                                    
+                                    <ul class="drop-right">
+                                        <li><a href="#"><i class="fas fa-flask"></i> FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY</a></li>
+                                        <li class="divider"></li>
+                                        <li><a href="#"><i class="fas fa-briefcase"></i> FACULTY OF BUSINESS AND TOURISM</a></li>
+                                        <li class="divider"></li>
+                                        <li><a href="#"><i class="fas fa-gavel"></i> FACULTY OF LAW AND ECONOMICS</a></li>
+                                        <li class="divider"></li>
+                                        <li><a href="#"><i class="fas fa-book"></i> FACULTY OF EDUCATION SCIENCE</a></li>
+                                    </ul>
+                            </li>
                         
-                    </ul>
+                        </ul>
                    </li>
                    
 

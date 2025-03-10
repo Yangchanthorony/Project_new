@@ -42,7 +42,7 @@ include("../js/index.php");
     </div>
         <div class="mid">
             <!-- Bootstrap Carousel -->
-            <div   id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="2000">
+            <div style="margin-left: 12px; "   id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="2000">
             
                 <div  class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -90,7 +90,7 @@ include("../js/index.php");
                 <div class="container my-5">
                     <div class="row g-4">
                         <!-- Event Cards -->
-                        <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="100">
                             <div class="event-card">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Event 1">
                                 <div class="event-card-body">
@@ -101,7 +101,7 @@ include("../js/index.php");
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="200">
                             <div class="event-card">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Event 2">
                                 <div class="event-card-body">
@@ -112,7 +112,18 @@ include("../js/index.php");
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
+                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
+                            <div class="event-card">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Event 3">
+                                <div class="event-card-body">
+                                    <h5>Seminar on "Resolving Disputes in a Globalized Economy"</h5>
+                                    <p>📅 Date: 21-23 February 2025 | ⏰ Time: 8 AM - 5 PM</p>
+                                    <p>📍 Location: AUPP Campus</p>
+                                    <a href="Evens3.php" class="read-more">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
                             <div class="event-card">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Event 3">
                                 <div class="event-card-body">
