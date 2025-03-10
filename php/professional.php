@@ -19,7 +19,7 @@
     </div>       
 <div class="container">
     
-    <h6>PROFESSIONAL/ SHORT COURSE</h6>
+    <h5  style="color: red;">PROFESSIONAL/ SHORT COURSE</h5>
     <p class="aa" >For those who are interested and wished to pursue his/her professional/short course(s) within, medium, and long period, PPU is providing him/her the following choices of fields:  </p>
    
         <p style="margin-left: 50px;" > - Customer Service Supervisor</p>

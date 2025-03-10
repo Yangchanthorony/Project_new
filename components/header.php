@@ -130,6 +130,7 @@ body {
             display: flex;
             gap: 25px;
           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
           
            
         }
@@ -145,7 +146,9 @@ body {
         .nav-link.active i {
             color: wheat; /* Change the icon color when the link is active */
             font-size: 25px;
+           
         }
+
         
         .nav-links a {
             text-decoration: none;
@@ -156,11 +159,13 @@ body {
             align-items: center;
             justify-content: space-between;
             color: black;
+          
             
         }
         .nav-links a:hover {
             color: #fff;  /* White text color on hover */
             background-color: red;  /* Blue background on hover */
+            text-decoration: none;
         }
 
 
@@ -297,6 +302,7 @@ body {
         
         ul{
             list-style: none;
+            text-decoration: none;
         }
         
         
@@ -366,9 +372,9 @@ body {
                                 <li class="divider"></li>
                                 <li><a href="associate.php"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
                                 <li class="divider"></li>
-                                <li><a href="#"><i class="fas fa-university"></i> MASTER'S DEGREE</a></li>
+                                <li><a href="master_degree.php"><i class="fas fa-university"></i> MASTER'S DEGREE</a></li>
                                 <li class="divider"></li>
-                                <a href="#"><i class="fas fa-user-graduate"></i> BACHELOR</a>
+                                <a href="bachelor.php"><i class="fas fa-user-graduate"></i> BACHELOR</a>
                                 <li class="divider"></li>
                                 <li><a href="#"><i class="fas fa-award"></i> DOCTORAL</a></li>
                                 </ul>
