@@ -44,7 +44,17 @@
     
         <p style="margin-top: 4px; margin-left: 30px;">+ Computer Science (CSE)</p>
         <p style="margin-left: 30px;"> + Management Information System (MIS)</p>
-        <p style="margin-left: 30px;"> + Telecommunication Architecture (TEL)p>
+        <p style="margin-left: 30px;"> + Telecommunication Architecture (TEL)<p>
+
+        <a style="margin-left: 10px;  text-decoration: none; " href="">
+         - FACULTY OF News and views
+        </a>
+
+        <p style="margin-top: 4px; margin-left: 30px;">+ Multimedia Journalism</p>
+        <p style="margin-left: 30px;"> + Media Management</p>
+        <p style="margin-left: 30px;"> + Digital Media<p>
+        <p style="margin-left: 30px;"> + Public Relations<p>
+
 
 
    

@@ -19,21 +19,21 @@ include("./js/Evens1.php");
 
 <div class="container text-center mt-5">
     
-    <h3  class="event-title">PPIU Alumni Engagement Day</h3>
+    <h3  class="event-title"> Universal Declaration of Human Rights (UDHR)</h3>
     
     <!-- Event Image -->
     <div class="event-image">
-        <img src="https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/c2765282-025a-4abb-87ad-a309ec66f543/feature-image.jpg" class="img-fluid" alt="Alumni Engagement Event">
+        <img src="https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/477386755_1051489767019753_525733631041469397_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHGDIV5Zp15TGat7FmAWlxT9BhOcl_kF-D0GE5yX-QX4H-ddqGB8xLRSKYMeY8pHuLmvMIf9I6SM22tk0P56NnU&_nc_ohc=iq4n1dJEIKoQ7kNvgGoMsrp&_nc_oc=Adh0A2SKklB4uP1aAYJSXYmFZRi1gpPpVGzYXY1suR_l7AY0BSV4DZBOogJCiIJsygk&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&_nc_gid=AuJco5wd2J2-JkZ5iXCkDCI&oh=00_AYG4S3Y1G4ey0BAy3l-tFFwjOKiSbiAb0ZjnwbjXZcCrGA&oe=67D62599" class="img-fluid" alt="Alumni Engagement Event">
     </div>
 
     <!-- Event Information -->
     <div class="event-info mt-4">
         <h5 class="text-danger fw-bold">Event Information:</h5>
-        <p>📌 Open exclusively to AUPP students and partners!</p>
-        <p>📅 Date: 05 March 2025</p>
-        <p>⏰ Time: 1:30 PM - 3:00 PM</p>
-        <p>📍 Location: AUPP Technology Center</p>
-        <p>In this Alumni Engagement Day panel discussion, we will learn the journeys, insights, and achievements of our alumni to inspire, bridge experiences, and empower future generations of EAGLES!</p>
+        <p>📌 students from the Human Rights Course at the Faculty of Law and Economics of Phnom Penh International University (PPIU)</p>
+        <p>📅 Date: 11 feb 2025</p>
+        <p>⏰ Time: 5:30 PM - 7:00 PM</p>
+        <p>📍 Location: PPIU Center</p>
+        <p>Adopted by the UN General Assembly on December 10, 1948, the UDHR continues to serve as a crucial framework for promoting and protecting human dignity worldwide. This event provided an excellent opportunity for students to deepen their understanding of these vital principles.</p>
     </div>
 
     <!-- Social Media Share Buttons -->

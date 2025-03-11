@@ -19,21 +19,22 @@ include("./js/Evens1.php");
 
 <div class="container text-center mt-5">
     
-    <h3  class="event-title">PPIU Alumni Engagement Day</h3>
+    <h3  class="event-title">New Enrollment! </h3>
     
     <!-- Event Image -->
     <div class="event-image">
-        <img src="https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/c2765282-025a-4abb-87ad-a309ec66f543/feature-image.jpg" class="img-fluid" alt="Alumni Engagement Event">
+        <img src="https://scontent.fpnh2-3.fna.fbcdn.net/v/t39.30808-6/482985561_1071063881729008_5082609035351126105_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHAcsvIedZtgHGw2mA6NHKwJtp495lxNhgm2nj3mXE2GB7CxiBCUxpzVsH98YEOtv3x0kGSXZvfWLZ6oW3LxOKl&_nc_ohc=1ObRH6BfsEcQ7kNvgFQMSco&_nc_oc=Adj_XwEhMAen6668TnpsEq1ziudlsHUFdzKwLIEPff_BpMo6U4z-yz1OhnLE_zv2lKY&_nc_zt=23&_nc_ht=scontent.fpnh2-3.fna&_nc_gid=APP6rqLJlAXjiiU6CODB7ih&oh=00_AYF6SXzA40WOv1yN1g8m07jPnwKiBVMOxGR5nzEA6WNIIQ&oe=67D62739" class="img-fluid" alt="Alumni Engagement Event">
     </div>
 
     <!-- Event Information -->
     <div class="event-info mt-4">
         <h5 class="text-danger fw-bold">Event Information:</h5>
-        <p>📌 Open exclusively to AUPP students and partners!</p>
-        <p>📅 Date: 05 March 2025</p>
-        <p>⏰ Time: 1:30 PM - 3:00 PM</p>
-        <p>📍 Location: AUPP Technology Center</p>
-        <p>In this Alumni Engagement Day panel discussion, we will learn the journeys, insights, and achievements of our alumni to inspire, bridge experiences, and empower future generations of EAGLES!</p>
+        <p>📌 Open exclusively to PPIU students </p>
+        <p>📅 Date: 05 May 2025</p>
+        <p>⏰ Time: 2:00 PM - 5:00 PM</p>
+        <p>📍 Location: PPIU  Center</p>
+        <p>For more information, please visit the Information Office on the 5th floor of Phnom Penh International University (In front of Bak Touk High School), or you can contact us directly through Telegram PPIU: 071 333 6777 
+        Facebook Page: Phnom Penh International University (official).</p>
     </div>
 
     <!-- Social Media Share Buttons -->

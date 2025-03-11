@@ -19,21 +19,21 @@ include("./js/Evens1.php");
 
 <div class="container text-center mt-5">
     
-    <h3  class="event-title">PPIU Alumni Engagement Day</h3>
+    <h3  class="event-title">PPIU students participate in the Cambodia-Thai Youth </h3>
     
     <!-- Event Image -->
     <div class="event-image">
-        <img src="https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/c2765282-025a-4abb-87ad-a309ec66f543/feature-image.jpg" class="img-fluid" alt="Alumni Engagement Event">
+        <img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/482076279_1071006125068117_1020994895087719099_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFwK5MR2PAaqydRMm2qpjUkkWiqVPWByNeRaKpU9YHI167e558RegvCDumtENVfWSJLeDJK8EBPU02fsnk9hSfs&_nc_ohc=17y-3wujl0EQ7kNvgGNI6_2&_nc_oc=Adht7y8Rwayn16fouTooaGhZ-Ujl5MCRrLyp_T4p03gn8G0MzZ-yI-OiSE_h32Kpr6U&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=AKIbgtLu8sh_eSaS6nJ2G5J&oh=00_AYHp5F3imP_z1YOxQbqIm80jAVe3D29MbfYaUjmdojMy9A&oe=67D642F4" class="img-fluid" alt="Alumni Engagement Event">
     </div>
 
     <!-- Event Information -->
     <div class="event-info mt-4">
         <h5 class="text-danger fw-bold">Event Information:</h5>
-        <p>📌 Open exclusively to AUPP students and partners!</p>
-        <p>📅 Date: 05 March 2025</p>
-        <p>⏰ Time: 1:30 PM - 3:00 PM</p>
-        <p>📍 Location: AUPP Technology Center</p>
-        <p>In this Alumni Engagement Day panel discussion, we will learn the journeys, insights, and achievements of our alumni to inspire, bridge experiences, and empower future generations of EAGLES!</p>
+        <p>📌 PPIU students participate in the Cambodia-Thai Youth </p>
+        <p>📅 Date: 08 March 2025</p>
+        <p>⏰ Time: 2:-00 PM -5:00 PM</p>
+        <p>📍 Location: PPIU Center</p>
+        <p>PPIU student activities to celebrate the Cambodia-Thailand friendship football event at the National Olympic Stadium </p>
     </div>
 
     <!-- Social Media Share Buttons -->

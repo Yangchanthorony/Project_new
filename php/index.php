@@ -92,33 +92,33 @@ include("../js/index.php");
                         <!-- Event Cards -->
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="100">
                             <div class="event-card">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Event 1">
+                                <img src="https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/477246486_1051489760353087_7951468628992383051_n.jpg?stp=cp6_dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHQ8Hsa-yYyVj_iq5ASBRYxnVAgkj0gS52dUCCSPSBLnQNo1ljNP2COtUwoo8aH_AtXU_sinOftj-TDS8YJU5PF&_nc_ohc=hJSTgR7rwagQ7kNvgENVyNE&_nc_oc=AdgMxbhKi4X7sEltZa8Qb-SZ15tP1MTUJ-wU4iIBB7G3DxoAxoWSALjcGnDeRehUL3k&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&_nc_gid=AbEYpuuFwDUR-JPk5RgZYCD&oh=00_AYF7RgfKoM_apWbcvySNEz5NbWmsd7nkmg3njnJt_EYAYQ&oe=67D62847" alt="Event 1">
                                 <div class="event-card-body">
-                                    <h5>Seminar on "Resolving Disputes in a Globalized Economy"</h5>
-                                    <p>📅 Date: 05 March 2025 | ⏰ Time: 1:30 PM - 3:00 PM</p>
-                                    <p>📍 Location: AUPP Technology Center</p>
+                                    <h5>students from the Human Rights Course at the Faculty of Law and Economics of  (PPIU)</h5>
+                                    <p>📅 Date: 11 feb 2025 | ⏰ Time: 5:30 PM - 7:00 PM</p>
+                                    <p>📍 Location: PPIU  Center</p>
                                     <a href="Evens1.php" class="read-more">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="200">
                             <div class="event-card">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Event 2">
+                                <img src="https://scontent.fpnh2-3.fna.fbcdn.net/v/t39.30808-6/482985561_1071063881729008_5082609035351126105_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHAcsvIedZtgHGw2mA6NHKwJtp495lxNhgm2nj3mXE2GB7CxiBCUxpzVsH98YEOtv3x0kGSXZvfWLZ6oW3LxOKl&_nc_ohc=1ObRH6BfsEcQ7kNvgFQMSco&_nc_oc=Adj_XwEhMAen6668TnpsEq1ziudlsHUFdzKwLIEPff_BpMo6U4z-yz1OhnLE_zv2lKY&_nc_zt=23&_nc_ht=scontent.fpnh2-3.fna&_nc_gid=APP6rqLJlAXjiiU6CODB7ih&oh=00_AYF6SXzA40WOv1yN1g8m07jPnwKiBVMOxGR5nzEA6WNIIQ&oe=67D62739" alt="Event 2">
                                 <div class="event-card-body">
-                                    <h5>Seminar on "Resolving Disputes in a Globalized Economy"</h5>
-                                    <p>📅 Date: 26 February 2025 | ⏰ Time: 1:00 PM - 5:00 PM</p>
-                                    <p>📍 Location: AUPP Campus - ATC</p>
+                                    <h5>New Enrollment! </h5>
+                                    <p>📅 Date: 5 May 2025 | ⏰ Time: 1:00 PM - 5:00 PM</p>
+                                    <p>📍 Location: PPIU Center</p>
                                     <a href="Evens2.php" class="read-more">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
                             <div class="event-card">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Event 3">
+                                <img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/482095635_1071006088401454_3389041062273094251_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFYchEFV9QWBokKMrytPYmPcC1p9JvqK3FwLWn0m-orceIC1PFyh0i4bewVWd7APnAMFCJ0NURKA4UlsXfu63PQ&_nc_ohc=h3Iehx3HyhcQ7kNvgFr60Su&_nc_oc=Adi9KlirDTsT6hnw_EzvR_xtCApEuZL_9rR9kNEMVFYifHNc3R99f0XkBXJyAkNytI4&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=A7Q8DmvXLQiQm-mvRUUnZTJ&oh=00_AYFv6ZNSKTzeYXA4WZihiIQup_-PWmxqyTbaWT4aKWcfAw&oe=67D653EB" alt="Event 3">
                                 <div class="event-card-body">
-                                    <h5>Seminar on "Resolving Disputes in a Globalized Economy"</h5>
-                                    <p>📅 Date: 21-23 February 2025 | ⏰ Time: 8 AM - 5 PM</p>
-                                    <p>📍 Location: AUPP Campus</p>
+                                    <h5>PIU student activities to celebrate </h5>
+                                    <p>📅 Date: 8 March 2025 | ⏰ Time: 2 PM - 5 PM</p>
+                                    <p>📍 Location: PPIU Center</p>
                                     <a href="Evens3.php" class="read-more">Read More</a>
                                 </div>
                             </div>
@@ -143,21 +143,23 @@ include("../js/index.php");
                         <!-- Gallery Item 1 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="10">
                             <div class="gallery-item">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 1">
+                                <a href="http://web.facebook.com/photo/?fbid=1065362475632482&set=a.641396244695776"><img src="https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/482024988_1065362482299148_2169729506199855396_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEfhgeNC5fmIHtKqEsCXKLUeXW5RMwMlMx5dblEzAyUzDjPPpDkKBFA2btBNLI2nMy7mfQafFDOEhKnDQFyXvzv&_nc_ohc=22b8gCZYnU4Q7kNvgGo-x4k&_nc_oc=Adj4WECuN0dK-2UqyxK4AIAwmXRSXR2PC-CKmNY--dmnVsdje6XpKzsSe_5Kh9pwbp8&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&_nc_gid=Atf4ohTSCcoeuYouiN4OmjW&oh=00_AYEavOMlBA6Qmc-Zs8HqcSIIxl9dl0KQHdY20yVLuMU-6Q&oe=67D63B8A" alt="Gallery Image 1"></a>
                             </div>
                         </div>
                         <!-- Gallery Item 2 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="20">
                             <div class="gallery-item">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 2">
+                                <a href="https://web.facebook.com/photo/?fbid=1055913179910745&set=a.641396244695776"><img src="https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/476159267_1055913233244073_5178311457900207246_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFmWxuaw7QNxnWbaBsd-Jw9ZwiNUrMoIcpnCI1Ssyghyvw_cBuc-iNL-QOgFRf649hkBd0HshfIwtfCF3x2MSZ9&_nc_ohc=36et9xfO87wQ7kNvgExbobr&_nc_oc=Adgea6Z7YoMGWSG8xwMhX6SIrUG70nsb3MBL6jVjj4RYWpGgwGGhOBpyV6AEsrGf39g&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&_nc_gid=AijdubfNjeu4vleWa0YvoW-&oh=00_AYEQvqx5oFUw63SoQIXb9ZfKMYWrSUDgyq97dDf4O01ZSg&oe=67D6423B" alt="Gallery Image 2"></a>
                             </div>
                         </div>
                         <!-- Gallery Item 3 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="30">
                             <div class="gallery-item">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 3">
+                                <a href="https://web.facebook.com/photo/?fbid=1055912533244143&set=a.641396244695776"><img src="https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/480282573_1055912599910803_4948037012777270904_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEdsBE3QnzqFLzi5WoLVTu-URjm924PgUlRGOb3bg-BSYeypobFbt7cLMuEAV6F7W9J0v04QjdLyx7ufJO-DmTD&_nc_ohc=H_AXmQa0d8UQ7kNvgGmeTXY&_nc_oc=AdjhtCBoQ5A7-4EWSxqKGxtUWBoYw_B8Qc8oTdRZNXTzPx-RREk96vu4B9t-F1BBn2I&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&_nc_gid=AbEYpuuFwDUR-JPk5RgZYCD&oh=00_AYHyoIyGUU2fBTKCPVrelhL9QIa9Ky4ZpW0A4BbgCKwsiA&oe=67D648EE" alt="Gallery Image 3"></a>
                             </div>
                         </div>
+
+                        <h2 class="gallery-title">PPIU Lecture</h2>
                         <!-- Gallery Item 4 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="40">
                             <div class="gallery-item">
@@ -179,11 +181,14 @@ include("../js/index.php");
                     </div>
                     
                     
-                    <h4 style="margin-top: 40px;"><i class="fa-brands fa-facebook"></i>
+                    <h4 style="margin-top: 60px; color: red;"><i class="fa-brands fa-facebook"></i>
                     follow in facebook</h4>
                 </div>
 
-                <div class="container text-center  text ">
+                
+                
+
+                <div style="margin-top: 50px;" class="container text-center  text ">
                     <h2 class="">Admissions Processes</h2>
                 </div>  
                     <!-- Bachelor's Section -->
@@ -304,6 +309,8 @@ include("../js/index.php");
                 </div>
 
             </div>
+
+            
 
             <div class="textt">
                 <h2 class="text-center fw-bold mb-4  ">News</h2>

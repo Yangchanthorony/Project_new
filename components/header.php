@@ -392,6 +392,8 @@ body {
                                         <li><a href="#"><i class="fas fa-gavel"></i> FACULTY OF LAW AND ECONOMICS</a></li>
                                         <li class="divider"></li>
                                         <li><a href="#"><i class="fas fa-book"></i> FACULTY OF EDUCATION SCIENCE</a></li>
+                                        <li class="divider"></li>
+                                       <a href="#"><i class="fas fa-newspaper"></i>FACULTY OF News and views</a>
                                     </ul>
                             </li>
                         
