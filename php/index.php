@@ -321,7 +321,7 @@ include("../js/index.php");
                                 <h5 class="news-title">AUPP Student wins 3rd prize in the Cloud Track...</h5>
                                 <p class="news-description">Representing Cambodia, our talented students, Sethisak SAN, Singyean HONG, and Sophanith SOM, distinguished themselves.</p>
                                 <div class="read-more text-center">
-                                    <a href="">Read More</a>
+                                    <a style="  text-decoration: none; color: white;" href="">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -336,7 +336,7 @@ include("../js/index.php");
                                 <h5 class="news-title">Eagle of AUPP, Meilang Hut</h5>
                                 <p class="news-description">Meilang Hut is a junior pursuing a Bachelor of Science in Business...</p>
                                 <div class="read-more text-center">
-                                    <a href="">Read More</a>
+                                    <a style="  text-decoration: none; color: white;" href="">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -351,7 +351,7 @@ include("../js/index.php");
                                 <h5 class="news-title">AUPP and CIA FIRST International School Forge...</h5>
                                 <p class="news-description">We are pleased to announce the signing of a Memorandum of Understanding...</p>
                                 <div class="read-more text-center">
-                                    <a href="">Read More</a>
+                                    <a style="  text-decoration: none; color: white;" href="">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -359,14 +359,14 @@ include("../js/index.php");
         
                     <!-- News Card 4 -->
                     <div class="col-md-6 col-lg-3" data-aos="fade-down" data-aos-delay="400">
-                        <div class="news-card">
+                        <div  class="news-card">
                             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGnRGl2DBu6wZ6t_kal9etixFzBw10WKoFg&s" alt="News Image" class="news-image">
                             <div class="news-content">
                                 <span class="news-date">February 19, 2025</span>
                                 <h5 class="news-title">AUPP Business Students Win First Runner-Up...</h5>
                                 <p class="news-description">Congratulations to our AUPP Business students for their achievements...</p>
                                 <div class="read-more text-center">
-                                    <a href="">Read More</a>
+                                    <a style="  text-decoration: none; color: white;" href="">Read More</a>
                                 </div>
                             </div>
                         </div>

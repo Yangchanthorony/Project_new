@@ -32,7 +32,7 @@
         <p style="margin-left: 30px;"> + Law (LLB)</p>
         <p style="margin-left: 30px;"> + International Relations (IR)</p>
         
-        <a style="margin-left: 10px;  text-decoration: none; " href="">
+        <a style="margin-left: 10px;  text-decoration: none; " href="law.php">
          - Faculty of Education Science (FES)
         </a>
         <p style="margin-top: 4px; margin-left: 30px;"> + English for Education (EDU)</p>
