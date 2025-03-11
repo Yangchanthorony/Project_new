@@ -23,7 +23,7 @@
     <p class="aa" >Those students who intentionally study with your desired majors for the Bachelor's Degree (BA), you could choose amongst the following faculties:</p>
         
 
-        <a style="margin-left: 10px;  text-decoration: none; " href="">
+        <a style="margin-left: 10px;  text-decoration: none; " href="Business.php">
         - Factulty of Law and Economics (FLF)
         </a>
         <p style="margin-top: 4px; margin-left: 30px;">+ Finance-Banking (FNB)</p>

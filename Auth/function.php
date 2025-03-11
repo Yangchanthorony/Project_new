@@ -16,9 +16,7 @@ function register(){
          VALUES (null,'$first_name','$last_name','$gender','$email',' $dob',' $date')";
          if ($con->query($sql)) {
             echo "<script>alert('ការចុះឈ្មោះបានជោគជ័យ!');</script>";
-        } else {
-            echo "<script>alert('ការចុះឈ្មោះបានបរាជ័យ សូមព្យាយាមម្ដងទៀត!');</script>";
-        }
+        } 
     }
 }
 register();
