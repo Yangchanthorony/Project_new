@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
 <style>
-    .footer {
+  .footerr {
     background-color: rgb(197, 29, 29); /* Dark blue background */
-    color: white;
+    color: black;
     padding: 40px 40px;
     margin-top: 20px;
     bottom: 0;
@@ -17,20 +11,23 @@
    
 }
 .footer a {
-    color: white;
+  
     text-decoration: none;
+    color: black;
 
 }
+
 .footer a:hover {
-    text-decoration: underline;
+   
+    color: red;
 }
 .footer .social-icons a {
     margin: 0 10px;
-    color: white;
+   color: red;
     font-size: 1.5rem;
 }
 .footer .social-icons a:hover {
-    color: #007bff; /* Change color on hover */
+    color:rgb(217, 255, 0); /* Change color on hover */
 }
  .copy {
     text-align: center;
@@ -40,9 +37,12 @@
     height: 50px;
    
 }
+.row{
+    background-color: cornsilk;
+}
 
 </style>
-<body>
+
 <div class="footer">
             <div class="container">
                 <div class="row">
@@ -93,10 +93,6 @@
            
         </div>
         <div style="color: blue;" class="copy">
+            
             © Copyright 2023 American University of Phnom Penh. All Rights Reserved.
         </div>
-</body>
-<?php 
-    include("../js/index.php");
-    ?>
-</html>

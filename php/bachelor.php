@@ -23,7 +23,7 @@
     <p class="aa" >Those students who intentionally study with your desired majors for the Bachelor's Degree (BA), you could choose amongst the following faculties:</p>
         
 
-        <a style="margin-left: 10px;  text-decoration: none; " href="Business.php">
+        <a style="margin-left: 10px;  text-decoration: none; " href="law.php">
         - Factulty of Law and Economics (FLF)
         </a>
         <p style="margin-top: 4px; margin-left: 30px;">+ Finance-Banking (FNB)</p>
@@ -31,14 +31,25 @@
         <p style="margin-left: 30px;"> + Public Relations (PR)</p>
         <p style="margin-left: 30px;"> + Law (LLB)</p>
         <p style="margin-left: 30px;"> + International Relations (IR)</p>
+
+        <a style="margin-left: 10px;  text-decoration: none; " href="Business.php">
+         -Faculty of Business and Toursim (FBT)
+        </a>
+        <p style="margin-top: 4px; margin-left: 30px;"> + Accounting (ACC)</p>
+        <p style="margin-left: 30px;"> + Management (MGT) </p>
+        <p style="margin-left: 30px;"> + Marketing (MKT) </p>
+        <p style="margin-left: 30px;"> + Hotel and Tourism Management (TOU) </p>
+        <p style="margin-left: 30px;"> + Logistics Management (LGM)</p>
         
-        <a style="margin-left: 10px;  text-decoration: none; " href="law.php">
+        
+        
+        <a style="margin-left: 10px;  text-decoration: none; " href="education.php">
          - Faculty of Education Science (FES)
         </a>
         <p style="margin-top: 4px; margin-left: 30px;"> + English for Education (EDU)</p>
         <p style="margin-left: 30px;"> + English for Business (EBU) </p>
     
-        <a style="margin-left: 10px;  text-decoration: none; " href="">
+        <a style="margin-left: 10px;  text-decoration: none; " href="cse.php">
          - Faculty of Science and Informationa Technology (FSIT)
         </a>
     
@@ -46,14 +57,15 @@
         <p style="margin-left: 30px;"> + Management Information System (MIS)</p>
         <p style="margin-left: 30px;"> + Telecommunication Architecture (TEL)<p>
 
-        <a style="margin-left: 10px;  text-decoration: none; " href="">
-         - FACULTY OF News and views
+       
+        <a style="  text-decoration: none; font-weight: 500; font-size: 16px; " href="">
+        - Faculty  Of News and View
         </a>
-
-        <p style="margin-top: 4px; margin-left: 30px;">+ Multimedia Journalism</p>
+        <p style="margin-top: 4px; margin-left: 30px;">+ Multimedia Journalism </p>
         <p style="margin-left: 30px;"> + Media Management</p>
-        <p style="margin-left: 30px;"> + Digital Media<p>
-        <p style="margin-left: 30px;"> + Public Relations<p>
+        <p style="margin-left: 30px;"> + Digital Media</p>
+        <p style="margin-left: 30px;"> + Public Relations</p>
+       
 
 
 

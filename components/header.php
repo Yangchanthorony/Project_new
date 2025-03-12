@@ -385,7 +385,7 @@ body {
                                     <a href="#"><i class="fas fa-building"></i> FACULTIES</a>
                                     
                                     <ul class="drop-right">
-                                        <li><a href="#"><i class="fas fa-flask"></i> FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY</a></li>
+                                        <li><a href="cse.php"><i class="fas fa-flask"></i> FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY</a></li>
                                         <li class="divider"></li>
                                         <li><a href="#"><i class="fas fa-briefcase"></i> FACULTY OF BUSINESS AND TOURISM</a></li>
                                         <li class="divider"></li>
