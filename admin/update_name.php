@@ -1,0 +1,125 @@
+<?php 
+$con = new mysqli("localhost","root","","project_school");
+include("../Auth/function.php");
+$up_id = $_GET['id'];
+$sql = "SELECT * FROM `register` WHERE `id` = '$up_id'";
+$res = $con->query($sql);
+$row = mysqli_fetch_array($res);
+
+?>
+
+
+<style>
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.content-right {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.top h3 {
+    text-align: center;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-control, .form-select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+</style>
+
+<div class="col-10">
+                    <div class="content-right">
+                        <div class="top">
+                            <h3>update name register</h3>
+                        </div>
+                        <div class="bottom">
+                            <figure>
+                                <form action="edit_name.php" method="post" enctype="multipart/form-data">   
+                                    <input type="text" name="edit_id" value="<?php echo $row[0] ?>">
+                                <div class="form-group">
+                                        <label>First Name</label>
+                                        <input type="text" name="First_Name" value="<?php echo $row[1]?>" class="form-control">
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Last Name</label>
+                                        <input type="text" name="Last_Name" value="<?php echo $row[2] ?>" class="form-control">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Gender</label>
+                                        <select name="gender" value="<?php echo $row[3]?>" class="form-select">
+                                            <option value="Male">Male</option>
+                                            <option value="Female">Female</option>
+                                            <option value="other">other</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Email</label>
+                                        <input type="text" name="email" value="<?php echo $row[4]?>" class="form-control">
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Date of Birth</label>
+                                        <input type="date" name="day" value="<?php echo $row[5] ?>" class="form-control">
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Date</label>
+                                        <input type="date" name="date" value="<?php echo $row[6] ?>" class="form-control">
+                                    </div>
+                                    
+                                    
+                                    
+                                    <div class="form-group">
+                                        <button type="submit" name="btn_update" class="btn btn-primary">Submit</button>
+                                       
+                                    </div>
+                                </form>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

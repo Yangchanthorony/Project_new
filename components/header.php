@@ -376,7 +376,7 @@ body {
                                 <li class="divider"></li>
                                 <a href="bachelor.php"><i class="fas fa-user-graduate"></i> BACHELOR</a>
                                 <li class="divider"></li>
-                                <li><a href="#"><i class="fas fa-award"></i> DOCTORAL</a></li>
+                                <li><a href="doctoral.php"><i class="fas fa-award"></i> DOCTORAL</a></li>
                                 </ul>
                             </li>
                            <li class="divider"></li>

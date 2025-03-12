@@ -35,7 +35,7 @@ function view_register(){
             <td><?php echo $row[5];?></td>
             <td><?php echo $row[6];?></td>
             <td>
-                <a   href=""  class="btn btn btn-primary" >update</a>
+                <a   href="../admin/update_name.php?id=<?php echo $row[0] ?>"  class="btn btn btn-primary" >update</a>
                 <button type="button"  onclick="remove_register(<?php echo$row[0]?>)" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#delete_post">Delete</button>
             </td>
            
@@ -76,6 +76,8 @@ function Login(){
     }
 }
 Login();
+
+
 
 
 ?>

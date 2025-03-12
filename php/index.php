@@ -92,7 +92,7 @@ include("../js/index.php");
                         <!-- Event Cards -->
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="100">
                             <div class="event-card">
-                                <img src="https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/477246486_1051489760353087_7951468628992383051_n.jpg?stp=cp6_dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHQ8Hsa-yYyVj_iq5ASBRYxnVAgkj0gS52dUCCSPSBLnQNo1ljNP2COtUwoo8aH_AtXU_sinOftj-TDS8YJU5PF&_nc_ohc=hJSTgR7rwagQ7kNvgENVyNE&_nc_oc=AdgMxbhKi4X7sEltZa8Qb-SZ15tP1MTUJ-wU4iIBB7G3DxoAxoWSALjcGnDeRehUL3k&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&_nc_gid=AbEYpuuFwDUR-JPk5RgZYCD&oh=00_AYF7RgfKoM_apWbcvySNEz5NbWmsd7nkmg3njnJt_EYAYQ&oe=67D62847" alt="Event 1">
+                                <a href="Evens1.php"><img src="https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/477246486_1051489760353087_7951468628992383051_n.jpg?stp=cp6_dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHQ8Hsa-yYyVj_iq5ASBRYxnVAgkj0gS52dUCCSPSBLnQNo1ljNP2COtUwoo8aH_AtXU_sinOftj-TDS8YJU5PF&_nc_ohc=hJSTgR7rwagQ7kNvgENVyNE&_nc_oc=AdgMxbhKi4X7sEltZa8Qb-SZ15tP1MTUJ-wU4iIBB7G3DxoAxoWSALjcGnDeRehUL3k&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&_nc_gid=AbEYpuuFwDUR-JPk5RgZYCD&oh=00_AYF7RgfKoM_apWbcvySNEz5NbWmsd7nkmg3njnJt_EYAYQ&oe=67D62847" alt="Event 1"></a>
                                 <div class="event-card-body">
                                     <h5>students from the Human Rights Course at the Faculty of Law and Economics of  (PPIU)</h5>
                                     <p>📅 Date: 11 feb 2025 | ⏰ Time: 5:30 PM - 7:00 PM</p>
@@ -103,7 +103,7 @@ include("../js/index.php");
                         </div>
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="200">
                             <div class="event-card">
-                                <img src="https://scontent.fpnh2-3.fna.fbcdn.net/v/t39.30808-6/482985561_1071063881729008_5082609035351126105_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHAcsvIedZtgHGw2mA6NHKwJtp495lxNhgm2nj3mXE2GB7CxiBCUxpzVsH98YEOtv3x0kGSXZvfWLZ6oW3LxOKl&_nc_ohc=1ObRH6BfsEcQ7kNvgFQMSco&_nc_oc=Adj_XwEhMAen6668TnpsEq1ziudlsHUFdzKwLIEPff_BpMo6U4z-yz1OhnLE_zv2lKY&_nc_zt=23&_nc_ht=scontent.fpnh2-3.fna&_nc_gid=APP6rqLJlAXjiiU6CODB7ih&oh=00_AYF6SXzA40WOv1yN1g8m07jPnwKiBVMOxGR5nzEA6WNIIQ&oe=67D62739" alt="Event 2">
+                                <a href="Evens2.php"><img src="https://scontent.fpnh2-3.fna.fbcdn.net/v/t39.30808-6/482985561_1071063881729008_5082609035351126105_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHAcsvIedZtgHGw2mA6NHKwJtp495lxNhgm2nj3mXE2GB7CxiBCUxpzVsH98YEOtv3x0kGSXZvfWLZ6oW3LxOKl&_nc_ohc=1ObRH6BfsEcQ7kNvgFQMSco&_nc_oc=Adj_XwEhMAen6668TnpsEq1ziudlsHUFdzKwLIEPff_BpMo6U4z-yz1OhnLE_zv2lKY&_nc_zt=23&_nc_ht=scontent.fpnh2-3.fna&_nc_gid=APP6rqLJlAXjiiU6CODB7ih&oh=00_AYF6SXzA40WOv1yN1g8m07jPnwKiBVMOxGR5nzEA6WNIIQ&oe=67D62739" alt="Event 2"></a>
                                 <div class="event-card-body">
                                     <h5>New Enrollment! </h5>
                                     <p>📅 Date: 5 May 2025 | ⏰ Time: 1:00 PM - 5:00 PM</p>
@@ -114,7 +114,7 @@ include("../js/index.php");
                         </div>
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
                             <div class="event-card">
-                                <img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/482095635_1071006088401454_3389041062273094251_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFYchEFV9QWBokKMrytPYmPcC1p9JvqK3FwLWn0m-orceIC1PFyh0i4bewVWd7APnAMFCJ0NURKA4UlsXfu63PQ&_nc_ohc=h3Iehx3HyhcQ7kNvgFr60Su&_nc_oc=Adi9KlirDTsT6hnw_EzvR_xtCApEuZL_9rR9kNEMVFYifHNc3R99f0XkBXJyAkNytI4&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=A7Q8DmvXLQiQm-mvRUUnZTJ&oh=00_AYFv6ZNSKTzeYXA4WZihiIQup_-PWmxqyTbaWT4aKWcfAw&oe=67D653EB" alt="Event 3">
+                              <a href="Evens3.php">  <img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/482095635_1071006088401454_3389041062273094251_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFYchEFV9QWBokKMrytPYmPcC1p9JvqK3FwLWn0m-orceIC1PFyh0i4bewVWd7APnAMFCJ0NURKA4UlsXfu63PQ&_nc_ohc=h3Iehx3HyhcQ7kNvgFr60Su&_nc_oc=Adi9KlirDTsT6hnw_EzvR_xtCApEuZL_9rR9kNEMVFYifHNc3R99f0XkBXJyAkNytI4&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=A7Q8DmvXLQiQm-mvRUUnZTJ&oh=00_AYFv6ZNSKTzeYXA4WZihiIQup_-PWmxqyTbaWT4aKWcfAw&oe=67D653EB" alt="Event 3"></a>
                                 <div class="event-card-body">
                                     <h5>PIU student activities to celebrate </h5>
                                     <p>📅 Date: 8 March 2025 | ⏰ Time: 2 PM - 5 PM</p>
@@ -125,12 +125,12 @@ include("../js/index.php");
                         </div>
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
                             <div class="event-card">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Event 3">
+                               <a href="Evens4.php"> <img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/481134318_1061535806015149_3261788359234709455_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEMBvpdA8b3Bkpx5u-UsbeXBnTmetmQisQGdOZ62ZCKxOaHl5t-jmT2ZMm_k5EFmVmWOVZDfUup8iPtmZbm6hfO&_nc_ohc=bUvInmuRLN0Q7kNvgF_ckCY&_nc_oc=AdgGUlyvuvMTgA8cw6fvxFqFlBauC01a8ukd6lj27ZDYi3588tNs6aVLMSip7cLJa6Q&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=AoiTLpLEqPiDn0c7gyJtXgL&oh=00_AYHiZnc6uk6IJT9ogDfUBa2hFirc0FmUC5E4tHkozQ-dOQ&oe=67D79DD0" alt="Event 4"></a>
                                 <div class="event-card-body">
-                                    <h5>Seminar on "Resolving Disputes in a Globalized Economy"</h5>
-                                    <p>📅 Date: 21-23 February 2025 | ⏰ Time: 8 AM - 5 PM</p>
-                                    <p>📍 Location: AUPP Campus</p>
-                                    <a href="Evens3.php" class="read-more">Read More</a>
+                                    <h5>The management of Phnom Penh International University shared their experiences</h5>
+                                    <p>📅 Date: 21 February 2025 | ⏰ Time: 2:-00 PM -5:00 PM</p>
+                                    <p>📍 Location: Bunrany High School, Hun Sen Speu  </p>
+                                    <a href="Evens4.php" class="read-more">Read More</a>
                                 </div>
                             </div>
                         </div>
