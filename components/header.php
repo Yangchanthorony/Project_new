@@ -366,7 +366,7 @@ body {
                      
                     <ul class="dropdown-menu">
                             <li class="has-dropright">
-                            <a href="#"><i class="fas fa-graduation-cap"></i> DEGREE</a>
+                            <a href="degree.php"><i class="fas fa-graduation-cap"></i> DEGREE</a>
                                 <ul class="drop-right">
                                 <li><a  href="professional.php  "><i class="fas fa-chalkboard-teacher"></i> PROFESSIONAL/ SHORT COURSE</a></li>
                                 <li class="divider"></li>
@@ -382,16 +382,16 @@ body {
                            <li class="divider"></li>
                            
                             <li class="has-dropright">
-                                    <a href="#"><i class="fas fa-building"></i> FACULTIES</a>
+                                    <a href="faculty.php"><i class="fas fa-building"></i> FACULTIES</a>
                                     
                                     <ul class="drop-right">
                                         <li><a href="cse.php"><i class="fas fa-flask"></i> FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY</a></li>
                                         <li class="divider"></li>
-                                        <li><a href="#"><i class="fas fa-briefcase"></i> FACULTY OF BUSINESS AND TOURISM</a></li>
+                                        <li><a href="Business.php"><i class="fas fa-briefcase"></i> FACULTY OF BUSINESS AND TOURISM</a></li>
                                         <li class="divider"></li>
-                                        <li><a href="#"><i class="fas fa-gavel"></i> FACULTY OF LAW AND ECONOMICS</a></li>
+                                        <li><a href="law.php"><i class="fas fa-gavel"></i> FACULTY OF LAW AND ECONOMICS</a></li>
                                         <li class="divider"></li>
-                                        <li><a href="#"><i class="fas fa-book"></i> FACULTY OF EDUCATION SCIENCE</a></li>
+                                        <li><a href="education.php"><i class="fas fa-book"></i> FACULTY OF EDUCATION SCIENCE</a></li>
                                         <li class="divider"></li>
                                        <a href="#"><i class="fas fa-newspaper"></i>FACULTY OF News and views</a>
                                     </ul>
@@ -406,7 +406,7 @@ body {
                            New <i class="fas fa-chevron-down"></i>
                        </a>
                        <ul class="dropdown-menu">
-                           <li><a href="#"><i class="fas fa-calendar-alt"></i> EVENTS</a></li>
+                           <li><a href="Evens.php"><i class="fas fa-calendar-alt"></i> EVENTS</a></li>
                            <li class="divider"></li>
                            <li><a href="#"><i class="fas fa-graduation-cap"></i> SCHOLARSHIP</a></li>
                            <li class="divider"></li>

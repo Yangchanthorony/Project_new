@@ -181,8 +181,8 @@ include("../js/index.php");
                     </div>
                     
                     
-                    <h4 style="margin-top: 60px; color: red;"><i class="fa-brands fa-facebook"></i>
-                    follow in facebook</h4>
+                   <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam"> <h4 style="margin-top: 60px; color: red;"><i class="fa-brands fa-facebook"></i>
+                   follow in facebook</h4></a>
                 </div>
 
                 
