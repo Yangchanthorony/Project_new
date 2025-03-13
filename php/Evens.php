@@ -50,14 +50,14 @@
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <img src="https://www.ppiu.edu.kh/public/images/article/1647226588.jpg" alt="Congratulation">
+                    <a href="backing5.php"><img src="https://www.ppiu.edu.kh/public/images/article/1647226588.jpg" alt="Congratulation"></a>
                     <h5  class="text5">Congratulation Samdech Prime M...</h5>
                     <p class=" pp5" >Post Date: 10-Dec-2022</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <img style="height: 270px; width: 80%; margin-left:15px" src="  https://www.ppiu.edu.kh/public/images/article/11195036069.jpg" alt="Event">
+                    <a href="backing6.php"><img style="height: 270px; width: 80%; margin-left:15px" src="  https://www.ppiu.edu.kh/public/images/article/11195036069.jpg" alt="Event"></a>
                     <h5  class="text6">សកម្មភាពស្វាគមន៍អន្ដរជាតិ...</h5>
                     <p class=" pp6">Post Date: 10-Dec-2022</p>
                 </div>
@@ -66,31 +66,31 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                    <img style="margin-left: 20px; height: 270px; width: 70%;" src="https://www.ppiu.edu.kh/public/images/article/______________________________________________________________________________________________________________________________________.png" alt="MOU">
+                    <a href="backing7.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="https://www.ppiu.edu.kh/public/images/article/______________________________________________________________________________________________________________________________________.png" alt="MOU"></a>
                     <h5 class="text7">PPIU MOU WITH ITC...</h5>
                     <p class=" pp7">Post Date: 24-Apr-2021</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/4725819099.jpg" alt="DIES-NMT">
+                    <a href="backing8.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/4725819099.jpg" alt="DIES-NMT"></a>
                     <h5  class="text8">DIES-NMT Cambodia 2019-2020...</h5>
                     <p class="pp8">Post Date: 02-Dec-2019</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/17326127269.jpg" alt="Culture">
+                    <a href="backing9.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/17326127269.jpg" alt="Culture"></a>
                     <h5 class="text8">Culture day 2019...</h5>
                     <p class="pp9">Post Date: 30-Nov-2019</p>
                 </div>
             </div>
             <nav>
             <ul class="pagination float-end ">
-                <li class="page-item disabled"><a class="page-link" href="#"> <i class="fas fa-angle-left"></i>Previous</a></li>
-                <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">Next  <i class="fas fa-angle-right"></i></a></li>
+                <li class="page-item disabled"><a class="page-link" href="Evens.php"> <i class="fas fa-angle-left"></i>Previous</a></li>
+                <li class="page-item active"><a class="page-link" href="Evens.php">1</a></li>
+                <li class="page-item"><a class="page-link" href="Evens_page2.php">2</a></li>
+                <li class="page-item"><a class="page-link" href="Evens_page2.php">Next  <i class="fas fa-angle-right"></i></a></li>
             </ul>
         </nav>
         

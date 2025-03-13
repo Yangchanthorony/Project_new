@@ -51,24 +51,24 @@ include("../js/index.php");
                 </div>
                 <div style="margin-top:5px; " class="carousel-inner ">
                     <div class="carousel-item active">
-                        <img  src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" class="d-block w-100 slide-img" alt="Slide 1">
+                        <img  src="https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/463336038_965582112277186_8878227396898038384_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeH5Ub09TfQtnvz_YBUelr-slbGWHDMSjx-VsZYcMxKPH0uwQrOXoRBaqRWf8MlSPhg0ZlFGi9aozKKOwD2Nkzol&_nc_ohc=7cjI1axFSSEQ7kNvgFUvBYa&_nc_oc=AdgqmIRkGVi1t-qJULtwuX0O71j_HLGygx5k2upEsZ8GRRENJufmS1cuWtQsdSz7K54&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&_nc_gid=A_0bCAH1cSxPd7dtruNlpj9&oh=00_AYGl2HSBPr4QznK7cbd1lIypo__x-8Ft-Ni7E0X2rRrbfA&oe=67D84036" class="d-block w-100 slide-img" alt="Slide 1">
                         <div class="carousel-caption">
-                            <h3>Welcome to Our Website</h3>
-                            <p>Discover amazing stories and updates.</p>
+                            <h3 style=" margin-left: 70px;" >Welcome to our Website PPIU</h3>
+                            <p style=" margin-left: 70px;">Discover amazing stories and updates.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQd1kWKsODGmz1P44kiLTfpeIOkaemYITnaRVOZEn372xCyrpNoQQ_dMDAV4dWLpVTDFekNEtlkJaDnhlTzoQWdNg" class="d-block w-100 slide-img" alt="Slide 2">
+                        <img src="https://www.ppiu.edu.kh/public/images/slideshow/Banner_Website_PPIU.jpg" class="d-block w-100 slide-img" alt="Slide 2">
                         <div class="carousel-caption">
-                            <h3>Welcome to Our Website</h3>
-                            <p>Discover amazing stories and updates.</p>
+                            <h3 style=" margin-left: 70px; ">Welcome to our Website PPIU</h3>
+                            <p style=" margin-left: 70px;"></p>>Discover amazing stories and updates.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKzREP51Xq_omnZXfiR_cgSut-NRkQEQ6TsQ-kctrJp8tQdIm6NxhBugsd_atPTmgYTvjxPWnRjVNlkhD_nTRsLvHrQ3sRmKS3lefGg" class="d-block w-100 slide-img" alt="Slide 3">
+                        <img src="https://www.ppiu.edu.kh/public/images/article/1505295833.jpg" class="d-block w-100 slide-img" alt="Slide 3">
                         <div class="carousel-caption">
-                            <h3>Welcome to Our Website</h3>
-                            <p>Discover amazing stories and updates.</p>
+                        <h3 style=" margin-left: 70px;">Welcome to our Website PPIU</h3>
+                        <p style=" margin-left: 70px;"></p>>Discover amazing stories and updates.</p>
                         </div>
                     </div>
                 </div>
@@ -414,7 +414,7 @@ include("../js/index.php");
                     <div class="col-md-6 logo-section ">
                         <div class="logo-title">Dual Degree Partners</div>
                         <div style="margin-right: 100px;"  class="logo d-flex">
-                            <img src="https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/c2765282-025a-4abb-87ad-a309ec66f543/feature-image.jpg" alt="The University of Arizona">
+                            <img src="https://pbs.twimg.com/media/EujqV00VoAIQzPM.jpg" alt="The University of Arizona">
                            
                             
                             <img src="https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/c2765282-025a-4abb-87ad-a309ec66f543/feature-image.jpg" alt="Fort Hays State University">
