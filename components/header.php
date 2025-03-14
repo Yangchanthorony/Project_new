@@ -408,6 +408,8 @@ body {
                        <ul class="dropdown-menu">
                            <li><a href="Evens.php"><i class="fas fa-calendar-alt"></i> EVENTS</a></li>
                            <li class="divider"></li>
+                           <li><a href="news_page1.php"> <i class="fas fa-newspaper"></i> News </a></li>
+                           <li class="divider"></li>
                            <li><a href="#"><i class="fas fa-graduation-cap"></i> SCHOLARSHIP</a></li>
                            <li class="divider"></li>
                            <li><a href="#"><i class="fas fa-briefcase"></i> Job Announcements</a></li>

@@ -20,32 +20,32 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card pp">
-                    <a href="backing1.php"><img src="https://www.ppiu.edu.kh/public/images/article/1670636178.png" alt="Announcement"></a>
-                   <h5 class="text"> Announcement!</h5>
-                    <p class=" pp">Post Date: 10-Dec-2022</p>
+                    <a href="backing10.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/3107184034.jpg" alt="Announcement"></a>
+                   <h5 class="text"> GRADUATION CEREMONYGRADUATION ...</h5>
+                    <p class=" pp">Post Date : 30-Nov-2019</p>
                 </div>
             </div>
             <div  class="col-md-4">
                 <div class="post-card">
-                    <a href="backing2.php"><img  src="https://www.ppiu.edu.kh/public/images/article/1664411077.jpg" alt="Graduation"></a>
-                    <h5 class="text2" >Graduation Ceremony for Phnom...</h5>
-                    <p class="pp2" >Post Date: 10-Dec-2022</p>
+                    <a href="backing11.php"><img style="margin-left: 20px; height: 270px; width: 80%;"  src="https://www.ppiu.edu.kh/public/images/article/9188304126.jpg" alt="Graduation"></a>
+                    <h5 class="text2" >Blood Donation at Phnom Penh I...</h5>
+                    <p class="pp2" >Post Date : 12-Jul-2018</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                   <a href="backing3.php"> <img src="https://www.ppiu.edu.kh/public/images/article/3301912510.jpg" alt="University"></a>
-                    <h5 class="text3" >Phnom Penh International Unive...</h5>
-                    <p class="pp3" >Post Date: 26-Apr-2022</p>
+                   <a href="backing12.php"> <img style="margin-left: 20px; height: 270px; width: 80%;"  src="https://www.ppiu.edu.kh/public/images/article/9009895356.jpg" alt="University"></a>
+                    <h5 class="text3" >Seminar on</h5>
+                    <p class="pp3" >Post Date : 08-Feb-2021</p>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                  <a href="backing4.php">  <img src="https://www.ppiu.edu.kh/public/images/article/1647226588.jpg" alt="Training"></a>
-                    <h5 class="text4">PPIU case full credit training...</h5>
-                    <p class=" pp4">Post Date: 14-Mar-2022</p>
+                  <a href="backing13.php">  <img src="https://www.ppiu.edu.kh/public/images/article/1494986020.jpg" alt="Training"></a>
+                    <h5 class="text4">Graduated Ceremony</h5>
+                    <p class=" pp4">Post Date : 17-May-2017</p>
                 </div>
             </div>
 
