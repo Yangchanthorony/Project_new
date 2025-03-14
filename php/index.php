@@ -61,7 +61,7 @@ include("../js/index.php");
                         <img src="https://www.ppiu.edu.kh/public/images/slideshow/Banner_Website_PPIU.jpg" class="d-block w-100 slide-img" alt="Slide 2">
                         <div class="carousel-caption">
                             <h3 style=" margin-left: 70px; ">Welcome to our Website PPIU</h3>
-                            <p style=" margin-left: 70px;"></p>>Discover amazing stories and updates.</p>
+                            <p style=" margin-left: 70px;"></p>Discover amazing stories and updates.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
@@ -136,6 +136,8 @@ include("../js/index.php");
                         </div>
                     </div>
                 </div>
+
+                
 
                 <div class="container gallery-container">
                     <h2 class="gallery-title">PPIU Community</h2>

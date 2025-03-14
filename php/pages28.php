@@ -18,7 +18,7 @@
             CALL FOR APPLICATION ( DIES National Multiplication Trainings 2019-2020)
             </div>  
 
-            <h6  style="text-align: center; font-weight: bold;"> CALL FOR APPLICATION</h6>
+            <h6  style="text-align: center; font-weight: bold; margin-top: 10px;"> CALL FOR APPLICATION</h6>
             <p style="text-align: center;">  DIES National Multiplication Trainings 2019-2020</p>
 
             <p style=" font-weight: bold;">1. Background</p>
@@ -115,7 +115,202 @@
             </table>
         </div>
 
+            <p style=" font-weight: bold;">6. Gest Speaker</p>
+            
+            <p>The successful applicants are expected to participate in the DIE NMT-Cambodia 2019-2020 Program till the end and complete all the program requirements. Major responsibilities include securing endorsement from the leadership of own HEI, participation in all the four phases, actively contribute to webinar and workshop discussions, make PAP, implement PAP in own HEI, and report on the implementation of the PAP.</p>
 
+            <p>During the three-day workshops, the participants must stay in the accommodation that is arranged by the program and participate in the program’s activities.</p>
+
+            <p style=" font-weight: bold;"> 7. Roles of the Participants</p>
+
+            <p style=" font-weight: bold;"> H.E. Touch Visalsok (To be confirmed)</p>
+
+            <p>Secretary of State Ministry of Education, Youth and Sport</p>
+
+            <p style=" font-weight: bold;"> H.E. Mak Ngoy (To be confirmed)</p>
+
+            <p>Director General,</p>
+
+            <p>Directorate General of Higher Education Ministry of Education, Youth and Sport</p>
+
+            <p style=" font-weight: bold;">Dr. Rath Chhang</p>
+
+            <p>Deputy Secretary General,</p>
+
+            <p>Accreditation Committee of Cambodia</p>
+
+            <p style=" font-weight: bold;">Mr. Casey Barnett</p>
+
+            <p>President of CamEd Institute </p>
+
+            <p style=" font-weight: bold;">Madam Tep Kolap</p>
+
+            <p>Rector of Phnom Penh International University</p>
+
+            <p style=" font-weight: bold;">Dr. Hap Phalty</p>
+
+            <p>Director of Graduate Program,</p>
+
+            <p>Royal University of Law and Economics</p>
+
+            <p style=" font-weight: bold;"> 8. External Experts</p>
+
+            <p  style=" font-weight: bold;">Dr. Jutta Fedrowitz</p>
+
+            <p>Senior Expert and Trainer for Professional Education CHE Centre for Higher Education, Germany</p>
+
+            <p style=" font-weight: bold;">Dr. Duu Sheng Ong</p>
+
+            <p>Professor and Former Vice President Multimedia University Malaysia</p>
+
+            <p style=" font-weight: bold;"> 9. National/International Trainers</p>
+
+            <p style=" font-weight: bold;">Dr. Lucas Rochelle,</p>
+
+            <p>Department Chair English and Applied Linguistics De La Salle University Manila</p>
+
+            <p style=" font-weight: bold;">Dr. Sok Uttara</p>
+
+            <p>Vice President for IQA and Internal Audit CamEd Institute</p>
+
+            <p style=" font-weight: bold;">Dr. Ky Ravikun,</p>
+
+            <p>Vice Rector for Academic Affairs and International Relations Phnom Penh International University</p>
+
+            <p style=" font-weight: bold;"> 10. Schedule</p>
+
+            <p>The <span  style=" font-weight: bold;"   >deadline for application is 31 October</span>  2019 <span style=" font-weight: bold;">by 5pm.</span> Below is the specific schedule:</p>
+
+         <div class="container mt-4">
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped text-center">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Date</th>
+                            <th>Activity</th>
+                            <th>Venue</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>23 Sep 2019</td>
+                            <td>Announcement of the Program</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>31 Oct 2019</td>
+                            <td>Deadline of Submission of Applications</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>8-9 Nov 2019</td>
+                            <td>Online Interview</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>11 Nov 2019</td>
+                            <td>Announcement of Results</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>15 Nov 2019</td>
+                            <td>Submission of Letter of Endorsement</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>18-21 Nov 2019</td>
+                            <td>Webinar Discussion 1</td>
+                            <td>Online</td>
+                        </tr>
+                        <tr>
+                            <td>25-27 Nov 2019</td>
+                            <td>Training Workshop 1</td>
+                            <td>CamEd Institute</td>
+                        </tr>
+                        <tr>
+                            <td>28 Nov 2019 – 26 Apr 2020</td>
+                            <td>Implementation of PAP</td>
+                            <td>-</td>
+                        </tr>
+                        <tr>
+                            <td>27-29 Apr 2020</td>
+                            <td>Training Workshop 2</td>
+                            <td>PPIU</td>
+                        </tr>
+                        <tr>
+                            <td>22-29 May 2020</td>
+                            <td>Webinar Discussion 2</td>
+                            <td>Online</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            </div>
+
+            <p style=" font-weight: bold;">  11. Possible Topics for PAP</p>
+
+            <p>The participants can choose any topic for their PAP as long as the topic is related to Dean’s roles and is useful for their current institution. The following are some possible areas to be considered for development of PAP:</p>
+
+            <p>+ Strategic Faculty Management</p>
+
+            <p>+ Conflict Management</p>
+
+            <p>+ Project Management</p>
+
+            <p>+ Financial Management</p>
+
+            <p>+ Internal Quality Assurance</p>
+
+            <p>+ Instructional Leadership</p>
+
+            <p>+ Curriculum Development</p>
+            
+            <p style=" font-weight: bold;">   12. Funding of DIES NMT-Cambodia 2019-2020</p>
+
+            <p>This DIES NMT-Cambodia 2019-2020 receive funding from the German Federal Ministry of Economic Cooperation and Development (BMZ) through the DIES-NMT Program in Germany. A budget of 1,851.75EUR can be used as a point of reference for funds from the DIES NMT-Cambodia 2019-2020 for a successful applicant. However, this budget will be used to cover all the costs that will incur during this program. The costs include technical assistant fees, expert honorariums, flights, accommodation and food, participant accommodation and food, workshop materials, and other necessary equipment to support the entire program. In these regards, the accommodation and food for the successful applicants will be born by the program funds.</p>
+
+            <p style=" font-weight: bold;">13. Application Procedure</p>
+
+            <p>Interested applicants can visit CamEd website: <a href="www.cam-ed.com ">www.cam-ed.com </a> and PPIU website: <a href="www.ppiu-ed.com ">www.ppiu-ed.com </a>. For information about DIES NMT Germany, they can visit this website: <a href="www.dies-nmt.org">www.dies-nmt.org</a>.</p>
+            
+            <p>In order to apply, interested applicants submit their applications through this email: <a href="nmtcambodia@gmail.com ">nmtcambodia@gmail.com </a> by 21 October 2019 by 5pm. A notification of receipt will be sent to the applicants within 24 hours.</p>
+
+            <p>Applications must be complete and include the following items:</p>
+
+            <p>+ Application Form</p>
+
+            <p>+ Scanned diploma of the last qualification (Master’s or doctorate)</p>
+
+            <p>+ Certificate of Employment</p>
+
+            <p>Evidence on English proficiency (TOEFL, IELTS, or certification from the supervisor)</p>
+
+            <p>+ Personal Letter of Motivation</p>
+
+            <p>+ Letter of Permission from the Rector or President</p>
+
+            <p>+ Curriculum Vitae</p>
+
+            <p>With regards to any questions on application, please feel free to contact the Program Officers:</p>
+
+            <h6 style=" font-weight: bold;">Mr. Chan Tola</h6>
+
+            <p>Email:<a href="nmtcambodia@gmail.com ">nmtcambodia@gmail.com</a></p>
+
+            <p>Telephone: 012 555 206</p>
+
+            <h6 style=" font-weight: bold;">Mr. Chhin Kona</h6>  
+
+            <p>Email:<a href="nmtcambodia@gmail.com ">nmtcambodia@gmail.com</a></p>
+
+            <p>Telephone: 078 682 682</p>
+
+            
+            <h6 style=" font-weight: bold;">File Download</h6>  
+            
+            <a href="Application Form">Application Form<br> </a>
+
+            <a href="Letter of Motivation">Letter of Motivation</a>
 
 
 

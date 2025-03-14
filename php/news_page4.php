@@ -27,55 +27,55 @@
             </div>
             <div  class="col-md-4">
                 <div class="post-card">
-                    <a href="pages20.php"><img style=" width:80%; height: 290px;"  src="https://www.ppiu.edu.kh/public/images/article/1586401937.jpg" alt="Graduation"></a>
-                    <h5 class="text2" >Announcement... </h5>
-                    <p class="pp2" >Post Date : 10-Dec-2022</p>
+                    <a href="pages29.php"><img style=" width:80%; height: 290px;"  src="https://www.ppiu.edu.kh/public/images/article/1567926378.jpg" alt="Graduation"></a>
+                    <h5 class="text2" >បវេសនកាលថ្មីឆាំ្នសិក្សា2019-20...</h5>
+                    <p class="pp2" >Post Date : 08-Feb-2021</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                   <a href="pages21.php"><img style="height: 275px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/4754344425.jpg" alt="University"></a>
-                    <h5 class="text3" >PPIU បន្តបង្រៀននិស្សិតតាមប្រព័...</h5>
-                    <p class="pp3" >Post Date : 21-Mar-2020</p>
+                   <a href="pages30.php"><img style="height: 275px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/4700234559.jpg" alt="University"></a>
+                    <h5 class="text3" >វគ្គបំប៉នដើម្បីប្រឡងថ្នាក់ជាតិ...</h5>
+                    <p class="pp3" >Post Date : 23-Mar-2021</p>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                  <a href="pages22.php">  <img style="height: 275px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/1581296815.jpg" alt="Training"></a>
-                    <h5 class="text4">PPIU Student Association (PPIU... </h5>
-                    <p class=" pp4">Post Date : 10-Feb-2020</p>
+                  <a href="pages31.php">  <img style="height: 275px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/1564716829.jpg" alt="Training"></a>
+                    <h5 class="text4">PPIU Alumni Gathering...</h5>
+                    <p class=" pp4"> Post Date : 02-Aug-2019</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages23.php"><img style="height: 275px; width: 70%; " src="https://www.ppiu.edu.kh/public/images/article/Announcement.jpg" alt="Congratulation"></a>
-                    <h5   class="text5">Announcement...</h5>
-                    <p class=" pp5" > Post Date : 20-Dec-2019</p>
+                    <a href="pages23.php"><img style="height: 275px; width: 70%; " src="https://www.ppiu.edu.kh/public/images/article/1560744769.jpg" alt="Congratulation"></a>
+                    <h5   class="text5">លិខិតថ្វាយព្រះពរ...</h5>
+                    <p class=" pp5" > Post Date : 17-Jun-2019</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages24.php"><img style="height: 245px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/4726389834.jpg" alt="Event"></a>
-                    <h5  class="text6">CALL FOR APPLICATION ASEAN-QAA... </h5>
-                    <p class=" pp6">Post Date : 04-Dec-2019</p>
+                    <a href="pages24.php"><img style="height: 245px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/4660769994.jpg" alt="Event"></a>
+                    <h5  class="text6">កម្រងរូបថតអនុស្សាវរីយ៍និស្សិតជ...</h5>
+                    <p class=" pp6"> Post Date : 26-Mar-2019</p>
                 </div>
             </div>
         </div>
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages25.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="https://www.ppiu.edu.kh/public/images/article/1575276126.jpg" alt="MOU"></a>
-                    <h5 class="text7">Language and Culture Exchange... </h5>
-                    <p class=" pp7">Post Date : 02-Dec-2019</p>
+                    <a href="pages25.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="https://www.ppiu.edu.kh/public/images/article/4656278436.jpg" alt="MOU"></a>
+                    <h5 class="text7">inbound SHARE awardees to Phn...</h5>
+                    <p class=" pp7">Post Date : 09-Mar-2019 </p>
                 </div>
-            </div>
+            </div>  
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages26.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/1575086394.jpg" alt="DIES-NMT"></a>
-                    <h5  class="text8">New Inrollment...</h5>
-                    <p class="pp8">Post Date : 02-Dec-2019</p>
+                    <a href="pages26.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/1537928072.jpg" alt="DIES-NMT"></a>
+                    <h5  class="text8">Important Orientation! SHARE S...</h5>
+                    <p class="pp8">Post Date : 26-Sep-2018</p>
                 </div>
             </div>
             <div class="col-md-4">

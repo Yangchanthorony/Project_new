@@ -15,24 +15,21 @@
     <div class="container">
         <div class="post-container">
             <div style="text-align: center;" class="post-title">
-            CALL FOR APPLICATION ASEAN-QAA
+            វគ្គបំប៉នដើម្បីប្រឡងថ្នាក់ជាតិ
             </div>  
-            <p> Attached files :</p>
-            <a href="https://www.ppiu.edu.kh/public/index/detail/view/20791659208320">1.My appointment as country representative;<br></a>
-            <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/files/ASEAN-QAA%20INTRODUCTION.pptx">2.ASEAN-QAA Intro;<br></a>
-            <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/files/ASEAN-QAA%20Constitution-Final-06.11.2019.pdf">3.ASEAN-QAA Constitution.<br></a>
-
-             <a href="https://www.ppiu.edu.kh/public/images/article/1575463278.jpg" target="_blank">
-             <img  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1575463278.jpg" alt="Certificate Award Ceremony">
+           
+           
+             <a href="https://www.ppiu.edu.kh/public/images/article/1566744853.jpg" target="_blank">
+             <img  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1566744853.jpg" alt="Certificate Award Ceremony">
             </a>
 
-            <a href="https://www.ppiu.edu.kh/public/images/article/3150926556.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3150926556.jpg" alt="Certificate Award Ceremony">
+            <a href="https://www.ppiu.edu.kh/public/images/article/3133489706.jpg" target="_blank">
+             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3133489706.jpg" alt="Certificate Award Ceremony">
             </a>
 
             
-            <a href="https://www.ppiu.edu.kh/public/images/article/4726389834.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/4726389834.jpg" alt="Certificate Award Ceremony">
+            <a href="https://www.ppiu.edu.kh/public/images/article/4700234559.jpg" target="_blank">
+             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/4700234559.jpg" alt="Certificate Award Ceremony">
             </a>
 
            
