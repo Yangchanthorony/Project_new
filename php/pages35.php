@@ -15,13 +15,13 @@
     <div class="container">
         <div class="post-container">
             <div style="text-align: center;" class="post-title">
-            លិខិតថ្វាយព្រះពរ
+            Important Orientation! SHARE Scholarship Program
             </div>  
    
            
 
-            <a href="https://www.ppiu.edu.kh/public/images/article/1560744769.jpg" target="_blank">
-             <img style="height: 250px; width: 430px; margin-left: 70px;  margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1560744769.jpg" alt="Certificate Award Ceremony">
+            <a href="https://www.ppiu.edu.kh/public/images/article/1537928072.jpg" target="_blank">
+             <img style="height: 350px; width: 430px; margin-left: 70px;  margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1537928072.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

@@ -139,7 +139,7 @@ include("../js/index.php");
 
                 
 
-                <div class="container gallery-container">
+                <div style=" height: 1200px;" class="container gallery-container">
                     <h2 class="gallery-title">PPIU Community</h2>
                     <div class="row g-4 pic">
                         <!-- Gallery Item 1 -->
@@ -180,10 +180,16 @@ include("../js/index.php");
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 6">
                             </div>
                         </div>
+
+                        <div style="margin-left: 440px;" class="col-md-4" data-aos="zoom-in-down" data-aos-delay="60">
+                            <div class="gallery-item">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 6">
+                            </div>
+                        </div>
                     </div>
                     
                     
-                   <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam"> <h4 style="margin-top: 60px; color: red;"><i class="fa-brands fa-facebook"></i>
+                   <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam"> <h4 style="margin-top: 50px; margin-left: 60px; color: white;"><i class="fa-brands fa-facebook"></i>
                    follow in facebook</h4></a>
                 </div>
 

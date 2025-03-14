@@ -92,8 +92,8 @@
                 <li class="page-item"><a class="page-link" href="news_page2.php">2</a></li>
                 <li class="page-item"><a class="page-link" href="news_page3.php">3</a></li>
                 <li class="page-item"><a class="page-link" href="news_page4.php">4</a></li>
-                <li class="page-item"><a class="page-link" href="">5</a></li>
-                <li class="page-item"><a class="page-link" href="">6</a></li>
+                <li class="page-item"><a class="page-link" href="news_page5.php">5</a></li>
+                <li class="page-item"><a class="page-link" href="news_page6.php">6</a></li>
                 <li class="page-item"><a class="page-link" href="">7</a></li>
                
                 <li class="page-item"><a class="page-link" href="news_page2.php">Next  <i class="fas fa-angle-right"></i></a></li>

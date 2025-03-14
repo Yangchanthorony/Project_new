@@ -24,13 +24,13 @@
         
         <p class="aa" style="margin-left: 40px; ">ដើម្បីឆ្លើយតបទៅនឹងតម្រូវការទាំងនេះ មហាវិទ្យាល័យ​វិទ្យាសាស្ត្រកុំព្យូទ័រ​ និង​គ្រប់គ្រង​ព័ត៌​មានវិទ្យា ​នៃសាកលវិទ្យាល័យភ្នំពេញអន្តរជាតិ​បាននឹង​កំពុង​​ខិតខំបណ្តុះបណ្តាលធនធាន​មនុស្សលើជំនាញដោយសម្រិតសម្រាំងកម្មវិធីសិក្សា ឲ្យស្របនឹងរបថនៃការរីកចម្រើននៃ​វិទ្យា​-សាស្ត្រ​ និងតម្រូវ​ការទីផ្សារ ព្រមគ្នាផងដែរ​ ​ស.ភ.ព.អ. បាន​សម្រិត​សម្រាំង​សាស្ត្រាចារ្យ​ដែលមាន​ចំណេះដឹង​ និង​បទពិសោធន៍ការងារលើគ្រប់ជំនាញ ទាំង​មកបង្ហាត់​បង្រៀន​និស្សិតដើម្បី​ទទួល​បាន​នូវ​គុណភាព ពិតទាំងផ្នែកទ្រឹស្តី និងការអនុវត្ត។ ក្រោយបញ្ចប់​ការសិក្សាថ្នាក់បរិញ្ញាបត្រលើ​ជំនាញនេះ និស្សិតនឹងមានលទ្ធភាពគ្រប់គ្រាន់ ធ្វើការលើវិស័យដូចជា៖</p>
      
-        <p class="aa" style="margin-left: 20px; font-weight: 500; ">+ Network Administration</p>
+        <h6 class="aa" style="margin-left: 20px; font-weight: 500; ">+ Network Administration</h6>
 
-        <p class="aa" style="margin-left: 20px; font-weight: 500; ">+ Database Administration</p>
+        <h6 class="aa" style="margin-left: 20px; font-weight: 500; ">+ Database Administration</h6>
 
-        <p class="aa" style="margin-left: 20px; font-weight: 500; ">+ Database Design</p>
+        <h6 class="aa" style="margin-left: 20px; font-weight: 500; ">+ Database Design</h6>
 
-        <p class="aa" style="margin-left: 20px; font-weight: 500; ">+ Web Administration Web Developer ។ល។</p>
+        <h6 class="aa" style="margin-left: 20px; font-weight: 500; ">+ Web Administration Web Developer ។ល។</h6>
 
         <h6 class="aa" style="margin-left: 20px; font-weight: 700; ">ការវាយតម្លៃ ផ្តល់ពិន្ទុ និង និទ្ទេស</h6>
 

@@ -50,14 +50,14 @@
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages23.php"><img style="height: 275px; width: 70%; " src="https://www.ppiu.edu.kh/public/images/article/1560744769.jpg" alt="Congratulation"></a>
+                    <a href="pages32.php"><img style="height: 275px; width: 70%; " src="https://www.ppiu.edu.kh/public/images/article/1560744769.jpg" alt="Congratulation"></a>
                     <h5   class="text5">លិខិតថ្វាយព្រះពរ...</h5>
                     <p class=" pp5" > Post Date : 17-Jun-2019</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages24.php"><img style="height: 245px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/4660769994.jpg" alt="Event"></a>
+                    <a href="pages33.php"><img style="height: 245px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/4660769994.jpg" alt="Event"></a>
                     <h5  class="text6">កម្រងរូបថតអនុស្សាវរីយ៍និស្សិតជ...</h5>
                     <p class=" pp6"> Post Date : 26-Mar-2019</p>
                 </div>
@@ -66,23 +66,23 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages25.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="https://www.ppiu.edu.kh/public/images/article/4656278436.jpg" alt="MOU"></a>
+                    <a href="pages34.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="https://www.ppiu.edu.kh/public/images/article/4656278436.jpg" alt="MOU"></a>
                     <h5 class="text7">inbound SHARE awardees to Phn...</h5>
                     <p class=" pp7">Post Date : 09-Mar-2019 </p>
                 </div>
             </div>  
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages26.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/1537928072.jpg" alt="DIES-NMT"></a>
+                    <a href="pages35.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/1537928072.jpg" alt="DIES-NMT"></a>
                     <h5  class="text8">Important Orientation! SHARE S...</h5>
                     <p class="pp8">Post Date : 26-Sep-2018</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages27.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/1570681706.jpg" alt="Culture"></a>
-                    <h5 class="text8">Share The Future (HFTA) in UNM...</h5>
-                    <p class="pp9">Post Date : 10-Oct-2019</p>
+                    <a href="pages36.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/1536028697.jpg" alt="Culture"></a>
+                    <h5 class="text8">PPIU Alumni 2018...</h5>
+                    <p class="pp9">Post Date : 04-Sep-2018</p>
                 </div>
             </div>
             <nav>
@@ -92,11 +92,11 @@
                 <li class="page-item "><a class="page-link" href="news_page2.php">2</a></li>
                 <li class="page-item "><a class="page-link" href="news_page3.php">3</a></li>
                 <li class="page-item active"><a class="page-link" href="news_page4.php">4</a></li>
-                <li class="page-item"><a class="page-link" href="">5</a></li>
-                <li class="page-item"><a class="page-link" href="">6</a></li>
+                <li class="page-item"><a class="page-link" href="news_page5.php">5</a></li>
+                <li class="page-item"><a class="page-link" href="news_page6.php">6</a></li>
                 <li class="page-item"><a class="page-link" href="">7</a></li>
                
-                <li class="page-item"><a class="page-link" href="">Next  <i class="fas fa-angle-right"></i></a></li>
+                <li class="page-item"><a class="page-link" href="news_page5.php">Next  <i class="fas fa-angle-right"></i></a></li>
             </ul>
         </nav>
         

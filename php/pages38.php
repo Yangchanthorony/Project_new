@@ -15,13 +15,16 @@
     <div class="container">
         <div class="post-container">
             <div style="text-align: center;" class="post-title">
-            លិខិតថ្វាយព្រះពរ
+            Announcement The Faculty will organize a Workshop on “Offences, Penalties, and Non-Custodian Measures” under Cambodia law.
             </div>  
+
+            <p>The <span style="font-weight: bold;">Faculty of Law and Economics (FLE) of Phnom Penh International University (PPIU)</span> is pleased to inform all law students that,</p>
    
+            <p>The Faculty will organize a <span style="font-weight: bold;"> Workshop on “Offences, Penalties, and Non-Custodian Measures”</span> under Cambodia law.</p>
            
 
-            <a href="https://www.ppiu.edu.kh/public/images/article/1560744769.jpg" target="_blank">
-             <img style="height: 250px; width: 430px; margin-left: 70px;  margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1560744769.jpg" alt="Certificate Award Ceremony">
+            <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Untitled-1(1).jpg" target="_blank">
+             <img style="height: 480px; width: 430px; margin-left: 70px;  margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Untitled-1(1).jpg" alt="Certificate Award Ceremony">
             </a>
 
             
