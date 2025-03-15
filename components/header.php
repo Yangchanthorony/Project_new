@@ -396,7 +396,12 @@ body {
                                        <a href="#"><i class="fas fa-newspaper"></i>FACULTY OF News and views</a>
                                     </ul>
                             </li>
-                        
+
+                            <li class="has-dropright">
+                                <a href="program.php">
+                                    <i class="fas fa-book"></i> STUDY PROGRAMS - PPIU
+                                </a>
+                            </li>
                         </ul>
                    </li>
                    
@@ -410,7 +415,7 @@ body {
                            <li class="divider"></li>
                            <li><a href="news_page1.php"> <i class="fas fa-newspaper"></i> News </a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-graduation-cap"></i> SCHOLARSHIP</a></li>
+                           <li><a href="scholarship.php"><i class="fas fa-graduation-cap"></i> SCHOLARSHIP</a></li>
                            <li class="divider"></li>
                            <li><a href="#"><i class="fas fa-briefcase"></i> Job Announcements</a></li>
                            <li class="divider"></li>
