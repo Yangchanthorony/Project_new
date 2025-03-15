@@ -395,13 +395,14 @@ body {
                                         <li class="divider"></li>
                                        <a href="#"><i class="fas fa-newspaper"></i>FACULTY OF News and views</a>
                                     </ul>
+                                    <li class="divider"></li>
                             </li>
 
-                            <li class="has-dropright">
-                                <a href="program.php">
-                                    <i class="fas fa-book"></i> STUDY PROGRAMS - PPIU
-                                </a>
-                            </li>
+                                    <li class="has-dropright">
+                                        <a href="program.php">
+                                            <i class="fas fa-book"></i> STUDY PROGRAMS - PPIU
+                                        </a>
+                                    </li>
                         </ul>
                    </li>
                    
@@ -417,9 +418,9 @@ body {
                            <li class="divider"></li>
                            <li><a href="scholarship.php"><i class="fas fa-graduation-cap"></i> SCHOLARSHIP</a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-briefcase"></i> Job Announcements</a></li>
+                           <li><a href="job.php"><i class="fas fa-briefcase"></i> Job Announcements</a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-hand-holding-usd"></i> Student Loan</a></li>
+                           <li><a href="loan.php"><i class="fas fa-hand-holding-usd"></i> Student Loan</a></li>
                        </ul>
                    </li>
                    

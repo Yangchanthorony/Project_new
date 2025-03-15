@@ -1,0 +1,161 @@
+
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Khmer', sans-serif;   
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.containerr {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    
+    
+}
+.headerr{
+     
+    color: white;
+      margin-top: 185px;
+      margin-left: 210px;
+      font-size: 40px;
+      font-weight: bold;
+}
+
+header h1 {
+    font-size: 1.5em;
+    color: #d32f2f; /* Red color for the header */
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.loan-details h2,
+.eligibility h2 {
+    font-size: 1.2em;
+    color: #d32f2f;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    font-size: 0.9em;
+}
+
+table td:first-child {
+    font-weight: bold;
+    background-color: #f9f9f9;
+}
+
+.eligibility ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.eligibility li {
+    margin-bottom: 10px;
+    font-size: 0.9em;
+}
+
+.image-section {
+    text-align: center;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.72);
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    text-align: left;
+    font-weight: bold;
+}
+
+.overlay-text p {
+    margin: 5px 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    width: 100%;
+}
+
+html, body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.containerr {
+    flex: 1;
+}
+
+
+ /* Background Pattern */
+ .header-pattern {
+            background: rgb(164, 7, 7);
+            padding: 40px;
+            position: relative;
+        }
+        
+        .header-pattern::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 30%;
+            height: 100%;
+            background-image: url('https://www.transparenttextures.com/patterns/cubes.png'); /* Example Pattern */
+            opacity: 100;
+        }
+        
+        @media (max-width: 768px) {
+            .content-container {
+                padding: 30px 5%;
+            }
+        }
