@@ -1,0 +1,89 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+        }
+        .container-fluid {
+            max-width: 900px;
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .headerr {
+          
+            color: white;
+            margin-top: 185px;
+            margin-left: 210px;
+            font-size: 40px;
+            font-weight: bold;
+        }
+        .headerro{
+            border-bottom: 3px solid #dc3545;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .objectives li {
+            margin-bottom: 10px;
+        }
+      
+        .section {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .section h2 {
+            color: #d32f2f;
+            border-bottom: 3px solid #d32f2f;
+            padding-bottom: 5px;
+           
+            font-size: 22px;
+        }
+        
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        .section ul li {
+            padding: 8px 0;
+            font-size: 18px;
+            color: #333;
+        }
+        
+        /* Highlight Text */
+        .highlight {
+            font-weight: bold;
+            color: #d32f2f;
+        }
+
+      
+        
+ /* Background Pattern */
+ .header-pattern {
+            background: rgb(164, 7, 7);
+            padding: 40px;
+            position: relative;
+        }
+        
+        .header-pattern::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 30%;
+            height: 100%;
+            background-image: url('https://www.transparenttextures.com/patterns/cubes.png'); /* Example Pattern */
+            opacity: 100;
+        }
+        
+        @media (max-width: 768px) {
+            .content-container {
+                padding: 30px 5%;
+            }
+        }
+

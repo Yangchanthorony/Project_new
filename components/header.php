@@ -430,11 +430,11 @@ body {
                            LIBRARY <i class="fas fa-chevron-down"></i>
                        </a>
                        <ul class="dropdown-menu">
-                           <li><a href="#"><i class="fas fa-book-reader"></i> PPIU Reading Club</a></li>
+                           <li><a href="reading_club.php"><i class="fas fa-book-reader"></i> PPIU Reading Club</a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-book"></i> LIBRARY MATERIALS</a></li>
+                           <li><a href="Library.php"><i class="fas fa-book"></i> LIBRARY MATERIALS</a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-info-circle"></i> ABOUT LIBRARY</a></li>
+                           <li><a href="about_library.php"><i class="fas fa-info-circle"></i> ABOUT LIBRARY</a></li>
                        </ul>
                    </li>    
                    
@@ -443,16 +443,16 @@ body {
                            Admissions <i class="fas fa-chevron-down"></i>
                        </a>
                        <ul class="dropdown-menu">
-                           <li><a href="#"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
+                           <li><a href="admition_AA.php"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-user-tie"></i> MASTER</a></li>
+                           <li><a href="admition_master.php"><i class="fas fa-user-tie"></i> MASTER</a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-user"></i> BACHELOR</a></li>
+                           <li><a href="admition_BA.php"><i class="fas fa-user"></i> BACHELOR</a></li>
                            <li class="divider"></li>
-                           <li><a href="#"><i class="fas fa-graduation-cap"></i> DOCTORAL</a></li>
+                           <li><a href="admition_doctor.php"><i class="fas fa-graduation-cap"></i> DOCTORAL</a></li>
                        </ul>
                    </li>
-                   <li><a  style="margin-top: 3px;" href="#">Contact</a></li>
+                   <li><a  style="margin-top: 3px;" href="contact.php">Contact</a></li>
                    
                </ul>
            

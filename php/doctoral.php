@@ -14,7 +14,7 @@
 
 <div class="header-pattern">
         <div class="header">
-        FACULTY OF BUSINESS AND TOURISM
+        Doctoral
         </div>
     </div>       
 <div class="container">

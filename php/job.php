@@ -35,11 +35,11 @@
             
             <nav>
             <ul class="pagination float-end ">
-                <li class="page-item disabled"><a class="page-link" href="news_page6.php"> <i class="fas fa-angle-left"></i>Previous</a></li>
-                <li class="page-item "><a class="page-link" href="news_page1.php">1</a></li>
+                <li class="page-item disabled"><a class="page-link" href="job.php"> <i class="fas fa-angle-left"></i>Previous</a></li>
+                <li class="page-item "><a class="page-link" href="job.php">1</a></li>
                
                
-                <li class="page-item disabled"><a class="page-link" href="">Next  <i class="fas fa-angle-right"></i></a></li>
+                <li class="page-item active"><a class="page-link" href="">Next  <i class="fas fa-angle-right"></i></a></li>
             </ul>
         </nav>
         
