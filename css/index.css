@@ -3,10 +3,17 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            
+            font-family: "Hanuman", serif;
+                font-weight: 100;
+                font-style: normal;
+           
         }
         body {
-            font-family: Arial, sans-serif;
+           
+                font-family: "Hanuman", serif;
+                font-weight: 100;
+                font-style: normal;
+           
           
         }
        
@@ -429,11 +436,11 @@
     }
 
     .program-box {
-        background: white;
         color: #003478;
         width: 300px;
         border-radius: 5px;
         text-align: left;
+        background-color: transparent;
     }
 
     .program-header {
@@ -461,9 +468,10 @@
         cursor: pointer;
         transition: background-color 0.3s ease;
         border-bottom: 1px solid red;
-        color: #003478;
+        color: black;
+       
         &:hover {
-            background-color: rgb(226, 226, 105);
+            background-color: #c00;
         }
        
         

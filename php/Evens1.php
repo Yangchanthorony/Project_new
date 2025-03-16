@@ -1,6 +1,7 @@
 <?php 
 include("../components/header.php");
 include("./js/Evens1.php");
+include("../js/index.php");
 
 ?>
 <!DOCTYPE html>
@@ -18,8 +19,7 @@ include("./js/Evens1.php");
 <body>
 
 <div class="container text-center mt-5">
-    
-    <h3  class="event-title"> Universal Declaration of Human Rights (UDHR)</h3>
+    <h3 class="event-title" id="udhr-title">Universal Declaration of Human Rights (UDHR)</h3>
     
     <!-- Event Image -->
     <div class="event-image">
@@ -28,23 +28,22 @@ include("./js/Evens1.php");
 
     <!-- Event Information -->
     <div class="event-info mt-4">
-        <h5 class="text-danger fw-bold">Event Information:</h5>
-        <p>📌 students from the Human Rights Course at the Faculty of Law and Economics of Phnom Penh International University (PPIU)</p>
-        <p>📅 Date: 11 feb 2025</p>
-        <p>⏰ Time: 5:30 PM - 7:00 PM</p>
-        <p>📍 Location: PPIU Center</p>
-        <p>Adopted by the UN General Assembly on December 10, 1948, the UDHR continues to serve as a crucial framework for promoting and protecting human dignity worldwide. This event provided an excellent opportunity for students to deepen their understanding of these vital principles.</p>
+        <h5 class="text-danger fw-bold" id="event-info-title">Event Information:</h5>
+        <p id="event-info-desc1">📌 students from the Human Rights Course at the Faculty of Law and Economics of Phnom Penh International University (PPIU)</p>
+        <p id="event-info-date">📅 Date: 11 Feb 2025</p>
+        <p id="event-info-time">⏰ Time: 5:30 PM - 7:00 PM</p>
+        <p id="event-info-location">📍 Location: PPIU Center</p>
+        <p id="event-info-desc2">Adopted by the UN General Assembly on December 10, 1948, the UDHR continues to serve as a crucial framework for promoting and protecting human dignity worldwide. This event provided an excellent opportunity for students to deepen their understanding of these vital principles.</p>
     </div>
 
     <!-- Social Media Share Buttons -->
     <div class="social-share mt-4">
-        <p class="fw-bold">Share this Event</p>
+        <p class="fw-bold" id="share-event-title">Share this Event</p>
         <button class="btn btn-primary"><i class="fab fa-facebook-f"></i></button>
         <button class="btn btn-dark"><i class="fab fa-x-twitter"></i></button>
         <button class="btn btn-info text-white"><i class="fab fa-linkedin-in"></i></button>
         <button class="btn btn-success"><i class="fab fa-whatsapp"></i></button>
     </div>
- 
 </div>
 <?php 
 include("../components/footer.php");

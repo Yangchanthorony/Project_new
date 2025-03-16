@@ -1,6 +1,7 @@
 <?php 
 include("../components/header.php");
 include("./js/Evens1.php");
+include("../js/index.php");
 
 ?>
 <!DOCTYPE html>
@@ -18,34 +19,31 @@ include("./js/Evens1.php");
 <body>
 
 <div class="container text-center mt-5">
-    
-    <h3  class="event-title">New Enrollment! </h3>
+    <h3 class="event-title" id="welcome-back-title">Welcome back to class!!</h3>
     
     <!-- Event Image -->
     <div class="event-image">
-        <img src="https://scontent.fpnh2-3.fna.fbcdn.net/v/t39.30808-6/482985561_1071063881729008_5082609035351126105_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHAcsvIedZtgHGw2mA6NHKwJtp495lxNhgm2nj3mXE2GB7CxiBCUxpzVsH98YEOtv3x0kGSXZvfWLZ6oW3LxOKl&_nc_ohc=1ObRH6BfsEcQ7kNvgFQMSco&_nc_oc=Adj_XwEhMAen6668TnpsEq1ziudlsHUFdzKwLIEPff_BpMo6U4z-yz1OhnLE_zv2lKY&_nc_zt=23&_nc_ht=scontent.fpnh2-3.fna&_nc_gid=APP6rqLJlAXjiiU6CODB7ih&oh=00_AYF6SXzA40WOv1yN1g8m07jPnwKiBVMOxGR5nzEA6WNIIQ&oe=67D62739" class="img-fluid" alt="Alumni Engagement Event">
+        <img src="https://www.ppiu.edu.kh/public/images/article/11195036069.jpg" class="img-fluid" alt="Alumni Engagement Event">
     </div>
 
     <!-- Event Information -->
     <div class="event-info mt-4">
-        <h5 class="text-danger fw-bold">Event Information:</h5>
-        <p>📌 Open exclusively to PPIU students </p>
-        <p>📅 Date: 05 May 2025</p>
-        <p>⏰ Time: 2:00 PM - 5:00 PM</p>
-        <p>📍 Location: PPIU  Center</p>
-        <p>For more information, please visit the Information Office on the 5th floor of Phnom Penh International University (In front of Bak Touk High School), or you can contact us directly through Telegram PPIU: 071 333 6777 
-        Facebook Page: Phnom Penh International University (official).</p>
+        <h5 class="text-danger fw-bold" id="event-info-title">Event Information:</h5>
+        <p id="event-info-desc1">📌 Open exclusively to PPIU students</p>
+        <p id="event-info-date">📅 Date: 10 Dec 2022</p>
+        <p id="event-info-time">⏰ Time: 1:00 PM - 5:00 PM</p>
+        <p id="event-info-location">📍 Location: PPIU Center</p>
+        <p id="event-info-desc2">The management of the Phnom Penh International University (PPIU) is honored to be welcomed HE Carpent Naron and the organization of the high school.</p>
     </div>
 
     <!-- Social Media Share Buttons -->
     <div class="social-share mt-4">
-        <p class="fw-bold">Share this Event</p>
+        <p class="fw-bold" id="share-event-title">Share this Event</p>
         <button class="btn btn-primary"><i class="fab fa-facebook-f"></i></button>
         <button class="btn btn-dark"><i class="fab fa-x-twitter"></i></button>
         <button class="btn btn-info text-white"><i class="fab fa-linkedin-in"></i></button>
         <button class="btn btn-success"><i class="fab fa-whatsapp"></i></button>
     </div>
- 
 </div>
 <?php 
 include("../components/footer.php");

@@ -6,6 +6,12 @@
     <title>Document</title>
 </head>
 <style>
+    *{
+    font-family: "Hanuman", serif;
+                font-weight: 100;
+                font-style: normal;
+           
+}
     .footer {
     background-color: rgb(197, 29, 29); /* Dark blue background */
     color: white;
@@ -65,13 +71,13 @@
                         </ul>
                     </div>
                     <div class="col-md-3">
-                        <h5>Schools</h5>
+                        <h5>FACULTY </h5>
                         <ul class="list-unstyled">
-                            <li><a href="#">School of Business</a></li>
-                            <li><a href="#">School of Digital Technologies</a></li>
-                            <li><a href="#">School of Law</a></li>
-                            <li><a href="#">School of Social Sciences</a></li>
-                            <li><a href="#">School of Graduate Studies</a></li>
+                            <li><a href="cse.php">FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY (FSIT)</a></li>
+                            <li><a href="Business.php">FACULTY OF BUSINESS AND TOURISM</a></li>
+                            <li><a href="law.php">FACULTY OF LAW AND ECONOMIC</a></li>
+                            <li><a href="education.php">FACULTY OF EDUCATION SCIENCE</a></li>
+                            <li><a href="#">FACULTY OF NEWS AND VIEWS</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3">
