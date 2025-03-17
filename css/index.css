@@ -140,7 +140,7 @@
 
         .carousel-inner img {
             cursor: pointer;
-            
+     
         }
         .carousel-item {
             position: relative;
@@ -180,6 +180,7 @@
         .carousel-inner img {
             cursor: pointer;
             transition: transform 0.4s ease-in-out, opacity 0.4s;
+           
         }
         .carousel-inner img:hover {
             transform: scale(1.05);

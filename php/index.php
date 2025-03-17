@@ -42,14 +42,14 @@ include("../js/index.php");
     </div>
         <div class="mid">
             <!-- Bootstrap Carousel -->
-            <div style="margin-left: 12px; "   id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="2000">
+            <div style="margin-left: 12px;   "   id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel"  data-bs-interval="2000">
             
-                <div  class="carousel-indicators">
+                <div   class="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
                 </div>
-                <div style="margin-top:5px; " class="carousel-inner ">
+                <div style="margin-top:5px;  " class="carousel-inner ">
                     <div class="carousel-item active">
                         <img  src="https://www.ppiu.edu.kh/public/images/slideshow/Banner_Website_PPIU.jpg" class="d-block w-100 slide-img" alt="Slide 1">
                         <div class="carousel-caption">
@@ -58,15 +58,15 @@ include("../js/index.php");
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://i.ytimg.com/vi/EWIhu3Aqm0E/maxresdefault.jpg" class="d-block w-100 slide-img" alt="Slide 2">
+                        <img style="background-size: cover;" src="https://i.ytimg.com/vi/EWIhu3Aqm0E/maxresdefault.jpg" class="d-block w-100 slide-img" alt="Slide 2">
                         <div class="carousel-caption">
                             <h3 style=" margin-left: 70px; ">Welcome to our Website PPIU</h3>
                             <p style=" margin-left: 70px;"></p>Discover amazing stories and updates.</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="https://ait.ac.th/wp-content/uploads/2024/05/image-11.jpeg" class="d-block w-100 slide-img" alt="Slide 3">
-                        <div class="carousel-caption">
+                        <img style="object-fit: cover;" src="https://ait.ac.th/wp-content/uploads/2024/05/image-11.jpeg" class="d-block w-100 slide-img" alt="Slide 3">
+                        <div  class="carousel-caption">
                         <h3 style=" margin-left: 70px;">Welcome to our Website PPIU</h3>
                         <p style=" margin-left: 70px;"></p>Discover amazing stories and updates.</p>
                         </div>
