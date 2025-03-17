@@ -10,10 +10,14 @@ function register(){
         $last_name = $_POST['last_name'];
         $gender = $_POST['gender'];
         $email = $_POST['email'];
+        $degree = $_POST['Degree'];
+        $skill = $_POST['Skill'];
+        $price = $_POST['price'];
+        $number = $_POST['number'];
         $dob = $_POST['dob'];
         $date=date('Y-m-d H:i:s');
-        $sql = "INSERT INTO `register`(`id`, `First Name`, `Last Name`, `gender`, `Email`, `dob`, `Date`)
-         VALUES (null,'$first_name','$last_name','$gender','$email',' $dob',' $date')";
+        $sql = "INSERT INTO `register`(`id`, `First Name`, `Last Name`, `gender`, `Email`, `Degree`, `Skill`, `price`, `phone`, `dob`, `Date`) 
+        VALUES (null,'$first_name','$last_name','$gender','$email','$degree','$skill','$price','$number','$dob','$date')";
          if ($con->query($sql)) {
             echo "<script>alert('ការចុះឈ្មោះបានជោគជ័យ!');</script>";
         } 
@@ -33,10 +37,15 @@ function view_register(){
             <td><?php echo $row[3];?></td>
             <td><?php echo $row[4];?></td>
             <td><?php echo $row[5];?></td>
-            <td><?php echo $row[6];?></td>
-            <td>
-                <a   href="../admin/update_name.php?id=<?php echo $row[0] ?>"  class="btn btn btn-primary" >update</a>
-                <button type="button"  onclick="remove_register(<?php echo$row[0]?>)" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#delete_post">Delete</button>
+            <td ><?php echo $row[6];?></td>
+            <td><?php echo $row[7];?></td>
+            <td><?php echo $row[8];?></td>
+            <td ><?php echo $row[9];?></td>
+            <td ><?php echo $row[10];?></td>
+            
+            <td style="display: flex;    ">
+                <a style="margin-left: 20px;"  href="../admin/update_name.php?id=<?php echo $row[0] ?>"  class="btn btn btn-primary" >update</a>
+                <button style="margin-left: 20px;"  type="button"  onclick="remove_register(<?php echo$row[0]?>)" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#delete_post">Delete</button>
             </td>
            
         </tr>

@@ -98,13 +98,55 @@ label {
                                     </div>
 
                                     <div class="form-group">
+                                    <label for="Degree">Degree</label>
+                                    <select id="Degree" name="Degree" value="<?php echo $row[5]?>" class="form-control" required>
+                                        <option value="">Select</option>
+                                        <option value="Bachelor">Bachelor</option>
+                                        <option value="Associate">Associate</option>
+                                        <option value="other">Other</option>
+                                    </select>
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="Skill">Skill</label>
+                                    <select id="Skill" name="Skill" value="<?php echo $row[6]?>" class="form-control" required>
+                                        <option value="">Select</option>
+                                        <option value="Accounting">Accounting</option>
+                                        <option value="Management">Management</option>
+                                        <option value="Law">Law</option>
+                                        <option value="Marketing">Marketing</option>
+                                        <option value="InternationalRelation">InternationalRelation</option>
+                                        <option value="Public Adminstation">Public Adminstation</option>
+                                        <option value="Economic Development">Economic Development</option>
+                                        <option value="Hotel & Tourism Management">Hotel & Tourism Management</option>
+                                        <option value="Fiance & Banking">Fiance & Banking</option>
+                                        <option value="Management Information System">Management Information System</option>
+                                        <option value="English for Education">English for Education</option>
+                                        <option value="English for Business">English for Business</option>
+                                        <option value="International Business">International Business</option>
+                                        <option value="Computer Sciences">Computer Sciences</option>
+                                        <option value="Logistics Management ">Logistics Management</option>
+                                    </select>
+                                </div>
+
+                                    <div class="form-group">
+                                        <label for="price">price</label>
+                                        <input type="text" id="price" name="price" value="<?php echo $row[7]?>" class="form-control" required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="phone number">phone number</label>
+                                        <input type="text" id="number" name="number" value="<?php echo $row[8]?>" class="form-control" required>
+                                    </div>
+
+                                    <div class="form-group">
                                         <label>Date of Birth</label>
-                                        <input type="date" name="day" value="<?php echo $row[5] ?>" class="form-control">
+                                        <input type="date" name="day" value="<?php echo $row[9] ?>" class="form-control">
                                     </div>
 
                                     <div class="form-group">
                                         <label>Date</label>
-                                        <input type="date" name="date" value="<?php echo $row[6] ?>" class="form-control">
+                                        <input type="date" name="date" value="<?php echo $row[10] ?>" class="form-control">
                                     </div>
                                     
                                     

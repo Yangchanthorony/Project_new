@@ -18,18 +18,22 @@ include("destory_register.php");
 </head>
 <body>
 
-<div style="margin-top: 20px;" class="container ">
-    <table class="table table-bordered text-center align-middle">
-        <thead class="table-light">
-            <tr>
+<div  class=" container-fluid  mt-4 ">
+    <table class="table table-bordered text-center align-middle ">
+        <thead class="table-light ">
+            <tr class=" table table-danger" >
                 <th>ID</th>
-                <th>First Name</th>
-                <th>Last Name</th>
+                <th >First Name</th>
+                <th >Last Name</th>
                 <th>Gender</th>
                 <th>Email</th>
-                <th>Date of Birth</th>
+                <th>Degree</th>
+                <th>Skill</th>
+                <th>price</th>
+                <th >phone number</th>
+                <th >Date of Birth</th>
                 <th>Date</th>
-                <th>Actions</th>
+                <th >Actions</th>
             </tr>
             <?php 
                 view_register();

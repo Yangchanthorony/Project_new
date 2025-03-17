@@ -9,10 +9,16 @@ include("../Auth/function.php");
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/register.css">
     <title>Registration Form</title>
-    
+    <style>
+       .pic{
+        width: 200px;
+        height: 250px;
+        margin-left: 300px;
+       }
+    </style>
 </head>
 <body>
-    <div class="container">
+    <div style="margin-top: 800px; width: 50%;" class="container  ">
         <h2>Register</h2>
         <form action="" method="post" enctype="multipart/form-data">
             <div class="form-group">
@@ -39,6 +45,48 @@ include("../Auth/function.php");
                 <label for="email">Email</label>
                 <input type="email" id="email" name="email" class="form-control" required>
             </div>
+
+            <div class="form-group">
+                <label for="Degree">Degree</label>
+                <select id="Degree" name="Degree" class="form-control" required>
+                    <option value="">Select</option>
+                    <option value="Bachelor">Bachelor</option>
+                    <option value="Associate">Associate</option>
+                    <option value="other">Other</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="Skill">Skill</label>
+                <select id="Skill" name="Skill" class="form-control" required>
+                    <option value="">Select</option>
+                    <option value="Accounting">Accounting</option>
+                    <option value="Management">Management</option>
+                    <option value="Law">Law</option>
+                    <option value="Marketing">Marketing</option>
+                    <option value="InternationalRelation">InternationalRelation</option>
+                    <option value="Public Adminstation">Public Adminstation</option>
+                    <option value="Economic Development">Economic Development</option>
+                    <option value="Hotel & Tourism Management">Hotel & Tourism Management</option>
+                    <option value="Fiance & Banking">Fiance & Banking</option>
+                    <option value="Management Information System">Management Information System</option>
+                    <option value="English for Education">English for Education</option>
+                    <option value="English for Business">English for Business</option>
+                    <option value="International Business">International Business</option>
+                    <option value="Computer Sciences">Computer Sciences</option>
+                    <option value="Logistics Management ">Logistics Management</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="price">price</label>
+                <input type="text" id="price" name="price" class="form-control" required>
+            </div>
+
+            <div class="form-group">
+                <label for="phone number">phone number</label>
+                <input type="text" id="number" name="number" class="form-control" required>
+            </div>
             
             <div class="form-group">
                 <label for="dob">Date of Birth</label>
@@ -50,8 +98,16 @@ include("../Auth/function.php");
                 <input type="date" id="date" name="date" class="form-control" required>
             </div>
             
+            <div class="form-group">
+             
+                <img class="pic" src="../img/photo_2025-03-17_09-28-00.jpg" alt="QR Code">
+       </div>
+            
+
+            
             <button name="register-btn" type="submit">Register</button>
         </form>
+        
     </div>
 </body>
 </html>
