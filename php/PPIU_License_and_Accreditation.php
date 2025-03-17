@@ -18,31 +18,31 @@ include("../components/header.php");
 </head>
 <body>
     
-    <!-- Header Section -->
-    <div class="header-pattern">
-        <div class="header">
-            PPIU License and Accreditation
+        <!-- Header Section -->
+        <div class="header-pattern">
+            <div class="header">
+                PPIU License and Accreditation
+            </div>
         </div>
-    </div>
 
-    <!-- Content Section -->
-    <div class="content-container">
-        <img style="margin-left: 140px;" src="https://www.khmertimeskh.com/wp-content/uploads/2024/12/93897.jpg" alt="Accreditation Certificate" class="certificate-img">
-        
-        <p style="margin-top: 20px;">
-            Phnom Penh International University (PPIU) was established in 2013 with a <a href="#">license</a> by the then Prime Minister of Cambodia. PPIU operates as a private university under the Ministry of Education, Youth and Sport supervision.
-        </p>
-        <p>
-            PPIU received full institutional accreditation from 2019. During the Accreditation Committee of Cambodia visit in August 2023, the officials were impressed with the PPIU progress. We are currently preparing for the national accreditation renewal.
-        </p>
-        <p>
-            PPIU offers single-degree programs nationally accredited under the institutional accreditation and, since 2016, dual-degree programs in partnerships with the <a href="#">University of Arizona</a> and <a href="#">Fort Hays State University</a>, which are accredited by WSCUC and Higher Learning Commission, respectively, in the USA.
-        </p>
-        <p>
-            Questions may be directed to Quality Assurance Director Ms ko lab at <a href="mailto:ms.kolab@ppiu.edu.kh">ms.kolab@ppiu.edu.kh</a>.
-        </p>
-    </div>  
-   
+        <!-- Content Section -->
+        <div class="content-container">
+            <img style="margin-left: 140px;" src="https://www.khmertimeskh.com/wp-content/uploads/2024/12/93897.jpg" alt="Accreditation Certificate" class="certificate-img">
+            
+            <p style="margin-top: 20px;">
+                Phnom Penh International University (PPIU) was established in 2013 with a <a href="#">license</a> by the then Prime Minister of Cambodia. PPIU operates as a private university under the Ministry of Education, Youth and Sport supervision.
+            </p>
+            <p>
+                PPIU received full institutional accreditation from 2019. During the Accreditation Committee of Cambodia visit in August 2023, the officials were impressed with the PPIU progress. We are currently preparing for the national accreditation renewal.
+            </p>
+            <p>
+                PPIU offers single-degree programs nationally accredited under the institutional accreditation and, since 2016, dual-degree programs in partnerships with the <a href="#">University of Arizona</a> and <a href="#">Fort Hays State University</a>, which are accredited by WSCUC and Higher Learning Commission, respectively, in the USA.
+            </p>
+            <p>
+                Questions may be directed to Quality Assurance Director Ms ko lab at <a href="mailto:ms.kolab@ppiu.edu.kh">ms.kolab@ppiu.edu.kh</a>.
+            </p>
+        </div>  
+    
 <?php 
 include("../components/footer.php");
 ?>
