@@ -18,28 +18,24 @@
 
 </head>
 <body>
-   
-    <!-- Header Section -->
-   <div class="header-pattern">
-        <div class="header">
-        Alumni
-        </div>
-    </div> 
+  <!-- Header Section -->
+<div class="header-pattern">
+    <div class="header" id="alumni-header">Alumni</div>
+</div>
 
-    <!-- Content Section -->
-    
-    <div class="container mt-5">
+<!-- Content Section -->
+<div class="container mt-5">
     <div class="row g-4">
         <!-- Alumni Card 1 -->
         <div class="col-md-3">
             <div class="card alumni-card">
-               <a href="./Alumni_pic1.php">
-               <img src="https://www.ppiu.edu.kh/public/images/article/1536120995.jpg" class="card-img-top" alt="Alumni Image">
-               </a>
+                <a href="./Alumni_pic1.php">
+                    <img src="https://www.ppiu.edu.kh/public/images/article/1536120995.jpg" class="card-img-top" alt="Alumni Image">
+                </a>
                 <div class="card-body">
-                    <h5  class="card-title text-danger">Alumni Student Pro 12</h5>
-                    <p class="text-muted">Post Date: 27-Jun-2017</p>
-                    <p>Graduation ceremony for students studying at PPIU</p>
+                    <h5 class="card-title text-danger" id="alumni-card1-title">Alumni Student Pro 12</h5>
+                    <p class="text-muted" id="alumni-card1-date">Post Date: 27-Jun-2017</p>
+                    <p id="alumni-card1-desc">Graduation ceremony for students studying at PPIU</p>
                 </div>
             </div>
         </div>
@@ -47,13 +43,13 @@
         <!-- Alumni Card 2 -->
         <div class="col-md-3">
             <div class="card alumni-card">
-              <a href="./Alumni_pic2.php">
-              <img src="https://www.ppiu.edu.kh/public/images/article/9321539988.jpg" class="card-img-top" alt="Alumni Image">
-              </a>
+                <a href="./Alumni_pic2.php">
+                    <img src="https://www.ppiu.edu.kh/public/images/article/9321539988.jpg" class="card-img-top" alt="Alumni Image">
+                </a>
                 <div class="card-body">
-                    <h5 class="card-title text-danger">Alumni Student Pro 11</h5>
-                    <p class="text-muted">Post Date: 27-Jun-2017</p>
-                    <p>Graduation ceremony for students studying at PPIU</p>
+                    <h5 class="card-title text-danger" id="alumni-card2-title">Alumni Student Pro 11</h5>
+                    <p class="text-muted" id="alumni-card2-date">Post Date: 27-Jun-2017</p>
+                    <p id="alumni-card2-desc">Graduation ceremony for students studying at PPIU</p>
                 </div>
             </div>
         </div>
@@ -62,35 +58,31 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                 <a href="./Alumni_pic3.php">
-                <img src="https://www.ppiu.edu.kh/public/images/article/10875129986.jpg" class="card-img-top" alt="Alumni Image">
+                    <img src="https://www.ppiu.edu.kh/public/images/article/10875129986.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
-                    <h5 class="card-title text-danger">Alumni Student Pro 10</h5>
-                    <p class="text-muted">Post Date: 27-Apr-2017</p>
-                    <p>Graduation ceremony for students studying at PPIU</p>
+                    <h5 class="card-title text-danger" id="alumni-card3-title">Alumni Student Pro 10</h5>
+                    <p class="text-muted" id="alumni-card3-date">Post Date: 27-Apr-2017</p>
+                    <p id="alumni-card3-desc">Graduation ceremony for students studying at PPIU</p>
                 </div>
             </div>
         </div>
 
+        <!-- Alumni Card 4 -->
         <div class="col-md-3">
             <div class="card alumni-card">
-               <a href="./Alumni_pic4.php">
-               <img src="https://www.ppiu.edu.kh/public/images/article/18643079976.jpg" class="card-img-top" alt="Alumni Image">
-               </a>
+                <a href="./Alumni_pic4.php">
+                    <img src="https://www.ppiu.edu.kh/public/images/article/18643079976.jpg" class="card-img-top" alt="Alumni Image">
+                </a>
                 <div class="card-body">
-                    <h5 class="card-title text-danger">Alumni Student Pro 10</h5>
-                    <p class="text-muted">Post Date: 27-Apr-2017</p>
-                    <p>Graduation ceremony for students studying at PPIU</p>
+                    <h5 class="card-title text-danger" id="alumni-card4-title">Alumni Student Pro 10</h5>
+                    <p class="text-muted" id="alumni-card4-date">Post Date: 27-Apr-2017</p>
+                    <p id="alumni-card4-desc">Graduation ceremony for students studying at PPIU</p>
                 </div>
             </div>
         </div>
     </div>
 </div>
-        
-
-      
-    
-       
      
     
     <?php 

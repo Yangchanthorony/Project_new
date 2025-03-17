@@ -12,48 +12,45 @@
 </head>
 <body>
 <div class="header-pattern">
-        <div class="headerr">
-        Library
-        </div>
-    </div>
-    <div class=" container-fluid">
+    <div class="headerr" id="library-header">Library</div>
+</div>
+<div class="container-fluid">
     <div class="section">
-            <h2> Collection</h2>
-            <p class="highlight">Books:</p>
-            <ul>
-                <li> Curriculum books</li>
-                <li> General subject</li>
-                <li> General reference (Dictionary, encyclopedia, atlas, etc.)</li>
-                <li> Fiction (Fairy tales, novels, etc.)</li>
-                <li> Non-fiction (Memoirs, biography, guides, manuals, etc.)</li>
-            </ul>
-        </div>
-
-        <div class="section">
-            <p class="highlight"> Newspapers & Resources:</p>
-            <ul>
-                <li> Magazines</li>
-                <li> Assignments & Projects of Students</li>
-                <li> Scholarly Journals</li>
-                <li> E-resources</li>
-            </ul>
-            <p><strong> The existing library collection contains over <span class="highlight">13,000 volumes</span> in print.</strong></p>
-        </div>
-
-        <div class="section">
-            <h2> Organization & Classification</h2>
-            <ul>
-                <li><strong> Dewey Decimal Classification (DDC)</strong> – for general subject books</li>
-                <li><strong> PPIU Library Code</strong> – for curriculum books</li>
-            </ul>
-            <section class="library-info">
-                <h2>Library Hours</h2>
-                <p><strong>Monday – Saturday:</strong> 8:00 AM – 7:30 PM</p>
-                <p><strong>Sunday:</strong> 10:00 AM – 4:00 PM</p>
-
-        </div>
-   
+        <h2 id="collection-title">Collection</h2>
+        <p class="highlight" id="collection-books">Books:</p>
+        <ul>
+            <li id="book-curriculum">Curriculum books</li>
+            <li id="book-general">General subject</li>
+            <li id="book-reference">General reference (Dictionary, encyclopedia, atlas, etc.)</li>
+            <li id="book-fiction">Fiction (Fairy tales, novels, etc.)</li>
+            <li id="book-nonfiction">Non-fiction (Memoirs, biography, guides, manuals, etc.)</li>
+        </ul>
     </div>
+
+    <div class="section">
+        <p class="highlight" id="resources-title">Newspapers & Resources:</p>
+        <ul>
+            <li id="resource-magazines">Magazines</li>
+            <li id="resource-projects">Assignments & Projects of Students</li>
+            <li id="resource-journals">Scholarly Journals</li>
+            <li id="resource-eresources">E-resources</li>
+        </ul>
+        <p id="collection-volume"><strong>The existing library collection contains over <span class="highlight">13,000 volumes</span> in print.</strong></p>
+    </div>
+
+    <div class="section">
+        <h2 id="organization-title">Organization & Classification</h2>
+        <ul>
+            <li id="org-ddc"><strong>Dewey Decimal Classification (DDC)</strong> – for general subject books</li>
+            <li id="org-ppiu"><strong>PPIU Library Code</strong> – for curriculum books</li>
+        </ul>
+        <section class="library-info">
+            <h2 id="hours-title">Library Hours</h2>
+            <p id="hours-mon-sat"><strong>Monday – Saturday:</strong> 8:00 AM – 7:30 PM</p>
+            <p id="hours-sun"><strong>Sunday:</strong> 10:00 AM – 4:00 PM</p>
+        </section>
+    </div>
+</div>
 
 </body>
 <?php 

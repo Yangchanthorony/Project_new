@@ -336,7 +336,7 @@ include("../js/index.php");
             
 
             <div class="textt">
-                <h2 style="margin-top: 50PX;" class="text-center fw-bold mb-4   ">News</h2>
+            <h2 style="margin-top: 50px;" class="text-center fw-bold mb-4" id="news-title">News</h2>
             </div>
             
             <div class="container news-container">

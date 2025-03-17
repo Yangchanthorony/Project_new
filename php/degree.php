@@ -18,74 +18,79 @@ include("../js/index.php");
     <link rel="stylesheet" href="../css/degree.css">
 </head>
 <body>
-   
-    <!-- Header Section -->
-    <div  class="header-pattern">
-        <div  class="header">
-            Degree
-        </div>
-    </div>
+  <!-- Header Section -->
+<div class="header-pattern">
+    <div class="header" id="degree-header">Degree</div>
+</div>
 
-    <!-- Content Section -->
-    <div class="content-container">
-        <h5 style="color: red; font-weight: bold ;">កម្រិតសិក្សា៖</h5>
+<!-- Content Section -->
+<div class="content-container">
+    <h5 style="color: red; font-weight: bold;" id="study-levels-title">Study Levels:</h5>
 
-        <p style=" margin-left: 40px;">
-        បច្ចុប្បន្ន សាកលវិទ្យាល័យភ្នំពេញអន្តរជាតិ (PPU) បានកំពុងតែផ្តល់នូវសេវាកម្មសិក្សាដល់និស្សិតគ្រប់ជំនាន់ ទៅតាមកម្រិតសិក្សាដូចខាងក្រោម៖
-        </p >
+    <p style="margin-left: 40px;" id="study-levels-intro">
+        Currently, Phnom Penh International University (PPU) offers academic services to students of all levels according to the following study programs:
+    </p>
 
-        <p style=" margin-left: 30px;">- ការសិក្សាជំនាញវគ្គខ្លី</p>
-        <p style=" margin-left: 30px;"> - ការសិក្សាថ្នាក់បរិញ្ញាបត្ររង (ឆ្នាំទី១ និងទី២)</p>
-        <p style=" margin-left: 30px;"> - ការសិក្សាថ្នាក់បរិញ្ញាបត្រ (ឆ្នាំទី១ ទី២ ទី៣ និងទី៤)</p>
-        <p style=" margin-left: 30px;"> - ការសិក្សាថ្នាក់បរិញ្ញាបត្រជាន់ខ្ពស់ (ឆ្នាំទី១ និងទី២)</p>
-        <p style=" margin-left: 30px;">  - ការសិក្សាថ្នាក់បណ្ឌិត</p>
+    <p style="margin-left: 30px;" id="study-levels-short-term">- Short-term training programs</p>
+    <p style="margin-left: 30px;" id="study-levels-associate">- Associate degree programs (Year 1 and Year 2)</p>
+    <p style="margin-left: 30px;" id="study-levels-bachelor">- Bachelor's degree programs (Year 1, Year 2, Year 3, and Year 4)</p>
+    <p style="margin-left: 30px;" id="study-levels-master">- Master's degree programs (Year 1 and Year 2)</p>
+    <p style="margin-left: 30px;" id="study-levels-doctoral">- Doctoral degree programs</p>
 
-        <p style=" margin-left: 40px;">
-        និស្សិតអាចជ្រើសរើសនូវជំនាញទៅតាមចំណូលចិត្ត តាមមហាវិទ្យាល័យដូចតទៅ៖
-        </p >
+    <p style="margin-left: 40px;" id="faculty-intro">
+        Students can choose their preferred major from the following faculties:
+    </p>
 
-        <h5 style=" margin-left: 30px;  font-weight: bold ; color: red;">- មហាវិទ្យាល័យពាណិជ្ជសាស្ត្រ និងទេសចរណ៍៖</h5>
-        <p style=" margin-left: 50px;  font-weight: 500 ;"> ~ គណនេយ្យ</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">~ គ្រប់គ្រង</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;"> ~ ទីផ្សារ</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">  ~ គ្រប់សណ្ឋាគារ-ទេសចរណ៍</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">      ~ គ្រប់គ្រប់ឡូជីស្ទីក</p>
+    <h5 style="margin-left: 30px; font-weight: bold; color: red;" id="faculty-business-title">- Faculty of Business and Tourism:</h5>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-business-accounting">~ Accounting</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-business-management">~ Management</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-business-marketing">~ Marketing</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-business-tourismm">~ Hotel and Tourism Management</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-business-logistics">~ Logistics Management</p>
 
-        <h5 style=" margin-left: 30px;  font-weight: bold ; color: red;">  - មហាវិទ្យាល័យនីតិសាស្ត្រ និងសេដ្ឋកិច្ច៖</h5>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">  ~ ហិរញ្ញវត្ថុ-ធនាគារ</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">~ អភិវឌ្ឍសេដ្ឋកិច្ច</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">   ~ រដ្ឋបាលសាធារណៈ</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;"> ~ ច្បាប់</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">   ~ ទំនាក់ទំនងអន្តរជាតិ</p>
+    <h5 style="margin-left: 30px; font-weight: bold; color: red;" id="faculty-law-title">- Faculty of Law and Economics:</h5>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-law-finance">~ Finance and Banking</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-law-economicss">~ Economic Development</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-law-public-admin">~ Public Administration</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-law-law">~ Law</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-law-intl-relations">~ International Relations</p>
 
-        <h5 style=" margin-left: 30px;  font-weight: bold ; color: red;">   - មហាវិទ្យាល័យវិទ្យាសាស្ត្រ និងព័ត៌មានវិទ្យា៖</h5>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">     ~ វិទ្យាសាស្ត្រកុំព្យូទ័រ</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;"> ~ គ្រប់គ្រងប្រព័ន្ធព័ត៌មានវិទ្យា</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">      ~ វិស្វកម្មទូរគមនាគមន៍</p>
+    <h5 style="margin-left: 30px; font-weight: bold; color: red;" id="faculty-science-title">- Faculty of Science and Information Technology:</h5>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-science-computer">~ Computer Science</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-science-info-systems">~ Information Systems Management</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-science-telecom">~ Telecommunications Engineering</p>
 
-        
-        <h5 style=" margin-left: 30px;  font-weight: bold ; color: red;"> - មហាវិទ្យាល័យវិទ្យាសាស្ត្រអប់រំ៖</h5>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">  ~ ភាសាអង់គ្លេសអប់រំ</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;"> ~ ភាសាអង់គ្លេសពាណិជ្ជកម្ម</p>
+    <h5 style="margin-left: 30px; font-weight: bold; color: red;" id="faculty-education-title">- Faculty of Education:</h5>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-education-english-edu">~ English for Education</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="faculty-education-english-bus">~ English for Business</p>
 
-        <p style=" margin-left: 40px;">
-        ជាមួយគ្នាផងនេះដែរ និស្សិតសិក្សាត្រូវអនុវត្តតាមបទបញ្ញត្តិនិស្សិតចាំបាច់សម្រាប់ការសិក្សាដូចខាងក្រោម៖
-        </p >
-        <p style=" margin-left: 30px;"> - និស្សិតមានសិទ្ធិចូលរួមប្រឡងបញ្ចប់ឆមាសនីមួយៗបានលុះត្រាតែបានចូលសិក្សាយ៉ាងតិចបំផុត ៧៥(ចិតសិប)% នៃម៉ោងសិក្សាលើមុខវិជ្ជានោះ៖</p>
-        <p style=" margin-left: 40px;  font-weight: 500 ;">+ និស្សិតអវត្តមានមានច្បាប់ និងអត់ច្បាប់ចំនួន ១០(ដប់)ដង ឬអវត្តមានអត់ច្បាប់ចំនួន ០៨(ប្រាំបី)ដងលើមុខវិជ្ជា នឹងធ្លាក់លើមុខវិជ្ជានោះជាស្វ័យប្រវត្តិ</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;">   ~ ពិន្ទុ On-going Class Assessment (OCA) នឹងត្រូវបាត់បង់ គឺស្មើសូន្យ។</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;"> ~ និស្សិតនឹងទទួលបានឱកាសប្រឡងសង ដោយអត្រាពិន្ទុ ១០០/១០០។ និស្សិតដែលទទួលពិន្ទុលើសពី ៨០ នឹងត្រូវតម្រឹមត្រឹម ៨០។</p>
+    <p style="margin-left: 40px;" id="regulations-intro">
+        Additionally, students must comply with the university’s academic regulations, including the following:
+    </p>
 
-        <p style=" margin-left: 40px;  font-weight: 500 ;"> + និស្សិតមានសិទ្ធិសុំព្យួរការសិក្សាបានចំនួន ០២(ពីរ)ដង សម្រាប់កម្រិតបរិញ្ញាបត្រ (សិក្សារយៈពេល ០៤ឆ្នាំ) និងចំនួន ០១(មួយ)ដង សម្រាប់កម្រិតបរិញ្ញាបត្ររង ឬជាន់ខ្ពស់ (រយៈពេលសិក្សា ០២ឆ្នាំ)។ និស្សិតថ្នាក់បរិញ្ញាបត្រអាចព្យួរការសិក្សាបានតែនៅឆ្នាំទី២ ឬទី៣ ហើយការព្យួរការសិក្សាម្តងៗ មិនឱ្យលើសពីមួយឆ្នាំសិក្សា។ និស្សិតត្រូវដាក់ពាក្យសុំព្យួរការសិក្សាមកនាយកដ្ឋានសិក្សាឱ្យបានយ៉ាងតិច ១៥(ដប់ប្រាំ)ថ្ងៃមុនថ្ងៃចូលរៀន។ ករណីដែលមិនបានបំពេញលក្ខខណ្ឌកំណត់ខាងលើ៖</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;"> ~ សាកលវិទ្យាល័យ នឹងមិនចេញវិញ្ញាបនបត្រ លិខិតបញ្ជាក់ការសិក្សា ឬព្រឹត្តបត្រពិន្ទុ ឱ្យនិស្សិត ល្គឹកណានិស្សិតបានបង់ថ្លៃសិក្សានៅឆមាសចុងក្រោយដែលខ្លួនបានបោះបង់។</p>
-        <p style=" margin-left: 50px;  font-weight: 500 ;"> ~ និស្សិតនឹងត្រូវបានលុបឈ្មោះពីបញ្ជីសាកលវិទ្យាល័យ។</p>
+    <p style="margin-left: 30px;" id="regulations-attendance">
+        - Students are eligible to take semester exams only if they have attended at least 75% of the total class hours for each subject:
+    </p>
+    <p style="margin-left: 40px; font-weight: 500;" id="regulations-attendance-rule1">
+        + Students who are absent (both excused and unexcused) 10 times or unexcused 8 times in a subject will automatically fail that subject.
+    </p>
+    <p style="margin-left: 50px; font-weight: 500;" id="regulations-attendance-rule1a">~ The On-going Class Assessment (OCA) score will be forfeited, equating to zero.</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="regulations-attendance-rule1b">~ Students will have an opportunity to retake the exam with a 100/100 score, but if they score above 80, it will be adjusted to 80.</p>
 
-        <p style=" margin-left: 30px;  ">     - ការសិក្សាកម្រិតបរិញ្ញាបត្ររងមានរយៈពេលយូរបំផុត ០៣(បី)ឆ្នាំ។</p>
-        <p style=" margin-left: 30px;  ">     - ការសិក្សាកម្រិតបរិញ្ញាបត្រមានរយៈពេលយូរបំផុត ០៦(ប្រាំមួយ)ឆ្នាំ។</p>
-        <p style=" margin-left: 30px;  "> - ការសិក្សាកម្រិតបរិញ្ញាបត្រជាន់ខ្ពស់មានរយៈពេលមិនលើសទី ០៣(បី)ឆ្នាំ។</p>
-        <p style=" margin-left: 30px;  ">         - ការសិក្សាកម្រិតបណ្ឌិតមានរយៈពេលមិនលើសពី ០៦(ប្រាំមួយ)ឆ្នាំ (ពេញម៉ោង)។</p>
+    <p style="margin-left: 40px; font-weight: 500;" id="regulations-suspension">
+        + Students are allowed to suspend their studies up to two times for a Bachelor's degree (4-year program) and once for an Associate or Master's degree (2-year program). 
+        Bachelor's degree students can only suspend their studies in Year 2 or Year 3, and each suspension must not exceed one academic year. 
+        Students must submit a study suspension request to the Academic Office at least 15 days before the start of the semester. If the above conditions are not met:
+    </p>
+    <p style="margin-left: 50px; font-weight: 500;" id="regulations-suspension-rule1">~ The university will not issue diplomas, study confirmation letters, or transcripts, regardless of any tuition fees paid in the last semester attended.</p>
+    <p style="margin-left: 50px; font-weight: 500;" id="regulations-suspension-rule2">~ The student will be removed from the university’s enrollment list.</p>
 
-    </div>
+    <p style="margin-left: 30px;" id="study-duration-associate">- The maximum study duration for an Associate degree is 3 years.</p>
+    <p style="margin-left: 30px;" id="study-duration-bachelor">- The maximum study duration for a Bachelor's degree is 6 years.</p>
+    <p style="margin-left: 30px;" id="study-duration-master">- The maximum study duration for a Master's degree is 3 years.</p>
+    <p style="margin-left: 30px;" id="study-duration-doctoral">- The maximum study duration for a Doctoral degree is 6 years (full-time).</p>
+</div>
+
     <?php 
     include("../components/footer.php");
     ?>
