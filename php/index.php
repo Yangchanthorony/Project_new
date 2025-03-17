@@ -123,13 +123,13 @@ include("../js/index.php");
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
+                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="300"   >
                             <div class="event-card">
                                 <a href="Evens4.php"><img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/481134318_1061535806015149_3261788359234709455_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEMBvpdA8b3Bkpx5u-UsbeXBnTmetmQisQGdOZ62ZCKxOaHl5t-jmT2ZMm_k5EFmVmWOVZDfUup8iPtmZbm6hfO&_nc_ohc=bUvInmuRLN0Q7kNvgF_ckCY&_nc_oc=AdgGUlyvuvMTgA8cw6fvxFqFlBauC01a8ukd6lj27ZDYi3588tNs6aVLMSip7cLJa6Q&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=AoiTLpLEqPiDn0c7gyJtXgL&oh=00_AYHiZnc6uk6IJT9ogDfUBa2hFirc0FmUC5E4tHkozQ-dOQ&oe=67D79DD0" alt="Event 4"></a>
                                 <div class="event-card-body">
-                                    <h5 id="event4-title">The management of (PPIU) shared their experiences</h5>
+                                    <h5 id="event4-title">The management of (PPIU)</h5>
                                     <p id="event4-date">📅 Date: 21 February 2025 | ⏰ Time: 2:00 PM - 5:00 PM</p>
-                                    <p id="event4-location">📍 Location: Bunrany High School</p>
+                                    <p id="event4-location">📍 Location: High School</p>
                                     <a href="Evens4.php" class="read-more" id="event4-readmore">Read More</a>
                                 </div>
                             </div>

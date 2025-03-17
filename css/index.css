@@ -227,6 +227,7 @@
         border-radius: 10px;
         overflow: hidden;
         transition: transform 0.3s ease-in-out;
+        max-height: 200px !important;
         
       
     }
@@ -246,7 +247,7 @@
     .event-card-body {
         padding: 20px;
         text-align: center;
-        
+        overflow-x: hidden !important;
         border: solid 2px #002F6C;
     }
     .line{

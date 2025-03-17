@@ -364,6 +364,38 @@
         }
     });
 
+    function searchNames() {
+    // Get the search input value and convert to lowercase for case-insensitive search
+    let input = document.getElementById("searchInput").value.toLowerCase();
+    
+    // Define the sections to search (e.g., events, news, programs)
+    let sections = [
+        { items: document.querySelectorAll(".event-card"), title: ".event-card-body h5" },
+        { items: document.querySelectorAll(".news-card"), title: ".news-content h5" },
+        { items: document.querySelectorAll(".program-list li"), title: null }
+    ];
+
+    // Loop through each section
+    sections.forEach(section => {
+        section.items.forEach(item => {
+            // Get the text to search (e.g., event title, news title, program name)
+            let text = section.title 
+                ? item.querySelector(section.title).textContent.toLowerCase() 
+                : item.textContent.toLowerCase();
+            
+            // Show or hide the item based on whether the input matches the text
+            if (text.includes(input)) {
+                item.style.display = ""; // Show the item
+            } else {
+                item.style.display = "none"; // Hide the item
+            }
+        });
+    });
+}
+
+// Optional: Trigger search on every keystroke (real-time search)
+document.getElementById("searchInput").addEventListener("input", searchNames);
+
     
     
 </script>

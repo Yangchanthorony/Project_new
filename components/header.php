@@ -325,9 +325,9 @@ body {
            
            
            <div class="search-bar">
-               <input type="text" placeholder="Search...">
-               <button>Search</button>
-           </div>
+                <input type="text" id="searchInput" placeholder="Search names...">
+                <button onclick="searchNames()">Search</button>
+            </div>
            
            <div  class="language-toggle">
                <button onclick="toggleLanguage('kh')">KH</button>
