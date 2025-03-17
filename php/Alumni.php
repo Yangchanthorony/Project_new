@@ -34,12 +34,12 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                <a href="./Alumni_pic1.php">
-               <img src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg" class="card-img-top" alt="Alumni Image">
+               <img src="https://www.ppiu.edu.kh/public/images/article/1536120995.jpg" class="card-img-top" alt="Alumni Image">
                </a>
                 <div class="card-body">
                     <h5  class="card-title text-danger">Alumni Student Pro 12</h5>
                     <p class="text-muted">Post Date: 27-Jun-2017</p>
-                    <p>We are sorry! This page is under construction.</p>
+                    <p>Graduation ceremony for students studying at PPIU</p>
                 </div>
             </div>
         </div>
@@ -48,12 +48,12 @@
         <div class="col-md-3">
             <div class="card alumni-card">
               <a href="./Alumni_pic2.php">
-              <img src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg" class="card-img-top" alt="Alumni Image">
+              <img src="https://www.ppiu.edu.kh/public/images/article/9321539988.jpg" class="card-img-top" alt="Alumni Image">
               </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger">Alumni Student Pro 11</h5>
                     <p class="text-muted">Post Date: 27-Jun-2017</p>
-                    <p>We are sorry! This page is under construction.</p>
+                    <p>Graduation ceremony for students studying at PPIU</p>
                 </div>
             </div>
         </div>
@@ -62,12 +62,12 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                 <a href="./Alumni_pic3.php">
-                <img src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg" class="card-img-top" alt="Alumni Image">
+                <img src="https://www.ppiu.edu.kh/public/images/article/10875129986.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger">Alumni Student Pro 10</h5>
                     <p class="text-muted">Post Date: 27-Apr-2017</p>
-                    <p>Under construction...</p>
+                    <p>Graduation ceremony for students studying at PPIU</p>
                 </div>
             </div>
         </div>
@@ -75,12 +75,12 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                <a href="./Alumni_pic4.php">
-               <img src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg" class="card-img-top" alt="Alumni Image">
+               <img src="https://www.ppiu.edu.kh/public/images/article/18643079976.jpg" class="card-img-top" alt="Alumni Image">
                </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger">Alumni Student Pro 10</h5>
                     <p class="text-muted">Post Date: 27-Apr-2017</p>
-                    <p>Under construction...</p>
+                    <p>Graduation ceremony for students studying at PPIU</p>
                 </div>
             </div>
         </div>

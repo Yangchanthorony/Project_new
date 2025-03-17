@@ -16,8 +16,8 @@
             <div class="post-title">
                 ការចែកជូនសញ្ញាបត្រជូននិស្សិតកំពុងសិក្សានៅសាកលវិទ្យាល័យ PPIU
             </div>  
-             <a href="https://www.ppiu.edu.kh/public/images/article/1536120995.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1536120995.jpg" alt="Certificate Award Ceremony">
+             <a href="https://www.ppiu.edu.kh/public/images/article/9321539988.jpg" target="_blank">
+             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/9321539988.jpg" alt="Certificate Award Ceremony">
             </a>
  
             
