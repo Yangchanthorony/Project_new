@@ -26,6 +26,10 @@
         "student-life": { "en": "Student Life", "kh": "ជីវិតនិស្សិត" },
         "centers": { "en": "Centers", "kh": "កណ្តាល" },
         "about-us": { "en": "About Us <i class='fas fa-chevron-down'></i>", "kh": "អំពីសាលា <i class='fas fa-chevron-down'></i>" },
+
+       
+
+
         
         "Academic": { "en": "Academic <i class='fas fa-chevron-down'></i>", "kh": "វគ្គសិក្សា <i class='fas fa-chevron-down'></i>"},
         "p": { "en": "Pay Application Fee", "kh": "បង់ថ្លៃពាក្យសុំ" },
@@ -91,7 +95,7 @@
         "event3-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
 
         // Event 4
-        "event4-title": { "en": "The management of (PPIU) shared their experiences", "kh": "ការគ្រប់គ្រងរបស់ (PPIU) បានចែករំលែកបទពិសោធន៍របស់ពួកគេ" },
+        "event4-title": { "en": "The management of (PPIU) ", "kh": "ការគ្រប់គ្រងរបស់ (PPIU) បានចែករំលែកបទពិសោធន៍" },
         "event4-date": { "en": "📅 Date: 21 February 2025 | ⏰ Time: 2:00 PM - 5:00 PM", "kh": "📅 កាលបរិច្ឆេទ: ២១ កុម្ភៈ ២០២៥ | ⏰ ម៉ោង: ២:ល្ងាចរសល្ងាច - ៥:ល្ងាច" },
         "event4-location": { "en": "📍 Location: Bunrany High School", "kh": "📍 ទីតាំង: វិទ្យាល័យប៊ុនរ៉ានី" },
         "event4-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
@@ -123,8 +127,30 @@
         "bachelor-11": { "en": "English for Education", "kh": "ភាសាអង់គ្លេសសម្រាប់ការអប់រំ" },
         "bachelor-12": { "en": "English for Business", "kh": "ភាសាអង់គ្លេសសម្រាប់ធុរកិច្ច" },
         "bachelor-13": { "en": "International Business", "kh": "ធុរកិច្ចអន្តរជាតិ" },
+        "bachelor-16": { "en": "Management Information System", "kh": "ប្រព័ន្ធព័ត៌មានគ្រប់គ្រង" },
         "bachelor-14": { "en": "Computer Sciences", "kh": "វិទ្យាសាស្ត្រកុំព្យូទ័រ" },
         "bachelor-15": { "en": "Logistics Management", "kh": "គ្រប់គ្រងភស្តុភារ" },
+
+        // Associate's Degree Section
+        "associate-header": { "en": "Associate's Degree", "kh": "សញ្ញាបត្ររង" },
+        "associate-accounting": { "en": "Accounting", "kh": "គណនេយ្យ" },
+        "associate-management": { "en": "Management", "kh": "គ្រប់គ្រង" },
+        "associate-marketing": { "en": "Marketing", "kh": "ទីផ្សារ" },
+        "associate-hotel-tourism": { "en": "Hotel & Tourism Management", "kh": "គ្រប់គ្រងសណ្ឋាគារ និងទេសចរណ៍" },
+        "associate-finance-banking": { "en": "Finance & Banking", "kh": "ហិរញ្ញវត្ថុ និងធនាគារ" },
+        "associate-economic-dev": { "en": "Economic Development", "kh": "ការអភិវឌ្ឍសេដ្ឋកិច្ច" },
+        "associate-law": { "en": "Law", "kh": "ច្បាប់" },
+        "associate-computer-science": { "en": "Computer Sciences", "kh": "វិទ្យាសាស្ត្រកុំព្យូទ័រ" },
+        "associate-mis": { "en": "Management Information System", "kh": "ប្រព័ន្ធព័ត៌មានគ្រប់គ្រង" },
+        "associate-english-edu": { "en": "English for Education", "kh": "ភាសាអង់គ្លេសសម្រាប់ការអប់រំ" },
+
+        // Doctoral's Degree Section
+        "doctoral-header": { "en": "Doctoral's Degree", "kh": "សញ្ញាបត្របណ្ឌិត" },
+        "doctoral-finance": { "en": "Finance", "kh": "ហិរញ្ញវត្ថុ" },
+        "doctoral-marketing": { "en": "Marketing", "kh": "ទីផ្សារ" },
+        "doctoral-management": { "en": "Management", "kh": "គ្រប់គ្រង" },
+        "doctoral-economic-dev": { "en": "Economic Development", "kh": "ការអភិវឌ្ឍសេដ្ឋកិច្ច" },
+        "doctoral-public-admin": { "en": "Public Administration", "kh": "រដ្ឋបាលសាធារណៈ" }, // Corrected typo from "public
 
         // News Section
         "news-title": { "en": "News", "kh": "ព័ត៌មាន" },

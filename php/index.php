@@ -267,7 +267,9 @@ include("../js/index.php");
                  <div  class="program-box" id="master-box" >
                  <div class="program-header" id="master-header" onclick="toggleList('master-box')">
                     Master's Degree
-                    <i class="fas fa-bars"></i>
+                
+                   <i  class="fas fa-bars"></i>
+                 
                 </div>
                 <ul class="program-list">
                     <li id="master-1">Management</li>
@@ -301,35 +303,44 @@ include("../js/index.php");
                         <li id="bachelor-12">English for Business</li>
                         <li id="bachelor-13">International Business</li>
                         <li id="bachelor-14">Computer Sciences</li>
+                        <li id="bachelor-16">Management Information System</li>
                         <li id="bachelor-15">Logistics Management</li>
+
                     </ul>
                 </div>
 
                 <div class="program-box" id="Associate-box">
-                    <div class="program-header" onclick="toggleList('Associate-box')">
-                        Associate's Degree
-                        <i class="fas fa-bars"></i>
-                    </div>
-                    <ul class="program-list">
-                        <li>School of Business</li>
-                        <li>School of Digital Technologies</li>
-                        <li>School of Law</li>
-                        <li>School of Social Sciences</li>
-                    </ul>
-                </div>
+    <div class="program-header" onclick="toggleList('Associate-box')" id="associate-header">
+        Associate's Degree
+        <i class="fas fa-bars"></i>
+    </div>
+    <ul class="program-list">
+        <li id="associate-accounting">Accounting</li>
+        <li id="associate-management">Management</li>
+        <li id="associate-marketing">Marketing</li>
+        <li id="associate-hotel-tourism">Hotel & Tourism Management</li>
+        <li id="associate-finance-banking">Finance & Banking</li>
+        <li id="associate-economic-dev">Economic Development</li>
+        <li id="associate-law">Law</li>
+        <li id="associate-computer-science">Computer Sciences</li>
+        <li id="associate-mis">Management Information System</li>
+        <li id="associate-english-edu">English for Education</li>
+    </ul>
+</div>
 
-                <div class="program-box" id="Doctoral-box">
-                    <div class="program-header" onclick="toggleList('Doctoral-box')">
-                        Doctoral's Degree
-                        <i class="fas fa-bars"></i>
-                    </div>
-                    <ul class="program-list">
-                        <li>School of Business</li>
-                        <li>School of Digital Technologies</li>
-                        <li>School of Law</li>
-                        <li>School of Social Sciences</li>
-                    </ul>
-                </div>
+<div class="program-box" id="Doctoral-box">
+    <div class="program-header" onclick="toggleList('Doctoral-box')" id="doctoral-header">
+        Doctoral's Degree
+        <i class="fas fa-bars"></i>
+    </div>
+    <ul class="program-list">
+        <li id="doctoral-finance">Finance</li>
+        <li id="doctoral-marketing">Marketing</li>
+        <li id="doctoral-management">Management</li>
+        <li id="doctoral-economic-dev">Economic Development</li>
+        <li id="doctoral-public-admin">Public Administration</li> <!-- Corrected typo -->
+    </ul>
+</div>
 
             </div>
 
