@@ -139,13 +139,14 @@ include("../js/index.php");
 
                 
 
-                <div style=" height: 1200px;" class="container gallery-container">
+                <div style=" height: 1000px;" class="container gallery-container">
                 <h2 class="gallery-title" id="ppiu-community-title">PPIU Community</h2>
                     <div class="row g-4 pic">
                         <!-- Gallery Item 1 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="10">
                             <div class="gallery-item">
                                 <a href="http://web.facebook.com/photo/?fbid=1065362475632482&set=a.641396244695776"><img src="https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/482024988_1065362482299148_2169729506199855396_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEfhgeNC5fmIHtKqEsCXKLUeXW5RMwMlMx5dblEzAyUzDjPPpDkKBFA2btBNLI2nMy7mfQafFDOEhKnDQFyXvzv&_nc_ohc=22b8gCZYnU4Q7kNvgGo-x4k&_nc_oc=Adj4WECuN0dK-2UqyxK4AIAwmXRSXR2PC-CKmNY--dmnVsdje6XpKzsSe_5Kh9pwbp8&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&_nc_gid=Atf4ohTSCcoeuYouiN4OmjW&oh=00_AYEavOMlBA6Qmc-Zs8HqcSIIxl9dl0KQHdY20yVLuMU-6Q&oe=67D63B8A" alt="Gallery Image 1"></a>
+
                             </div>
                         </div>
                         <!-- Gallery Item 2 -->
@@ -161,11 +162,12 @@ include("../js/index.php");
                             </div>
                         </div>
 
-                        <h2 class="gallery-title" id="ppiu-lecture-title">PPIU Lecture</h2>
+                        <h2 style="margin-top: 60px;" class="gallery-title" id="ppiu-lecture-title">PPIU Lecture</h2>
                         <!-- Gallery Item 4 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="40">
                             <div class="gallery-item">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 4">
+                                <h2 style="margin-top: 20px; margin-left: 50px;">Hem Tola</h2>
                             </div>
                         </div>
                         <!-- Gallery Item 5 -->
@@ -181,25 +183,18 @@ include("../js/index.php");
                             </div>
                         </div>
 
-                        <div style="margin-left: 440px;" class="col-md-4" data-aos="zoom-in-down" data-aos-delay="60">
-                            <div class="gallery-item">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 6">
-                            </div>
-                        </div>
-                    </div>
-                    
-                    
-                    <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam">
+                        <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam">
                     <h4 style="margin-top: 50px; margin-left: 60px; color: white;" id="facebook-follow">
                         <i class="fa-brands fa-facebook"></i> follow in facebook
                     </h4>
                     </a>
+                        </div>
+                    </div>
+                    
+                  
                 </div>
 
-                
-                
-
-                <div style="margin-top: 50px;" class="container text-center text">
+                <div  class="container text-center text">
                     <h2 class="" id="admissions-processes-title">Admissions Processes</h2>
                 </div>
                     <!-- Bachelor's Section -->
@@ -257,7 +252,7 @@ include("../js/index.php");
 
             <!-- Major Programs -->
             <div class="text">
-                <h2 style="margin-bottom: 100px;" id="major-programs-heading">Major Programs</h2>
+                <h2 style="margin-bottom: 10px;" id="major-programs-heading">Major Programs</h2>
             </div>
                         
 
@@ -309,12 +304,12 @@ include("../js/index.php");
                     </ul>
                 </div>
 
-                <div class="program-box" id="Associate-box">
-    <div class="program-header" onclick="toggleList('Associate-box')" id="associate-header">
-        Associate's Degree
-        <i class="fas fa-bars"></i>
-    </div>
-    <ul class="program-list">
+            <div class="program-box" id="Associate-box">
+                <div class="program-header" onclick="toggleList('Associate-box')" id="associate-header">
+                Associate's Degree
+               <i    class="fas fa-bars"></i>
+            </div>
+    <ul  class="program-list">
         <li id="associate-accounting">Accounting</li>
         <li id="associate-management">Management</li>
         <li id="associate-marketing">Marketing</li>

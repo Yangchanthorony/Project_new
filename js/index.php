@@ -27,8 +27,7 @@
         "centers": { "en": "Centers", "kh": "កណ្តាល" },
         "about-us": { "en": "About Us <i class='fas fa-chevron-down'></i>", "kh": "អំពីសាលា <i class='fas fa-chevron-down'></i>" },
 
-       
-
+            
 
         
         "Academic": { "en": "Academic <i class='fas fa-chevron-down'></i>", "kh": "វគ្គសិក្សា <i class='fas fa-chevron-down'></i>"},
@@ -50,8 +49,8 @@
         "doctoral": { "en": "<i class='fas fa-award'></i> DOCTORAL", "kh": "<i class='fas fa-award'></i> សញ្ញាបត្របណ្ឌិត" },
         "faculties": { "en": "<i class='fas fa-building'></i> FACULTIES", "kh": "<i class='fas fa-building'></i> មហាវិទ្យាល័យ" },
         "faculty-science-it": { "en": "<i class='fas fa-flask'></i> FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY", "kh": "<i class='fas fa-flask'></i> មហាវិទ្យាល័យវិទ្យាសាស្ត្រ និងបច្ចេកវិទ្យាព័ត៌មាន" },
-        "faculty-business-tourism": { "en": "<i class='fas fa-briefcase'></i> FACULTY OF BUSINESS AND TOURISM", "kh": "<i class='fas fa-briefcase'></i> មហាវិទ្យាល័យធុរកិច្ច និងទេសចរណ៍" },
-        "faculty-law-economics": { "en": "<i class='fas fa-gavel'></i> FACULTY OF LAW AND ECONOMICS", "kh": "<i class='fas fa-gavel'></i> មហាវិទ្យាល័យនីតិសាស្ត្រ និងសេដ្ឋកិច្ច" },
+        "faculty-business-tourismmo": { "en": "<i class='fas fa-briefcase'></i> FACULTY OF BUSINESS AND TOURISM", "kh": "<i class='fas fa-briefcase'></i> មហាវិទ្យាល័យធុរកិច្ច និងទេសចរណ៍" },
+        "faculty-law-economicso": { "en": "<i class='fas fa-gavel'></i> FACULTY OF LAW AND ECONOMICS", "kh": "<i class='fas fa-gavel'></i> មហាវិទ្យាល័យនីតិសាស្ត្រ និងសេដ្ឋកិច្ច" },
         "faculty-education": { "en": "<i class='fas fa-book'></i> FACULTY OF EDUCATION SCIENCE", "kh": "<i class='fas fa-book'></i> មហាវិទ្យាល័យវិទ្យាសាស្ត្រអប់រំ" },
         "faculty-news-views": { "en": "<i class='fas fa-newspaper'></i> FACULTY OF NEWS AND VIEWS", "kh": "<i class='fas fa-newspaper'></i> មហាវិទ្យាល័យព័ត៌មាន និងទស្សនៈ" },
         "study-programs": { "en": "<i class='fas fa-book'></i> STUDY PROGRAMS - PPIU", "kh": "<i class='fas fa-book'></i> កម្មវិធីសិក្សា - PPIU" },
@@ -71,6 +70,23 @@
         "admission-bachelor": { "en": "<i class='fas fa-user'></i> BACHELOR", "kh": "<i class='fas fa-user'></i> បរិញ្ញាបត្រ" },
         "admission-doctoral": { "en": "<i class='fas fa-graduation-cap'></i> DOCTORAL", "kh": "<i class='fas fa-graduation-cap'></i> បណ្ឌិត" },
         "contact": { "en": "Contact", "kh": "ទំនាក់ទំនង" },
+
+        "loan-header": { "en": "You can achieve your dreams by using a student loan", "kh": "អ្នកអាចសម្រេចក្តីសុបិនរបស់អ្នកដោយប្រើប្រាស់ប្រាក់កម្ចីនិស្សិត" },
+                "loan-intro": { "en": "Phnom Penh International University (PPIU) has partnered with PRINCE Bank to provide student loans for Associate Degrees, Bachelor's Degrees, Master's Degrees, and Doctorates with the following special conditions:", "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) បានចាប់ដៃគូជាមួយធនាគារ PRINCE Bank ដើម្បីផ្តល់ប្រាក់កម្ចីនិស្សិតសម្រាប់សញ្ញាបត្ររង សញ្ញាបត្របរិញ្ញាបត្រ សញ្ញាបត្រអនុបណ្ឌិត និងសញ្ញាបត្របណ្ឌិតជាមួយលក្ខខណ្ឌពិសេសដូចខាងក្រោម:" },
+                "terms-title": { "en": "1. Terms and Conditions: Student Loan", "kh": "១. លក្ខខណ្ឌ៖ ប្រាក់កម្ចីនិស្សិត" },
+                "eligibility-title": { "en": "2. Eligibility Criteria for Students", "kh": "២. លក្ខណៈវិនិច្ឆ័យសម្រាប់និស្សិត" },
+                "eligibility-age": { "en": "Students must be at least 18 years old", "kh": "និស្សិតត្រូវមានអាយុយ៉ាងតិច ១៨ ឆ្នាំ" },
+                "eligibility-studying": { "en": "Students must be currently studying at a university or institute", "kh": "និស្សិតត្រូវកំពុងសិក្សានៅសាកលវិទ្យាល័យ ឬវិទ្យាស្ថានមួយ" },
+                "eligibility-outstanding": { "en": "Outstanding students (scholarship recipients, continuing education, or employed students)", "kh": "និស្សិតឆ្នើម (អ្នកទទួលអាហារូបករណ៍ ការអប់រំបន្ត ឬនិស្សិតដែលមានការងារធ្វើ)" },
+                "eligibility-guarantor": { "en": "Students must have a guarantor, collateral, income, or a scholarship", "kh": "និស្សិតត្រូវមានអ្នកធានា ទ្រព្យបញ្ចាំ ប្រាក់ចំណូល ឬអាហារូបករណ៍" },
+                "overlay-student-loan": { "en": "STUDENT LOAN", "kh": "ប្រាក់កម្ចីនិស្សិត" },
+                "overlay-amount": { "en": "Up to $3,200", "kh": "រហូតដល់ ៣,២០០ ដុល្លារ" },
+                "overlay-partnership": { "en": "PARTNERSHIP", "kh": "ភាពជាដៃគូ" },
+                "overlay-prince-bank": { "en": "PRINCE BANK", "kh": "ធនាគារ PRINCE" },
+                "overlay-contact": { "en": "Contact: 123-456-789", "kh": "ទំនាក់ទំនង: ១២៣-៤៥៦-៧៨៩" },
+                "overlay-tenor": { "en": "LOAN TENOR UP TO 8 YEARS", "kh": "រយៈពេលកម្ចីរហូតដល់ ៨ ឆ្នាំ" },   
+
+                
 
         //mid
         
@@ -1283,6 +1299,9 @@
             link.textContent = translations[link.textContent.trim()];
         }
     });
+
+    
+    
 
     function searchNames() {
     // Get the search input value and convert to lowercase for case-insensitive search

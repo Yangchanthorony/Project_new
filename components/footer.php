@@ -25,6 +25,7 @@
 .footer a {
     color: white;
     text-decoration: none;
+    
 
 }
 .footer a:hover {
@@ -55,11 +56,10 @@
                     <div class="col-md-3">
                         <h5>Quick Links</h5>
                         <ul class="list-unstyled">
-                            <li><a href="#">History</a></li>
-                            <li><a href="#">Vision - Mission - Value</a></li>
-                            <li><a href="#">FAQs</a></li>
-                            <li><a href="#">Career Opportunities</a></li>
-                            <li><a href="#">Current Weather at AUPP</a></li>
+                            <li><a href="history.php">History</a></li>
+                            <li><a href="Vision_Mission_and_Values.php">Vision - Mission - Value</a></li>
+                            <li><a href="Career_Opportunities.php">Career Opportunities</a></li>
+                            <li><a href="#">Current Weather at PPIU</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3">
@@ -83,7 +83,7 @@
                     <div class="col-md-3">
                         <h5>Contact Us</h5>
                         <p>
-                            Address: 2738 Street 207, Kralor Village, Sangkat Krom, Khan Russey Keo, Phnom Penh, Cambodia<br>
+                            Address: Building 36, Street 169, Veal Vong, 7 Makara, Phnom Penh, Cambodia.<br>
                             Phone: (+855) 23 899 003<br>
                             Email: <a href="mailto:info@aupp.edu.kh">info@ppiu.edu.kh</a>
                         </p>

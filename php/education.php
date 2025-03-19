@@ -3,6 +3,7 @@
 <head>
     <?php 
     include("../components/header.php");
+    include("../js/education.php");
     ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,37 +14,29 @@
 <body>
 
 <div class="header-pattern">
-        <div class="header">
+    <div class="header" id="faculty-header">
         FACULTY OF EDUCATION SCIENCE
-        </div>
-    </div>       
+    </div>
+</div>       
 <div class="container">
-        
-        <p  class="aa" style="margin-left: 40px; ">The overall aim of the program is to develop students’ capacity in using English in all genres of competencies regionally and internationally. The graduates will have in-depth of understanding all kinds of social affairs communicated in English within wide range of political economy. Four macro-skills are polished in order to broaden language proficiency, fluency, and accuracy.</p>
-        <p class="aa" style="margin-left: 40px; ">  The program is ready to commence with quality and standard in accordance to National Qualifications Framework for Higher Education in 2015. Therefore, the university mission is to nurture academic excellence as the country’s premier business-knowledge-enhanced place of learning, providing business know-how for graduates in all disciplines, and to stay ahead in shaping business leaders and knowledge experts of tomorrow in an international academic and research atmosphere. In order to achieve the above goals, the program’s curriculum development is a must. It focuses on fostering critical and creative thinking and independent working skills so that students enter the professional world more fully equipped to respond to its needs with knowledge in both English language and business.</p>
-        <p class="aa" style="margin-left: 40px; "> Next, quality concern is another portion that university never take it for granted; after having good curriculum, staffs’ training focus is also crucial in order to maximize the English educating quality; staffs need to be constantly provided in-service training—staffs who have been employed and they receive more training to advance their instruction ability.In Cambodia, the Department of Higher Education (DHE) plays an important role to oversee and maintain the implementation of the curriculum; this institution has to conducts workshops and other meetings with specialists and other relevant stakeholders to develop and cross check the quality and the implementation of curriculum; the curriculum must meet the academic requirements of assisting students to learn and develop cognitively in an optimum way, at the same time as equipping students with the professional skills and knowledge necessary for success in highly competitive national and international environments.</p>
-        <p class="aa" style="margin-left: 40px; ">  English is the global language and is increasingly necessary in all areas of business, especially with the coming 2015 ASEAN Community where English will definitely become means of communication. Like all nations, countries in the region are not immune to world economic trends, and have been affected by recent global economic crises. For Bachelor Degree graduates, the job market is as competitive as ever, and this competition has been added to by a growth in the number of higher education institutions. Curricula must equip students with as many skills and competencies as possible if these students are to succeed in this very competitive environment.</p>
-       
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;">  ១ បរិញ្ញាបត្ររង (Associate Degree)</h6>
-       
-        <p  style="color: black; margin-left: 20px; font-weight: bold;">Vision</p>
-       
-        <p class="aa" style="margin-left: 40px; ">The Associate Degree Program in English is designed for highly qualified associate diploma holders to meet work force demand which English is tremendously used. Learners learn more practical English language which can be used to apply at work place effectively in various fields such as teaching, tourism, business, and financial sectors, etc… Moreover, this program develops personal confidence, and the competency of communication skills which English is required; it provides not only the hard skills related to English use and usage, but also soft skills which enable learners to allocate themselves into business world and culture.</p>
-       
-        <p  style="color: black; margin-left: 20px; font-weight: bold;">Goal</p>
-       
-        <p class="aa" style="margin-left: 40px; ">Our program aims to produce human resources that meet the current trend of job market where English is widely used. It also aims to accommodate the successful degree holders from this program to fit themselves in the regional competitive working environment, especially in the upcoming ASEAN community integration by 2015.</p>
-
-        <p  style="color: black; margin-left: 20px; font-weight: bold;">Mission</p>
-       
-       <p class="aa" style="margin-left: 40px; "> Our mission is to provide concrete and useful knowledge for learners in very short time by using an applicable mechanism:</p>
-
-       <p class="aa" style="margin-left: 20px; ">+ Effective instructions of students’ activities orientation,</p>
-       <p class="aa" style="margin-left: 20px; ">+ Highly qualified lecturers—academically and pedagogically,</p>
-       <p class="aa" style="margin-left: 20px; ">+ Cooperation with partnered companies to provide internship opportunities and prospective employment,</p>
-       <p class="aa" style="margin-left: 20px; ">+ Exchange students abroad with partnered universities to regionalize and globalize knowledge of the learners</p>
-       
-       <h6  style="color: red; margin-left: 20px; font-weight: bold;"> ២ កម្មវិធីសិក្សា</h6>
+    <p class="aa" style="margin-left: 40px;" id="intro-text-1">The overall aim of the program is to develop students’ capacity in using English in all genres of competencies regionally and internationally. The graduates will have in-depth of understanding all kinds of social affairs communicated in English within wide range of political economy. Four macro-skills are polished in order to broaden language proficiency, fluency, and accuracy.</p>
+    <p class="aa" style="margin-left: 40px;" id="intro-text-2">The program is ready to commence with quality and standard in accordance to National Qualifications Framework for Higher Education in 2015. Therefore, the university mission is to nurture academic excellence as the country’s premier business-knowledge-enhanced place of learning, providing business know-how for graduates in all disciplines, and to stay ahead in shaping business leaders and knowledge experts of tomorrow in an international academic and research atmosphere. In order to achieve the above goals, the program’s curriculum development is a must. It focuses on fostering critical and creative thinking and independent working skills so that students enter the professional world more fully equipped to respond to its needs with knowledge in both English language and business.</p>
+    <p class="aa" style="margin-left: 40px;" id="intro-text-3">Next, quality concern is another portion that university never take it for granted; after having good curriculum, staffs’ training focus is also crucial in order to maximize the English educating quality; staffs need to be constantly provided in-service training—staffs who have been employed and they receive more training to advance their instruction ability. In Cambodia, the Department of Higher Education (DHE) plays an important role to oversee and maintain the implementation of the curriculum; this institution has to conducts workshops and other meetings with specialists and other relevant stakeholders to develop and cross check the quality and the implementation of curriculum; the curriculum must meet the academic requirements of assisting students to learn and develop cognitively in an optimum way, at the same time as equipping students with the professional skills and knowledge necessary for success in highly competitive national and international environments.</p>
+    <p class="aa" style="margin-left: 40px;" id="intro-text-4">English is the global language and is increasingly necessary in all areas of business, especially with the coming 2015 ASEAN Community where English will definitely become means of communication. Like all nations, countries in the region are not immune to world economic trends, and have been affected by recent global economic crises. For Bachelor Degree graduates, the job market is as competitive as ever, and this competition has been added to by a growth in the number of higher education institutions. Curricula must equip students with as many skills and competencies as possible if these students are to succeed in this very competitive environment.</p>
+    
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="associate-title">1. Associate Degree</h6>
+    <p style="color: black; margin-left: 20px; font-weight: bold;" id="vision-title">Vision</p>
+    <p class="aa" style="margin-left: 40px;" id="vision-text">The Associate Degree Program in English is designed for highly qualified associate diploma holders to meet work force demand which English is tremendously used. Learners learn more practical English language which can be used to apply at work place effectively in various fields such as teaching, tourism, business, and financial sectors, etc… Moreover, this program develops personal confidence, and the competency of communication skills which English is required; it provides not only the hard skills related to English use and usage, but also soft skills which enable learners to allocate themselves into business world and culture.</p>
+    <p style="color: black; margin-left: 20px; font-weight: bold;" id="goal-title">Goal</p>
+    <p class="aa" style="margin-left: 40px;" id="goal-text">Our program aims to produce human resources that meet the current trend of job market where English is widely used. It also aims to accommodate the successful degree holders from this program to fit themselves in the regional competitive working environment, especially in the upcoming ASEAN community integration by 2015.</p>
+    <p style="color: black; margin-left: 20px; font-weight: bold;" id="mission-title">Mission</p>
+    <p class="aa" style="margin-left: 40px;" id="mission-text">Our mission is to provide concrete and useful knowledge for learners in very short time by using an applicable mechanism:</p>
+    <p class="aa" style="margin-left: 20px;" id="mission-item-1">+ Effective instructions of students’ activities orientation,</p>
+    <p class="aa" style="margin-left: 20px;" id="mission-item-2">+ Highly qualified lecturers—academically and pedagogically,</p>
+    <p class="aa" style="margin-left: 20px;" id="mission-item-3">+ Cooperation with partnered companies to provide internship opportunities and prospective employment,</p>
+    <p class="aa" style="margin-left: 20px;" id="mission-item-4">+ Exchange students abroad with partnered universities to regionalize and globalize knowledge of the learners</p>
+    
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="programs-title">2. Programs of Study</h6>
        
        <div class="container mt-4">
         
@@ -170,43 +163,27 @@
         </div>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top:20px; font-weight: bold;">  ៣ បរិញ្ញាបត្រBachelor Degree</h6>
-
-    <p class="aa" style="margin-left: 40px; "> The Bachelor program in English is designed to meet work force demand which English is tremendously used.  The graduates from this program are expected to work in the field of teaching, translating and interpreting, as well as those in the fields of tourism, hospitality and business, particularly where English proficiency is required. In response to the need for capable human resources, <span style="color: red;">Phnom Penh International University (PPIU)</span> which has the Faculty of Education Science as its practitioner has established three English programs as, firstly, English for Education which focuses on Teaching English as a Foreign Language (TEFL); secondly, the English for Business which aims to provide English for Work Skills. Both degrees are professionally recognized and vocationally focused, and offer practical learning experiences for all students. The courses are four-year programs which are designed to meet the demands from commercial, public and voluntary sectors requiring professionals with advanced skills in English. Thirdly, the English for Specific Academic Purposes (ESAP) which was designed distinctively for promoting English among students in other academic fields beside English for Education; this special English program is provided to students who take business field from year I to year II semester I. All students need to take part in the university's Foundation Year program, acquiring the general knowledge and basic ethical principles necessary for further university study. For students whose degrees in English for Education and English for Business complete the same courses throughout Years II and III, before specializing in their specific area of English studies and skills in Year IV.</p>
- 
-    <p class="aa" style="margin-left: 40px; ">The English for Education program develops students' professional skills in teaching English as Foreign Language (TEFL) at a secondary and tertiary school levels. Apart from coursework, a practicum (teaching practice) and ongoing individual learning are important aspects of the course.</p>
-     
-    <p class="aa" style="margin-left: 40px; ">The English for Business program enhances students' English knowledge and ability for employment in a variety of administrative and developmental roles requiring high-level English skills. In a more focus of the description of this program is to provide English for work skills. In year IV, students do study the specialized subjects: Business Communications, Public Relations International Business, Research Methodology, Translation Skills, and English for Business.</p>
+    <h6 style="color: red; margin-left: 20px; margin-top:20px; font-weight: bold;" id="bachelor-title">3. Bachelor Degree</h6>
+    <p class="aa" style="margin-left: 40px;" id="bachelor-text-1">The Bachelor program in English is designed to meet work force demand which English is tremendously used. The graduates from this program are expected to work in the field of teaching, translating and interpreting, as well as those in the fields of tourism, hospitality and business, particularly where English proficiency is required. In response to the need for capable human resources, <span style="color: red;">Phnom Penh International University (PPIU)</span> which has the Faculty of Education Science as its practitioner has established three English programs as, firstly, English for Education which focuses on Teaching English as a Foreign Language (TEFL); secondly, the English for Business which aims to provide English for Work Skills. Both degrees are professionally recognized and vocationally focused, and offer practical learning experiences for all students. The courses are four-year programs which are designed to meet the demands from commercial, public and voluntary sectors requiring professionals with advanced skills in English. Thirdly, the English for Specific Academic Purposes (ESAP) which was designed distinctively for promoting English among students in other academic fields beside English for Education; this special English program is provided to students who take business field from year I to year II semester I. All students need to take part in the university's Foundation Year program, acquiring the general knowledge and basic ethical principles necessary for further university study. For students whose degrees in English for Education and English for Business complete the same courses throughout Years II and III, before specializing in their specific area of English studies and skills in Year IV.</p>
+    <p class="aa" style="margin-left: 40px;" id="bachelor-text-2">The English for Education program develops students' professional skills in teaching English as Foreign Language (TEFL) at a secondary and tertiary school levels. Apart from coursework, a practicum (teaching practice) and ongoing individual learning are important aspects of the course.</p>
+    <p class="aa" style="margin-left: 40px;" id="bachelor-text-3">The English for Business program enhances students' English knowledge and ability for employment in a variety of administrative and developmental roles requiring high-level English skills. In a more focus of the description of this program is to provide English for work skills. In year IV, students do study the specialized subjects: Business Communications, Public Relations International Business, Research Methodology, Translation Skills, and English for Business.</p>
     
-    <p  style="color: black; margin-left: 20px; font-weight: bold;">Admission</p>
-
-    <p  style="color: black; margin-left: 20px; ">In order to enroll in the program, all students have to:</p>
-
-    <p class="aa" style="margin-left: 40px; "> 1. Hold a High School Certificate or a qualification deemed equivalent by the Ministry of Education, Youth and Sport (MoEYS). Alternatively, they must have a B.A. or an associate degree in any field from a recognized university or institute.</p>
- 
-    <p class="aa" style="margin-left: 40px; "> 2. Pass a 90-minute English entrance examination administered by the Faculty of Education Science, PPIU.</p>
- 
-    <p class="aa" style="margin-left: 40px; "> 3. Fill out the formal form of application which is essential for the registration requirement and for the validity of student enrollment which is validated by the Ministry of Education, youth and sports.</p>
- 
-    <p  style="color: black; margin-left: 20px; font-weight: bold;">Assessment</p>
-
-    <p class="aa" style="margin-left: 40px; "> 1. Assessment and examination</p>
-
-    <p  style="color: black; margin-left: 20px; ">Students' academic performance is assessed seriously in each semester. A good score in one semester cannot compensate for a fair or poor score in the other. Students are assessed in two ways:</p>
-
-    <p class="aa" style="margin-left: 40px; "> + On-going assessment (55%), based on class attendant and participation (10%), homework, assignments, oral presentations (20%),  and mid-term test (25%)</p>
+    <p style="color: black; margin-left: 20px; font-weight: bold;" id="admission-title">Admission</p>
+    <p style="color: black; margin-left: 20px;" id="admission-intro">In order to enroll in the program, all students have to:</p>
+    <p class="aa" style="margin-left: 40px;" id="admission-item-1">1. Hold a High School Certificate or a qualification deemed equivalent by the Ministry of Education, Youth and Sport (MoEYS). Alternatively, they must have a B.A. or an associate degree in any field from a recognized university or institute.</p>
+    <p class="aa" style="margin-left: 40px;" id="admission-item-2">2. Pass a 90-minute English entrance examination administered by the Faculty of Education Science, PPIU.</p>
+    <p class="aa" style="margin-left: 40px;" id="admission-item-3">3. Fill out the formal form of application which is essential for the registration requirement and for the validity of student enrollment which is validated by the Ministry of Education, youth and sports.</p>
     
-    <p class="aa" style="margin-left: 40px; "> + Final Examination (45%)</p>
-
-    <p  style="color: black; margin-left: 20px; ">The score(s) that students earn for the on-going assessment is announced at the end of the course before they take the final test. To do this students are able to recognize how many marks or scores they have earned, and they know how many more scores they need to be accessed.</p>
-
-    <p  style="color: black; margin-left: 20px; ">Before announcing the final result (the on-going assessment and the final), the management team and the academic personnel are invited to cross-check to guarantee the accuracy and validity of the result.</p>
-
-    <p class="aa" style="margin-left: 40px; "> 2. Promotion</p>
-
-    <p  style="color: black; margin-left: 20px; ">Students must fulfill all academic and attendance requirements in order to be promoted to the next level. In order to pass a subject, students must achieve a score of AT LEAST 60%.</p>
-
-    <p  style="color: black; margin-left: 20px; ">Curriculum</p>
+    <p style="color: black; margin-left: 20px; font-weight: bold;" id="assessment-title">Assessment</p>
+    <p class="aa" style="margin-left: 40px;" id="assessment-item-1">1. Assessment and examination</p>
+    <p style="color: black; margin-left: 20px;" id="assessment-intro">Students' academic performance is assessed seriously in each semester. A good score in one semester cannot compensate for a fair or poor score in the other. Students are assessed in two ways:</p>
+    <p class="aa" style="margin-left: 40px;" id="assessment-method-1">+ On-going assessment (55%), based on class attendant and participation (10%), homework, assignments, oral presentations (20%), and mid-term test (25%)</p>
+    <p class="aa" style="margin-left: 40px;" id="assessment-method-2">+ Final Examination (45%)</p>
+    <p style="color: black; margin-left: 20px;" id="assessment-text-1">The score(s) that students earn for the on-going assessment is announced at the end of the course before they take the final test. To do this students are able to recognize how many marks or scores they have earned, and they know how many more scores they need to be accessed.</p>
+    <p style="color: black; margin-left: 20px;" id="assessment-text-2">Before announcing the final result (the on-going assessment and the final), the management team and the academic personnel are invited to cross-check to guarantee the accuracy and validity of the result.</p>
+    <p class="aa" style="margin-left: 40px;" id="assessment-item-2">2. Promotion</p>
+    <p style="color: black; margin-left: 20px;" id="promotion-text">Students must fulfill all academic and attendance requirements in order to be promoted to the next level. In order to pass a subject, students must achieve a score of AT LEAST 60%.</p>
+    <p style="color: black; margin-left: 20px;" id="curriculum-title">Curriculum</p>
 
     <div class="container mt-4">
         

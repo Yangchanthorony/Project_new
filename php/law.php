@@ -3,6 +3,7 @@
 <head>
     <?php 
     include("../components/header.php");
+    include("../js/law.php");
     ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,49 +14,47 @@
 <body>
 
 <div class="header-pattern">
-        <div class="header">
-        FACULTY OF LAW AND ECONOMIC
-        </div>
-    </div>       
+    <div class="header" id="faculty-header">
+        FACULTY OF LAW AND ECONOMICS
+    </div>
+</div>       
 <div class="container">
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;">១. សេចក្តីផ្តើម</h6>
-        <p  class="aa" style="margin-left: 40px; ">មហាវិទ្យាល័យនីតិសាស្រ្ត និងសេដ្ឋកិច្ចជាមហាវិទ្យាល័យធំមួយក្នុងចំណោមមហាវិទ្យា- ល័យទាំង ០៤ ដែលបានបណ្តុះបណ្តាលជំនាញរួមមាន៖ ហិរញ្ញវត្ថុ​ និងធនាគារ អភិវឌ្ឍសេដ្ឋកិច្ច ច្បាប់ និងរដ្ឋបាលសាធារណៈ។​ ដើម្បីឆ្លើយតបនឹងតម្រូវការនៃទីផ្សារការងារក្នុងបរិបទ​នៃសមា​ហរ័ណ​កម្មអាស៊ាននាពេលខាងមុខដែលត្រូវការនូវអ្នកជំនាញក្នុងវិស័យ ហិរញ្ញវត្ថុ ធនាគារ ទីផ្សារ​​​មូលប័ត្រ ច្បាប់ និងរដ្ឋបាលសាធារណៈ។ មហាវិទ្យាល័យបាននឹងកំពុងធ្វើ​ការអភិវឌ្ឍ​នូវកម្មវិធីសិក្សាខ្លួនឲ្យឆ្លើយតបបរិបទតំបន់ និងការកៀងគរ​ ប្រមូលផ្តុំនូវធនធានសាស្រ្តាចារ្យ​ល្អៗ​ដែល​មាន​ចំណេះ​ដឹង និងពិសោធន៍​ជាក់ស្តែង ​ដើម្បីចូលរួមចំណែកក្នុងការបណ្តុះបណ្តាលនិស្សិតឲ្យក្លាយជាកំលាំងចលករក្នុងការចូលរួមអភិវឌ្ឍសង្គម និងសេដ្ឋកិច្ចឲ្យមានការរីកចំរើនជា​លំដាប់។</p>
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="intro-title">1. Introduction</h6>
+    <p class="aa" style="margin-left: 40px;" id="intro-text">The Faculty of Law and Economics is one of the four major faculties that provide training in various disciplines, including Finance and Banking, Economic Development, Law, and Public Administration. In response to labor market demands within the context of ASEAN economic integration, the faculty is continuously developing its academic programs to meet regional needs and enhance collaboration by bringing in well-qualified professors with extensive knowledge and practical experience. The faculty aims to train students to become key contributors to the social and economic development of the region.</p>
 
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;">២. ចក្ខុវិស័យ</h6>
-        <p class="aa" style="margin-left: 40px; ">មហាវិទ្យាល័យនីតិសាស្រ្ត និងសេដ្ឋកិច្ចនៃសាកលវិទ្យាល័យភ្នំពេញអន្តរជាតិ និងចូលរួម​ចំណែក​​​បណ្តុះបណ្តាលធនធានមនុស្សប្រកបដោយគុណភាព ដើម្បីឆ្លើយតប​នឹង​តម្រូវការ​ទីផ្សារ​កម្លាំងពលកម្មជំនាញ​ និងមុខរបរក្នុង​ស្រុក​ និង​មានលទ្ធភាព​បំលាស់ទីក្នុងសហគមន៍​អាស៊ាន  និងសាកលលោក។</p>
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="vision-title">2. Vision</h6>
+    <p class="aa" style="margin-left: 40px;" id="vision-text">The Faculty of Law and Economics at Phnom Penh International University is committed to providing high-quality human resource development to meet the demands of the local and ASEAN labor markets, ensuring mobility within the region and globally.</p>
 
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;">៣. បេសកកម្ម</h6>
-        <p class="aa" style="margin-left: 40px; "> ដើម្បីសម្រេចបាននូវចក្ខុវិស័យ និងគោលដៅខាងលើកម្មវិធីសិក្សាថ្នាក់បរិញ្ញាបត្ររង  ហិរញ្ញវត្ថុ និងធនាគារ  មាន​បេសកកម្ម​ចម្បងៗដូចខាងក្រោម ៖</p>
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="mission-title">3. Mission</h6>
+    <p class="aa" style="margin-left: 40px;" id="mission-intro">To achieve the above vision and goals, the Bachelor of Finance and Banking program has the following key missions:</p>
+    <p class="aa" style="margin-left: 60px;" id="mission-curricula">- Develop new curricula aligned with the faculty's training programs and academic levels through cooperation with relevant stakeholders.</p>
+    <p class="aa" style="margin-left: 60px;" id="mission-training">- Increase hands-on training hours to enhance soft skills through partnerships with banks, microfinance institutions, insurance companies, stock markets, courts, legal entities, and partner universities in the region.</p>
+    <p class="aa" style="margin-left: 60px;" id="mission-internships">- Strengthen cooperation in securing internship placements for students and job opportunities for graduates.</p>
 
-        <p class="aa" style="margin-left: 60px; "> -​ រៀបចំកម្មវិធីសិក្សាថ្មី ស្របតាមកម្មវិធីបណ្តុះបណ្តាលក្នុងមហាវិទ្យាល័យ និងគ្រប់កម្រិតសិក្សា​​ដោយ​សហការជាមួយភាគីពាក់ព័ន្ធ។</p>
-        <p class="aa" style="margin-left: 60px; "> - បង្កើនម៉ោងអនុវត្តជាក់ស្តែងដើម្បីពង្រឹងបំនិនអនុវត្ត (Soft skills) តាមរយៈការសហការ ជាមួយភាគីពាក់ព័ន្ធដូចជា ធនាគារ គ្រឹះស្ថានមីក្រូហិរញ្ញវត្ថុ​ ក្រុមហ៊ុនធានារ៉ាប់រង​ ទីផ្សារមូលប័ត្រ តុលាការ​ អង្គភាពច្បាប់​ និងសាកលវិទ្យាល័យដៃគូរក្នុងតំបន់។​</p>
-        <p class="aa" style="margin-left: 60px; "> - បង្កើនការងារសហការក្នុងការស្វែងរកអង្គាភាពចុះហ្វឹកហាត់ការងារ​សម្រាប់និស្សិតសិក្សា និងស្វែងរកការងារឱកាសការងារជូននិស្សិតដែលបានបញ្ចប់ការសិក្សា ។</p>
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="objectives-title">4. Objectives</h6>
+    <p class="aa" style="margin-left: 40px;" id="objectives-intro">The faculty actively develops students' capabilities through:</p>
+    <p class="aa" style="margin-left: 60px;" id="objectives-assessment">- Regular assessment of academic programs and student performance through faculty evaluation, monitoring, and curriculum enhancement.</p>
+    <p class="aa" style="margin-left: 60px;" id="objectives-partnerships">- Strengthening cooperation with partner institutions, companies, microfinance institutions, and banks to provide internship opportunities for students.</p>
+    <p class="aa" style="margin-left: 60px;" id="objectives-research">- Encouraging research and innovation through modern learning resources and academic advancements.</p>
+    <p class="aa" style="margin-left: 60px;" id="objectives-quality">- Providing high-quality and effective education.</p>
+    <p class="aa" style="margin-left: 60px;" id="objectives-monitoring">- Monitoring curricula, teaching quality, and student performance.</p>
+    <p class="aa" style="margin-left: 60px;" id="objectives-updating">- Regularly reviewing and updating academic programs.</p>
+    <p class="aa" style="margin-left: 60px;" id="objectives-infrastructure">- Developing and modernizing physical infrastructure.</p>
+    <p class="aa" style="margin-left: 60px;" id="objectives-recruitment">- Recruiting and retaining high-quality professors with extensive expertise.</p>
 
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;">៤. គោលដៅ</h6>
-        <p class="aa" style="margin-left: 40px; ">មហាវិទ្យាល័យនឹងដើរតួយ៉ាងសកម្មក្នុងការអភិវឌ្ឍសមត្ថភាពនិស្សិតតាមរយៈ</p>
-        <p class="aa" style="margin-left: 60px; ">-ត្រួតពិនិត្យ និងវាយតម្លៃលើដំណើរការអនុវត្តកម្មសិក្សា និងការសិក្សារបស់និស្សិត តាមរយៈជ្រើសរើស-សម្រិតសម្រាំង និងត្រួតពិនិត្យការបង្រៀនរបស់គ្រូបង្រៀនជាប្រចាំ និងធ្វើវិក្រឹតការ ដើម្បីពង្រឹងសមត្ថភាព បទពិសោធន៍ និងទេពកោសល្យ ដោយផ្តោតសំខាន់ទៅ លើការបង្រៀនទ្រឹស្តី និងការអនុវត្តជាក់ស្តែង</p>
-        <p class="aa" style="margin-left: 60px; ">  - ពង្រឹង និងបង្កើននូវសហប្រតិបត្តិការជាមួយនឹងស្ថាប័នដែលជាដៃគួរ ក្រុមហ៊ុន គ្រឹះស្ថានម្រីក្រូហិរញ្ញវត្ថុ ធនាគារ ដើម្បីផ្តល់ឱកាសឲ្យនិស្សិតហ្វឹកហាត់ការងារ</p>
-        <p class="aa" style="margin-left: 60px; " >  - ការជម្រុញ និងលើកទឹកចិត្តឲ្យនិស្សិតធ្វើការសិក្សាស្រាវជ្រាវបន្ថែម និងទំនើបកម្ម សំភារៈរូបវ័ន្ត ដើម្បីឲ្យស្របតាមនិយាមគរុកោសល្យ</p>
-        <p class="aa" style="margin-left: 60px; " >  - ផ្តល់ចំណេះដឹងប្រកបដោយគុណភាព និងប្រសិទ្ធភាពខ្ពស់</p>
-        <p class="aa" style="margin-left: 60px; " >  - ត្រួតពិនិត្យលើកម្មវិធីសិក្សា ការបង្រៀន និងការសិក្សារបស់និស្សិត និងសិក្ខាកាម</p>
-        <p class="aa" style="margin-left: 60px; " >  - សម្របសម្រួលកម្មវិធីសិក្សា រៀបចំការងារប្រជុំជាប្រចាំដើម្បីត្រួពិនិត្យកម្មវិធីសិក្សា</p>
-        <p class="aa" style="margin-left: 60px; " >  - អភិវឌ្ឍ និងធ្វើទំនើបកម្មលើមូលដ្ឋានហេដ្ឋារចនាសម្ព័ន្ធរូបវ័ន្ត</p>
-        <p class="aa" style="margin-left: 60px; " >   - ជ្រើសរើស និងរក្សាទុកនូវគ្រូបង្រៀនដែលមានសមត្ថភាព បទពិសោធន៍ និងទេពកោសល្យ​ខ្ពស់។ </p>
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="skills-title">5. Professional Skills</h6>
+    <p class="aa" style="margin-left: 40px;" id="skills-intro">This program is designed to provide students with real-world expertise by integrating theory and practical applications, ensuring students can quickly secure job opportunities while also enhancing the skills of banking, finance, corporate, and NGO professionals.</p>
+    <p class="aa" style="margin-left: 60px; font-weight: bold;" id="skills-financial-analysis"><span style="font-weight: bold;">1-Financial Management and Analysis: </span><span style="font-weight: 400; color: black;">This course prepares students to analyze financial statements for tasks such as credit and security analysis, lending decisions, and investment decisions. The course provides an in-depth understanding of financial reporting from the perspective of financial statement users and applies analytical tools for competitive analysis, credit decisions, investment assessments, bankruptcy predictions, and company valuations.</span></p>
+    <p class="aa" style="margin-left: 60px; font-weight: bold;" id="skills-financial-planning"><span style="font-weight: bold;">2-Financial Management and Planning: </span><span style="font-weight: 400; color: black;">This course covers financial decision-making for business managers. It focuses on financial tools and techniques that help firms maximize value through capital budgeting, capital structure, and working capital management. Topics include multinational financial management, risk management, and corporate financial strategies.</span></p>
+    <p class="aa" style="margin-left: 60px; font-weight: bold;" id="skills-marketing"><span style="font-weight: bold;">3-Marketing: </span><span style="font-weight: 400; color: black;">This course explores market analysis, consumer behavior, segmentation, advertising, and long-term business relationships. Marketing connects material needs with economic trends and plays a crucial role in business success.</span></p>
+    <p class="aa" style="margin-left: 60px; font-weight: bold;" id="skills-business-comm"><span style="font-weight: bold;">4-Business Communication: </span><span style="font-weight: 400; color: black;">This course covers areas such as brand management, customer relations, advertising, public relations, corporate communication, reputation management, and event management, which are essential for professional and technical communication.</span></p>
+    <p class="aa" style="margin-left: 60px; font-weight: bold;" id="skills-business-law"><span style="font-weight: bold;">5-Business Law: </span><span style="font-weight: 400; color: black;">This course focuses on laws governing business transactions, trade, contracts, and corporate regulations. It provides an understanding of both private and public commercial law.</span></p>
+
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="associate-title">6. Associate Degree</h6>
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="associate-finance-title">6.1 Associate Degree Program in Finance and Banking</h6>
+    <p class="aa" style="margin-left: 40px;" id="associate-finance-text">The Finance and Banking program focuses on both theoretical knowledge and practical skills to equip students with industry-relevant competencies. Graduates will be prepared to work in finance, banking, microfinance institutions, corporations, national and international organizations.</p>
         
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;"> ៥. ជំនាញវីជ្ជាជីវៈ</h6>
-        <p class="aa" style="margin-left: 40px; "> កម្មវិធីនេះរៀបចំឡើងក្នុងគោលបំណងក្នុងសម្រួចអ្នកសិក្សាឲ្យទទួលបាននូវជំនាញមួយពិតប្រាកដ ដោយផ្សារភ្ជាប់នូវទឹស្រ្តី និងការងារអនុវត្តជាក់ស្តែង​ ដែលធ្វើយ៉ាងណាឲ្យអ្នកសិក្សាប្រើប្រាស់​រយៈពេលខ្លីប៉ុន្តែឆាប់ទទួលបានឱកាសការងារ កម្មវិធីនេះក៏ជួយពង្រឹងសមត្ថភាពបន្ថែម​ដល់បុគ្គលិក​ធនាគារ គ្រឹះស្ថានហិរញ្ញវត្ថុ ក្រុមហ៊ុន និងអង្គកានានាផងដែរ។</p>
-        <p class="aa" style="margin-left: 60px; font-weight: bold; ">1-Financial Management and Analysis ;<span style="font-weight: 400; color: black;">This course is designed to prepare student to interpret and analyze financial statements for tasks involving credit and security analyses, lending and investment decision, and other decisions that must rely on financial data. This course, therefore, explores in greater depth financial reporting topics from the perspective of financial statement users. We develop sufficient understanding of the concepts and recording procedures to enable student to interpret various disclosures in an informed manner. We discuss each financial reporting issue in terms of its effect on assessments of a firm’s profitability and risk. We then apply analytical tools and concepts in competitor analysis, credit and investment decision, bankruptcy prediction, and valuation</span>​ </p>
-        <p class="aa" style="margin-left: 60px; font-weight: bold; ">2- Financial Management and Planning; <span style="font-weight: 400; color: black;">The focus of this course is in the area of financial management. We will show managers how to interface with accounting andfinance departments, help them to understand how firms meet their financial objectives utilizing financial decision-making. This coursewill also explain financial tools and techniques, which can be used to help firms maximize value by improving decisions relating to capital budgeting, capital structure, and working capital management. This course will deal with a number of related topics, including multinational financial management, risk management,and so on</span>
-        <p class="aa" style="margin-left: 60px; font-weight: bold; "> 3-Marketing; <span style="font-weight: 400; color: black;">This course focused on communicating the value of a product or service to customers, for the purpose of selling that product or service.Marketing techniques include choosing target markets through market analysis and market segmentation, as well as understanding consumer behavior and advertising a product's value to the customer. From a societal point of view, marketing is the link between a society's material requirements and its economic patterns of response. Marketing satisfies these needs and wants through exchange processes and building long-term relationships.</span></p>
-        <p class="aa" style="margin-left: 60px; font-weight: bold; ">4-Business Communication; <span style="font-weight: 400; color: black;">This course encompasses topics such as marketing, brand management, customer relations, consumer behavior, advertising, public relations, corporate communication, community engagement, reputation management, interpersonal communication, employee engagement, and event management. It is closely related to the fields of professional communication and technical communication5-Businesss Law; This course applies to the rights, relations, and conduct of persons and businesses engaged in commerce, merchandising, trade, and sales. It is often considered to be a branch of civil law and deals with issues of both private law and public law.</span></p>
-        <p class="aa" style="margin-left: 60px; font-weight: bold; "> 5-Businesss Law; <span style="font-weight: 400; color: black;">This course applies to the rights, relations, and conduct of persons and businesses engaged in commerce, merchandising, trade, and sales. It is often considered to be a branch of civil law and deals with issues of both private law and public law.</span></p>
-
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;">  ៦. បរិញ្ញាបត្ររង</h6>
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;"> ៦.១ កម្មវិធិសិក្សាថ្នាក់បរិញ្ញាបត្ររងហិរញ្ញាវត្ថុ និងធនាគារ</h6>
-        <p class="aa" style="margin-left: 40px; ">  ជំនាញ ហិរញ្ញវត្ថុ និងធនាគារ​ ដែលផ្តោតសំខាន់ទៅលើទ្រឹស្តី និងការងារអនុវត្តជាក់​ស្តែងផ្ទាល់​ក្នុងគោលដៅឲ្យនិស្សិត និងសិក្ខាកាមដែលឆ្លងកាត់នូវកម្មវិធីសិក្សាអាចមានសមត្ថភាពអនុវត្ត​ជាក់ស្តែង​ទៅលើជំនាញបានច្រើន ដែលអាចមានលទ្ធភាពប្រើប្រាស់រយៈ​ពេលខ្លីប៉ុន្តែមានសមត្ថភាពគ្រប់គ្រាន់ក្នុង​ការបំពេញការងារក្នុងផ្នែក ហិរញ្ញវត្ថុ ធនាគារ គ្រឹះស្ថានមីក្រូហិរញ្ញវត្ថុ ក្រុមហ៊ុន អង្គការជាតិ និងអន្តរជាតិ។</p>
-
-
-        <div class="container mt-4">
+    <div class="container mt-4">
         <div class="table-responsive">
             <table class="table table-bordered text-center table-striped">
                 <thead class="table-danger">
@@ -143,9 +142,9 @@
         </div>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;"> ៧. បរិញ្ញាបត្រ</h6>
-    <h6  style="color: red; margin-left: 20px; font-weight: bold;">៧.១ កម្មវិធីសិក្សាថ្នាក់បរិញ្ញាបត្រហរិញ្ញវត្ថុ និងធនាគារ </h6>
-    <p  class="aa" style="margin-left: 40px; "> ការជ្រើសរើសយកជំនាញ ហិរញ្ញវត្ថុ​ និងធនាគារ និងផ្តល់ជូនដល់និស្សិតនូវចំណេះ​ដឹងដ៏រឹងមាំទាំងទ្រឹស្តី និងការអនុវត្តជាក់ស្តែងក្នុងវិស័យធនាគារ ហិរញ្ញវត្ថុ សាជីវកម្មវិនិយោគ ការគ្រប់គ្រង​មូលប័ត្រ, ការគ្រប់គ្រងហានិភ័យហិរញ្ញវត្ថុ, វិស្វកម្មហិរញ្ញវត្ថុ ស្ថាប័នហិរញ្ញវត្ថុ, និងទីផ្សារហិរញ្ញវត្ថុអន្តរជាតិ។ និស្សិតដែលបានបញ្ចប់ការសិក្សាអាចចូលទៅ​កាន់មុខតំណែង ក្នុង ធានាគារ គ្រឹះស្ថានហិរញ្ញវត្ថុ ស្ថាប័នហិរញ្ញវត្ថុ ក្រុមហ៊ុនឈ្មួញជើងសារ និងរដ្ឋាភិបាល។</p>
+    <h6 style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;" id="bachelor-title">7. Bachelor's Degree</h6>
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="bachelor-finance-title">7.1 Bachelor's Program in Finance and Banking</h6>
+    <p class="aa" style="margin-left: 40px;" id="bachelor-finance-text">Choosing a major in Finance and Banking provides students with strong knowledge in both theory and practical applications in the banking, finance, investment business, securities management, financial risk management, financial engineering, financial institutions, and international financial markets. Graduates can pursue careers in banks, financial institutions, financial firms, brokerage companies, and government agencies.</p>
 
     <div class="container mt-4">
        
@@ -300,9 +299,10 @@
         </table>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;"> ៧.២ កម្មវិធីសិក្សាថ្នាក់បរិញ្ញាបត្រអភិវឌ្ឍន៍សេដ្ឋកិច្ច </h6>
-    <p class="aa" style="margin-left: 40px; ">ការជ្រើសរើសយកជំនាញ អភិវឌ្ឍន៍សេដ្ឋកិច្ច ជាវិទ្យាសាស្ដ្រសង្គមដែលសិក្សាពីបរិបទ​នៃសង្គមពាក់ព័ន្ធនឹងសកម្មភាពផលិត ការបែងចែកធនធាន និងការប្រីប្រាស់នូវទំនិញ-សេវាកម្ម ពីសកម្មភាព​នៃការប្រើប្រាស់ធនធានកម្រក្នុងសង្គម ដើម្បីធ្វើឲ្យអ្នកសិក្សាទទួលបាននូវការ យល់​ដឹង​ពីដំណើរការ​គ្រប់គ្រងការ​ផលិត ចែកចាយ និងការប្រើប្រាស់ទំនិញ-សេវាកម្មនៅក្នុង​សេដ្ឋកិច្ចមួយ។ ការសិក្សាជំនាញអភិវឌ្ឍសេដ្ឋកិច្ចផ្តោត​លើ​ឥរិយាបថ និងអន្តរកម្មនៃភ្នាក់ងារ​សេដ្ឋកិច្ច​ដែល​ចូលរួម​​ក្នុងតួនាទីសង្គម​ អ្នកសិក្សានឹងទទួលបាននូវ​ចំណេះ​​ដឹ​ងជាមូលដ្ឋានក្នុង​ពាក់ព័ន្ធ​ការ​​​ប្រើធនធានឲ្យទទួល​បាន​​នូវប្រសិទ្ធិភាពខ្ពស់ ទ្រឹស្តីនៃបែបផែនមីក្រូសេដ្ឋកិច្ច​ និង​ម៉ាក្រូសេដ្ឋកិច្ច​ដែលនិស្សិតទទួលបាន​ទាំងទ្រឹស្តី និងការអនុវត្ត។</p>
-
+    <h6 style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;" id="bachelor-econ-title">7.2 Bachelor's Program in Economic Development</h6>
+    <p class="aa" style="margin-left: 40px;" id="bachelor-econ-text">Choosing a major in Economic Development is a social science that studies the societal context related to production activities, resource distribution, and consumption of goods and services. It examines the utilization of scarce resources in society to help students understand the processes of managing production, distribution, and consumption of goods and services in an economy. The program focuses on the behaviors and interactions of economic agents in social roles, equipping students with fundamental knowledge of efficient resource utilization, microeconomic and macroeconomic theories, both in theory and practice.</p>
+   
+   
     <div class="container mt-4">
         
         <table class="table table-bordered table-striped">
@@ -456,9 +456,9 @@
         </table>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;"> ៧.៣ កម្មវិធីសិក្សាថ្នាក់បរិញ្ញាបត្រច្បាប់ </h6>
-    <p class="aa" style="margin-left: 40px; ">ជំនាញ ច្បាប់  ត្រូវបានរៀបចំឡើងសម្រាប់និស្សិតជំនាញនីតិសាស្ដ្រ ដើម្បីផ្ដល់ចំណេះដឹងមូល​ដ្ឋាន​គ្រឹះផ្នែកច្បាប់ឱ្យនិស្សិតមានសមត្ថភាពឈោងចាប់តួនាទីពាក់ព័ន្ធផ្នែកច្បាប់ ដែលសិក្សាទៅលើ​នីតិ​ឯក​ជន នីតិ​សាធារ​ណៈ នីតិអន្ដរជាតិ និងវិទ្យាសាស្ដ្រនយោបាយ ។ មុខជំនាញនេះសិក្សាអំពីទស្សនៈ គោលការណ៍ និងបទប្ប​ញ្ញត្ដិ​របស់ច្បាប់ រចនាសម្ព័ន្ធច្បាប់ជាតិ និងអន្ដរជាតិ ការធ្វើចំណាត់ថ្នាក់នីតិ លក្ខណៈវិធាន របស់នីតិ ប្រភព​នៃនីតី នីតិអត្ដវិស័យ នីតិវត្ថុវិស័យ តួនាទីរបស់មេធាវី តួនាទីរបស់នីតិនិពន្ធ តួនាទី​ផ្សេង​ទៀត​របស់វិជ្ជាជីវៈច្បាប់ គោលការណ៍វិវាទ និងរចនាសម្ព័ន្ធយុត្ដាធិការ</p>
-
+    <h6 style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;" id="bachelor-law-title">7.3 Bachelor's Program in Law</h6>
+    <p class="aa" style="margin-left: 40px;" id="bachelor-law-text">The Law major is designed for students specializing in legal studies, providing foundational knowledge of law to prepare them for legal-related roles. The curriculum covers private law, public law, international law, and political science. This major explores legal perspectives, principles, and jurisprudence, the structure of national and international law, legal classifications, legal measures, legal sources, subjective and objective law, the role of lawyers, the role of notaries, other legal professions, dispute resolution principles, and judicial structures.</p>
+    
     <div class="container mt-4">
         
         <table class="table table-bordered table-striped">
@@ -613,9 +613,9 @@
         </table>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;"> ៧.៤ កម្មវិធីសិក្សាថ្នាក់បរិញ្ញាបត្ររដ្ឋបាលសាធារណៈ  </h6>
-    <p class="aa" style="margin-left: 40px; "> ជំនាញ រដ្ឋបាលសាធារណៈ ផ្តល់នូវចំណេះដឹងមូលដ្ឋាន អំពីវិស័យ​ច្បាប់ និងរដ្ឋបាលសាធារណៈ ទាក់ទងនឹង​ស្ថាប័នព្រះមហាក្សត្រ ស្ថាប័ននីតិប្បញ្ញត្តិ ស្ថាប័ននីតិប្រតិបត្តិ សាលាជម្រះក្តីគ្រប់ជាន់ថ្នាក់ គ្រឹះស្ថានសាធារណៈរដ្ឋបាល គ្រឹះស្ថាន សាធារណៈដែលមានលក្ខណៈសេដ្ឋកិច្ច ប្រព័ន្ធនៃការគ្រប់គ្រង​រដ្ឋបាល សេវាសាធារណៈ រដ្ឋបាល សេវាសាធារណៈដែលមានលក្ខណៈឧស្សាហកម្ម​ និងពាណិជ្ជកម្ម ការចូលបម្រើ​ការក្នុង មុខងារសាធារណៈ លិខិតុបករណ៍នានា និងកិច្ចការរដ្ឋបាល ។</p>
-
+    <h6 style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;" id="bachelor-admin-title">7.4 Bachelor's Program in Public Administration</h6>
+    <p class="aa" style="margin-left: 40px;" id="bachelor-admin-text">The Public Administration major provides foundational knowledge in law and public administration related to royal institutions, legislative institutions, executive institutions, judicial courts at all levels, public administrative institutions, public institutions with economic characteristics, administrative management systems, public services, public administration in industrial and commercial sectors, public service careers, administrative documents, and public affairs.</p>
+    
     <div class="container mt-4">
         
         <table class="table table-bordered table-striped">

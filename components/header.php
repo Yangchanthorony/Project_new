@@ -394,11 +394,11 @@ body {
                                     <ul class="drop-right">
                                     <li><a href="cse.php" id="faculty-science-it"><i class="fas fa-flask"></i> FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY</a></li>
                                         <li class="divider"></li>
-                                        <a href="Business.php" id="faculty-business-tourism">
+                                        <a href="Business.php" id="faculty-business-tourismmo">
                                             <i class="fas fa-briefcase"></i> FACULTY OF BUSINESS AND TOURISM
                                         </a>
                                         <li class="divider"></li>
-                                        <li> <a href="law.php" id="faculty-law-economics">
+                                        <li> <a href="law.php" id="faculty-law-economicso">
                                             <i class="fas fa-balance-scale"></i> FACULTY OF LAW AND ECONOMICS
                                         </a></li>
                                         <li class="divider"></li>

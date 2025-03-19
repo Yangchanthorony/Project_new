@@ -12,17 +12,18 @@
 </head>
 
 <body>
-      <!-- Header Section -->
-      <div  class="header-pattern">
-        <div  class="headerr">
-         You can achieve your dreams by using student Loan
-        </div>
-    </div>
-    <div class="containerr">
-        <p>សាកលវិទ្យាល័យភ្នំពេញអន្តរជាតិ (PPIU) បានសហការជាមួយ ធនាគាព្រីនស៍ (PRINCE Bank) នៅក្នុងការផ្តល់ប្រាក់កម្ចីសិក្សាសម្រាប់ថ្នាក់បរិញ្ញាបត្ររង​ បរិញ្ញាបត្រ បរិញ្ញាបត្រជាន់ខ្ពស់ និងបណ្ឌិត ដោយផ្តល់ជូននូវលក្ខណៈពិសេសដូចខាងក្រោម៖</p>
-        <main>
-            <section class="loan-details">
-                <h2>1. លក្ខខណ្ឌ៖ កម្ចីសិក្សា</h2>
+            <div class="header-pattern">
+                    <div class="headerr" id="loan-header">
+                        You can achieve your dreams by using a student loan
+                    </div>
+                </div>
+                <div class="containerr">
+                    <p id="loan-intro">
+                        Phnom Penh International University (PPIU) has partnered with PRINCE Bank to provide student loans for Associate Degrees, Bachelor's Degrees, Master's Degrees, and Doctorates with the following special conditions:
+                    </p>
+                    <main>
+                        <section class="loan-details">
+                            <h2 id="terms-title">1. Terms and Conditions: Student Loan</h2>
                 <table>
                     <tr>
                         <td>ប្រភេទ</td>
@@ -56,13 +57,14 @@
                 </table>
             </section>
 
+             
             <section class="eligibility">
-                <h2>2. លក្ខខណ្ឌសម្រាប់សិស្ស</h2>
+                <h2 id="eligibility-title">2. Eligibility Criteria for Students</h2>
                 <ul>
-                    <li>សិស្សអាយុចាប់ពី ១៨ ឆ្នាំឡើង</li>
-                    <li>សិស្សកំពុងសិក្សានៅសកលវិទ្យាល័យ ឬ វិទ្យាស្ថាន</li>
-                    <li>សិស្សឆ្នើម (អាហារូបករណ៍ ឬ បន្តការសិក្សា ឬ ការងារ…)</li>
-                    <li>សិស្សមានអ្នកធានា ឬ ទ្រព្យធានា ឬ មានប្រាក់ចំណូល ឬ មានអាហារូបករណ៍</li>
+                    <li id="eligibility-age">Students must be at least 18 years old</li>
+                    <li id="eligibility-studying">Students must be currently studying at a university or institute</li>
+                    <li id="eligibility-outstanding">Outstanding students (scholarship recipients, continuing education, or employed students)</li>
+                    <li id="eligibility-guarantor">Students must have a guarantor, collateral, income, or a scholarship</li>
                 </ul>
             </section>
 
@@ -70,12 +72,12 @@
                 <div class="image-container">
                     <img src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Student%20Loan/149348854_3885379021519271_51603838440473892_o.jpg" alt="Graduate Image">
                     <div class="overlay-text">
-                        <p>STUDENT LOAN</p>
-                        <p>Up to $3,200</p>
-                        <p>PARTNERSHIP</p>
-                        <p>PRINCE BANK</p>
-                        <p>Contact: 123-456-789</p>
-                        <p>LOAN TENOR UP TO 8 YEARS</p>
+                        <p id="overlay-student-loan">STUDENT LOAN</p>
+                        <p id="overlay-amount">Up to $3,200</p>
+                        <p id="overlay-partnership">PARTNERSHIP</p>
+                        <p id="overlay-prince-bank">PRINCE BANK</p>
+                        <p id="overlay-contact">Contact: 123-456-789</p>
+                        <p id="overlay-tenor">LOAN TENOR UP TO 8 YEARS</p>
                     </div>
                 </div>
             </section>

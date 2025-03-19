@@ -3,6 +3,7 @@
 <head>
     <?php 
     include("../components/header.php");
+    include("../js/business.php");
     ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,29 +14,16 @@
 <body>
 
 <div class="header-pattern">
-        <div class="header">
+    <div class="header" id="faculty-header">
         FACULTY OF BUSINESS AND TOURISM
-        </div>
-    </div>       
+    </div>
+</div>
 <div class="container">
-    
-        <p class="aa" >រាល់ធុរកិច្ចទាំងអស់មានដំណើរការនិងប្រតិបត្តិបានល្អដោយសារមានការគ្រប់គ្រងប្រកបដោយ គុណភាព  ប្រសិទ្ធិភាព​ ​  
-        ប្រសិទ្ធិផល និងមាន នវានុវត្តន៍ជានិច្ចនិរន្តរ៍។​ ក្នុងសម័យ សាកលភាវូប នីយកម្ម ប្រទេសនីមួយៗតែងតែ ធ្វើសមាហរណកម្ម ខ្លួនទៅក្នុង 
-        សមាគមន៍ សហគមន៍ តំបន់ និងពិភព លោក ដោយឈរលើមូលដ្ឋាន អន្តរ-​និស្សរភាព លើ វិស័យ នយោបាយ   សេដ្ឋកិច្ច   វប្បធម៌   
-        បច្ចេកវិទ្យា ដែលធ្វើឲ្យពិភពលោកកាន់តែ​បើកចំហរ ​គ្មាន​របាំង​នៃ​ទំនាក់​ទំនង និងមាន​សេរីភាវូបនីយកម្មសេដ្ឋកិច្ច យ៉ាងទូលំទូលាយទាំងនេះក៍នាំមកជានូវ​កាលា​នុវត្ត​ភាព​ 
-        ក៍ដូចជាការប្រឈម និងការប្រកួតប្រជែង កាន់​តែ​ស្រួចស្រាវចំពោះកំលាំងពលកម្មជំនាញការស្វែង រកប្រាក់ចំណូលរបស់វិស័យឯកជន​ និងការទទួលខុសត្រូវ​ក្នុងអភិវឌ្ឍនភាព​ខាងសេដ្ឋកិច្ច​របស់វិស័យ​សាធារណៈ។​ 
-        ដើម្បីឆ្លើយតបទៅ​នឹង​ការផ្លាស់ប្តូររបត់សង្គម ជាសាកលយ៉ាង​ឆាប់រហ័សនេះ សាកលវិទ្យាល័យភ្នំពេញ អន្តរជាតិ ទាំងមួល ក៍ដូចជាមហាវិទ្យាល័យ 
-        ពាណិជ្ជ​សាស្រ្ត និងទេសចរណ៍បាន និងកំពុង អភិវឌ្ឍ កម្មវិធីសិក្សាយ៉ាងសស្រាក់សស្រាំ​សម្រាប់ថ្នាក់ បរិញ្ញា​បត្រ​ជាន់ខ្ពស់  បរិញ្ញាបត្រ  បរិញ្ញាបត្ររង  
-        និងថ្នាក់បណ្តុះបណ្តាល​វិជ្ជាជីវៈ​ដែលមាន​ជំនាញសិក្សា ដូចជា  គ្រប់គ្រង  គណនេយ្យ  ទីផ្សារ និងគ្រប់គ្រងសណ្ឋាគារ និងទេសចរណ៍។​ 
-        ក្រោយពីបានបញ្ចប់ការ សិក្សានៅមហាវិទ្យាល័យ ពាណិជ្ជកម្ម  និងទេសចរណ៍   និស្សិតអាចធ្វើ ការងារនៅតាមក្រុមហ៊ុនឯកជន  ស្ថាប័នរដ្ឋ  
-        ឬអាចចាប់ផ្តើម​អាជីវកម្មដោយខ្លួនឯង​នៅលើវិស័យ​មួយចំនួន​ដូចជាជំនាញគណនេយ្យនិងសវនកម្ម
-        បេឡាករ ជំនាញទីផ្សារ   គ្រប់គ្រង​ធនធាន​មនុស្ស  គ្រប់គ្រងការដឹកជញ្ជូនចេញ  និងចូល   ជំនាញការិយាល័យជួរមុខ គេហកិច្ច   
-        ផលិត​កម្ម​ចំណីអាហារ  គ្រប់ភោជនីយដ្ឋាន។​ បេសកកម្ម  មហាវិទ្យាល័យពាណិជ្ជសាស្រ្ត  និង​ទេចរណ៍មានបេសកកម្ម​ដ៍សំខាន់ក្នុងការផ្តល់​នូវចំណេះដឹង
-        ជំនាញវិសេសឯក   និងគុណវឌ្ឍិ​វិជ្ជាជីវៈ​ប្រកបដោយចរិយាសម្បត្តិ   គុណធម៌   និងសីលធម៌​ខ្ពស់សម្រាប់​ការគ្រប់គ្រង​កិច្ចការ​ធុរកិច្ច​ប្រកបដោយជោគជ័យនៅក្នុងគ្រប់ស្ថានភាពសង្គមនាពេលអនាគត។</p>
+    <p class="aa" id="intro-text">All businesses operate and function well because they are managed with quality, efficiency, productivity, and continuous innovation. In the global era, countries are constantly integrating into regional and international communities based on interdependence across political, economic, cultural, and technological sectors. This global interconnectedness leads to further openness, without barriers in communication, fostering an open economic system. These developments bring about innovation, as well as challenges and competition, especially regarding the skilled workforce, income generation in the private sector, and accountability in the public sector's economic development. To address rapid social changes in the global context, Phnom Penh International University, along with other universities in Business and Tourism, is developing advanced study programs at various levels: master's, bachelor's, associate degrees, and professional training programs. These programs focus on areas such as management, accounting, marketing, hotel management, and tourism. After completing studies at the university, graduates can work in private companies, government institutions, or start their own businesses in various sectors such as accounting, auditing, taxation, marketing, human resource management, logistics, office management, hospitality, and food production. The mission of the Faculty of Business and Tourism is to provide specialized knowledge, skills, and high moral integrity for successful business management in any societal context in the future.</p>
 
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;">៣.១.២ បរិញ្ញាបត្ររង</h6>
-        <p  class="aa" style="margin-left: 30px; ">សិស្សវិទ្យាល័យដែលបានប្រឡងបញ្ចប់មធ្យមសិក្សាកម្រិត២ មានសិទ្ធិចូលសិក្សាថ្នាក់ បរិញ្ញាបត្ររងរយៈ ២ឆ្នាំ នៅសាកលវិទ្យាល័យភ្នំពេញអន្តរជាតិ លើជំនាញបណ្តុះបណ្តាល ស្របតាមនិយាមគរុកោសល្យ និងទីផ្សារការងារបច្ចុប្បន្ន។</p>
-        <p style="margin-left: 20px;    font-weight: bold;"> + Hotel (Front Office)</p>
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="associate-title">3.1.2 Associate Degree</h6>
+    <p class="aa" style="margin-left: 30px;" id="associate-text">High school graduates who have completed secondary education level 2 are eligible to study for an Associate Degree for 2 years at Phnom Penh International University, focusing on current market trends and business practices.</p>
+    <p style="margin-left: 20px; font-weight: bold;" id="hotel-front-office">+ Hotel (Front Office)</p>
 
     <div class="container mt-4">
         <h5 class="text-center">Core Course</h5>
@@ -341,7 +329,7 @@
         </table>
     </div>
 
-    <p style="margin-left: 20px; font-weight: bold; margin-top: 20px"> + Hotel (Housekeeping) </p>
+    <p style="margin-left: 20px; font-weight: bold; margin-top: 20px;" id="hotel-housekeeping">+ Hotel (Housekeeping)</p>
 
     <div class="container mt-4">
         <h5 class="text-center">Core Course</h5>
@@ -670,20 +658,20 @@
   </div>
 
     
-    <h6  style="color: red; margin-left: 20px; font-weight: bold;"> ៣.១.៣ បរិញ្ញាបត្រ</h6>
-        <p  class="aa" style="margin-left: 30px; ">បច្ចុប្បន្ន សាកលវិទ្យាល័យភ្នំពេញអន្តរជាតិ កំពុងផ្តល់នូវការបណ្តុះបណ្តាលនិស្សិត លើជំនាញទាំង ៩ នៃមហាវិទ្យាល័យធំៗទាំង ៤ មុនពេលនឹងបង្កើតជាមហាវិទ្យាល័យផ្សេងបន្ថែម ទៀត។ មហាវិទ្យាល័យទាំង ៤ មានដូចខាងក្រោម៖</p>
-        <h6  style="color: red; margin-left: 20px; font-weight: bold;"> ៣.១.៣.១ ជំនាញគណនេយ្យ</h6>
-        <p  class="aa" style="margin-left: 30px; ">   ជំនាញគណនេយ្យបណ្តុះបណ្តាល និស្សិតឲ្យមានចំណេះដឹង និងជំនាញ រៀបចំបញ្ជី ចំណូលចំណាយ  គ្រប់គ្រង ចលនាសាច់ ប្រាក់​របស់​អង្គភាពមួយ គ្រប់គ្រងទ្រព្យសម្បត្តិរូបវ័ន្ត  អរូបវ័ន្ត  ការវិភាគថ្លៃដើមផលិតកម្ម។​ល។​  និស្សិត អាច​យកចំណេះដឹងនិងជំនាញ​ទាំងនេះទៅបម្រើ ការងារក្នុងវិស័យ គណនេយ្យឯកជន និងសាធារណៈ ឬ បម្រើកិច្ចការ អាជីវកម្មផ្ទាល់ខ្លួន។​កម្មវិធីសិក្សាថ្មីនេះក៍អនុលោមតាមបទ​ដ្ឋាន​អន្តរជាតិដែលផ្តួចផ្តើម និងបង្កើតដោយវិទ្យាស្ថានគណនេយ្យករជំនាញ  និងសវនករកម្ពុជា​នៃ​ក្រសួងសេដ្ឋកិច្ច  និងហិរញ្ញវត្ថុ ដែលហៅកាត់ថា  វគសក  ឬ  KICPAA។​កម្មវិធីសិក្សានេះក៍រៀប​ចំនិស្សិត​ឲ្យ​មានលក្ខណៈសម្បត្តិ គ្រប់- គ្រាន់ដែលអាចបន្តការសិក្សានៅ​ថ្នាក់ក្រោយឧត្តមសិក្សា​ក្នុងជំនាញដទៃទៀត ដូចជា ជំនាញគណនេយ្យ និងសវនកម្ម  ជំនាញគ្រប់គ្រងធុរកិច្ច   ជំនាញ​ធនាគារ និងហិរញ្ញវត្ថុជាដើម  មិនតែប៉ុន្មោះ  និស្សិតអាច​បន្តការសិក្សាយកជំនាញវិជ្ជាជីវៈ​មួយ​ចំនួនដោយងាយស្រួល  ដូចជា៖</p>
+  <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="bachelor-title">3.1.3 Bachelor’s Degree</h6>
+    <p class="aa" style="margin-left: 30px;" id="bachelor-text">Currently, Phnom Penh International University is providing training to students in 9 fields across 4 major faculties, with plans to establish additional faculties in the future. The 4 faculties are as follows:</p>
 
-        + Chartered Certified Accountant(ACCA),<br>
-        + Chartered Professional Accountant (CPA),<br>
-        + Certified Public Accountant(CPA),<br>
-        + Certified Management Accountant(CMA),<br>
-        + Cost & Management Accountant(CMA),<br>
-        + Certified Commercial Professional Accountant(CCPA).
-
-        <p  class="aa" style="margin-left: 30px; margin-top: 10px; "> ដើម្បីទទួលបានបរិញ្ញបត្រគណនេយ្យ  និស្សិតគ្រប់រូបត្រូវបំពេញការសិក្សាដោយជោគជ័យ នូវ មុខវិជ្ជាខាងក្រោម  និងធ្វើកិច្ចការសម្រាប់មុខវិជ្ជានីមួយៗដែលមហាវិទ្យាល័យកំណតជូន៖</p>
-  
+    <h6 style="color: red; margin-left: 20px; font-weight: bold;" id="accounting-title">3.1.3.1 Accounting</h6>
+    <p class="aa" style="margin-left: 30px;" id="accounting-text-1">The Accounting program trains students to have knowledge and skills in preparing income and expense statements, managing the cash flow of an organization, managing physical and intangible assets, and analyzing production costs, among others. Students can apply this knowledge and skill to work in the private and public accounting sectors or run their own business. This new program follows international standards established by the Cambodian Institute of Certified Public Accountants and Auditors (KICPAA) under the Ministry of Economy and Finance. The program prepares students with the necessary qualifications to continue their studies in other advanced fields such as accounting and auditing, business management, banking, and finance. Furthermore, students can easily pursue certifications in various professional qualifications such as:</p>
+    <p class="aa" style="margin-left: 30px;" id="accounting-certs">
+    + Chartered Certified Accountant (ACCA),<br>
+    + Chartered Professional Accountant (CPA),<br>
+    + Certified Public Accountant (CPA),<br>
+    + Certified Management Accountant (CMA),<br>
+    + Cost & Management Accountant (CMA),<br>
+    + Certified Commercial Professional Accountant (CCPA).</p>
+    <p class="aa" style="margin-left: 30px; margin-top: 10px;" id="accounting-text-2">To obtain a Bachelor's degree in Accounting, students must successfully complete the courses listed below and fulfill the requirements for each subject as specified by the university:</p>
+    
     <div class="container mt-4">
         <h6 style="font-weight: bold;" class="mb-3">Accounting Program</h6>
         <table class="table table-bordered text-center  table-striped">
@@ -752,9 +740,8 @@
         </table>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;">       ៣.១.៣.២ ជំនាញគ្រប់គ្រង</h6>
-    <p  class="aa" style="margin-left: 30px; ">  ជំនាញគ្រប់គ្រងបណ្តុះបណ្តាលនិស្សិតឲ្យមានចំណេះដឹង និងជំនាញការគ្រប់គ្រងធនធានមនុស្ស  គ្រប់គ្រប់ការិយាល័យ  គ្រប់គ្រងសន្និធិរបស់ក្រុមហ៊ុន  គ្រប់គ្រងគុណភាពទំនិញ  និងសេវាកម្ម  គ្រប់គ្រង ហិរញ្ញវត្ថុ   គ្រប់គ្រងការវិនិយោគ  គ្រប់គ្រងយុទ្ធសាស្រ្ត។​ល។​</p>
-
+    <h6 style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;" id="management-title">3.1.3.2 Management</h6>
+    <p class="aa" style="margin-left: 30px;" id="management-text">The Management program trains students to have knowledge and skills in human resource management, office management, managing company meetings, quality control of products and services, financial management, investment management, strategic management, and more.</p>
     <div class="container mt-4">
         <h6 style="font-weight: bold;" class="mb-3">Management Program</h6>
         <table class="table table-bordered text-center  table-striped">
@@ -824,8 +811,8 @@
         </table>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;"> ៣.១.៣.៣ ជំនាញគ្រប់គ្រងសណ្ឋាគារ  និងទេសចរណ៍</h6>
-    <p  class="aa" style="margin-left: 30px; ">ជំនាញគ្រប់គ្រងសណ្ឋាគារ និងទេសចរណ៍បណ្តុះបណ្តាលនិស្សិតឲ្យមានចំណេះដឹង និងជំនាញ​ ការិយាល័យជួរមុខ  គេហកិច្ច   និងសេវាកម្មផលិតចំណីអាហារ។ បច្ចុប្បន្ន PPIU បានរៀបចំ កម្មវិធីសិក្សាអនុលោមតាម ស្តង់ដាសមត្ថភាពអ្នកជំនាញទេសចរណ៍កម្ពុជា ផ្នែកសេវាកម្ម សណ្ឋាគារ (Cambodian Competency Standards for Tourism Professionals – CCSTP, Hotel Service) របស់គណៈកម្មាធិការជាតិអ្នកជំនាញទេសចរណ៍ នៃក្រសួងទេសចរណ៍ និងអនុលោម តាម ASEAN Mutual Recognition Arrangement (MRA) on Tourism Professionals ។​ និស្សិត​មានឱកាសធ្វើការងារ ដូចជាអ្នកចាត់ការ ឬអ្នកគ្រប់គ្រងការិយាល័យជួរមុខ  អ្នកគ្រប់គ្រងផ្នែក គេហកិច្ច  មេចុងភៅគ្រប់គ្រងលើការចម្អិនអាហារ  អ្នកចាត់ការកន្លែងលក់អាហារ  និងភេសជ្ជៈ។​</p>
+    <h6 style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;" id="hotel-tourism-title">3.1.3.3 Hotel and Tourism Management</h6>
+    <p class="aa" style="margin-left: 30px;" id="hotel-tourism-text">The Hotel and Tourism Management program trains students to have knowledge and skills in front office management, housekeeping, and food service. Currently, PPIU has organized a curriculum in line with the Cambodian Competency Standards for Tourism Professionals (CCSTP), focusing on hotel service, developed by the National Tourism Professional Committee under the Ministry of Tourism, and adheres to the ASEAN Mutual Recognition Arrangement (MRA) on Tourism Professionals. Students have the opportunity to work as managers or front office supervisors, housekeeping managers, food production managers, and food and beverage service managers.</p>
 
     <div class="container mt-4">
         <h6 style="font-weight: bold;" class="mb-3">Hotel and Tourism Management</h6>
@@ -896,7 +883,7 @@
         </table>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;"> ៣.១.៣.៤ ជំនាញទីផ្សារ</h6>
+    <h6 style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;" id="marketing-title">3.1.3.4 Marketing</h6>
 
     <div class="container mt-4">
         <h6 style="font-weight: bold;" class="mb-3"> Marketing Program</h6>
@@ -967,9 +954,8 @@
         </table>
     </div>
 
-    <h6  style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;"> ៣.១.៣.៥​ សិក្សាជំនាញពីរក្នុងមហាវិទ្យាល័យពាណិជ្ជសាស្ត្រ និងទេសចរណ៍</h6>
-    <p  class="aa" style="margin-left: 30px; ">ករណីនិស្សិតមានបំណងសិក្សាយកជំនាញពីរក្នុងពេលតែមួយ ឬក្នុងពេលខុសគ្នា   និស្សិត​ត្រូវ​រៀន​ បន្ថែមមុខវិជ្ជាជំនាញមួយទៀត  ឬ​ បន្ថែម Credit  ដូចខាងក្រោម៖</p>
-
+    <h6 style="color: red; margin-left: 20px; margin-top: 20px; font-weight: bold;" id="dual-major-title">3.1.3.5 Dual Major Studies in the Faculty of Business and Tourism</h6>
+    <p class="aa" style="margin-left: 30px;" id="dual-major-text">In the case that a student intends to pursue a double major at the same time or at different times, the student must take additional courses or credits as listed below:</p>
     <div class="container mt-4">
        
         <table class="table table-bordered text-center  table-striped">
