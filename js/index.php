@@ -119,7 +119,7 @@
         "major-programs-heading": { "en": "Major Programs", "kh": "កម្មវិធីសំខាន់ៗ" },
 
         // Master's Degree
-        "master-header": { "en": "Master's Degree <i class='fas fa-bars'></i>", "kh": "សញ្ញាបត្រអនុបណ្ឌិត <i class='fas fa-bars'></i>" },
+        "master-headero": { "en": "Master's Degree <i class='fas fa-bars'></i>", "kh": "ថ្នាក់អនុបណ្ឌិត <i class='fas fa-bars'></i>" },
         "master-1": { "en": "Management", "kh": "គ្រប់គ្រង" },
         "master-2": { "en": "Finance", "kh": "ហិរញ្ញវត្ថុ" },
         "master-3": { "en": "Law", "kh": "នីតិសាស្ត្រ" },
@@ -129,7 +129,7 @@
         "master-7": { "en": "Governance and Ledership", "kh": "អភិបាលកិច្ច និងភាពជាអ្នកដឹកនាំ" },
 
         // Bachelor's Degree
-        "bachelor-header": { "en": "Bachelor's Degree <i class='fas fa-bars'></i>", "kh": "សញ្ញាបត្របរិញ្ញាបត្រ <i class='fas fa-bars'></i>" },
+        "bachelor-headero": { "en": "Bachelor's Degree <i class='fas fa-bars'></i>", "kh": "ថ្នាក់បរិញ្ញាបត្រ <i class='fas fa-bars'></i>" },
         "bachelor-1": { "en": "Accounting", "kh": "គណនេយ្យ" },
         "bachelor-2": { "en": "Management", "kh": "គ្រប់គ្រង" },
         "bachelor-3": { "en": "Law", "kh": "នីតិសាស្ត្រ" },
@@ -148,7 +148,7 @@
         "bachelor-15": { "en": "Logistics Management", "kh": "គ្រប់គ្រងភស្តុភារ" },
 
         // Associate's Degree Section
-        "associate-header": { "en": "Associate's Degree", "kh": "សញ្ញាបត្ររង" },
+        "associate-headero": { "en": "Associate's Degree <i class='fas fa-bars'></i>", "kh": "ថ្នាក់បរិញ្ញាបត្ររង <i class='fas fa-bars'></i>" },
         "associate-accounting": { "en": "Accounting", "kh": "គណនេយ្យ" },
         "associate-management": { "en": "Management", "kh": "គ្រប់គ្រង" },
         "associate-marketing": { "en": "Marketing", "kh": "ទីផ្សារ" },
@@ -161,7 +161,7 @@
         "associate-english-edu": { "en": "English for Education", "kh": "ភាសាអង់គ្លេសសម្រាប់ការអប់រំ" },
 
         // Doctoral's Degree Section
-        "doctoral-header": { "en": "Doctoral's Degree", "kh": "សញ្ញាបត្របណ្ឌិត" },
+        "doctoral-headero": { "en": "Doctoral's Degree <i class='fas fa-bars'></i>", "kh": "ថ្នាក់បណ្ឌិត <i class='fas fa-bars'></i>" },
         "doctoral-finance": { "en": "Finance", "kh": "ហិរញ្ញវត្ថុ" },
         "doctoral-marketing": { "en": "Marketing", "kh": "ទីផ្សារ" },
         "doctoral-management": { "en": "Management", "kh": "គ្រប់គ្រង" },
@@ -234,15 +234,15 @@
 
         // About PPIU Sections
         "about-ppiu-left-title": { "en": "About PPIU", "kh": "អំពី PPIU" },
-        "about-ppiu-left-desc": { "en": "As the leading academic center of excellence in Cambodia, PPIU is the only university providing internationally recognized US-accredited dual degree programs.", "kh": "ជាមជ្ឈមណ្ឌលសិក្សាឈានមុខគេនៅកម្ពុជា PPIU គឺជាសាកលវិទ្យាល័យតែមួយគត់ដែលផ្តល់កម្មវិធីសញ្ញាបត្រពីរដែលទទួលស្គាល់ជាអន្តរជាតិពីសហរដ្ឋអាមេរិក។" },
+        "about-ppiu-left-desc": { "en": "The university was renamed Phnom Penh International University - PPIU in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia", "kh": "សាកលវិទ្យាល័យនេះត្រូវបានប្តូរឈ្មោះជា សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) ក្នុងឆ្នាំ 2006 ដោយអនុក្រឹត្យ លេខ 111 អង្គ.បក ចុះថ្ងៃទី 24 ខែតុលា ឆ្នាំ 2006 របស់រាជរដ្ឋាភិបាលកម្ពុជា។" },
         "about-ppiu-left-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
         "about-ppiu-right-title": { "en": "About PPIU", "kh": "អំពី PPIU" },
-        "about-ppiu-right-desc": { "en": "As the leading academic center of excellence in Cambodia, PPIU is the only university providing internationally recognized US-accredited dual degree programs.", "kh": "ជាមជ្ឈមណ្ឌលសិក្សាឈានមុខគេនៅកម្ពុជា PPIU គឺជាសាកលវិទ្យាល័យតែមួយគត់ដែលផ្តល់កម្មវិធីសញ្ញាបត្រពីរដែលទទួលស្គាល់ជាអន្តរជាតិពីសហរដ្ឋអាមេរិក។" },
+        "about-ppiu-right-desc": { "en": "Phnom Penh International University (PPIU) was established in 2002 as ASEAN University under the initiative of the Rector, Mrs. Tep Kolap", "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) ត្រូវបានបង្កើតឡើងក្នុងឆ្នាំ 2002 ក្នុងនាមជា សាកលវិទ្យាល័យអាស៊ាន ក្រោមការចាប់ផ្តើមរបស់អនុប្រធានសាកលវិទ្យាល័យ អ្នកស្រី ទេព កុឡាប... " },
         "about-ppiu-right-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
 
         // Dual Degree Partners and Subsidiaries
         "dual-degree-partners-title": { "en": "Dual Degree Partners", "kh": "ដៃគូសញ្ញាបត្រពីរ" },
-        "our-subsidiaries-title": { "en": "Our Subsidiaries", "kh": "បុត្រសម្ព័ន្ធរបស់យើង" },
+        "our-subsidiaries-title": { "en": "Our Subsidiaries", "kh": "ក្រុមហ៊ុនបុត្រសម្ព័ន្ធរបស់យើង" },
 
         // UDHR Event Section
         "udhr-title": { "en": "Universal Declaration of Human Rights (UDHR)", "kh": "សេចក្តីប្រកាសជាសកលស្តីពីសិទ្ធិមនុស្ស (UDHR)" },

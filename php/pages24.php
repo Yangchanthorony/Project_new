@@ -18,7 +18,7 @@
             CALL FOR APPLICATION ASEAN-QAA
             </div>  
             <p> Attached files :</p>
-            <a href="https://www.ppiu.edu.kh/public/index/detail/view/20791659208320">1.My appointment as country representative;<br></a>
+            <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/files/My%20app%20country%20representative_Cambodia.pdf">1.My appointment as country representative;<br></a>
             <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/files/ASEAN-QAA%20INTRODUCTION.pptx">2.ASEAN-QAA Intro;<br></a>
             <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/files/ASEAN-QAA%20Constitution-Final-06.11.2019.pdf">3.ASEAN-QAA Constitution.<br></a>
 

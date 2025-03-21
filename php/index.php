@@ -260,7 +260,7 @@ include("../js/index.php");
 
                  <!-- Master's Degree -->
                  <div  class="program-box" id="master-box" >
-                 <div class="program-header" id="master-header" onclick="toggleList('master-box')">
+                 <div class="program-header" id="master-headero" onclick="toggleList('master-box')">
                     Master's Degree
                 
                    <i  class="fas fa-bars"></i>
@@ -279,7 +279,7 @@ include("../js/index.php");
 
                 <!-- Bachelor's Degree -->
                 <div  class="program-box" id="bachelor-box">
-                <div class="program-header" id="bachelor-header" onclick="toggleList('bachelor-box')">
+                <div class="program-header" id="bachelor-headero" onclick="toggleList('bachelor-box')">
                     Bachelor's Degree
                     <i class="fas fa-bars"></i>
                 </div>
@@ -305,7 +305,7 @@ include("../js/index.php");
                 </div>
 
             <div class="program-box" id="Associate-box">
-                <div class="program-header" onclick="toggleList('Associate-box')" id="associate-header">
+                <div class="program-header" onclick="toggleList('Associate-box')" id="associate-headero">
                 Associate's Degree
                <i    class="fas fa-bars"></i>
             </div>
@@ -324,7 +324,7 @@ include("../js/index.php");
 </div>
 
 <div class="program-box" id="Doctoral-box">
-    <div class="program-header" onclick="toggleList('Doctoral-box')" id="doctoral-header">
+    <div class="program-header" onclick="toggleList('Doctoral-box')" id="doctoral-headero">
         Doctoral's Degree
         <i class="fas fa-bars"></i>
     </div>
@@ -414,7 +414,7 @@ include("../js/index.php");
         <div style="margin-top: 30PX;" class="background d-flex flex-wrap">
             <div class="left col-md-6">
                 <h2 id="about-ppiu-left-title">About PPIU</h2>
-                <p id="about-ppiu-left-desc">As the leading academic center of excellence in Cambodia, PPIU is the only university providing internationally recognized US-accredited dual degree programs.</p>
+                <p id="about-ppiu-left-desc">   The university was renamed "Phnom Penh International University - PPIU" in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia</p>
                 <a href="history.php" class="btn-read-more" id="about-ppiu-left-readmore">Read More</a>
             </div>
                 <div class="right col-md-6 ">
@@ -429,7 +429,7 @@ include("../js/index.php");
                 <div class="right_mid col-md-6 ">
                 <div class="right_up">
                     <h2 id="about-ppiu-right-title">About PPIU</h2>
-                    <p id="about-ppiu-right-desc">As the leading academic center of excellence in Cambodia, PPIU is the only university providing internationally recognized US-accredited dual degree programs.</p>
+                    <p id="about-ppiu-right-desc">  Phnom Penh International University (PPIU) was established in 2002 as "ASEAN University" under the initiative of the Rector, Mrs. Tep Kolap </p>
                     <a href="history.php" class="btn-read-more" id="about-ppiu-right-readmore">Read More</a>
                 </div>
                    <div class="right_down">
