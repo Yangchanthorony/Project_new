@@ -38,7 +38,7 @@
                 
                
                 
-                <p><strong>Telegram :</strong> <a href=": https://t.me/+f8Ekkk5lDLRiMDJl"></a>:  https://t.me/+f8Ekkk5lDLRiMDJl</p>
+                <p><strong>Telegram :</strong> <a href=": https://t.me/+f8Ekkk5lDLRiMDJl">https://t.me/+f8Ekkk5lDLRiMDJl</a>  </p>
                 
                 <p><strong>E-mail:</strong>  tep.sopheak@ppiu.edu.kh & thlok.khonn@ppiu.edu.kh</p>
             </div>

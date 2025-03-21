@@ -37,7 +37,7 @@
                 <p>(855) 93 506 114</p>
                 <p>(855) 71 260 6399</p>
                 <p><strong>E-mail:</strong> info@ppiu.edu.kh</p>
-                <p><strong>Website:</strong> http://www.ppiu.edu.kh</p>
+                <p><strong>Website:</strong> http://www.ppiu.edzu.kh</p>
             </div>
             <form class="contact-form">
                 <input type="email" placeholder="Email" required>

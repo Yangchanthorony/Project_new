@@ -46,7 +46,7 @@
                 <p>(855) 017 300 824</p>
                 <p><strong>E-mail:</strong> info@ppiu.edu.kh</p>
                 <p><strong>Website:</strong> http://www.ppiu.edu.kh</p>
-                <p><strong>Facebook:</strong> <a href="https://www.ppiu.edu.kh/public/"></a>https://www.ppiu.edu.kh/public/</p>
+                <p><strong>Facebook:</strong> <a href="https://www.ppiu.edu.kh/public/">https://www.ppiu.edu.kh/public/</a></p>
             </div>
             <form class="contact-form">
                 <input type="email" placeholder="Email" required>

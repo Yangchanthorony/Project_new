@@ -38,7 +38,7 @@
                 
                
                 
-                <p><strong>Telegram :</strong> <a href=" https://t.me/+TqobvsI4muw4YmE9"></a> https://t.me/+TqobvsI4muw4YmE9</p>
+                <p><strong>Telegram :</strong> <a href=" https://t.me/+TqobvsI4muw4YmE9">https://t.me/+TqobvsI4muw4YmE9</a></p>
                 
                 <p><strong>E-mail:</strong> tam.sakirin@ppiu.edu.kh</p>
             </div>

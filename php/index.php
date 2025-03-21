@@ -19,7 +19,7 @@ include("../js/index.php");
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Moul&display=swap" rel="stylesheet">
-    <title>Navbar with Image</title>
+    <title>Home page</title>
   
   
     
@@ -105,7 +105,7 @@ include("../js/index.php");
                             <div class="event-card">
                                 <a href="Evens2.php"><img src="https://www.ppiu.edu.kh/public/images/article/11195036069.jpg" alt="Event 2"></a>
                                 <div class="event-card-body">
-                                    <h5 id="event2-title">action Welcome back to class!!</h5>
+                                    <h5 id="event2-title">action welcome back to class!!</h5>
                                     <p id="event2-date">📅 Date: 10 Dec 2022 | ⏰ Time: 1:00 PM - 5:00 PM</p>
                                     <p id="event2-location">📍 Location: PPIU Center</p>
                                     <a href="Evens2.php" class="read-more" id="event2-readmore">Read More</a>
@@ -127,7 +127,7 @@ include("../js/index.php");
                             <div class="event-card">
                                 <a href="Evens4.php"><img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/481134318_1061535806015149_3261788359234709455_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEMBvpdA8b3Bkpx5u-UsbeXBnTmetmQisQGdOZ62ZCKxOaHl5t-jmT2ZMm_k5EFmVmWOVZDfUup8iPtmZbm6hfO&_nc_ohc=bUvInmuRLN0Q7kNvgF_ckCY&_nc_oc=AdgGUlyvuvMTgA8cw6fvxFqFlBauC01a8ukd6lj27ZDYi3588tNs6aVLMSip7cLJa6Q&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=AoiTLpLEqPiDn0c7gyJtXgL&oh=00_AYHiZnc6uk6IJT9ogDfUBa2hFirc0FmUC5E4tHkozQ-dOQ&oe=67D79DD0" alt="Event 4"></a>
                                 <div class="event-card-body">
-                                    <h5 id="event4-title">The management of (PPIU)</h5>
+                                    <h5 id="event4-title">The management of (PPIU) share experiences...</h5>
                                     <p id="event4-date">📅 Date: 21 February 2025 | ⏰ Time: 2:00 PM - 5:00 PM</p>
                                     <p id="event4-location">📍 Location: High School</p>
                                     <a href="Evens4.php" class="read-more" id="event4-readmore">Read More</a>
@@ -457,8 +457,8 @@ include("../js/index.php");
                     <div class="col-md-6 logo-section">
                     <div class="logo-title" id="our-subsidiaries-title">Our Subsidiaries</div>
                         <div style=" margin-left: 100px;" class="logo d-flex">
-                            <img src="https://pbs.twimg.com/media/EujqV00VoAIQzPM.jpg" alt="Alfy High School">
-                            <img src="https://i.ytimg.com/vi/P5CjkPSjAJc/maxresdefault.jpg" alt="Foxcroft Academy">
+                            <img src="https://unication.eu/wp-content/uploads/2024/04/Batangas_State_Logo-1.png" alt="Alfy High School">
+                            <img src="https://unication.eu/wp-content/uploads/2024/04/Instituto_Superior_Tecnico_logo-1-1.png" alt="Foxcroft Academy">
                           
                         </div>
                     </div>

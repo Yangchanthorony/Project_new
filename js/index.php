@@ -99,7 +99,7 @@
         "event1-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
 
         // Event 2
-        "event2-title": { "en": "action Welcome back to class!!", "kh": "សកម្មភាពស្វាគមន៍ត្រឡប់មកថ្នាក់រៀនវិញ!!" },
+        "event2-title": { "en": " Action Welcome back to class!!", "kh": "ស្វាគមន៍ត្រឡប់មកថ្នាក់រៀនវិញ!!" },
         "event2-date": { "en": "📅 Date: 10 Dec 2022 | ⏰ Time: 1:00 PM - 5:00 PM", "kh": "📅 កាលបរិច្ឆេទ: ១០ ធ្នូ ២០២២ | ⏰ ម៉ោង: ១:ល្ងាច - ៥:ល្ងាច" },
         "event2-location": { "en": "📍 Location: PPIU Center", "kh": "📍 ទីតាំង: មជ្ឈមណ្ឌល PPIU" },
         "event2-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
@@ -111,7 +111,7 @@
         "event3-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
 
         // Event 4
-        "event4-title": { "en": "The management of (PPIU) ", "kh": "ការគ្រប់គ្រងរបស់ (PPIU) បានចែករំលែកបទពិសោធន៍" },
+        "event4-title": { "en": "The management of (PPIU) share experiences... ", "kh": "ការគ្រប់គ្រងរបស់ (PPIU) បានចែករំលែកបទពិសោធន៍" },
         "event4-date": { "en": "📅 Date: 21 February 2025 | ⏰ Time: 2:00 PM - 5:00 PM", "kh": "📅 កាលបរិច្ឆេទ: ២១ កុម្ភៈ ២០២៥ | ⏰ ម៉ោង: ២:ល្ងាចរសល្ងាច - ៥:ល្ងាច" },
         "event4-location": { "en": "📍 Location: Bunrany High School", "kh": "📍 ទីតាំង: វិទ្យាល័យប៊ុនរ៉ានី" },
         "event4-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
@@ -217,13 +217,13 @@
         // News Card 2
         "news2-date": { "en": "March 15, 2025", "kh": "១៥ មីនា ២០២៥" },
         "news2-title": { "en": "organized entrance exams", "kh": "បានរៀបចំការប្រឡងចូលរៀន" },
-        "news2-desc": { "en": "Postgraduate School Activities organized entrance exams for postgraduate students of Phnom Penh International University (PPIU).", "kh": "សកម្មភាពសាលាក្រោយឧត្តមសិក្សាបានរៀបចំការប្រឡងចូលរៀនសម្រាប់និស្សិតក្រោយឧត្តមសិក្សានៃសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU)។" },
+        "news2-desc": { "en": "Postgraduate School Activities organized entrance exams for postgraduate students of Phnom Penh International University (PPIU).", "kh": "សកម្មភាពសាលាក្រោយឧត្តមសិក្សាបានរៀបចំការប្រឡងចូលរៀនសម្រាប់និស្សិតក្រោយឧត្តមសិក្សា... " },
         "news2-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
 
         // News Card 3
         "news3-date": { "en": "February 27, 2025", "kh": "២៧ កុម្ភៈ ២០២៥" },
         "news3-title": { "en": "General General of the CPP", "kh": "ឧត្តមសេនីយ៍នៃ CPP" }, // Assuming "General General" is a typo; adjusted accordingly
-        "news3-desc": { "en": "Phnom Penh International University PPIU and General General of the CPP Has organized...", "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ PPIU និងឧត្តមសេនីយ៍នៃ CPP បានរៀបចំ..." },
+        "news3-desc": { "en": "Phnom Penh International University PPIU and General General of the CPP Has organized...", "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ PPIU និងឧត្តមសេនីយ៍នៃ CPP បានរៀបចំជាមួយលោក សុខ ផុន អភិបាលខេត្តស្ទឹងត្រែង" },
         "news3-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
 
         // News Card 4
@@ -255,7 +255,7 @@
         "share-event-title": { "en": "Share this Event", "kh": "ចែករំលែកព្រឹត្តិការណ៍នេះ" },
 
         // Welcome Back Event Section
-        "welcome-back-title": { "en": "Welcome back to class!!", "kh": "សូមស្វាគមន៍ត្រឡប់មកថ្នាក់រៀនវិញ!!" },
+        "welcome-back-title": { "en": " welcome back to class!!", "kh": "សូមស្វាគមន៍ត្រឡប់មកថ្នាក់រៀនវិញ!!" },
         "event-info-title": { "en": "Event Information:", "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:" },
         "event-info-desc1": { "en": "📌 Open exclusively to PPIU students", "kh": "📌 បើកផ្តាច់មុខសម្រាប់និស្សិត PPIU" },
         "event-info-date": { "en": "📅 Date: 10 Dec 2022", "kh": "📅 កាលបរិច្ឆេទ: ១០ ធ្នូ ២០២២" },
@@ -330,60 +330,97 @@
         },
         "share-event-title": { "en": "Share this Event", "kh": "ចែករំលែកព្រឹត្តិការណ៍នេះ" },
 
-        // History Section
-        "history-header": { "en": "History", "kh": "ប្រវត្តិ" },
-        "ppiu-title": { "en": "Phnom Penh International University ( Official )", "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (ផ្លូវការ)" },
-        "ppiu-desc1": { 
-            "en": "PPIU was established in 2002 as a Cambodian university (licensed) with an American curriculum. There were three founders who envisioned a new university that would meet international standards and be based on the US educational system.", 
-            "kh": "PPIU ត្រូវបានបង្កើតឡើងនៅឆ្នាំ ២០០២ ជាសាកលវិទ្យាល័យកម្ពុជា (មានអាជ្ញាបណ្ណ) ជាមួយនឹងកម្មវិធីសិក្សាអាមេរិក។ មានស្ថាបនិកបីនាក់ដែលបានស្រមៃឃើញសាកលវិទ្យាល័យថ្មីមួយដែលនឹងបំពេញតាមស្តង់ដារអន្តរជាតិ និងផ្អែកលើប្រព័ន្ធអប់រំអាមេរិក។" 
+       //history
+
+       "header-title": {
+            "en": "History",
+            "kh": "ប្រវត្តិ"
         },
-        "ppiu-desc2": { 
-            "en": "PPIU began operations in May 2002 in a temporary facility in Toul Kork. It was grounded on several principles: senior managers were to be highly qualified, experienced western administrators with administrative skills and experience in academic affairs; faculty must have terminal degrees from U.S. institutions or other western countries, and teaching experience in western institutions; an undergraduate curriculum that meets U.S. accreditation requirements for a balance between liberal arts education and appropriate coursework for a major; and the recruitment of students who aspire to high levels of achievement.", 
-            "kh": "PPIU បានចាប់ផ្តើមប្រតិបត្តិការនៅខែឧសភា ឆ្នាំ ២០០២ នៅក្នុងទីតាំងបណ្តោះអាសន្ននៅតំបន់ទួលគោក។ វាត្រូវបានបង្កើតឡើងលើគោលការណ៍ជាច្រើន៖ អ្នកគ្រប់គ្រងជាន់ខ្ពស់ត្រូវមានសមត្ថភាពខ្ពស់ ជាអ្នកគ្រប់គ្រងលោកខាងលិចដែលមានបទពិសោធន៍ជាមួយនឹងជំនាញរដ្ឋបាល និងបទពិសោធន៍ក្នុងកិច្ចការសិក្សា; មហាវិទ្យាល័យត្រូវតែមានសញ្ញាបត្រចុងក្រោយពីស្ថាប័នអាមេរិក ឬបណ្តាប្រទេសលោកខាងលិចផ្សេងទៀត និងបទពិសោធន៍បង្រៀននៅស្ថាប័នលោកខាងលិច; កម្មវិធីសិក្សាថ្នាក់បរិញ្ញាបត្រដែលបំពេញតាមតម្រូវការទទួលស្គាល់របស់សហរដ្ឋអាមេរិកសម្រាប់តុល្យភាពរវាងការអប់រំសិល្បៈសេរី និងមុខវិជ្ជាសមស្របសម្រាប់ជំនាញសំខាន់; និងការជ្រើសរើសនិស្សិតដែលប្រាថ្នាចង់ទទួលបានសមិទ្ធផលខ្ពស់។" 
+        "university-history-title": {
+            "en": "University History",
+            "kh": "ប្រវត្តិសាកលវិទ្យាល័យ"
         },
-        "ppiu-desc3": { 
-            "en": "A Board of Trustees (BOT) was formed to direct the course of the University and oversee its development. The Board is composed of American educators, executives of higher education institutions in the U.S., and business executives from Cambodia and around the globe. It is dedicated to making PPIU a leading higher education institution in Cambodia, fostering socially responsible behavior, lifelong learning, academic and professional excellence among students, and to producing students who are critical thinkers, innovators and ethical leaders to serve Cambodia and the ASEAN Economic Community.", 
-            "kh": "ក្រុមប្រឹក្សាភិបាល (BOT) ត្រូវបានបង្កើតឡើងដើម្បីដឹកនាំទិសដៅរបស់សាកលវិទ្យាល័យ និងត្រួតពិនិត្យការអភិវឌ្ឍន៍របស់វា។ ក្រុមប្រឹក្សានេះមានសមាសភាពចេញពីអ្នកអប់រំអាមេរិក នាយកប្រតិបត្តិនៃស្ថាប័នឧត្តមសិក្សានៅសហរដ្ឋអាមេរិក និងនាយកប្រតិបត្តិធុរកិច្ចមកពីកម្ពុជា និងជុំវិញពិភពលោក។ វាប្តេជ្ញាធ្វើឱ្យ PPIU ក្លាយជាស្ថាប័នឧត្តមសិក្សាឈានមុខគេនៅកម្ពុជា ជំរុញឥរិយាបថដែលមានទំនួលខុសត្រូវសង្គម ការរៀនសូត្រពេញមួយជីវិត ឧត្តមភាពផ្នែកសិក្សា និងវិជ្ជាជីវៈក្នុងចំណោមនិស្សិត និងបង្កើតនិស្សិតដែលជាអ្នកគិតបែបរិះគន់ អ្នកបង្កើតថ្មី និងអ្នកដឹកនាំប្រកបដោយសីលធម៌ដើម្បីបម្រើកម្ពុជា និងសហគមន៍សេដ្ឋកិច្ចអាស៊ាន។" 
+        "history-text-1": {
+            "en": "Phnom Penh International University (PPIU) was established in 2002 as \"ASEAN University\" under the initiative of the Rector, Mrs. Tep Kolap, a Cambodian scholar with high dedication, determination, and vision for the higher education sector of the future generations of Cambodia. The Rector devoted her physical and mental strength, honor, and personal wealth to build and expand the university, growing from only 1,050 students to 7,000 students and from renting physical premises to constructing well-equipped infrastructure with a good learning environment for students.",
+            "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) ត្រូវបានបង្កើតឡើងនៅឆ្នាំ ២០០២ ក្រោមឈ្មោះ \"សាកលវិទ្យាល័យអាស៊ាន\" តាមគំនិតផ្តួចផ្តើមរបស់សាកលវិទ្យាធិការ លោកស្រី ទេព កុលាប ដែលជាអ្នកប្រាជ្ញខ្មែរមួយរូបដែលមានការលះបង់ខ្ពស់ ការតាំងចិត្ត និងចក្ខុវិស័យសម្រាប់វិស័យឧត្តមសិក្សារបស់មនុស្សជំនាន់ក្រោយនៃប្រទេសកម្ពុជា។ សាកលវិទ្យាធិការបានលះបង់កម្លាំងកាយចិត្ត កិត្តិយស និងទ្រព្យសម្បត្តិផ្ទាល់ខ្លួនដើម្បីសាងសង់ និងពង្រីកសាកលវិទ្យាល័យនេះ ដោយបានរីកចម្រើនពីនិស្សិតត្រឹម ១,០៥០ នាក់ ដល់ ៧,០០០ នាក់ និងពីការជួលទីតាំងរូបវន្ត ទៅជាការសាងសង់ហេដ្ឋារចនាសម្ព័ន្ធដែលបំពាក់បរិក្ខារល្អ ជាមួយបរិយាកាសសិក្សាដ៏ល្អសម្រាប់និស្សិត។"
         },
-        "ppiu-desc4": { 
-            "en": "PPIU new modern facility was finished in October 2017 and has been designed to enhance and support a model academic teaching and learning environment, incorporating the newest technologies, a learning center, library, and student services that will complement academic offerings. This environment will allow students to develop their potential and acquire the education necessary and relevant for 21st century competitiveness.", 
-            "kh": "អគារថ្មីទំនើបរបស់ PPIU ត្រូវបានបញ្ចប់នៅខែតុលា ឆ្នាំ ២០១៧ ហើយត្រូវបានរចនាឡើងដើម្បីលើកកម្ពស់ និងគាំទ្របរិយាកាសបង្រៀន និងរៀនសូត្រគំរូផ្នែកសិក្សា ដោយបញ្ចូលបច្ចេកវិទ្យាថ្មីបំផុត មជ្ឈមណ្ឌលសិក្សា បណ្ណាល័យ និងសេវាកម្មនិស្សិតដែលនឹងបំពេញបន្ថែមដល់ការផ្តល់ជូនផ្នែកសិក្សា។ បរិយាកាសនេះនឹងអនុញ្ញាតឱ្យនិស្សិតអភិវឌ្ឍសក្តានុពលរបស់ពួកគេ និងទទួលបានការអប់រំដែលចាំបាច់ និងពាក់ព័ន្ធសម្រាប់ការប្រកួតប្រជែងនៅសតវត្សរ៍ទី ២១។" 
+        "history-text-2": {
+            "en": "The university was renamed \"Phnom Penh International University - PPIU\" in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia and under the supervision of the Ministry of Education, Youth, and Sports.",
+            "kh": "សាកលវិទ្យាល័យនេះត្រូវបានប្តូរឈ្មោះទៅជា \"សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ - PPIU\" នៅឆ្នាំ ២០០៦ តាមអនុក្រឹត្យលេខ ១១១ អនក្រ.បក ចុះថ្ងៃទី ២៤ ខែតុលា ឆ្នាំ ២០០៦ របស់រាជរដ្ឋាភិបាលកម្ពុជា និងស្ថិតក្រោមការត្រួតពិនិត្យរបស់ក្រសួងអប់រំ យុវជន និងកីឡា។"
         },
-        "ppiu-desc5": { 
-            "en": "The students attending PPIU are impressive. They have a strong desire to improve Cambodia and to make a mark on its development. They are bright; they have a mission and they are drivers of change. They come from all over Cambodia, with an increasing number from other countries in the region. PPIU provides scholarships for students based on merit and financial need.", 
-            "kh": "និស្សិតដែលចូលរៀននៅ PPIU គឺគួរឱ្យចាប់អារម្មណ៍។ ពួកគេមានបំណងប្រាថ្នាខ្លាំងក្លាក្នុងការកែលម្អកម្ពុជា និងបន្សល់ស្នាមនៅលើការអភិវឌ្ឍរបស់វា។ ពួកគេឆ្លាតវៃ; ពួកគេមានបេសកកម្ម និងជាអ្នកជំរុញការផ្លាស់ប្តូរ។ ពួកគេមកពីទូទាំងប្រទេសកម្ពុជា ដោយមានចំនួនកើនឡើងពីបណ្តាប្រទេសផ្សេងទៀតនៅក្នុងតំបន់។ PPIU ផ្តល់អាហារូបករណ៍សម្រាប់និស្សិតដោយផ្អែកលើគុណសម្បត្តិ និងតម្រូវការហិរញ្ញវត្ថុ។" 
+        "vision-title": {
+            "en": "I. Vision",
+            "kh": "១. ចក្ខុវិស័យ"
         },
-        "ppiu-desc6": { 
-            "en": "In the summer of 2016, PPIU signed agreements for dual degrees with the University of Arizona and with Fort Hays State University. The University of Arizona dual programs are Business Administration and Law. The dual degrees with Fort Hays State are Tourism and Hospitality Management and Computer Science.", 
-            "kh": "នៅរដូវក្តៅឆ្នាំ ២០១៦ PPIU បានចុះកិច្ចព្រមព្រៀងសម្រាប់សញ្ញាបត្រពីរជាមួយសាកលវិទ្យាល័យអារីហ្សូណា និងជាមួយសាកលវិទ្យាល័យ Fort Hays State។ កម្មវិធីសញ្ញាបត្រពីររបស់សាកលវិទ្យាល័យអារីហ្សូណាគឺ រដ្ឋបាលធុរកិច្ច និងច្បាប់។ សញ្ញាបត្រពីរជាមួយ Fort Hays State គឺ គ្រប់គ្រងទេសចរណ៍ និងបដិសណ្ឋារកិច្ច និងវិទ្យាសាស្ត្រកុំព្យូទ័រ។" 
+        "vision-text": {
+            "en": "Phnom Penh International University adheres to national and international educational quality standards by focusing on digital education and research as its core principles.",
+            "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញប្រកាន់ខ្ជាប់នូវស្តង់ដារគុណភាពអប់រំជាតិ និងអន្តរជាតិ ដោយផ្តោតលើការអប់រំឌីជីថល និងការស្រាវជ្រាវជាគោលការណ៍ស្នូល។"
         },
-        "ppiu-desc7": { 
-            "en": "PPIU received full institutional accreditation (certificate) from 2019. During the Accreditation Committee of Cambodia visit in August 2023, the officials were impressed with the PPIU progress. We are currently preparing for the national accreditation renewal.", 
-            "kh": "PPIU បានទទួលការទទួលស្គាល់ស្ថាប័នពេញលេញ (វិញ្ញាបនបត្រ) ចាប់ពីឆ្នាំ ២០១៩។ ក្នុងអំឡុងពេលដំណើរទស្សនកិច្ចរបស់គណៈកម្មាធិការទទួលស្គាល់នៃកម្ពុជានៅខែសីហា ឆ្នាំ ២០២៣ មន្ត្រីទាំងនោះបានចាប់អារម្មណ៍នឹងវឌ្ឍនភាពរបស់ PPIU។ បច្ចុប្បន្នយើងកំពុងរៀបចំសម្រាប់ការបន្តទទួលស្គាល់ជាតិ។" 
+        "mission-title": {
+            "en": "II. Mission",
+            "kh": "២. បេសកកម្ម"
         },
-        "ppiu-desc8": { 
-            "en": "The history of PPIU is short, the accomplishments are enduring. This sets PPIU on a trajectory of meeting its mission and being a model University to assist Cambodia in its human resource development.", 
-            "kh": "ប្រវត្តិរបស់ PPIU គឺខ្លី ប៉ុន្តែសមិទ្ធផលគឺឋិតថេរ។ នេះធ្វើឱ្យ PPIU ស្ថិតនៅលើគន្លងនៃការសម្រេចបេសកកម្មរបស់ខ្លួន និងក្លាយជាសាកលវិទ្យាល័យគំរូដើម្បីជួយកម្ពុជាក្នុងការអភិវឌ្ឍធនធានមនុស្សរបស់ខ្លួន។" 
+        "mission-text": {
+            "en": "Phnom Penh International University is committed to providing knowledge and skills through the integration of digital technology and research to contribute to the development of human resources with high professionalism and ethics, meeting the demands of the labor market.",
+            "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញប្តេជ្ញាផ្តល់ចំណេះដឹង និងជំនាញតាមរយៈការបញ្ចូលបច្ចេកវិទ្យាឌីជីថល និងការស្រាវជ្រាវ ដើម្បីរួមចំណែកក្នុងការអភិវឌ្ឍធនធានមនុស្សដែលមានវិជ្ជាជីវៈខ្ពស់ និងសីលធម៌ ដើម្បីបំពេញតម្រូវការទីផ្សារការងារ។"
+        },
+        "values-title": {
+            "en": "III. Values - IDT",
+            "kh": "៣. តម្លៃ - IDT"
+        },
+        "values-text": {
+            "en": "Phnom Penh International University upholds integrity, trust, dignity, and leadership.",
+            "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញរក្សាភាពស្មោះត្រង់ ទំនុកចិត្ត សេចក្តីថ្លៃថ្នូរ និងភាពជាអ្នកដឹកនាំ។"
+        },
+        "goals-title": {
+            "en": "* Goals (What we must achieve to be successful?)",
+            "kh": "* គោលដៅ (តើយើងត្រូវសម្រេចអ្វីខ្លះដើម្បីជោគជ័យ?)"
+        },
+        "goals-intro": {
+            "en": "To achieve the vision and mission stated above, PPIU will:",
+            "kh": "ដើម្បីសម្រេចចក្ខុវិស័យ និងបេសកកម្មដែលបានរៀបរាប់ខាងលើ PPIU នឹង៖"
+        },
+        "goal-1": {
+            "en": "1. Update the curriculum by integrating digital technology and research.",
+            "kh": "១. ធ្វើបច្ចុប្បន្នភាពកម្មវិធីសិក្សាដោយបញ្ចូលបច្ចេកវិទ្យាឌីជីថល និងការស្រាវជ្រាវ។"
+        },
+        "goal-2": {
+            "en": "2. Strengthen relationships with institutions, enterprises, national and international organizations, and educational institutions.",
+            "kh": "២. ពង្រឹងទំនាក់ទំនងជាមួយស្ថាប័ន សហគ្រាស អង្គការជាតិ និងអន្តរជាតិ និងគ្រឹះស្ថានអប់រំ។"
+        },
+        "goal-3": {
+            "en": "3. Enhance the capacity of academic and non-academic staff and students, including the use of digital technology.",
+            "kh": "៣. ពង្រឹងសមត្ថភាពបុគ្គលិកសិក្សា និងមិនមែនសិក្សា និងនិស្សិត រួមទាំងការប្រើប្រាស់បច្ចេកវិទ្យាឌីជីថល។"
+        },
+        "goal-4": {
+            "en": "4. Maintain and promote a teamwork culture.",
+            "kh": "៤. រក្សា និងលើកកម្ពស់វប្បធម៌ការងារជាក្រុម។"
+        },
+        "goal-5": {
+            "en": "5. Continue promoting a research culture and quality assurance.",
+            "kh": "៥. បន្តលើកកម្ពស់វប្បធម៌ស្រាវជ្រាវ និងការធានាគុណភាព។"
+        },
+        "goal-6": {
+            "en": "6. Improve information technology services.",
+            "kh": "៦. ធ្វើឱ្យប្រសើរឡើងនូវសេវាបច្ចេកវិទ្យាព័ត៌មាន។"
+        },
+        "goal-7": {
+            "en": "7. Regularly enhance student support services and administration.",
+            "kh": "៧. ពង្រឹងសេវាគាំទ្រនិស្សិត និងរដ្ឋបាលជាប្រចាំ។"
+        },
+        "goal-8": {
+            "en": "8. Strengthen good governance and infrastructure.",
+            "kh": "៨. ពង្រឹងអភិបាលកិច្ចល្អ និងហេដ្ឋារចនាសម្ព័ន្ធ។"
+        },
+        "goal-9": {
+            "en": "9. Continue to uphold the university’s reputation.",
+            "kh": "៩. បន្តរក្សាកេរ្តិ៍ឈ្មោះរបស់សាកលវិទ្យាល័យ។"
+        },
+        "goals-source": {
+            "en": "Extracted from the PPIU Strategic Plan 2020-2025",
+            "kh": "ដកស្រង់ចេញពីផែនការយុទ្ធសាស្ត្រ PPIU ២០២០-២០២៥"
         },
 
-        // License and Accreditation Section
-        "license-header": { "en": "PPIU License and Accreditation", "kh": "អាជ្ញាបណ្ណ និងការទទួលស្គាល់របស់ PPIU" },
-        "license-desc1": { 
-            "en": "Phnom Penh International University (PPIU) was established in 2013 with a <a href=\"#\">license</a> by the then Prime Minister of Cambodia. PPIU operates as a private university under the Ministry of Education, Youth and Sport supervision.", 
-            "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) ត្រូវបានបង្កើតឡើងនៅឆ្នាំ ២០១៣ ជាមួយនឹង <a href=\"#\">អាជ្ញាបណ្ណ</a> ដោយអតីតនាយករដ្ឋមន្ត្រីនៃប្រទេសកម្ពុជា។ PPIU ដំណើរការជាសាកលវិទ្យាល័យឯកជនក្រោមការត្រួតពិនិត្យរបស់ក្រសួងអប់រំ យុវជន និងកីឡា។" 
-        },
-        "license-desc2": { 
-            "en": "PPIU received full institutional accreditation from 2019. During the Accreditation Committee of Cambodia visit in August 2023, the officials were impressed with the PPIU progress. We are currently preparing for the national accreditation renewal.", 
-            "kh": "PPIU បានទទួលការទទួលស្គាល់ស្ថាប័នពេញលេញចាប់ពីឆ្នាំ ២០១៩។ ក្នុងអំឡុងពេលដំណើរទស្សនកិច្ចរបស់គណៈកម្មាធិការទទួលស្គាល់នៃកម្ពុជានៅខែសីហា ឆ្នាំ ២០២៣ មន្ត្រីទាំងនោះបានចាប់អារម្មណ៍នឹងវឌ្ឍនភាពរបស់ PPIU។ បច្ចុប្បន្នយើងកំពុងរៀបចំសម្រាប់ការបន្តទទួលស្គាល់ជាតិ។" 
-        },
-        "license-desc3": { 
-            "en": "PPIU offers single-degree programs nationally accredited under the institutional accreditation and, since 2016, dual-degree programs in partnerships with the <a href=\"#\">University of Arizona</a> and <a href=\"#\">Fort Hays State University</a>, which are accredited by WSCUC and Higher Learning Commission, respectively, in the USA.", 
-            "kh": "PPIU ផ្តល់ជូនកម្មវិធីសញ្ញាបត្រតែមួយដែលទទួលស្គាល់ជាតិក្រោមការទទួលស្គាល់ស្ថាប័ន និងចាប់តាំងពីឆ្នាំ ២០១៦ កម្មវិធីសញ្ញាបត្រពីរក្នុងភាពជាដៃគូជាមួយ <a href=\"#\">សាកលវិទ្យាល័យអារីហ្សូណា</a> និង <a href=\"#\">សាកលវិទ្យាល័យ Fort Hays State</a> ដែលត្រូវបានទទួលស្គាល់ដោយ WSCUC និង Higher Learning Commission រៀងគ្នានៅសហរដ្ឋអាមេរិក។" 
-        },
-        "license-desc4": { 
-            "en": "Questions may be directed to Quality Assurance Director Ms ko lab at <a href=\"mailto:ms.kolab@ppiu.edu.kh\">ms.kolab@ppiu.edu.kh</a>.", 
-            "kh": "សំណួរអាចត្រូវបានផ្ញើទៅនាយកធានាគុណភាព អ្នកស្រី កូ ឡាប នៅ <a href=\"mailto:ms.kolab@ppiu.edu.kh\">ms.kolab@ppiu.edu.kh</a>។" 
-        },
 
         // Vision, Mission, and Values Section
         "vision-mission-header": { "en": "Vision, Mission, and Values", "kh": "ចក្ខុវិស័យ បេសកកម្ម និងតម្លៃ" },

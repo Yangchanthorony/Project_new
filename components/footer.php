@@ -7,9 +7,9 @@
 </head>
 <style>
     *{
-    font-family: "Hanuman", serif;
-                font-weight: 100;
-                font-style: normal;
+        font-family: "Khmer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
            
 }
     .footer {

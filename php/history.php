@@ -9,7 +9,7 @@ include("../js/index.php");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>History - AUPP</title>
+    <title>History - PPIU</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome -->
@@ -21,37 +21,46 @@ include("../js/index.php");
    
  <!-- Header Section -->
 <div class="header-pattern">
-    <div class="header" id="history-header">History</div>
+    <div class="header" id="header-title">History</div>
 </div>
 
 <!-- Content Section -->
 <div class="content-container">
-    <h2 style="color: red;" id="ppiu-title">Phnom Penh International University ( Official )</h2>
-    <p id="ppiu-desc1">
-        PPIU was established in 2002 as a Cambodian university (licensed) with an American curriculum. There were three founders who envisioned a new university that would meet international standards and be based on the US educational system.
+    <h2 style="color: red;" id="university-history-title">University History</h2>
+    <p id="history-text-1">
+    Phnom Penh International University (PPIU) was established in 2002 as "ASEAN University" under the initiative of the Rector, Mrs. <span style="font-weight: bold;">Tep Kolap</span> , a Cambodian scholar with high dedication, determination, and vision for the higher education sector of the future generations of Cambodia. The Rector devoted her physical and mental strength, honor, and personal wealth to build and expand the university, growing from only 1,050 students to 7,000 students and from renting physical premises to constructing well-equipped infrastructure with a good learning environment for students.
     </p>
-    <p id="ppiu-desc2">
-        PPIU began operations in May 2002 in a temporary facility in Toul Kork. It was grounded on several principles: senior managers were to be highly qualified, experienced western administrators with administrative skills and experience in academic affairs; faculty must have terminal degrees from U.S. institutions or other western countries, and teaching experience in western institutions; an undergraduate curriculum that meets U.S. accreditation requirements for a balance between liberal arts education and appropriate coursework for a major; and the recruitment of students who aspire to high levels of achievement.
+    <p id="history-text-2">
+    The university was renamed "Phnom Penh International University - PPIU" in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia and under the supervision of the Ministry of Education, Youth, and Sports.
     </p>
-    <p id="ppiu-desc3">
-        A Board of Trustees (BOT) was formed to direct the course of the University and oversee its development. The Board is composed of American educators, executives of higher education institutions in the U.S., and business executives from Cambodia and around the globe. It is dedicated to making PPIU a leading higher education institution in Cambodia, fostering socially responsible behavior, lifelong learning, academic and professional excellence among students, and to producing students who are critical thinkers, innovators and ethical leaders to serve Cambodia and the ASEAN Economic Community.
+    <h6 style="font-weight: bold;" id="vision-title">I. Vision</h6>
+    <p id="vision-text">
+    Phnom Penh International University adheres to national and international educational quality standards by focusing on digital education and research as its core principles.
     </p>
-    <p id="ppiu-desc4">
-        PPIU new modern facility was finished in October 2017 and has been designed to enhance and support a model academic teaching and learning environment, incorporating the newest technologies, a learning center, library, and student services that will complement academic offerings. This environment will allow students to develop their potential and acquire the education necessary and relevant for 21st century competitiveness.
+    <h6 style="font-weight: bold;" id="mission-title">II. Mission</h6>
+    <p id="mission-text">
+    Phnom Penh International University is committed to providing knowledge and skills through the integration of digital technology and research to contribute to the development of human resources with high professionalism and ethics, meeting the demands of the labor market.
     </p>
-    <p id="ppiu-desc5">
-        The students attending PPIU are impressive. They have a strong desire to improve Cambodia and to make a mark on its development. They are bright; they have a mission and they are drivers of change. They come from all over Cambodia, with an increasing number from other countries in the region. PPIU provides scholarships for students based on merit and financial need.
+    <h6 style="font-weight: bold;" id="values-title">III. Values - IDT</h6>
+    <p id="values-text">
+    Phnom Penh International University upholds integrity, trust, dignity, and leadership.
     </p>
-    <p id="ppiu-desc6">
-        In the summer of 2016, PPIU signed agreements for dual degrees with the University of Arizona and with Fort Hays State University. The University of Arizona dual programs are Business Administration and Law. The dual degrees with Fort Hays State are Tourism and Hospitality Management and Computer Science.
+    <h6 style="font-weight: bold;" id="goals-title">* Goals (What we must achieve to be successful?)</h6>
+    <p style="margin-left: 20px;" id="goals-intro">
+    To achieve the vision and mission stated above, PPIU will:
     </p>
-    <p id="ppiu-desc7">
-        PPIU received full institutional accreditation (certificate) from 2019. During the Accreditation Committee of Cambodia visit in August 2023, the officials were impressed with the PPIU progress. We are currently preparing for the national accreditation renewal.
-    </p>
-    <p id="ppiu-desc8">
-        The history of PPIU is short, the accomplishments are enduring. This sets PPIU on a trajectory of meeting its mission and being a model University to assist Cambodia in its human resource development.
-    </p>
+    <p style="margin-left: 40px;" id="goal-1">1. Update the curriculum by integrating digital technology and research.</p>
+    <p style="margin-left: 40px;" id="goal-2">2. Strengthen relationships with institutions, enterprises, national and international organizations, and educational institutions.</p>
+    <p style="margin-left: 40px;" id="goal-3">3. Enhance the capacity of academic and non-academic staff and students, including the use of digital technology.</p>
+    <p style="margin-left: 40px;" id="goal-4">4. Maintain and promote a teamwork culture.</p>
+    <p style="margin-left: 40px;" id="goal-5">5. Continue promoting a research culture and quality assurance.</p>
+    <p style="margin-left: 40px;" id="goal-6">6. Improve information technology services.</p>
+    <p style="margin-left: 40px;" id="goal-7">7. Regularly enhance student support services and administration.</p>
+    <p style="margin-left: 40px;" id="goal-8">8. Strengthen good governance and infrastructure.</p>
+    <p style="margin-left: 40px;" id="goal-9">9. Continue to uphold the university’s reputation.</p>
+    <p style="margin-left: 40px;" id="goals-source">Extracted from the PPIU Strategic Plan 2020-2025</p>
 </div>
+
     <?php 
     include("../components/footer.php");
     ?>
