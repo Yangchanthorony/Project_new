@@ -27,6 +27,7 @@ include("../js/search.php");
                     <th>First Name</th>
                     <th>Last Name</th>
                     <th>Gender</th>
+                    <th>Age</th>
                     <th>Email</th>
                     <th>Degree</th>
                     <th>Skill</th>

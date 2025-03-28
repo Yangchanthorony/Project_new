@@ -13,12 +13,23 @@ include("../Auth/function.php");
        .pic{
         width: 200px;
         height: 250px;
-        margin-left: 300px;
+      
        }
+       .aba-section {
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        .aba-title {
+            font-size: 22px;
+            font-weight: bold;
+            color: #333;
+        
+        }
     </style>
 </head>
 <body>
-    <div style="margin-top: 800px; width: 50%;" class="container  ">
+    <div style="margin-top: 950px; width: 50%;" class="container  ">
         <h2>Register</h2>
         <form action="" method="post" enctype="multipart/form-data">
             <div class="form-group">
@@ -30,6 +41,12 @@ include("../Auth/function.php");
                 <label for="last-name">Last Name</label>
                 <input type="text" id="last-name" name="last_name" class="form-control" required>
             </div>
+
+            <div class="form-group">
+                <label for="age">Age</label>
+                <input type="text" id="age" name="age" class="form-control" required>
+            </div>
+            
             
             <div class="form-group">
                 <label for="gender">Gender</label>
@@ -97,11 +114,13 @@ include("../Auth/function.php");
                 <label for="date">Date</label>
                 <input type="date" id="date" name="date" class="form-control" required>
             </div>
+
+           
             
-            <div class="form-group">
-             
-                <img class="pic" src="../img/photo_2025-03-17_09-28-00.jpg" alt="QR Code">
-       </div>
+            <div class="aba-section">
+                <div class="aba-title">ABA Payment</div>
+                <img class="pic" src="../img/Yang Chanthorony.png" alt="QR Code">
+            </div>
             
 
             

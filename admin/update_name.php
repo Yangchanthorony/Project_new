@@ -93,13 +93,18 @@ label {
                                     </div>
 
                                     <div class="form-group">
+                                        <label>Age</label>
+                                        <input type="text" name="age" value="<?php echo $row[4] ?>" class="form-control">
+                                    </div>
+
+                                    <div class="form-group">
                                         <label>Email</label>
-                                        <input type="text" name="email" value="<?php echo $row[4]?>" class="form-control">
+                                        <input type="text" name="email" value="<?php echo $row[5]?>" class="form-control">
                                     </div>
 
                                     <div class="form-group">
                                     <label for="Degree">Degree</label>
-                                    <select id="Degree" name="Degree" value="<?php echo $row[5]?>" class="form-control" required>
+                                    <select id="Degree" name="Degree" value="<?php echo $row[6]?>" class="form-control" required>
                                         <option value="">Select</option>
                                         <option value="Bachelor">Bachelor</option>
                                         <option value="Associate">Associate</option>
@@ -109,7 +114,7 @@ label {
 
                                 <div class="form-group">
                                     <label for="Skill">Skill</label>
-                                    <select id="Skill" name="Skill" value="<?php echo $row[6]?>" class="form-control" required>
+                                    <select id="Skill" name="Skill" value="<?php echo $row[7]?>" class="form-control" required>
                                         <option value="">Select</option>
                                         <option value="Accounting">Accounting</option>
                                         <option value="Management">Management</option>
@@ -131,22 +136,22 @@ label {
 
                                     <div class="form-group">
                                         <label for="price">price</label>
-                                        <input type="text" id="price" name="price" value="<?php echo $row[7]?>" class="form-control" required>
+                                        <input type="text" id="price" name="price" value="<?php echo $row[8]?>" class="form-control" required>
                                     </div>
 
                                     <div class="form-group">
                                         <label for="phone number">phone number</label>
-                                        <input type="text" id="number" name="number" value="<?php echo $row[8]?>" class="form-control" required>
+                                        <input type="text" id="number" name="number" value="<?php echo $row[9]?>" class="form-control" required>
                                     </div>
 
                                     <div class="form-group">
                                         <label>Date of Birth</label>
-                                        <input type="date" name="day" value="<?php echo $row[9] ?>" class="form-control">
+                                        <input type="date" name="day" value="<?php echo $row[10] ?>" class="form-control">
                                     </div>
 
                                     <div class="form-group">
                                         <label>Date</label>
-                                        <input type="date" name="date" value="<?php echo $row[10] ?>" class="form-control">
+                                        <input type="date" name="date" value="<?php echo $row[11] ?>" class="form-control">
                                     </div>
                                     
                                     

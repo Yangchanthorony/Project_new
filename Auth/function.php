@@ -9,6 +9,7 @@ function register(){
         $first_name = $_POST['first_name'];
         $last_name = $_POST['last_name'];
         $gender = $_POST['gender'];
+        $age = $_POST['age'];
         $email = $_POST['email'];
         $degree = $_POST['Degree'];
         $skill = $_POST['Skill'];
@@ -16,8 +17,8 @@ function register(){
         $number = $_POST['number'];
         $dob = $_POST['dob'];
         $date=date('Y-m-d H:i:s');
-        $sql = "INSERT INTO `register`(`id`, `First Name`, `Last Name`, `gender`, `Email`, `Degree`, `Skill`, `price`, `phone`, `dob`, `Date`) 
-        VALUES (null,'$first_name','$last_name','$gender','$email','$degree','$skill','$price','$number','$dob','$date')";
+        $sql = "INSERT INTO `register`(`id`, `First Name`, `Last Name`, `gender`, `age`, `Email`, `Degree`, `Skill`, `price`, `phone`, `dob`, `Date`) 
+        VALUES (null,'$first_name','$last_name','$gender', '$age','$email','$degree','$skill','$price','$number','$dob','$date')";
          if ($con->query($sql)) {
             // Get the last inserted ID
             $last_id = $con->insert_id;
@@ -52,6 +53,7 @@ function view_register(){
             <td><?php echo $row[8];?></td>
             <td ><?php echo $row[9];?></td>
             <td ><?php echo $row[10];?></td>
+            <td ><?php echo $row[11];?></td>
             
             <td style="display: flex;    ">
                 <a style="margin-left: 20px;"  href="../admin/update_name.php?id=<?php echo $row[0] ?>"  class="btn btn btn-primary" >update</a>
