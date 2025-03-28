@@ -326,8 +326,8 @@ body {
            
            
            <div class="search-bar">
-                <input type="text" id="searchInput" placeholder="Search names...">
-                <button onclick="searchNames()">Search</button>
+                <input type="text" placeholder="Search names...">
+                <button >Search</button>
             </div>
            
            <div  class="language-toggle">
@@ -439,6 +439,8 @@ body {
                    <a id="Library" data-bs-toggle="collapse" href="#">LIBRARY <i class="fas fa-chevron-down"></i></a>
                        <ul class="dropdown-menu">
                        <li><a href="reading_club.php" id="reading-club"><i class="fas fa-book-reader"></i> PPIU Reading Club</a></li>
+                       <li class="divider"></li>
+                       <li><a href="music_club.php"><i class="fas fa-music"></i> <span id="music-club">Music Club</span></a></li>
                        <li class="divider"></li>
                         <li><a href="Library.php" id="library-materials"><i class="fas fa-book"></i> LIBRARY MATERIALS</a></li>
                         <li class="divider"></li>

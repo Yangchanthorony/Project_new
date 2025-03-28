@@ -19,8 +19,18 @@ function register(){
         $sql = "INSERT INTO `register`(`id`, `First Name`, `Last Name`, `gender`, `Email`, `Degree`, `Skill`, `price`, `phone`, `dob`, `Date`) 
         VALUES (null,'$first_name','$last_name','$gender','$email','$degree','$skill','$price','$number','$dob','$date')";
          if ($con->query($sql)) {
-            echo "<script>alert('ការចុះឈ្មោះបានជោគជ័យ!');</script>";
-        } 
+            // Get the last inserted ID
+            $last_id = $con->insert_id;
+            
+            // Redirect to invoice page or display invoice
+            echo "<script>
+                    alert('ការចុះឈ្មោះបានជោគជ័យ!');
+                    window.location.href = '../admin/invoice.php?id=$last_id';
+                  </script>";
+            exit();
+        } else {
+            echo "<script>alert('Error: " . $con->error . "');</script>";
+        }
     }
 }
 register();

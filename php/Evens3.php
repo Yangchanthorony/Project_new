@@ -23,7 +23,7 @@ include("../js/index.php");
 
     <!-- Event Image -->
     <div class="event-image">
-        <img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/482076279_1071006125068117_1020994895087719099_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFwK5MR2PAaqydRMm2qpjUkkWiqVPWByNeRaKpU9YHI167e558RegvCDumtENVfWSJLeDJK8EBPU02fsnk9hSfs&_nc_ohc=17y-3wujl0EQ7kNvgGNI6_2&_nc_oc=Adht7y8Rwayn16fouTooaGhZ-Ujl5MCRrLyp_T4p03gn8G0MzZ-yI-OiSE_h32Kpr6U&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=AKIbgtLu8sh_eSaS6nJ2G5J&oh=00_AYHp5F3imP_z1YOxQbqIm80jAVe3D29MbfYaUjmdojMy9A&oe=67D642F4" class="img-fluid" alt="Alumni Engagement Event">
+        <img src="../img/482061960_1071006045068125_5264686495701548481_n.jpg" class="img-fluid" alt="Alumni Engagement Event">
     </div>
 
     <!-- Event Information -->

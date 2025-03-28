@@ -29,3 +29,18 @@
 .containerr{
     margin-top: 210px;
 }
+
+#searchBtn {
+    margin-left: 10px;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  
+}
+
+#searchBtn:hover {
+    background-color: #0056b3;
+}

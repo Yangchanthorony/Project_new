@@ -2,7 +2,6 @@
  include("../components/header.php");
 include("../js/index.php");
 
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -92,7 +91,7 @@ include("../js/index.php");
                         <!-- Event Cards -->
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="100">
                             <div class="event-card">
-                                <a href="Evens1.php"><img src="https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/477246486_1051489760353087_7951468628992383051_n.jpg?stp=cp6_dst-jpg_s600x600_tt6&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHQ8Hsa-yYyVj_iq5ASBRYxnVAgkj0gS52dUCCSPSBLnQNo1ljNP2COtUwoo8aH_AtXU_sinOftj-TDS8YJU5PF&_nc_ohc=hJSTgR7rwagQ7kNvgENVyNE&_nc_oc=AdgMxbhKi4X7sEltZa8Qb-SZ15tP1MTUJ-wU4iIBB7G3DxoAxoWSALjcGnDeRehUL3k&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&_nc_gid=AbEYpuuFwDUR-JPk5RgZYCD&oh=00_AYF7RgfKoM_apWbcvySNEz5NbWmsd7nkmg3njnJt_EYAYQ&oe=67D62847" alt="Event 1"></a>
+                                <a href="Evens1.php"><img src="../img/486295357_1083683420467054_96073237029920477_n.jpg" alt="Event 1"></a>
                                 <div class="event-card-body">
                                     <h5 id="event1-title">Course at the Faculty of Law and Economics</h5>
                                     <p id="event1-date">📅 Date: 11 Feb 2025 | ⏰ Time: 5:30 PM - 7:00 PM</p>
@@ -114,7 +113,7 @@ include("../js/index.php");
                         </div>
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
                             <div class="event-card">
-                                <a href="Evens3.php"><img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/482095635_1071006088401454_3389041062273094251_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFYchEFV9QWBokKMrytPYmPcC1p9JvqK3FwLWn0m-orceIC1PFyh0i4bewVWd7APnAMFCJ0NURKA4UlsXfu63PQ&_nc_ohc=h3Iehx3HyhcQ7kNvgFr60Su&_nc_oc=Adi9KlirDTsT6hnw_EzvR_xtCApEuZL_9rR9kNEMVFYifHNc3R99f0XkBXJyAkNytI4&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=A7Q8DmvXLQiQm-mvRUUnZTJ&oh=00_AYFv6ZNSKTzeYXA4WZihiIQup_-PWmxqyTbaWT4aKWcfAw&oe=67D653EB" alt="Event 3"></a>
+                                <a href="Evens3.php"><img src="../img/482095635_1071006088401454_3389041062273094251_n.jpg" alt="Event 3"></a>
                                 <div class="event-card-body">
                                     <h5 id="event3-title">PIU student activities to celebrate</h5>
                                     <p id="event3-date">📅 Date: 8 March 2025 | ⏰ Time: 2 PM - 5 PM</p>
@@ -125,7 +124,7 @@ include("../js/index.php");
                         </div>
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="300"   >
                             <div class="event-card">
-                                <a href="Evens4.php"><img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/481134318_1061535806015149_3261788359234709455_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEMBvpdA8b3Bkpx5u-UsbeXBnTmetmQisQGdOZ62ZCKxOaHl5t-jmT2ZMm_k5EFmVmWOVZDfUup8iPtmZbm6hfO&_nc_ohc=bUvInmuRLN0Q7kNvgF_ckCY&_nc_oc=AdgGUlyvuvMTgA8cw6fvxFqFlBauC01a8ukd6lj27ZDYi3588tNs6aVLMSip7cLJa6Q&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=AoiTLpLEqPiDn0c7gyJtXgL&oh=00_AYHiZnc6uk6IJT9ogDfUBa2hFirc0FmUC5E4tHkozQ-dOQ&oe=67D79DD0" alt="Event 4"></a>
+                                <a href="Evens4.php"><img src="../img/486643352_1085236973645032_6184732671856785796_n.jpg" alt="Event 4"></a>
                                 <div class="event-card-body">
                                     <h5 id="event4-title">The management of (PPIU) share experiences...</h5>
                                     <p id="event4-date">📅 Date: 21 February 2025 | ⏰ Time: 2:00 PM - 5:00 PM</p>
@@ -145,20 +144,20 @@ include("../js/index.php");
                         <!-- Gallery Item 1 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="10">
                             <div class="gallery-item">
-                                <a href="http://web.facebook.com/photo/?fbid=1065362475632482&set=a.641396244695776"><img src="https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/482024988_1065362482299148_2169729506199855396_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEfhgeNC5fmIHtKqEsCXKLUeXW5RMwMlMx5dblEzAyUzDjPPpDkKBFA2btBNLI2nMy7mfQafFDOEhKnDQFyXvzv&_nc_ohc=22b8gCZYnU4Q7kNvgGo-x4k&_nc_oc=Adj4WECuN0dK-2UqyxK4AIAwmXRSXR2PC-CKmNY--dmnVsdje6XpKzsSe_5Kh9pwbp8&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&_nc_gid=Atf4ohTSCcoeuYouiN4OmjW&oh=00_AYEavOMlBA6Qmc-Zs8HqcSIIxl9dl0KQHdY20yVLuMU-6Q&oe=67D63B8A" alt="Gallery Image 1"></a>
+                                <a href="http://web.facebook.com/photo/?fbid=1065362475632482&set=a.641396244695776"><img src="../img/482024988_1065362482299148_2169729506199855396_n.jpg" alt="Gallery Image 1"></a>
 
                             </div>
                         </div>
                         <!-- Gallery Item 2 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="20">
                             <div class="gallery-item">
-                                <a href="https://web.facebook.com/photo/?fbid=1055913179910745&set=a.641396244695776"><img src="https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/476159267_1055913233244073_5178311457900207246_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFmWxuaw7QNxnWbaBsd-Jw9ZwiNUrMoIcpnCI1Ssyghyvw_cBuc-iNL-QOgFRf649hkBd0HshfIwtfCF3x2MSZ9&_nc_ohc=36et9xfO87wQ7kNvgExbobr&_nc_oc=Adgea6Z7YoMGWSG8xwMhX6SIrUG70nsb3MBL6jVjj4RYWpGgwGGhOBpyV6AEsrGf39g&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&_nc_gid=AijdubfNjeu4vleWa0YvoW-&oh=00_AYEQvqx5oFUw63SoQIXb9ZfKMYWrSUDgyq97dDf4O01ZSg&oe=67D6423B" alt="Gallery Image 2"></a>
+                                <a href="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/484939670_1078587807643282_878763841480744665_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGN3HBYfKXbKy1vsY1t2COxoXj0tMXwf4mhePS0xfB_iTf0ReDUkXHV0jeMgniY-J_YoVbWlEb49aayPdaTR-_0&_nc_ohc=3W_knuYzot0Q7kNvgFVol-U&_nc_oc=Adm4QwUazN9YeJgNqDHTtvPAhLLkMg7rvKatQSLBCuQp9I5dTAcElHBaE8fMiQlF4t4&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=BGDuaAYZ4h2MQUQIYWE7Vw&oh=00_AYEiwAPuGj7Gx-WoeCC61n1I6EBGZxH7xR5Fwwdi8j5HAw&oe=67EAAD4A"><img src="../img/484939670_1078587807643282_878763841480744665_n.jpg" alt="Gallery Image 2"></a>
                             </div>
                         </div>
                         <!-- Gallery Item 3 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="30">
                             <div class="gallery-item">
-                                <a href="https://web.facebook.com/photo/?fbid=1055912533244143&set=a.641396244695776"><img src="https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/480282573_1055912599910803_4948037012777270904_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEdsBE3QnzqFLzi5WoLVTu-URjm924PgUlRGOb3bg-BSYeypobFbt7cLMuEAV6F7W9J0v04QjdLyx7ufJO-DmTD&_nc_ohc=H_AXmQa0d8UQ7kNvgGmeTXY&_nc_oc=AdjhtCBoQ5A7-4EWSxqKGxtUWBoYw_B8Qc8oTdRZNXTzPx-RREk96vu4B9t-F1BBn2I&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&_nc_gid=AbEYpuuFwDUR-JPk5RgZYCD&oh=00_AYHyoIyGUU2fBTKCPVrelhL9QIa9Ky4ZpW0A4BbgCKwsiA&oe=67D648EE" alt="Gallery Image 3"></a>
+                                <a href="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/481902145_1069260435242686_4303608045703335507_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFq3-rMPcKgvBQC2c3hklU08LIh1l2oX7jwsiHWXahfuAkqkQjYrp6bc4wh-VNI8v1xZO2C8d836aNrxlSa72OO&_nc_ohc=sdAa-Dp4SCAQ7kNvgHh-K5o&_nc_oc=Admdja7IRiu_jNBGpoNzFlkJ5VUIOOlHUiH3fic_jHOspbl-xrZ4AUdWpciL5nYYUOw&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=l_VhVVbwoao07VTc8l41gA&oh=00_AYECRuJ30tLgYU1d7pUq-_e3VaI1BZ4pavMg3GPA_E_NQA&oe=67EAA1B7"><img src="../img/481902145_1069260435242686_4303608045703335507_n.jpg" alt="Gallery Image 3"></a>
                             </div>
                         </div>
 
@@ -351,7 +350,7 @@ include("../js/index.php");
                     <!-- News Card 1 -->
                     <div class="col-md-6 col-lg-3"data-aos="fade-down" data-aos-delay="100">
                     <div class="news-card">
-                        <a href="news1.php"><img src="https://scontent.fpnh2-3.fna.fbcdn.net/v/t39.30808-6/482985561_1071063881729008_5082609035351126105_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHAcsvIedZtgHGw2mA6NHKwJtp495lxNhgm2nj3mXE2GB7CxiBCUxpzVsH98YEOtv3x0kGSXZvfWLZ6oW3LxOKl&_nc_ohc=1ObRH6BfsEcQ7kNvgFQMSco&_nc_oc=Adj_XwEhMAen6668TnpsEq1ziudlsHUFdzKwLIEPff_BpMo6U4z-yz1OhnLE_zv2lKY&_nc_zt=23&_nc_ht=scontent.fpnh2-3.fna&_nc_gid=APP6rqLJlAXjiiU6CODB7ih&oh=00_AYF6SXzA40WOv1yN1g8m07jPnwKiBVMOxGR5nzEA6WNIIQ&oe=67D62739" alt="News Image" class="news-image"></a>
+                        <a href="news1.php"><img src="../img/482985561_1071063881729008_5082609035351126105_n.jpg" alt="News Image" class="news-image"></a>
                         <div class="news-content">
                             <span class="news-date" id="news1-date">05 May 2025</span>
                             <h5 class="news-title" id="news1-title">New Enrollment!</h5>

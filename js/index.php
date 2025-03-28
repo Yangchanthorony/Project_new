@@ -62,6 +62,10 @@
         "student-loan": { "en": "<i class='fas fa-hand-holding-usd'></i> Student Loan", "kh": "<i class='fas fa-hand-holding-usd'></i> ប្រាក់កម្ចីនិស្សិត" },
         "Library": { "en": "LIBRARY <i class='fas fa-chevron-down'></i>", "kh": "បណ្ណាល័យ <i class='fas fa-chevron-down'></i>" },
         "reading-club": { "en": "<i class='fas fa-book-reader'></i> PPIU Reading Club", "kh": "<i class='fas fa-book-reader'></i> ក្លឹបអានសៀវភៅ PPIU" },
+        "music-club": {
+            "en": " <i class='fas fa-music'></i> Music Club",
+            "kh": " ក្លឹបតន្ត្រី"
+        },
         "library-materials": { "en": "<i class='fas fa-book'></i> LIBRARY MATERIALS", "kh": "<i class='fas fa-book'></i> សម្ភារៈបណ្ណាល័យ" },
         "about-library": { "en": "<i class='fas fa-info-circle'></i> ABOUT LIBRARY", "kh": "<i class='fas fa-info-circle'></i> អំពីបណ្ណាល័យ" },
         "Admissions": { "en": "Admissions <i class='fas fa-chevron-down'></i>", "kh": "ការចូលរៀន <i class='fas fa-chevron-down'></i>" },
@@ -1337,42 +1341,36 @@
         }
     });
 
-    
-    
 
-    function searchNames() {
-    // Get the search input value and convert to lowercase for case-insensitive search
-    let input = document.getElementById("searchInput").value.toLowerCase();
-    
-    // Define the sections to search (e.g., events, news, programs)
-    let sections = [
-        { items: document.querySelectorAll(".event-card"), title: ".event-card-body h5" },
-        { items: document.querySelectorAll(".news-card"), title: ".news-content h5" },
-        { items: document.querySelectorAll(".program-list li"), title: null }
-    ];
+    document.addEventListener("DOMContentLoaded", function() {
+        const searchInput = document.querySelector(".search-bar input");
+        const searchButton = document.querySelector(".search-bar button");
+        const links = document.querySelectorAll("ul.dropdown-menu a");
 
-    // Loop through each section
-    sections.forEach(section => {
-        section.items.forEach(item => {
-            // Get the text to search (e.g., event title, news title, program name)
-            let text = section.title 
-                ? item.querySelector(section.title).textContent.toLowerCase() 
-                : item.textContent.toLowerCase();
-            
-            // Show or hide the item based on whether the input matches the text
-            if (text.includes(input)) {
-                item.style.display = ""; // Show the item
-            } else {
-                item.style.display = "none"; // Hide the item
+        searchButton.addEventListener("click", function() {
+            const query = searchInput.value.trim().toLowerCase();
+            if (query === "") return;
+
+            let found = false;
+
+            links.forEach(link => {
+                if (link.innerText.toLowerCase().includes(query)) {
+                    window.location.href = link.href;
+                    found = true;
+                }
+            });
+
+            if (!found) {
+                alert("No matching page found!");
+            }
+        });
+
+        searchInput.addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                searchButton.click();
             }
         });
     });
-}
-
-// Optional: Trigger search on every keystroke (real-time search)
-document.getElementById("searchInput").addEventListener("input", searchNames);
-
-    
     
 </script>
 </html>

@@ -30,7 +30,7 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                 <a href="./Alumni_pic1.php">
-                    <img src="https://www.ppiu.edu.kh/public/images/article/1536120995.jpg" class="card-img-top" alt="Alumni Image">
+                    <img src="../img/15535899980.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger" id="alumni-card1-title">Alumni Student Pro 12</h5>
