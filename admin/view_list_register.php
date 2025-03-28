@@ -19,7 +19,9 @@ include("../js/search.php");
     <div class="container-fluid mt-3">
         <button id="searchBtn" class="btn btn-primary float-end">Search</button>
         <input type="text" id="searchInput" class="form-control w-25 d-inline-block float-end" placeholder="Search by Name">
+    </div>
 
+    <div style=" margin-top: 70px;" class="container-fluid ">
         <table class="table table-bordered text-center align-middle box " id="registerTable">
             <thead class="table-light">
                 <tr class="table-danger">
