@@ -118,7 +118,7 @@ include("../Auth/function.php");
            
             
             <div class="aba-section">
-                <div class="aba-title">ABA Payment</div>
+                <div class="aba-title"> Payment Online</div>
                 <img class="pic" src="../img/Yang Chanthorony.png" alt="QR Code">
             </div>
             

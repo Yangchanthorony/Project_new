@@ -6,6 +6,7 @@ $con = new mysqli("localhost","root","","project_school");
 function register(){
     global $con;
     if(isset($_POST['register-btn'])){
+        date_default_timezone_set('Asia/Phnom_Penh');
         $first_name = $_POST['first_name'];
         $last_name = $_POST['last_name'];
         $gender = $_POST['gender'];
@@ -19,6 +20,7 @@ function register(){
         $date=date('Y-m-d H:i:s');
         $sql = "INSERT INTO `register`(`id`, `First Name`, `Last Name`, `gender`, `age`, `Email`, `Degree`, `Skill`, `price`, `phone`, `dob`, `Date`) 
         VALUES (null,'$first_name','$last_name','$gender', '$age','$email','$degree','$skill','$price','$number','$dob','$date')";
+        
          if ($con->query($sql)) {
             // Get the last inserted ID
             $last_id = $con->insert_id;
@@ -58,6 +60,7 @@ function view_register(){
             <td style="display: flex;    ">
                 <a style="margin-left: 20px;"  href="../admin/update_name.php?id=<?php echo $row[0] ?>"  class="btn btn btn-primary" >update</a>
                 <button style="margin-left: 20px;"  type="button"  onclick="remove_register(<?php echo$row[0]?>)" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#delete_post">Delete</button>
+                <button style="margin-left: 20px;" type="button" class="btn btn-success" onclick="window.open('../admin/invoice_admin.php?id=<?php echo $row[0]; ?>', '_blank')">Print Invoice</button>
             </td>
            
         </tr>

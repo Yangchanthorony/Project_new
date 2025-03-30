@@ -123,6 +123,7 @@ if ($result && $result->num_rows > 0) {
             <div class="invoice-title">Invoice</div>
         </div>
         <div class="invoice-details">
+            
             <p><strong>ID:</strong> <?php echo $row['id']; ?></p>
             <p><strong>First Name:</strong> <?php echo $row['First Name']; ?></p>
             <p><strong>Last Name:</strong> <?php echo $row['Last Name']; ?></p>
@@ -134,7 +135,7 @@ if ($result && $result->num_rows > 0) {
             <p><strong>Price:</strong> <?php echo $row['price']; ?></p>
             <p><strong>Phone Number:</strong> <?php echo $row['phone']; ?></p>
             <p><strong>Date of Birth:</strong> <?php echo $row['dob']; ?></p>
-            <p><strong>Registration Date:</strong> <?php echo $row['Date']; ?></p>
+            <p><strong>Registration Date:</strong> <?php date_default_timezone_set('Asia/Phnom_Penh'); echo $row['Date']; ?></p>
         </div>
 
         <div class="btn-container">

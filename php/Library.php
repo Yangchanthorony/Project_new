@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Reading Club</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/reading.css">
+    <link rel="stylesheet" href="../css/music_club.css">
 </head>
 <body>
 <div class="header-pattern">
@@ -18,12 +18,12 @@
     </div>
     <div class=" container-fluid">
 
-    <img src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Library/143143391_3835616459828861_15278486317872655_o%20(1).jpg   " width="700px">
-    <div class=" d-flex">
+    <img style="margin-left: 80px;" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Library/143143391_3835616459828861_15278486317872655_o%20(1).jpg   " width="700px">
+    <div class=" d-flex pic ">
     <img src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Library/144281576_3835616513162189_5521169183554179010_o.jpg"  style="width: 350px; margin-top: 20px;">
     <img src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Library/143276284_3835616589828848_3995857221551952913_o.jpg"  style="width: 300px; margin-top: 100px; margin-left: 20px">
     </div>
-    <img src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Library/141706780_3835616503162190_318273732835637516_o.jpg" style="width: 150px; margin-top: 20px;">
+    <img src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Library/141706780_3835616503162190_318273732835637516_o.jpg" style="width: 150px; margin-top: 20px; margin-left: 80px;">
     
     </div>
 

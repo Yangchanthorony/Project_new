@@ -161,29 +161,34 @@ include("../js/index.php");
                             </div>
                         </div>
 
-                        <h2 style="margin-top: 60px;" class="gallery-title" id="ppiu-lecture-title">PPIU Lecture</h2>
+                        <h2 style="margin-top: 60px;" class="gallery-title" id="ppiu-lecture-title">Project Coordinator & Member</h2>
                         <!-- Gallery Item 4 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="40">
                             <div class="gallery-item">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 4">
-                                <h2 style="margin-top: 20px; margin-left: 50px;">Hem Tola</h2>
+                                <img src="../img//3.jpg" alt="Gallery Image 4">
+                                <h3 style="margin-top: 20px; margin-left: 50px;">Hin Sam Ath</h3>
+                                <h6 style="margin-left: 50px; margin-bottom: 20px;"> Member</h6>
                             </div>
                         </div>
                         <!-- Gallery Item 5 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="50">
                             <div class="gallery-item">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 5">
+                                <img src="../img/4.jpg" alt="Gallery Image 5">
+                                <h3 style="margin-top: 20px; margin-left: 50px;">Tep Kolap</h3>
+                                <h6 style="margin-left: 50px; margin-bottom: 20px;"> Project Manager</h6>
                             </div>
                         </div>
                         <!-- Gallery Item 6 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="60">
                             <div class="gallery-item">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg" alt="Gallery Image 6">
+                                <img src="../img/1-1.jpg" alt="Gallery Image 6">
+                                <h3 style="margin-top: 20px; margin-left: 50px;">Hong Phearin</h3>
+                                <h6 style="margin-left: 50px; margin-bottom: 20px;">Member</h6>
                             </div>
                         </div>
 
                         <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam">
-                    <h4 style="margin-top: 50px; margin-left: 60px; color: white;" id="facebook-follow">
+                    <h4 style="margin-top: 10px; margin-left: 60px; color: white;" id="facebook-follow">
                         <i class="fa-brands fa-facebook"></i> follow in facebook
                     </h4>
                     </a>
@@ -432,7 +437,7 @@ include("../js/index.php");
                     <a href="history.php" class="btn-read-more" id="about-ppiu-right-readmore">Read More</a>
                 </div>
                    <div class="right_down">
-                    <img src="https://lh3.googleusercontent.com/proxy/-kDTKcZn6-IpGdF54CuuJo9jK1vgT4GBuHJIiH4XrZEMjBbjovSRETAt5wGMeoZU6XxxbWdTwM1qjsW0LozvyhHeEYr8YInpAl8xhJBd" alt="">
+                    <img src="../img/unnamed.jpg" alt="">
                    </div>
                 </div>
         </div>
