@@ -19,13 +19,11 @@ include("../js/index.php");
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Moul&display=swap" rel="stylesheet">
     <title>Home page</title>
-  
-  
-    
+
 </head>
 <body>
 
-<div class=" container-fluid">
+<div   class=" container-fluid">
     <div style="margin-top: 200px;" class="content-right" data-aos="fade-left">
         <marquee   behavior="scroll" direction="left" scrollamount="5">
             <div  class="text-news">
@@ -85,11 +83,11 @@ include("../js/index.php");
                 <h1 id="events-heading">Events</h1>
             </div>
     
-            <div class="container my-5">
-                <div class="container my-5">
+         
+            <div class="container my-3">
                 <div class="row g-4">
                         <!-- Event Cards -->
-                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="100">
+                        <div  class="col-md-3" data-aos="fade-up" data-aos-delay="100">
                             <div class="event-card">
                                 <a href="Evens1.php"><img src="../img/486295357_1083683420467054_96073237029920477_n.jpg" alt="Event 1"></a>
                                 <div class="event-card-body">
@@ -134,9 +132,9 @@ include("../js/index.php");
                             </div>
                         </div>
                     </div>
-                </div>
+            </div>
 
-                
+                <div class="container my-5">
 
                 <div style=" height: 1000px;" class="container gallery-container">
                 <h2 class="gallery-title" id="ppiu-community-title">PPIU Community</h2>
@@ -161,7 +159,7 @@ include("../js/index.php");
                             </div>
                         </div>
 
-                        <h2 style="margin-top: 60px;" class="gallery-title" id="ppiu-lecture-title">Project Coordinator & Member</h2>
+                        <h2 style="margin-top: 60px;" class="gallery-title" id="project-coordinator-title">Project Coordinator & Member</h2>
                         <!-- Gallery Item 4 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="40">
                             <div class="gallery-item">
@@ -188,9 +186,8 @@ include("../js/index.php");
                         </div>
 
                         <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam">
-                    <h4 style="margin-top: 10px; margin-left: 60px; color: white;" id="facebook-follow">
-                        <i class="fa-brands fa-facebook"></i> follow in facebook
-                    </h4>
+                    <h4 style="margin-top: 10px;   width: 300px; color: white; display: inline-flex;    " id="facebook-follow">
+                        <i  class="fa-brands fa-facebook"></i> follow in facebook</h4>
                     </a>
                         </div>
                     </div>
@@ -227,7 +224,7 @@ include("../js/index.php");
                     
                     <!-- Master's Section -->
                     <div class="textt" data-aos="fade-up" data-aos-duration="1000">
-                            <h5 style="cursor: pointer;" class="section-title text-center" id="masters-section-title">Master's</h5>
+                            <h5 style="margin-top: 10px;" style="cursor: pointer;" class="section-title text-center" id="masters-section-title">Master's</h5>
                         </div>
 
                         <div class="row justify-content-center">
@@ -260,7 +257,7 @@ include("../js/index.php");
             </div>
                         
 
-            <div style="margin-top: 25px;"  class="program-container " >
+         <div style="margin-top: 25px;"  class="program-container " >
 
                  <!-- Master's Degree -->
                  <div  class="program-box" id="master-box" >
@@ -370,7 +367,7 @@ include("../js/index.php");
                     <!-- News Card 2 -->
                     <div class="col-md-6 col-lg-3" data-aos="fade-down" data-aos-delay="200">
                     <div class="news-card">
-                        <a href="news2.php"><img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/484534585_1075045201330876_4177505867786831929_n.jpg?stp=dst-jpg_p526x395_tt6&_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE3uPMglxVcAcjurt7xOXBHiwgGsG44ESGLCAawbjgRIY_r-7_bz4cWVh-PvLuYA5ZqiTmU4Nar7ODvWIkie_zz&_nc_ohc=HPMVmlGHKwsQ7kNvgElVHsb&_nc_oc=Adj_uihmZTinfapE1IfMFhouLrLJxYWp6iTf7pja9XTlH8jqi4xA4GDCWgbHmpvecnE&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=va4feiNufNE4TFBUmj73Tg&oh=00_AYFIByLfE8oGT17b1Gk97abBbaN228NXP4PfpkfX04F_pQ&oe=67DC657B" alt="News Image" class="news-image"></a>
+                        <a href="news2.php"><img src="../img/484534585_1075045201330876_4177505867786831929_n.jpg" alt="News Image" class="news-image"></a>
                         <div class="news-content">
                             <span class="news-date" id="news2-date">March 15, 2025</span>
                             <h5 class="news-title" id="news2-title">organized entrance exams</h5>
@@ -385,7 +382,7 @@ include("../js/index.php");
                     <!-- News Card 3 -->
                     <div class="col-md-6 col-lg-3" data-aos="fade-down" data-aos-delay="300">
                     <div class="news-card">
-                            <a href="news3.php"><img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/480692043_1062158615952868_6249600115321643827_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHkan397T3wT6A_RiK5chprJeBvBQhR9m4l4G8FCFH2bh9IyNSeBm0GEVS1CVt1gmmjrvgl-ubBkWCa8Li8vBlx&_nc_ohc=vex7r5Ou5rIQ7kNvgFAA-BG&_nc_oc=Adja_KyeyjR7K1htjyrttBdYb5xhWCWMTENOPlxAJlMB1D8gYagYDTBTkFB77I_-C0M&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=Oa8pjCfY9caktEFgAQdgAg&oh=00_AYGTMuPDFi09Iy3O1IXETxbDYhaIo2zW39vdVa92jw9LRg&oe=67DC90B5" alt="News Image" class="news-image"></a>
+                            <a href="news3.php"><img src="../img/487175522_1085873030248093_1753334788662386249_n.jpg" alt="News Image" class="news-image"></a>
                             <div class="news-content">
                                 <span class="news-date" id="news3-date">February 27, 2025</span>
                                 <h5 class="news-title" id="news3-title">General General of the CPP</h5>
@@ -400,7 +397,7 @@ include("../js/index.php");
                     <!-- News Card 4 -->
                     <div class="col-md-6 col-lg-3" data-aos="fade-down" data-aos-delay="400">
                     <div class="news-card">
-                        <a href="news4.php"><img src="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/480689758_1056963109805752_3223977946938057394_n.jpg?stp=dst-jpg_p526x395_tt6&_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGGpK48tUJCYsYbeyNCaAVFPnbJpCrEO-0-dsmkKsQ77dXMXiIfG5WEmQt6Qj2Hd_DFBogfxl10HYhQCKX2cqW8&_nc_ohc=VD3lspy5YcMQ7kNvgEUG-3B&_nc_oc=AdjwagKShwVNeJrlv-2iRrb6CxqbguJ3iIDtu4GJ0t0Tcv7IqZ1ZE7BM7BL4082UB2g&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=2xdEY3aI7t1CyaB5BxwmaQ&oh=00_AYETqKWWF-ItI0SfKjBE6W7NBI-7PqBAWM6yN0GhcJPLQA&oe=67DC7C46" alt="News Image" class="news-image"></a>
+                        <a href="news4.php"><img src="../img/486419040_1083774647124598_14398397784573248_n.jpg" alt="News Image" class="news-image"></a>
                         <div class="news-content">
                             <span class="news-date" id="news4-date">February 18, 2025</span>
                             <h5 class="news-title" id="news4-title">Phnom Penh International University of Helds Sok Phone,</h5>
@@ -413,68 +410,81 @@ include("../js/index.php");
         
                 </div>
             </div>
+
+            <div class="container-fluid mt-2">
+        <div class="row  d-flex">
+            <div class="col-md-6 blue-section section">
+                <h2 id="about-ppiu-left-title" style="margin-top: 40px;">About PPIU</h2>
+                <p id="about-ppiu-left-desc">The university was renamed "Phnom Penh International University - PPIU" in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia</p>
+               <a href="history.php #carouselExampleIndicators"> <button class="btn btn-custom btn-outline-danger " id="about-ppiu-left-readmore">Read More</button></a>
+            </div>
+            <div class="col-md-6 p-0">
+                <img src="https://unication.eu/wp-content/uploads/2024/04/featpic-4.png" class="img-fluid w-100" alt="Students studying">
+            </div>
+        </div>
+       
+        <div class="row">
+        <div class="col-md-6 p-0">
+                <img src="../img/feature-image.jpg" class="img-fluid w-100" alt="Faculty members">
+            </div>
+            <div  class="col-md-6 white-section ">
+                <h2 style="margin-top: 20px;" id="about-ppiu-right-title" class="text-danger">About PPIU</h2>
+                <p id="about-ppiu-right-desc">Phnom Penh International University (PPIU) was established in 2002 as "ASEAN University" under the initiative of the Rector, Mrs. Tep Kolap</p>
+                <a href="history.php"><button class="btn btn-outline-danger" id="about-ppiu-right-readmore">Read More</button></a>
+                <img style="margin-top: 40px;" src="../img/unnamed.jpg" class="img-fluid w-100" alt="Faculty members">
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="container-fluid py-5">
+        <div class="row">
+            <!-- Dual Degree Partners Section -->
+            <div class="col-md-6 text-center border-end">
+                <h3 class="section-title"  id="dual-degree-partners-title">Dual Degree Partners</h3>
+                <div class="d-flex justify-content-center align-items-center flex-wrap gap-5 mt-4">
+                    <div>
+                        <img class="rub" src="../img/EMPM-Logo-WhiteBG-01.png" alt="University of Arizona Logo" class="img-fluid logo">
+                     
+                    </div>
+                    <div>
+                        <img  class="rub" src="../img/maxresdefault.jpg" alt="Fort Hays State University Logo" class="img-fluid logo">
+                     
+                    </div>
+                </div>
+            </div>
+
+            <!-- Our Subsidiaries Section -->
+            <div class="col-md-6 text-center">
+                <h3 class="section-title " id="our-subsidiaries-title">Our Subsidiaries</h3>
+                <div class="d-flex justify-content-center align-items-center flex-wrap gap-5 mt-4">
+                    <div>
+                        <img  class="rub" src="../img/Batangas_State_Logo-1.png" alt="AUPP High School Logo" class="img-fluid logo">
+                     
+                    </div>
+                    <div>
+                        <img  class="rub" src="../img/Instituto_Superior_Tecnico_logo-1-1.png" alt="AUPP Technology Center Logo" class="img-fluid logo">
+                     
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+       
+
+
+         
+        </div>
+
         
-
-        <div style="margin-top: 30PX;" class="background d-flex flex-wrap">
-            <div class="left col-md-6">
-                <h2 id="about-ppiu-left-title">About PPIU</h2>
-                <p id="about-ppiu-left-desc">   The university was renamed "Phnom Penh International University - PPIU" in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia</p>
-                <a href="history.php" class="btn-read-more" id="about-ppiu-left-readmore">Read More</a>
-            </div>
-                <div class="right col-md-6 ">
-                    <img src="https://unication.eu/wp-content/uploads/2024/04/featpic-4.png" alt="">
-                </div>
-
-                <div class="left_mid col-md-6">
-                    <img src="https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/c2765282-025a-4abb-87ad-a309ec66f543/feature-image.jpg" alt="">
-                    <!-- <div class="box">
-                    </div> -->
-                </div>
-                <div class="right_mid col-md-6 ">
-                <div class="right_up">
-                    <h2 id="about-ppiu-right-title">About PPIU</h2>
-                    <p id="about-ppiu-right-desc">  Phnom Penh International University (PPIU) was established in 2002 as "ASEAN University" under the initiative of the Rector, Mrs. Tep Kolap </p>
-                    <a href="history.php" class="btn-read-more" id="about-ppiu-right-readmore">Read More</a>
-                </div>
-                   <div class="right_down">
-                    <img src="../img/unnamed.jpg" alt="">
-                   </div>
-                </div>
-        </div>
-
-
-            <div class="container">
-                <div class="row ">
-                    <div class="col-md-6 logo-section ">
-                    <div class="logo-title" id="dual-degree-partners-title">Dual Degree Partners</div>
-                    
-                        <div style="margin-right: 100px;"  class="logo d-flex">
-                            <img src=" https://empm.education/wp-content/uploads/2023/09/EMPM-Logo-WhiteBG-01.png " alt="The University of Arizona">
-                           
-                            
-                            <img src="https://i.ytimg.com/vi/P5CjkPSjAJc/maxresdefault.jpg" alt="Fort Hays State University">
-                           
-                        </div>
-                       
-                    </div>
-                    
-                    <div class="col-md-6 logo-section">
-                    <div class="logo-title" id="our-subsidiaries-title">Our Subsidiaries</div>
-                        <div style=" margin-left: 100px;" class="logo d-flex">
-                            <img src="https://unication.eu/wp-content/uploads/2024/04/Batangas_State_Logo-1.png" alt="Alfy High School">
-                            <img src="https://unication.eu/wp-content/uploads/2024/04/Instituto_Superior_Tecnico_logo-1-1.png" alt="Foxcroft Academy">
-                          
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div  class="map">
-        <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.836266581057!2d104.9088324748272!3d11.56359284418184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31095114f1138ac5%3A0x7619b468836cd886!2sPhnom%20Penh%20international%20university!5e0!3m2!1sen!2skh!4v1741534895919!5m2!1sen!2skh" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
     
 </div>
+
+<div>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.8362665810573!2d104.9088324748272!3d11.563592844181834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31095114f1138ac5%3A0x7619b468836cd886!2sPhnom%20Penh%20international%20university!5e0!3m2!1sen!2skh!4v1743362769070!5m2!1sen!2skh" width="1800" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
    <?php 
    include("../components/footer.php");
    ?>         

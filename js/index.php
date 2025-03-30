@@ -1299,7 +1299,13 @@
         },
         "dates-title": { "en": "Academic Starting and End Dates:", "kh": "កាលបរិច្ឆេទចាប់ផ្តើម និងបញ្ចប់ការសិក្សា:" },
         "enroll-today": { "en": "- Enroll today!", "kh": "- ចុះឈ្មោះថ្ងៃនេះ!" },
-        "contact-note": { "en": "Please contact us for more details.", "kh": "សូមទាក់ទងមកយើងសម្រាប់ព័ត៌មានលម្អិតបន្ថែម" }
+        "contact-note": { "en": "Please contact us for more details.", "kh": "សូមទាក់ទងមកយើងសម្រាប់ព័ត៌មានលម្អិតបន្ថែម" },
+
+
+        "project-coordinator-title": {
+            "en": "Project Coordinator & Member",
+            "kh": "អ្នកសម្របសម្រួលគម្រោង និងសមាជិក"
+        }
     };
 
     
