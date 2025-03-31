@@ -12,7 +12,7 @@ include("../Auth/function.php");
     <style>
        .pic{
         width: 200px;
-        height: 250px;
+        height: 200px;
       
        }
        .aba-section {
@@ -118,8 +118,8 @@ include("../Auth/function.php");
            
             
             <div class="aba-section">
-                <div class="aba-title"> Payment Online</div>
-                <img class="pic" src="../img/Yang Chanthorony.png" alt="QR Code">
+                <div class="aba-title"> ABA Payment </div>
+                <img class="pic" src="../img/Screenshot 2025-03-31 112048.png" alt="QR Code">
             </div>
             
 

@@ -5,7 +5,7 @@
            
 }
 body { background-color: #f8f9fa; }
-.post-container { background: white; padding: 20px; border-radius: 10px; }
+.post-container { background: white; padding: 20px; border-radius: 10px;  }
 .post-title { font-size: 24px; font-weight: bold; color: red; }
 .post-content { margin-top: 35px; }
 .gallery img { width: 100%; height: auto; border-radius: 5px; }

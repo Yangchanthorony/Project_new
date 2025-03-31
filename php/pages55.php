@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="../css/pages4.css">
 </head>
 <body>
-    <div style=" margin-top: 200px;" class="container ">
+    <div style=" margin-top: 200px;  " class="container ">
         <div class="post-container">
             <div class="post-title text-center">
             ពិធីចុះហត្ថលេខាលើអនុស្សរណៈ

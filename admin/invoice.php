@@ -114,13 +114,16 @@ if ($result && $result->num_rows > 0) {
         button:hover, .back-btn:hover {
             opacity: 0.8;
         }
+     
     </style>
 </head>
 <body>
     <div class="invoice-container">
         <div class="invoice-header">
             <img src="https://pelprek.sgp1.digitaloceanspaces.com/banner/3489/148825024520275.png" alt="Company Logo">
+     
             <div class="invoice-title">Invoice</div>
+
         </div>
         <div class="invoice-details">
             
@@ -131,7 +134,7 @@ if ($result && $result->num_rows > 0) {
             <p><strong>Age:</strong> <?php echo $row['age']; ?></p>
             <p><strong>Email:</strong> <?php echo $row['Email']; ?></p>
             <p><strong>Degree:</strong> <?php echo $row['Degree']; ?></p>
-            <p><strong>Skill:</strong> <?php echo $row['Skill']; ?></p>
+            <p><strong>Skill:</strong> <?php echo $row['Skill']; ?> </p>
             <p><strong>Price:</strong> <?php echo $row['price']; ?></p>
             <p><strong>Phone Number:</strong> <?php echo $row['phone']; ?></p>
             <p><strong>Date of Birth:</strong> <?php echo $row['dob']; ?></p>
