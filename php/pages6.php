@@ -20,7 +20,7 @@
            
 
              <a href="https://www.ppiu.edu.kh/public/images/article/Scholarship_recipients_at_Phnom_Penh_International_University__PPIU__selected_by_the_.jpg" target="_blank">
-             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/Scholarship_recipients_at_Phnom_Penh_International_University__PPIU__selected_by_the_.jpg" alt="Certificate Award Ceremony">
+             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="../img/Scholarship_recipients_at_Phnom_Penh_International_University__PPIU__selected_by_the_.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

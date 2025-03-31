@@ -17,12 +17,12 @@
             <div style="text-align: center;" class="post-title">
             Phnom Penh International University (PPIU) is honored to inform the first year undergraduate and associate students of the academic year 2021-2022 to know that
             </div>  
-             <a href="https://www.ppiu.edu.kh/public/images/article/3301912510.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3301912510.jpg" alt="Certificate Award Ceremony">
+             <a href="https://www.ppiu.edu.kh/public/images/article/3301912510.jpg " target="_blank">
+             <img class="pic" src=" ../img/3301912510.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/1650956255.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1650956255.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src=" ../img/1650956255.jpg" alt="Certificate Award Ceremony">
             </a>
 
            

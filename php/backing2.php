@@ -18,11 +18,11 @@
             Graduation Ceremony for Phnom Penh International University Winners
             </div>  
              <a href="https://www.ppiu.edu.kh/public/images/article/3328736630.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3328736630.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src=" ../img/3328736630.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/1664411077.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1664411077.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src=" ../img/1664411077.jpg" alt="Certificate Award Ceremony">
             </a>
 
            

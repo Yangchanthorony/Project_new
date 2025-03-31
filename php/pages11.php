@@ -19,7 +19,7 @@
             </div>  
             
              <a href="https://www.ppiu.edu.kh/public/images/article/1682503155.jpg" target="_blank">
-             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1682503155.jpg" alt="Certificate Award Ceremony">
+             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="../img/1682503155.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

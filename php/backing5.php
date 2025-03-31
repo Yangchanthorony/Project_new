@@ -17,8 +17,8 @@
             <div style="text-align: center;" class="post-title">
             Congratulation Samdech Prime Minister
             </div>  
-             <a href="https://www.ppiu.edu.kh/public/images/article/1643631794.jpg" target="_blank">
-             <img style=" margin-left: 160px;" class="pic" src="https://www.ppiu.edu.kh/public/images/article/1643631794.jpg" alt="Certificate Award Ceremony">
+             <a href=" https://www.ppiu.edu.kh/public/images/article/1643631794.jpg" target="_blank">
+             <img style=" margin-left: 160px;" class="pic" src="../img/1643631794.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

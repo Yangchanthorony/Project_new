@@ -20,7 +20,7 @@
            
 
              <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/20240314%20UNICATION%20Web%20Dev%20Info_2.jpg" target="_blank">
-             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/20240314%20UNICATION%20Web%20Dev%20Info_2.jpg" alt="Certificate Award Ceremony">
+             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="../img/20240314 UNICATION Web Dev Info_2.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

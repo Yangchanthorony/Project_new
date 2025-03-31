@@ -20,7 +20,7 @@
             <p>Phnom Penh International University (PPIU) has received more than $ 450,000 from the Ministry of Education, Youth and Sports under the auspices of the World Bank to develop the university's curriculum and infrastructure. Construction companies with registered business and patents can bid for projects to repair and improve smart classrooms, accounting practice rooms and many computer rooms at the university.</p>
             
             <a href="https://www.ppiu.edu.kh/public/images/article/1665117591.jpg" target="_blank">
-             <img style="height: 370px; width: 440px; margin-left: 60px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1665117591.jpg" alt="Certificate Award Ceremony">
+             <img style="height: 370px; width: 440px; margin-left: 60px; margin-top:30px;"  class="pic" src="../img/1665117591.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

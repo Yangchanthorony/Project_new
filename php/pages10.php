@@ -20,7 +20,7 @@
             <p>Request for Quotations for "Supply, Delivery, and Installation of Networking Device, Accessories, and Sound System" REF: MoEYS-HEIP-C1.3-NS-G-26</p>
             <p>Open Bid on: 18-May-2023 at 10.00 AM</p>
              <a href="https://www.ppiu.edu.kh/public/images/article/1683099799.jpg" target="_blank">
-             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1683099799.jpg" alt="Certificate Award Ceremony">
+             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="../img/1683099799.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

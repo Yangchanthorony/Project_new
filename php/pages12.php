@@ -24,11 +24,11 @@
 
 
              <a href="https://www.ppiu.edu.kh/public/images/article/3339796302.png" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3339796302.png" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/3339796302.png" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/1669898741.png" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1669898741.png" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/1669898741.png" alt="Certificate Award Ceremony">
             </a>
 
            

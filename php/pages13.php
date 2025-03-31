@@ -21,7 +21,7 @@
              <p>All suppliers of study materials are invited to receive a quotation to participate in the bidding for the procurement of study materials on computer science and accounting skills at PPIU Building, 5th floor at the Internal Quality Assurance Office every working hour from the date of this announcement.</p>
             
             <a href="https://www.ppiu.edu.kh/public/images/article/1669085185.jpg" target="_blank">
-             <img style="height: 370px; width: 300px; margin-left: 110px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1669085185.jpg" alt="Certificate Award Ceremony">
+             <img style="height: 370px; width: 300px; margin-left: 110px; margin-top:30px;"  class="pic" src="../img/1669085185.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

@@ -20,19 +20,19 @@
              <p style="margin-top: 10px;">គណៈគ្រប់គ្រងនៃសាកលវិទ្យាល័យភ្នំពេញអន្ដរជាតិ (PPIU) មានកិត្តិយសដ៏ខ្ពង់ខ្ពស់ដោយបានទទួលស្វាគមន៍ឯកឧត្តមបណ្ឌិតសភាចារ្យ ហង់ជួន ណារ៉ុន និងសហការី អញ្ជើញមកត្រួតពិនិត្យ និងវាយតម្លៃនៃការរៀបចំសាកលវិទ្យាល័យភ្នំពេញអន្តរជាតិ (PPIU) ក្នុងការត្រៀមលក្ខណៈបើកឱ្យបង្រៀនតាមថ្នាក់ឡើងវិញ ចាប់ពីថ្ងៃទី៤ ខែកញ្ញា ឆ្នាំ២០២០នេះ ដោយរក្សាគោលការណ៍ស្តង់ដាអនាម័យខ្ពស់និងគម្លាតសុវត្ថិភាព (SOP) ដោយមួយថ្នាក់មិនឱ្យមានសិស្ស-និស្សិតពីលើស ២៥នាក់ឡើយ។</p>  
              
              <a href="https://www.ppiu.edu.kh/public/images/article/1599290867.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1599290867.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/1599290867.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/3198581734.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3198581734.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/3198581734.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/4797872601.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/4797872601.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/4797872601.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/6397163468.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/6397163468.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/6397163468.jpg" alt="Certificate Award Ceremony">
             </a>
 
             
@@ -42,28 +42,28 @@
 
             
             <a href="https://www.ppiu.edu.kh/public/images/article/9595745202.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/9595745202.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/9595745202.jpg" alt="Certificate Award Ceremony">
             </a>
 
             
             <a href="https://www.ppiu.edu.kh/public/images/article/11195036069.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/11195036069.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/11195036069.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/12794326936.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/12794326936.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/12794326936.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/14393617803.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/14393617803.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/14393617803.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/15992908670.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/15992908670.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/15992908670.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/17592199537.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/17592199537.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/17592199537.jpg" alt="Certificate Award Ceremony">
             </a>
 
 

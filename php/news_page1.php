@@ -20,21 +20,21 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card pp">
-                    <a href="pages1.php"><img style="height: 280px; width: 150px;"  src="https://www.ppiu.edu.kh/public/images/article/1717205377.jpg" alt="Announcement"></a>
+                    <a href="pages1.php"><img style="height: 280px; width: 150px;"  src="../img/1717205377.jpg" alt="Announcement"></a>
                    <h5 class="text"> Curriculum And Revision Rate</h5>
                     <p class=" pp">Post Date : 01-Jun-2024</p>
                 </div>
             </div>
             <div  class="col-md-4">
                 <div class="post-card">
-                    <a href="pages2.php"><img style=" width:80%; height: 290px;"  src="https://www.ppiu.edu.kh/public/images/article/Visaka_Bochea.png" alt="Graduation"></a>
+                    <a href="pages2.php"><img style=" width:80%; height: 290px;"  src="../img/Visaka_Bochea.png" alt="Graduation"></a>
                     <h5 class="text2" >Visaka Bochea</h5>
                     <p class="pp2" >Post Date : 21-May-2024</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                   <a href="pages3.php"><img style="height: 275px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/1714209728.jpg" alt="University"></a>
+                   <a href="pages3.php"><img style="height: 275px; width: 70%; margin-left:15px" src="../img/1714209728.jpg" alt="University"></a>
                     <h5 class="text3" >គម្រោងព្រែកជីកហ្វូណនតេជោ....</h5>
                     <p class="pp3" >Post Date : 27-Apr-2024</p>
                 </div>
@@ -43,21 +43,21 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                  <a href="pages4.php">  <img style="height: 275px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/20240314%20UNICATION%20Web%20Dev%20Info_2.jpg" alt="Training"></a>
+                  <a href="pages4.php">  <img style="height: 275px; width: 70%; margin-left:15px" src="../img/20240314 UNICATION Web Dev Info_2.jpg" alt="Training"></a>
                     <h5 class="text4">Call for Website Construction: UNICATION Project</h5>
                     <p class=" pp4">Post Date : 18-Mar-2024</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages5.php"><img src="https://www.ppiu.edu.kh/public/images/article/1704159899.jpg" alt="Congratulation"></a>
+                    <a href="pages5.php"><img src="../img/1704159899.jpg" alt="Congratulation"></a>
                     <h5  class="text5">All Telegram Channel Of PPIU S...</h5>
                     <p class=" pp5" >Post Date : 02-Jan-2024</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages6.php"><img style="height: 245px; width: 70%; margin-left:15px" src="https://www.ppiu.edu.kh/public/images/article/Scholarship_recipients_at_Phnom_Penh_International_University__PPIU__selected_by_the_.jpg" alt="Event"></a>
+                    <a href="pages6.php"><img style="height: 245px; width: 70%; margin-left:15px" src="../img/Scholarship_recipients_at_Phnom_Penh_International_University__PPIU__selected_by_the_.jpg" alt="Event"></a>
                     <h5  class="text6">Scholarship recipients at Phno...</h5>
                     <p class=" pp6">Post Date : 04-Dec-2023</p>
                 </div>
@@ -66,21 +66,21 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages7.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="https://www.ppiu.edu.kh/public/images/article/1701482145.jpg" alt="MOU"></a>
+                    <a href="pages7.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="../img/1701482145.jpg" alt="MOU"></a>
                     <h5 class="text7">For the new school year (2023-...</h5>
                     <p class=" pp7">Post Date : 02-Dec-2023</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages8.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Copy_of_Black_And_Orange_Modern_Corporate_Business_Webinar_Poster.png" alt="DIES-NMT"></a>
+                    <a href="pages8.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="../img/Copy_of_Black_And_Orange_Modern_Corporate_Business_Webinar_Poster.png" alt="DIES-NMT"></a>
                     <h5  class="text8">Job Announcement...</h5>
                     <p class="pp8">Post Date : 17-Oct-2023</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages9.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/Announcement__.jpg" alt="Culture"></a>
+                    <a href="pages9.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="../img/Announcement__.jpg" alt="Culture"></a>
                     <h5 class="text8">Announcement !...</h5>
                     <p class="pp9">Post Date : 20-Jul-2023</p>
                 </div>

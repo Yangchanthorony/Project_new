@@ -19,62 +19,62 @@
             </div>
             
              <a href="https://www.ppiu.edu.kh/public/images/article/1575102479.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1575102479.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/1575102479.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/3150204958.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3150204958.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/3150204958.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/4725307437.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/4725307437.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/4725307437.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/6300409916.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/6300409916.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/6300409916.jpg" alt="Certificate Award Ceremony">
             </a>
 
             
             <a href="https://www.ppiu.edu.kh/public/images/article/7875512395.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/7875512395.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/7875512395.jpg" alt="Certificate Award Ceremony">
             </a>
 
             
             <a href="https://www.ppiu.edu.kh/public/images/article/9450614874.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/9450614874.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/9450614874.jpg" alt="Certificate Award Ceremony">
             </a>
 
             
             <a href="https://www.ppiu.edu.kh/public/images/article/11025717353.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/11025717353.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/11025717353.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/12600819832.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/12600819832.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/12600819832.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/14175922311.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/14175922311.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/14175922311.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/15751024790.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/15751024790.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/15751024790.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/17326127269.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/17326127269.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/17326127269.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/18901229748.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/18901229748.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/18901229748.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/20476332227.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/20476332227.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/20476332227.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/22051434706.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/22051434706.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/22051434706.jpg   " alt="Certificate Award Ceremony">
             </a>
 
 

@@ -20,21 +20,21 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card pp">
-                    <a href="backing10.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/3107184034.jpg" alt="Announcement"></a>
+                    <a href="backing10.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="../img/3107184034.jpg" alt="Announcement"></a>
                    <h5 class="text"> GRADUATION CEREMONYGRADUATION ...</h5>
                     <p class=" pp">Post Date : 30-Nov-2019</p>
                 </div>
             </div>
             <div  class="col-md-4">
                 <div class="post-card">
-                    <a href="backing11.php"><img style="margin-left: 20px; height: 270px; width: 80%;"  src="https://www.ppiu.edu.kh/public/images/article/9188304126.jpg" alt="Graduation"></a>
+                    <a href="backing11.php"><img style="margin-left: 20px; height: 270px; width: 80%;"  src="../img/9188304126.jpg" alt="Graduation"></a>
                     <h5 class="text2" >Blood Donation at Phnom Penh I...</h5>
                     <p class="pp2" >Post Date : 12-Jul-2018</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                   <a href="backing12.php"> <img style="margin-left: 20px; height: 270px; width: 80%;"  src="https://www.ppiu.edu.kh/public/images/article/9009895356.jpg" alt="University"></a>
+                   <a href="backing12.php"> <img style="margin-left: 20px; height: 270px; width: 80%;"  src="../img/9009895356.jpg" alt="University"></a>
                     <h5 class="text3" >Seminar on</h5>
                     <p class="pp3" >Post Date : 08-Feb-2021</p>
                 </div>
@@ -43,7 +43,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                  <a href="backing13.php">  <img src="https://www.ppiu.edu.kh/public/images/article/1494986020.jpg" alt="Training"></a>
+                  <a href="backing13.php">  <img style="margin-left: 30px; height: 270px; width: 80%;" src="../img/1494986020.jpg" alt="Training"></a>
                     <h5 class="text4">Graduated Ceremony</h5>
                     <p class=" pp4">Post Date : 17-May-2017</p>
                 </div>

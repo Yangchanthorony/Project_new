@@ -20,7 +20,7 @@
            
 
              <a href="https://www.ppiu.edu.kh/public/images/article/Visaka_Bochea.png" target="_blank">
-             <img style="height: 250px; width: 400px; margin-left: 100px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/Visaka_Bochea.png" alt="Certificate Award Ceremony">
+             <img style="height: 250px; width: 400px; margin-left: 100px;"  class="pic" src="../img/Visaka_Bochea.png" alt="Certificate Award Ceremony">
             </a>
 
             

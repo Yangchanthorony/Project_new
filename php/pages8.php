@@ -20,7 +20,7 @@
            
 
              <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Copy_of_Black_And_Orange_Modern_Corporate_Business_Webinar_Poster.png" target="_blank">
-             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Copy_of_Black_And_Orange_Modern_Corporate_Business_Webinar_Poster.png" alt="Certificate Award Ceremony">
+             <img style="height: 370px; width: 250px; margin-left: 160px; margin-top:30px;"  class="pic" src="../img/Copy_of_Black_And_Orange_Modern_Corporate_Business_Webinar_Poster.png" alt="Certificate Award Ceremony">
             </a>
 
             

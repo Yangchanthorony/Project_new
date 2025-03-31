@@ -17,16 +17,16 @@
             <div style="text-align: center;" class="post-title">
             Announcement!
             </div>  
-             <a href="https://www.ppiu.edu.kh/public/images/article/1670636178.png" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1670636178.png" alt="Certificate Award Ceremony">
+             <a href="https://www.ppiu.edu.kh/public/images/article/1670636178.png " target="_blank">
+             <img class="pic" src="../img/1670636178.png" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/3341272356.png" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3341272356.png" alt="Certificate Award Ceremony">
+             <img class="pic" src=" ../img/3341272356.png" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/5011908534.png" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/5011908534.png" alt="Certificate Award Ceremony">
+             <img class="pic" src=" ../img/5011908534.png" alt="Certificate Award Ceremony">
             </a>
  
             

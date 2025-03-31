@@ -44,7 +44,7 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                 <a href="./Alumni_pic2.php">
-                    <img src="https://www.ppiu.edu.kh/public/images/article/9321539988.jpg" class="card-img-top" alt="Alumni Image">
+                    <img src="../img/9321539988.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger" id="alumni-card2-title">Alumni Student Pro 11</h5>
@@ -58,7 +58,7 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                 <a href="./Alumni_pic3.php">
-                    <img src="https://www.ppiu.edu.kh/public/images/article/10875129986.jpg" class="card-img-top" alt="Alumni Image">
+                    <img src="../img/10875129986.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger" id="alumni-card3-title">Alumni Student Pro 10</h5>
@@ -72,7 +72,7 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                 <a href="./Alumni_pic4.php">
-                    <img src="https://www.ppiu.edu.kh/public/images/article/18643079976.jpg" class="card-img-top" alt="Alumni Image">
+                    <img src="../img/18643079976.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger" id="alumni-card4-title">Alumni Student Pro 10</h5>

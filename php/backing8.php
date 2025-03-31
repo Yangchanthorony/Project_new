@@ -21,15 +21,15 @@
              On 25-27 November 2019, DIES-NMT Cambodia, the project organized by CamEd Institute and Phnom Penh International University (PPIU) on Academic Deans: Roles, Challenges and Solutions, conducted its 1st workshop (WS I) at CamEd Institute.  WS II will take place at PPIU on 27-29 April 2020 </p>  
              
              <a href="https://www.ppiu.edu.kh/public/images/article/1575273033.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1575273033.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/1575273033.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/3150546066.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3150546066.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/3150546066.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/4725819099.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/4725819099.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/4725819099.jpg" alt="Certificate Award Ceremony">
             </a>
 
            

@@ -26,7 +26,7 @@
             <p>Thank you so much for your service.</p>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/1613099622.png" target="_blank">
-             <img style="height: 380px; width: 300px; margin-left: 130px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1613099622.png" alt="Certificate Award Ceremony">
+             <img style="height: 380px; width: 300px; margin-left: 130px; margin-top:30px;"  class="pic" src="../img/1613099622.png" alt="Certificate Award Ceremony">
             </a>
 
             

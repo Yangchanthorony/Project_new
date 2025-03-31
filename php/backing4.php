@@ -18,7 +18,7 @@
             PPIU case full credit training
             </div>  
              <a href="https://www.ppiu.edu.kh/public/images/article/1647226588.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1647226588.jpg" alt="Certificate Award Ceremony">
+             <img  style=" margin-left: 160px;" class="pic" src=" ../img/1647226588.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

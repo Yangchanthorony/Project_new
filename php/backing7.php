@@ -18,7 +18,7 @@
             PPIU MOU WITH ITC
             </div>  
              <a href="https://www.ppiu.edu.kh/public/images/article/______________________________________________________________________________________________________________________________________.png" target="_blank">
-             <img style=" margin-left: 160px;" class="pic" src="https://www.ppiu.edu.kh/public/images/article/______________________________________________________________________________________________________________________________________.png" alt="Certificate Award Ceremony">
+             <img style=" margin-left: 160px;" class="pic" src="../img/______________________________________________________________________________________________________________________________________.png" alt="Certificate Award Ceremony">
             </a>
 
             

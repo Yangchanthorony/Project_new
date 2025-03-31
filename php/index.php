@@ -100,7 +100,7 @@ include("../js/index.php");
                         </div>
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="200">
                             <div class="event-card">
-                                <a href="Evens2.php"><img src="https://www.ppiu.edu.kh/public/images/article/11195036069.jpg" alt="Event 2"></a>
+                                <a href="Evens2.php"><img src="../img/11195036069.jpg" alt="Event 2"></a>
                                 <div class="event-card-body">
                                     <h5 id="event2-title">action welcome back to class!!</h5>
                                     <p id="event2-date">📅 Date: 10 Dec 2022 | ⏰ Time: 1:00 PM - 5:00 PM</p>
@@ -419,7 +419,7 @@ include("../js/index.php");
                <a href="history.php #carouselExampleIndicators"> <button class="btn btn-custom btn-outline-danger " id="about-ppiu-left-readmore">Read More</button></a>
             </div>
             <div class="col-md-6 p-0">
-                <img src="https://unication.eu/wp-content/uploads/2024/04/featpic-4.png" class="img-fluid w-100" alt="Students studying">
+                <img src="../img/featpic-4.png" class="img-fluid w-100" alt="Students studying">
             </div>
         </div>
        
