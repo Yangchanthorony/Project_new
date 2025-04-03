@@ -9,25 +9,28 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    margin-top: 210px;
+   
 }
-
 .profile-img {
     border-radius: 50%;
     width: 170px;
     height: 200px;
     object-fit: cover;
 }
-
 .section-title {
     color: red;
     font-weight: bold;
     margin-top: 20px;
 }
-
 .list-group-item {
     border: none;
     padding: 10px 0;
+}
+h1.text-center {
+color: red; /* Deep blue for a professional tone */
+font-weight: 700;
+font-size: 2.5rem;
+margin-bottom: 2rem;
 }
 
 /* Post Footer Styling */
@@ -35,46 +38,39 @@ body {
     margin-top: 20px;
     padding-top: 15px;
     border-top: 1px solid #e0e0e0; /* Light gray border to separate from content */
+    text-align: center;
 }
-
 .post-footer .btn {
     margin-right: 10px;
     transition: all 0.3s ease; /* Smooth hover effect */
 }
-
 .post-footer .btn-primary {
     background-color: #007bff;
     border-color: #007bff;
 }
-
 .post-footer .btn-primary:hover {
     background-color: #0056b3;
     border-color: #0056b3;
 }
-
 .post-footer .btn-secondary {
     background-color: #6c757d;
     border-color: #6c757d;
 }
-
 .post-footer .btn-secondary:hover {
     background-color: #5a6268;
     border-color: #5a6268;
 }
-
 .post-footer p {
     color: #6c757d; /* Gray text for comment count */
     font-size: 14px;
     margin-bottom: 10px;
 }
-
 .post-footer .form-control {
     border-radius: 20px; /* Rounded input field */
     border: 1px solid #ced4da;
     padding: 8px 15px;
     font-size: 14px;
 }
-
 .post-footer .form-control:focus {
     border-color: #007bff;
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Blue glow on focus */

@@ -7,48 +7,7 @@
     <title>Professional/Short Course</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <!-- <link rel="stylesheet" href="../css/bachelor.css"> -->
-    <style>
-        .faculty-card img {
-            width: 100%;
-            height: 300px;
-    
-        }
-        .faculty-card {
-            transition: transform 0.3s;
-        }
-        .faculty-card:hover {
-            transform: scale(1.05);
-        }
-        
-
-        .header {
-      
-      color: white;
-      margin-top: 240px;
-      text-align: center;
-      font-size: 20px;
-      font-weight: bold;
-      margin-bottom: 20px;
-  }
-/* Background Pattern */
-.header-pattern {
-    background: rgb(164, 7, 7);
-  padding: 1px;
-    position: relative;
-}
-
-.header-pattern::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 30%;
-    height: 100;
-    background-image: url('https://www.transparenttextures.com/patterns/cubes.png'); /* Example Pattern */
-    opacity: 100;
-}
-
-    </style>
+    <link rel="stylesheet" href="../css/bachelor.css">
 </head>
 <body>
 <div class="header-pattern">
