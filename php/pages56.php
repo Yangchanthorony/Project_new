@@ -37,7 +37,7 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/PPIU___BSRU_ASEAN_Youth_Camp_2017.jpg">
-                <img style="margin-left: 420px;" src="https://www.ppiu.edu.kh/public/images/article/PPIU___BSRU_ASEAN_Youth_Camp_2017.jpg" alt="Event Image 1">
+                <img style="margin-left: 420px;" src="../img/PPIU___BSRU_ASEAN_Youth_Camp_2017.jpg" alt="Event Image 1">
                 </a></div>
 
              

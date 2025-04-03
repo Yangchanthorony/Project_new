@@ -25,11 +25,11 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1644984076.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1644984076.jpg" alt="Event Image 1">
+                <img src="../img/1644984076.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div style="margin-top: 30px;" class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/3289968152.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/3289968152.jpg" alt="Event Image 1">
+                <img src="../img/3289968152.jpg" alt="Event Image 1">
                 </a></div>
 
            

@@ -32,7 +32,7 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/Announcement_.jpeg">
-                <img style="margin-left: 450px;" src="https://www.ppiu.edu.kh/public/images/article/Announcement_.jpeg" alt="Event Image 1">
+                <img style="margin-left: 450px;" src="../img/Announcement_.jpeg" alt="Event Image 1">
                 </a></div>
 
                 

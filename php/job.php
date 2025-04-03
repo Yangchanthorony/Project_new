@@ -20,14 +20,14 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card pp">
-                    <a href="job_page1.php"><img style="height: 280px; width: 250px;"  src="https://www.ppiu.edu.kh/public/images/article/1619605956.jpg" alt="Announcement"></a>
+                    <a href="job_page1.php"><img style="height: 280px; width: 250px;"  src="../img/1619605956.jpg" alt="Announcement"></a>
                    <h5 class="text">Looking For Lecturer of Logist...</h5>
                     <p class=" pp">Post Date : 28-Apr-2021</p>
                 </div>
             </div>
             <div  class="col-md-4">
                 <div class="post-card">
-                    <a href="job_page2.php"><img style=" width:80%; height: 290px;"  src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Job%20Annoucement/TOR%20Front%20Office%20Manager%20Rev1.jpg" alt="Graduation"></a>
+                    <a href="job_page2.php"><img style=" width:80%; height: 290px;"  src="../img/TOR Front Office Manager Rev1.jpg" alt="Graduation"></a>
                     <h5 class="text2" >Front Office Manager...</h5>
                     <p class="pp2" > Post Date : 24-Apr-2021</p>
                 </div>

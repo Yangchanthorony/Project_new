@@ -66,21 +66,21 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages16.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="https://www.ppiu.edu.kh/public/images/article/______________________________________________________________________________________________________________________________________________________________________________.jpg" alt="MOU"></a>
+                    <a href="pages16.php"><img style="margin-left: 20px; height: 270px; width: 70%;" src="../img/______________________________________________________________________________________________________________________________________________________________________________.jpg" alt="MOU"></a>
                     <h5 class="text7">លោកស្រី ទេព កូលាប បន្តចូលរួមលើ...</h5>
                     <p class=" pp7">Post Date : 24-Apr-2021</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages17.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/1613099622.png" alt="DIES-NMT"></a>
+                    <a href="pages17.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="../img/1613099622.png" alt="DIES-NMT"></a>
                     <h5  class="text8">inform all candidates who pass...</h5>
                     <p class="pp8">Post Date : 12-Feb-2021</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="post-card">
-                    <a href="pages18.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="https://www.ppiu.edu.kh/public/images/article/___________________________________________________________________________________________________________________________.PNG" alt="Culture"></a>
+                    <a href="pages18.php"><img style="margin-left: 20px; height: 270px; width: 80%;" src="../img/___________________________________________________________________________________________________________________________.png" alt="Culture"></a>
                     <h5 class="text8">លោកជំទាវទេព កូលាប បាននាំយកថវិក...</h5>
                     <p class="pp9">Post Date : 11-Aug-2020</p>
                 </div>

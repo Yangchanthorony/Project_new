@@ -36,25 +36,10 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg" alt="Event Image 1">
+                <img style="margin-left: 450px;" src="../img/1509439590.jpg" alt="Event Image 1">
                 </a></div>
 
-                <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg" alt="Event Image 1">
-                </a></div>
-
-                <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg" alt="Event Image 1">
-                </a></div>
-
-                <div style="margin-top: 10px;" class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg" alt="Event Image 1">
-                </a></div>
-
-                <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/1509439590.jpg" alt="Event Image 1">
-                </a></div>
-                
+              
             </div>
             <div class="post-footer">
                 <button class="btn btn-primary btn-sm">Like</button>

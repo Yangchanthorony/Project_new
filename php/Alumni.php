@@ -30,7 +30,7 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                 <a href="./Alumni_pic1.php">
-                    <img src="../img/15535899980.jpg" class="card-img-top" alt="Alumni Image">
+                    <img style="height: 220px; width:100%;" src="../img/481279560_122228173070200745_420989743270165767_n.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger" id="alumni-card1-title">Alumni Student Pro 12</h5>
@@ -44,7 +44,7 @@
         <div class="col-md-3">
             <div class="card alumni-card">
                 <a href="./Alumni_pic2.php">
-                    <img src="../img/9321539988.jpg" class="card-img-top" alt="Alumni Image">
+                    <img style="height: 220px; width:100%;" src="../img/70912167_2661242813926307_3583202459553628160_n.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
                     <h5 class="card-title text-danger" id="alumni-card2-title">Alumni Student Pro 11</h5>

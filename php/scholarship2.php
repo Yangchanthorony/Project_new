@@ -20,7 +20,7 @@
         <div style="margin-top: 20px;" class="row">
         <div class="col-md-4">
                 <div class="post-card pp">
-                    <a href="ship_page10.php"><img style="height: 280px; width: 350px;"  src="https://www.ppiu.edu.kh/public/images/article/12020206272.jpg" alt="Announcement"></a>
+                    <a href="ship_page10.php"><img style="height: 280px; width: 350px;"  src="../img/12020206272.jpg" alt="Announcement"></a>
                    <h5 class="text"> PPIU & SHARE Scholarship Progr...</h5>
                     <p class=" pp">Post Date : 08-Feb-2021</p>
                 </div>

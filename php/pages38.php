@@ -24,7 +24,7 @@
            
 
             <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Untitled-1(1).jpg" target="_blank">
-             <img style="height: 480px; width: 430px; margin-left: 70px;  margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Untitled-1(1).jpg" alt="Certificate Award Ceremony">
+             <img style="height: 480px; width: 430px; margin-left: 70px;  margin-top:30px;"  class="pic" src="../img/Untitled-1(1).jpg" alt="Certificate Award Ceremony">
             </a>
 
             

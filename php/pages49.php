@@ -37,7 +37,7 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/New%20Logistics%20Banner%202%2C5x1%2C5.jpg">
-                <img style="margin-left: 420px;" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/New%20Logistics%20Banner%202%2C5x1%2C5.jpg" alt="Event Image 1">
+                <img style="margin-left: 420px;" src="../img/New Logistics Banner 2,5x1,5.jpg" alt="Event Image 1">
                 </a></div>
 
              

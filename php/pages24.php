@@ -23,16 +23,16 @@
             <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/files/ASEAN-QAA%20Constitution-Final-06.11.2019.pdf">3.ASEAN-QAA Constitution.<br></a>
 
              <a href="https://www.ppiu.edu.kh/public/images/article/1575463278.jpg" target="_blank">
-             <img  class="pic" src="https://www.ppiu.edu.kh/public/images/article/1575463278.jpg" alt="Certificate Award Ceremony">
+             <img  class="pic" src="../img/1575463278.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/3150926556.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/3150926556.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/3150926556.jpg" alt="Certificate Award Ceremony">
             </a>
 
             
             <a href="https://www.ppiu.edu.kh/public/images/article/4726389834.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/4726389834.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/4726389834.jpg" alt="Certificate Award Ceremony">
             </a>
 
            

@@ -240,9 +240,12 @@
         "about-ppiu-left-title": { "en": "About PPIU", "kh": "អំពី PPIU" },
         "about-ppiu-left-desc": { "en": "The university was renamed Phnom Penh International University - PPIU in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia", "kh": "សាកលវិទ្យាល័យនេះត្រូវបានប្តូរឈ្មោះជា សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) ក្នុងឆ្នាំ 2006 ដោយអនុក្រឹត្យ លេខ 111 អង្គ.បក ចុះថ្ងៃទី 24 ខែតុលា ឆ្នាំ 2006 របស់រាជរដ្ឋាភិបាលកម្ពុជា។" },
         "about-ppiu-left-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
-        "about-ppiu-right-title": { "en": "About PPIU", "kh": "អំពី PPIU" },
-        "about-ppiu-right-desc": { "en": "Phnom Penh International University (PPIU) was established in 2002 as ASEAN University under the initiative of the Rector, Mrs. Tep Kolap", "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) ត្រូវបានបង្កើតឡើងក្នុងឆ្នាំ 2002 ក្នុងនាមជា សាកលវិទ្យាល័យអាស៊ាន ក្រោមការចាប់ផ្តើមរបស់អនុប្រធានសាកលវិទ្យាល័យ អ្នកស្រី ទេព កុឡាប... " },
+        "about-ppiu-right-title": { "en": "Professor", "kh": "សាស្រ្តាចារ្យ" },
+        "about-ppiu-right-desc": { "en": "PPIU hires highly qualified and experienced faculty. Ninety percent of the faculty hold Ph.D.’s from American and other western universities and have extensive university-level teaching experience.", "kh": "PPIU ជួលមហាវិទ្យាល័យដែលមានសមត្ថភាព និងបទពិសោធន៍ខ្ពស់។ កៅសិបភាគរយនៃមហាវិទ្យាល័យទទួលបានបណ្ឌិតពីសាកលវិទ្យាល័យអាមេរិក និងបស្ចិមប្រទេសផ្សេងទៀត និងមានបទពិសោធន៍បង្រៀនកម្រិតសាកលវិទ្យាល័យយ៉ាងទូលំទូលាយ។" },
         "about-ppiu-right-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
+        "view": { "en": "View More", "kh": "មើលបន្ថែម" },
+        "see": { "en": "View More", "kh": "មើលបន្ថែម" },
+        "saw": { "en": "View More", "kh": "មើលបន្ថែម" },
 
         // Dual Degree Partners and Subsidiaries
         "dual-degree-partners-title": { "en": "Dual Degree Partners", "kh": "ដៃគូសញ្ញាបត្រពីរ" },
@@ -1306,6 +1309,7 @@
             "en": "Project Coordinator & Member",
             "kh": "អ្នកសម្របសម្រួលគម្រោង និងសមាជិក"
         }
+
     };
 
     

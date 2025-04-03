@@ -3,9 +3,9 @@
 
 $con = new mysqli("localhost","root","","project_school");
 
-function register(){
+function register() {
     global $con;
-    if(isset($_POST['register-btn'])){
+    if (isset($_POST['register-btn'])) {
         date_default_timezone_set('Asia/Phnom_Penh');
         $first_name = $_POST['first_name'];
         $last_name = $_POST['last_name'];
@@ -17,15 +17,12 @@ function register(){
         $price = $_POST['price'];
         $number = $_POST['number'];
         $dob = $_POST['dob'];
-        $date=date('Y-m-d H:i:s');
+        $date = date('Y-m-d H:i:s');
         $sql = "INSERT INTO `register`(`id`, `First Name`, `Last Name`, `gender`, `age`, `Email`, `Degree`, `Skill`, `price`, `phone`, `dob`, `Date`) 
         VALUES (null,'$first_name','$last_name','$gender', '$age','$email','$degree','$skill','$price','$number','$dob','$date')";
         
-         if ($con->query($sql)) {
-            // Get the last inserted ID
+        if ($con->query($sql)) {
             $last_id = $con->insert_id;
-            
-            // Redirect to invoice page or display invoice
             echo "<script>
                     alert('ការចុះឈ្មោះបានជោគជ័យ!');
                     window.location.href = '../admin/invoice.php?id=$last_id';

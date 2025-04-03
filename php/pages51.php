@@ -29,27 +29,27 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1497694948.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1497694948.jpg" alt="Event Image 1">
+                <img src="../img/1497694948.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/2995389896.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/2995389896.jpg" alt="Event Image 1">
+                <img src="../img/2995389896.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/4493084844.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/4493084844.jpg" alt="Event Image 1">
+                <img src="../img/4493084844.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div style="margin-top: 10px;" class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/5990779792.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/5990779792.jpg" alt="Event Image 1">
+                <img src="../img/5990779792.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/7488474740.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/7488474740.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/7488474740.jpg" alt="Event Image 1">
                 </a></div>
     
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/8986169688.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/8986169688.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/8986169688.jpg" alt="Event Image 1">
                 </a></div>
 
                 

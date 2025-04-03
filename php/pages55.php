@@ -53,15 +53,15 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1490781288.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1490781288.jpg" alt="Event Image 1">
+                <img src="../img/1490781288.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/2981562576.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/2981562576.jpg" alt="Event Image 1">
+                <img src="../img/2981562576.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/4472343864.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/4472343864.jpg" alt="Event Image 1">
+                <img src="../img/4472343864.jpg" alt="Event Image 1">
                 </a></div>
 
              

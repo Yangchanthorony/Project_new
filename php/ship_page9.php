@@ -21,7 +21,7 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/New%20PPIU%20Scholarship%20-%20Copy.jpg">
-                <img style="margin-left: 420px;"  src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/New%20PPIU%20Scholarship%20-%20Copy.jpg" alt="Event Image 1">
+                <img style="margin-left: 420px;"  src="../img/New PPIU Scholarship - Copy.jpg" alt="Event Image 1">
                 </a></div>
                 
             </div>

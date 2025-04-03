@@ -35,57 +35,57 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1504782547.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1504782547.jpg" alt="Event Image 1">
+                <img src="../img/1504782547.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/3009565094.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/3009565094.jpg" alt="Event Image 1">
+                <img src="../img/3009565094.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/4514347641.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/4514347641.jpg" alt="Event Image 1">
+                <img src="../img/4514347641.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div style="margin-top: 10px;" class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/6019130188.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/6019130188.jpg" alt="Event Image 1">
+                <img src="../img/6019130188.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/7523912735.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/7523912735.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/7523912735.jpg" alt="Event Image 1">
                 </a></div>
     
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/9028695282.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/9028695282.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/9028695282.jpg" alt="Event Image 1">
                 </a></div>
 
                 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/10533477829.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/10533477829.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/10533477829.jpg" alt="Event Image 1">
                 </a></div>
                 
 
                 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/12038260376.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/12038260376.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/12038260376.jpg" alt="Event Image 1">
                 </a></div>
                 
 
                 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/15047825470.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/15047825470.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/15047825470.jpg" alt="Event Image 1">
                 </a></div>
 
                 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/13543042923.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/13543042923.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/13543042923.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/16552608017.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/16552608017.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/16552608017.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/18057390564.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/18057390564.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/18057390564.jpg" alt="Event Image 1">
                 </a></div>
 
               

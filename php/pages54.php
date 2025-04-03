@@ -30,19 +30,19 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1494984335.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1494984335.jpg" alt="Event Image 1">
+                <img src="../img/1494984335.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/2989968670.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/2989968670.jpg" alt="Event Image 1">
+                <img src="../img/2989968670.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/4484953005.jpg">
-                <img src="https://www.ppiu.edu.kh/public/images/article/4484953005.jpg" alt="Event Image 1">
+                <img src="../img/4484953005.jpg" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/5979937340.jpg">
-                <img style="margin-top: 10px;" src="https://www.ppiu.edu.kh/public/images/article/5979937340.jpg" alt="Event Image 1">
+                <img style="margin-top: 10px;" src="../img/5979937340.jpg" alt="Event Image 1">
                 </a></div>
     
 

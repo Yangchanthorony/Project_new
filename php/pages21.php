@@ -22,16 +22,16 @@
             <p>   ក្រុមប្រឹក្សាបច្ចេកទេស លោក លោកស្រីសាស្ត្រាចារ្យបានរៀបចំរួចរាល់ជាស្រេចនូវរាល់ឯកសារ​ពាក់ព័ន្ធនឹង <span style="font-weight: bold;">Online Learning</span> សម្រាប់និស្សិតនៃសាកលវិទ្យាល័យភ្នំពេញអន្តរជាតិទាំងអស់ ដើម្បីបន្ត​និរន្តភាពនៃការសិក្សា ដែលនឹងចាប់ផ្តើមពីថ្ងៃទី ២៣ ខែមីនា ឆ្នាំ២០២០តទៅ។</p>
 
              <a href="https://www.ppiu.edu.kh/public/images/article/4754344425.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/4754344425.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/4754344425.jpg" alt="Certificate Award Ceremony">
             </a>
 
             <a href="https://www.ppiu.edu.kh/public/images/article/1584781564.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1584781564.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/1584781564.jpg" alt="Certificate Award Ceremony">
             </a>
 
             
             <a href="https://www.ppiu.edu.kh/public/images/article/1584783109.jpg" target="_blank">
-             <img class="pic" src="https://www.ppiu.edu.kh/public/images/article/1584783109.jpg" alt="Certificate Award Ceremony">
+             <img class="pic" src="../img/1584783109.jpg" alt="Certificate Award Ceremony">
             </a>
 
            

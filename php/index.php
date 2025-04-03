@@ -120,7 +120,7 @@ include("../js/index.php");
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="300"   >
+                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="400"   >
                             <div class="event-card">
                                 <a href="Evens4.php"><img src="../img/486643352_1085236973645032_6184732671856785796_n.jpg" alt="Event 4"></a>
                                 <div class="event-card-body">
@@ -136,7 +136,7 @@ include("../js/index.php");
 
                 <div class="container my-5">
 
-                <div style=" height: 1000px;" class="container gallery-container">
+                <div style=" height: 1050px;" class="container gallery-container">
                 <h2 class="gallery-title" id="ppiu-community-title">PPIU Community</h2>
                     <div class="row g-4 pic">
                         <!-- Gallery Item 1 -->
@@ -152,6 +152,7 @@ include("../js/index.php");
                                 <a href="https://scontent.fpnh24-1.fna.fbcdn.net/v/t39.30808-6/484939670_1078587807643282_878763841480744665_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGN3HBYfKXbKy1vsY1t2COxoXj0tMXwf4mhePS0xfB_iTf0ReDUkXHV0jeMgniY-J_YoVbWlEb49aayPdaTR-_0&_nc_ohc=3W_knuYzot0Q7kNvgFVol-U&_nc_oc=Adm4QwUazN9YeJgNqDHTtvPAhLLkMg7rvKatQSLBCuQp9I5dTAcElHBaE8fMiQlF4t4&_nc_zt=23&_nc_ht=scontent.fpnh24-1.fna&_nc_gid=BGDuaAYZ4h2MQUQIYWE7Vw&oh=00_AYEiwAPuGj7Gx-WoeCC61n1I6EBGZxH7xR5Fwwdi8j5HAw&oe=67EAAD4A"><img src="../img/484939670_1078587807643282_878763841480744665_n.jpg" alt="Gallery Image 2"></a>
                             </div>
                         </div>
+                    
                         <!-- Gallery Item 3 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="30">
                             <div class="gallery-item">
@@ -159,36 +160,37 @@ include("../js/index.php");
                             </div>
                         </div>
 
-                        <h2 style="margin-top: 60px;" class="gallery-title" id="project-coordinator-title">Project Coordinator & Member</h2>
+                        <a href="Project_ Coordinator.php">
+                        <h4 style="margin-top: 10px; width: 300px; color: white; display: inline-flex;" id="see"data-aos="fade-up"  data-aos-delay="200"> view more</h4></a>
+
+                        <h2 style="margin-top: 30px;" class="gallery-title" id="project-coordinator-title">Project Coordinator & Member</h2>
                         <!-- Gallery Item 4 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="40">
                             <div class="gallery-item">
                                 <img src="../img//3.jpg" alt="Gallery Image 4">
-                                <h3 style="margin-top: 20px; margin-left: 50px;">Hin Sam Ath</h3>
-                                <h6 style="margin-left: 50px; margin-bottom: 20px;"> Member</h6>
+                                <h3 style="margin-top: 20px; margin-left: 10px;">Hin Sam Ath</h3>
+                                <h6 style="margin-left: 10px; margin-bottom: 20px;"> Member</h6>
                             </div>
                         </div>
                         <!-- Gallery Item 5 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="50">
                             <div class="gallery-item">
                                 <img src="../img/4.jpg" alt="Gallery Image 5">
-                                <h3 style="margin-top: 20px; margin-left: 50px;">Tep Kolap</h3>
-                                <h6 style="margin-left: 50px; margin-bottom: 20px;"> Project Manager</h6>
+                                <h3 style="margin-top: 20px; margin-left: 10px;">Tep Kolap</h3>
+                                <h6 style="margin-left: 10px; margin-bottom: 20px;"> Project Manager</h6>
                             </div>
                         </div>
                         <!-- Gallery Item 6 -->
                         <div class="col-md-4" data-aos="zoom-in-down" data-aos-delay="60">
                             <div class="gallery-item">
                                 <img src="../img/1-1.jpg" alt="Gallery Image 6">
-                                <h3 style="margin-top: 20px; margin-left: 50px;">Hong Phearin</h3>
-                                <h6 style="margin-left: 50px; margin-bottom: 20px;">Member</h6>
+                                <h3 style="margin-top: 20px; margin-left: 10px;">Hong Phearin</h3>
+                                <h6 style="margin-left: 10px; margin-bottom: 20px;">Member</h6>
                             </div>
                         </div>
 
-                        <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam">
-                    <h4 style="margin-top: 10px;   width: 300px; color: white; display: inline-flex;    " id="facebook-follow">
-                        <i  class="fa-brands fa-facebook"></i> follow in facebook</h4>
-                    </a>
+                        <a href="Project_ Coordinator.php">
+                    <h4 style="margin-top: 10px;   width: 300px; color: white; display: inline-flex; " id="saw" data-aos="fade-up"  data-aos-delay="250"> view more</h4></a>
                         </div>
                     </div>
                     
@@ -412,30 +414,94 @@ include("../js/index.php");
             </div>
 
             <div class="container-fluid mt-2">
-        <div class="row  d-flex">
-            <div class="col-md-6 blue-section section">
-                <h2 id="about-ppiu-left-title" style="margin-top: 40px;">About PPIU</h2>
-                <p id="about-ppiu-left-desc">The university was renamed "Phnom Penh International University - PPIU" in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia</p>
-               <a href="history.php #carouselExampleIndicators"> <button class="btn btn-custom btn-outline-danger " id="about-ppiu-left-readmore">Read More</button></a>
-            </div>
-            <div class="col-md-6 p-0">
-                <img src="../img/featpic-4.png" class="img-fluid w-100" alt="Students studying">
-            </div>
+    <!-- First Row -->
+    <div class="row d-flex">
+
+        <div class="col-md-6 blue-section section">
+            <h2 
+                id="about-ppiu-left-title" 
+                style="margin-top: 40px;" 
+                data-aos="fade-right" 
+                data-aos-duration="1000"
+            >About PPIU</h2>
+            <p 
+                id="about-ppiu-left-desc" 
+                data-aos="fade-right" 
+                data-aos-duration="1000" 
+                data-aos-delay="200"
+            >The university was renamed "Phnom Penh International University - PPIU" in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia</p>
+            <a href="history.php#carouselExampleIndicators">
+                <button 
+                    class="btn btn-custom btn-outline-danger" 
+                    id="about-ppiu-left-readmore" 
+                    data-aos="fade-up" 
+                    data-aos-duration="1000" 
+                    data-aos-delay="400"
+                >Read More</button>
+            </a>
         </div>
-       
-        <div class="row">
+
+
         <div class="col-md-6 p-0">
-                <img src="../img/feature-image.jpg" class="img-fluid w-100" alt="Faculty members">
-            </div>
-            <div  class="col-md-6 white-section ">
-                <h2 style="margin-top: 20px;" id="about-ppiu-right-title" class="text-danger">About PPIU</h2>
-                <p id="about-ppiu-right-desc">Phnom Penh International University (PPIU) was established in 2002 as "ASEAN University" under the initiative of the Rector, Mrs. Tep Kolap</p>
-                <a href="history.php"><button class="btn btn-outline-danger" id="about-ppiu-right-readmore">Read More</button></a>
-                <img style="margin-top: 40px;" src="../img/unnamed.jpg" class="img-fluid w-100" alt="Faculty members">
-            </div>
-            
+            <img 
+                src="../img/featpic-4.png" 
+                class="img-fluid w-100" 
+                alt="Students studying" 
+                data-aos="fade-left" 
+                data-aos-duration="1000"
+            >
         </div>
     </div>
+    
+    <!-- Second Row -->
+    <div class="row">
+        <div class="col-md-6 p-0">
+            <img 
+                src="../img/feature-image.jpg" 
+                class="img-fluid w-100" 
+                alt="Faculty members" 
+                data-aos="fade-right" 
+                data-aos-duration="1000"
+            >
+        </div>
+
+
+        <div class="col-md-6 white-section">
+            <h2 
+                style="margin-top: 20px;" 
+                id="about-ppiu-right-title" 
+                class="text-danger" 
+                data-aos="fade-left" 
+                data-aos-duration="1000"
+            >Professor</h2>
+            <p 
+                id="about-ppiu-right-desc" 
+                data-aos="fade-left" 
+                data-aos-duration="1000" 
+                data-aos-delay="200"
+            >PPIU hires highly qualified and experienced faculty. Ninety percent of the faculty hold Ph.D.’s from American and other western universities and have extensive university-level teaching experience.</p>
+            <a href="Professor.php">
+                <button 
+                    class="btn btn-outline-danger" 
+                    id="about-ppiu-right-readmore" 
+                    data-aos="fade-up" 
+                    data-aos-duration="1000" 
+                    data-aos-delay="400"
+                >Read more</button>
+            </a>
+
+            <img 
+                style="margin-top: 40px;" 
+                src="../img/unnamed.jpg" 
+                class="img-fluid w-100" 
+                alt="Faculty members" 
+                data-aos="zoom-in" 
+                data-aos-duration="1000" 
+                data-aos-delay="600"
+            >
+        </div>
+    </div>
+</div>
 
     <div class="container-fluid py-5">
         <div class="row">
@@ -466,23 +532,20 @@ include("../js/index.php");
                         <img  class="rub" src="../img/Instituto_Superior_Tecnico_logo-1-1.png" alt="AUPP Technology Center Logo" class="img-fluid logo">
                      
                     </div>
+                   
                 </div>
             </div>
+           
         </div>
-    </div>
-
        
-
-
-         
         </div>
-
-        
-    
+        <a href="Partner.php"><h4 style=" margin-left: 540px;  width: 250px; color: white; background-color:  goldenrod;" id="view" data-aos="fade-right"  data-aos-duration="1000">view more</h4></a>
+    </div>    
+ 
 </div>
 
 <div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.8362665810573!2d104.9088324748272!3d11.563592844181834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31095114f1138ac5%3A0x7619b468836cd886!2sPhnom%20Penh%20international%20university!5e0!3m2!1sen!2skh!4v1743362769070!5m2!1sen!2skh" width="1800" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3908.8362665810573!2d104.9088324748272!3d11.563592844181834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31095114f1138ac5%3A0x7619b468836cd886!2sPhnom%20Penh%20international%20university!5e0!3m2!1sen!2skh!4v1743362769070!5m2!1sen!2skh" width="1800" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
    <?php 

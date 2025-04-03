@@ -38,7 +38,7 @@
 
 
             <a href="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Job%20Annoucement/TOR%20Front%20Office%20Manager%20Rev1.jpg" target="_blank">
-             <img style="height: 380px; width: 300px; margin-left: 130px; margin-top:30px;"  class="pic" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Job%20Annoucement/TOR%20Front%20Office%20Manager%20Rev1.jpg" alt="Certificate Award Ceremony">
+             <img style="height: 380px; width: 300px; margin-left: 130px; margin-top:30px;"  class="pic" src="../img/TOR Front Office Manager Rev1.jpg" alt="Certificate Award Ceremony">
             </a>
 
             

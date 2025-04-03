@@ -20,14 +20,14 @@
         <div style="margin-top: 20px;" class="row">
             <div class="col-md-4">
                 <div class="post-card pp">
-                    <a href="pages55.php"><img style="height: 280px; width: 250px;"  src="https://www.ppiu.edu.kh/public/images/article/_____________________________________________________________________________________________________________MOU______________PPIU___________AIT.jpg" alt="Announcement"></a>
+                    <a href="pages55.php"><img style="height: 280px; width: 250px;"  src="../img/_____________________________________________________________________________________________________________MOU______________PPIU___________AIT.jpg" alt="Announcement"></a>
                    <h5 class="text"> ពិធីចុះហត្ថលេខាលើអនុស្សរណៈ...</h5>
                     <p class=" pp"> Post Date : 22-May-2017</p>
                 </div>
             </div>
             <div  class="col-md-4">
                 <div class="post-card">
-                    <a href="pages56.php"><img style=" width:80%; height: 290px;"  src="https://www.ppiu.edu.kh/public/images/article/PPIU___BSRU_ASEAN_Youth_Camp_2017.jpg" alt="Graduation"></a>
+                    <a href="pages56.php"><img style=" width:80%; height: 290px;"  src="../img/PPIU___BSRU_ASEAN_Youth_Camp_2017.jpg" alt="Graduation"></a>
                     <h5 class="text2" >PPIU & BSRU-ASEAN Youth Camp 2...</h5>
                     <p class="pp2" >Post Date : 26-May-2017</p>
                 </div>

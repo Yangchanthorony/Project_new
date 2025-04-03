@@ -23,7 +23,7 @@ include("../js/index.php");
     
     <!-- Event Image -->
     <div class="event-image">
-        <img src="../img/482095635_1071006088401454_3389041062273094251_n.jpg" class="img-fluid" alt="Alumni Engagement Event">
+        <img src="../img/11195036069.jpg" class="img-fluid" alt="Alumni Engagement Event">
     </div>
 
     <!-- Event Information -->

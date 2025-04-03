@@ -22,7 +22,7 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1587008520.jpg">
-                <img style="margin-left: 420px;" src="https://www.ppiu.edu.kh/public/images/article/1587008520.jpg" alt="Event Image 1">
+                <img style="margin-left: 420px;" src="../img/1587008520.jpg" alt="Event Image 1">
                 </a></div>
 
              

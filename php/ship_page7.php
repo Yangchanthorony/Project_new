@@ -25,15 +25,15 @@
 
             <div class="row gallery">
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/1505531254.png">
-                <img src="https://www.ppiu.edu.kh/public/images/article/1505531254.png" alt="Event Image 1">
+                <img src="../img/1505531254.png" alt="Event Image 1">
                 </a></div>
 
                 <div  class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/3011062508.png">
-                <img src="https://www.ppiu.edu.kh/public/images/article/3011062508.png" alt="Event Image 1">
+                <img src="../img/3011062508.png" alt="Event Image 1">
                 </a></div>
 
                 <div class="col-md-4"><a href="https://www.ppiu.edu.kh/public/images/article/4516593762.png">
-                <img src="https://www.ppiu.edu.kh/public/images/article/4516593762.png" alt="Event Image 1">
+                <img src="../img/4516593762.png" alt="Event Image 1">
                 </a></div>
 
            

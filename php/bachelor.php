@@ -1,72 +1,135 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php 
-    include("../components/header.php");
-    ?>
+    <?php include("../components/header.php"); ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Professional/Short Course</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-   <link rel="stylesheet" href="../css/bachelor.css">
+    <!-- <link rel="stylesheet" href="../css/bachelor.css"> -->
+    <style>
+        .faculty-card img {
+            width: 100%;
+            height: 300px;
+    
+        }
+        .faculty-card {
+            transition: transform 0.3s;
+        }
+        .faculty-card:hover {
+            transform: scale(1.05);
+        }
+        
+
+        .header {
+      
+      color: white;
+      margin-top: 240px;
+      text-align: center;
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 20px;
+  }
+/* Background Pattern */
+.header-pattern {
+    background: rgb(164, 7, 7);
+  padding: 1px;
+    position: relative;
+}
+
+.header-pattern::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30%;
+    height: 100;
+    background-image: url('https://www.transparenttextures.com/patterns/cubes.png'); /* Example Pattern */
+    opacity: 100;
+}
+
+    </style>
 </head>
 <body>
 <div class="header-pattern">
-    <div class="header" id="bachelor-header">BACHELOR</div>
-</div>       
-<div class="container">
-    <h6 style="color: red;" id="bachelor-title">BACHELOR</h6>
-    <p class="aa" id="bachelor-intro">
-        Those students who intentionally study with your desired majors for the Bachelor's Degree (BA), you could choose amongst the following faculties:
-    </p>
-
-    <a style="margin-left: 10px; text-decoration: none;" href="law.php" id="faculty-law-link">
-        - Faculty of Law and Economics (FLF)
-    </a>
-    <p style="margin-top: 4px; margin-left: 30px;" id="faculty-law-finance">+ Finance-Banking (FNB)</p>
-    <p style="margin-left: 30px;" id="faculty-law-economics">+ Economics Development (ECO)</p>
-    <p style="margin-left: 30px;" id="faculty-law-public-relations">+ Public Relations (PR)</p>
-    <p style="margin-left: 30px;" id="faculty-law-law">+ Law (LLB)</p>
-    <p style="margin-left: 30px;" id="faculty-law-intl-relations">+ International Relations (IR)</p>
-
-    <a style="margin-left: 10px; text-decoration: none;" href="Business.php" id="faculty-business-link">
-        - Faculty of Business and Tourism (FBT)
-    </a>
-    <p style="margin-top: 4px; margin-left: 30px;" id="faculty-business-accounting">+ Accounting (ACC)</p>
-    <p style="margin-left: 30px;" id="faculty-business-management">+ Management (MGT)</p>
-    <p style="margin-left: 30px;" id="faculty-business-marketing">+ Marketing (MKT)</p>
-    <p style="margin-left: 30px;" id="faculty-business-tourism">+ Hotel and Tourism Management (TOU)</p>
-    <p style="margin-left: 30px;" id="faculty-business-logistics">+ Logistics Management (LGM)</p>
-
-    <a style="margin-left: 10px; text-decoration: none;" href="education.php" id="faculty-education-link">
-        - Faculty of Education Science (FES)
-    </a>
-    <p style="margin-top: 4px; margin-left: 30px;" id="faculty-education-english-edu">+ English for Education (EDU)</p>
-    <p style="margin-left: 30px;" id="faculty-education-english-bus">+ English for Business (EBU)</p>
-
-    <a style="margin-left: 10px; text-decoration: none;" href="cse.php" id="faculty-science-link">
-        - Faculty of Science and Information Technology (FSIT)
-    </a>
-    <p style="margin-top: 4px; margin-left: 30px;" id="faculty-science-computer">+ Computer Science (CSE)</p>
-    <p style="margin-left: 30px;" id="faculty-science-mis">+ Management Information System (MIS)</p>
-    <p style="margin-left: 30px;" id="faculty-science-telecom">+ Telecommunication Architecture (TEL)</p>
-
-    <a style="text-decoration: none; font-weight: 500; font-size: 16px;" href="" id="faculty-news-link">
-        - Faculty Of News and View
-    </a>
-    <p style="margin-top: 4px; margin-left: 30px;" id="faculty-news-multimedia">+ Multimedia Journalism</p>
-    <p style="margin-left: 30px;" id="faculty-news-media-mgt">+ Media Management</p>
-    <p style="margin-left: 30px;" id="faculty-news-digital">+ Digital Media</p>
-    <p style="margin-left: 30px;" id="faculty-news-pr">+ Public Relations</p>
+    <div class="header" id="associate-header">BACHELOR </div>
 </div>
-<?php 
-include("../components/footer_new.php");
-?>
+    <div class="text-center py-3  text-black">
+        <h2>BACHELOR PROGRAMS</h2>
+    </div>
+    
+    <div style="margin-top: 20px;" class="container ">
+        <div class="row">
+            <!-- Faculty of Law and Economics -->
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card faculty-card">
+                    <a href="law.php"><img src="../img/486609957_1082895393879190_4171540092522230944_n.jpg" class="card-img-top" alt="Law Faculty"></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Faculty of Law and Economics (FLF)</h5>
+                        <ul>
+                            <li>Finance-Banking (FNB)</li>
+                            <li>Economics Development (ECO)</li>
+                            <li>Public Relations (PR)</li>
+                            <li>Law (LLB)</li>
+                            <li>International Relations (IR)</li>
+                        </ul>
+                        <a href="law.php" class="btn btn-danger">Learn More</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Faculty of Business and Tourism -->
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card faculty-card">
+                   <a href="Business.php"> <img src="../img/484067267_1076685057833557_5697796366693492590_n.jpg" class="card-img-top" alt="Business Faculty"></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Faculty of Business and Tourism (FBT)</h5>
+                        <ul>
+                            <li>Accounting (ACC)</li>
+                            <li>Management (MGT)</li>
+                            <li>Marketing (MKT)</li>
+                            <li>Hotel and Tourism Management (TOU)</li>
+                            <li>Logistics Management (LGM)</li>
+                        </ul>
+                        <a href="Business.php" class="btn btn-danger">Learn More</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Faculty of Education Science -->
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card faculty-card">
+                   <a href="education.php"> <img src="../img/484788039_1076723261163070_3075397000407103142_n.jpg" class="card-img-top" alt="Education Faculty"></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Faculty of Education Science (FES)</h5>
+                        <ul>
+                            <li>English for Education (EDU)</li>
+                            <li>English for Business (EBU)</li>
+                        </ul>
+                        <a href="education.php" class="btn btn-danger">Learn More</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Faculty of Science and Information Technology -->
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card faculty-card">
+                <a href="cse.php"><img src="../img/hqdefault.jpg" class="card-img-top" alt="Science Faculty"></a>
+                    <div class="card-body">
+                        <h5 class="card-title">Faculty of Science and Information Technology (FSIT)</h5>
+                        <ul>
+                            <li>Computer Science (CSE)</li>
+                            <li>Management Information System (MIS)</li>
+                            <li>Telecommunication Architecture (TEL)</li>
+                        </ul>
+                        <a href="cse.php" class="btn btn-danger">Learn More</a>
+                    </div>
+                </div>
+            </div>
 
 
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
-
 </html>
