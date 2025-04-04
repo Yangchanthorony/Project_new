@@ -102,58 +102,50 @@
     </style>
 </head>
 <body>
-    <div style="margin-top: 180px;" class="container">
-        <a href="Professor.php" class="back-button">
-            <i class="fas fa-arrow-left"></i> BACK
-        </a>
-        <div class="row">
-            <!-- Faculty Image -->
-            <div class="col-md-4">
-                <img src="../img/unnamed (1).jpg" alt="Casey Barnett" class="faculty-image">
-                <div style="margin-top: 20px;" class="contact">
-                    <h3>Contact Info</h3>
-                    <div class="contact-info">
-                        <i class="fas fa-phone"></i>
-                        <span> +885 *********</span>
-                    </div>
-                    <div class="contact-info">
-                        <i class="fas fa-envelope"></i>
-                        <span>Chhay.Buntha@ppiu.edu.kh</span>
-                    </div>
-                    <a class="linkedin-link" href="https://kh.linkedin.com/in/tanseryvuth" target="_blank">
-                        <i class="fab fa-linkedin"></i>
-                        <span>LinkedIn Profile</span>
-                    </a>
+<div style="margin-top: 180px;" class="container">
+    <a href="Professor.php" class="back-button">
+        <i class="fas fa-arrow-left"></i> <span id="back-label">BACK</span>
+    </a>
+    <div class="row">
+        <!-- Faculty Image -->
+        <div class="col-md-4">
+            <img src="../img/unnamed (1).jpg" alt="Chhay Buntha" class="faculty-image">
+            <div style="margin-top: 20px;" class="contact">
+                <h3 id="contact-info-title">Contact Info</h3>
+                <div class="contact-info">
+                    <i class="fas fa-phone"></i>
+                    <span>+885 *********</span>
                 </div>
+                <div class="contact-info">
+                    <i class="fas fa-envelope"></i>
+                    <span>Chhay.Buntha@ppiu.edu.kh</span>
+                </div>
+                <a class="linkedin-link" href="https://kh.linkedin.com/in/tanseryvuth" target="_blank">
+                    <i class="fab fa-linkedin"></i>
+                    <span id="linkedin-label">LinkedIn Profile</span>
+                </a>
             </div>
+        </div>
 
-            <!-- Faculty Details -->
-            <div class="col-md-8">
-                <!-- Name and Title -->
-                <h1 class="faculty-name">Chhay Buntha</h1>
-                <h2 class="faculty-title">Professor</h2>
+        <!-- Faculty Details -->
+        <div class="col-md-8">
+            <!-- Name and Title -->
+            <h1 class="faculty-name">Chhay Buntha</h1>
+            <h2 class="faculty-title" id="professor-title">Professor</h2>
 
-                <!-- Profile Section -->
-               
-                <div class="section-heading">+ Experience</div>
-                
-               
-                <p class="section-content">
-                - 2011: Digital Convergence Technology and Policy Seoul, South Korea.Master of Technology in Computer Technology (Base on Networking).<br>
-                - 2010:At Indian Institute of Technology Delhi(IITD), India. <br>
+            <!-- Profile Section -->
+            <div class="section-heading" id="experience-title">+ Experience</div>
+            <p class="section-content" id="experience-content">
+                - 2011: Digital Convergence Technology and Policy Seoul, South Korea. Master of Technology in Computer Technology (Base on Networking).<br>
+                - 2010: At Indian Institute of Technology Delhi (IITD), India. <br>
                 - 2009: English Fluency and IT Skill training at CMC, Ltd New Delhi, India. <br>
                 - 2008: International Leadership Skills, Phnom Penh, Cambodia. <br>
                 - 2007: Bachelor degree at BBU in Network Technology. Phnom Penh, Cambodia. <br>
-                + Mr.Buntha used to work an Internet Gateway technical support (DIX/IIX).Open connection port (VLAN) for leased line customers through fiber optic. (CISCO router and Zyxel switch).Support to leased line customers.IT-Coordinator at University of Cambodia.
-              
-                                    
-                </p>
-
-             
-
-            </div>
+                + Mr. Buntha used to work an Internet Gateway technical support (DIX/IIX). Open connection port (VLAN) for leased line customers through fiber optic. (CISCO router and Zyxel switch). Support to leased line customers. IT-Coordinator at University of Cambodia.
+            </p>
         </div>
     </div>
+</div>
 
     <!-- Bootstrap JS (Optional, for interactivity) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>

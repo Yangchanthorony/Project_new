@@ -121,7 +121,7 @@
 <body>
           <!-- Header Section -->
           <div class="header-pattern">
-            <div class="header" id="license-header">Project Coordinator & Member</div>
+            <div class="header" >Project Coordinator & Member</div>
         </div>
 
     <div class="container">
@@ -166,7 +166,7 @@
     </div>
       <!-- Header Section -->
       <div class="mid-pattern">
-            <div class="mid" id="license-header">Dean</div>
+            <div class="mid" >Dean</div>
         </div>
         <div class="container">
         <!-- Section Title -->

@@ -20,7 +20,7 @@
     <p class="text-center" id="reading-club-purpose">The purpose of the club is to help students improve their speaking in English and foster their love of reading.</p>
     
     <div>
-        <img style="width: 400px; height: 300px;" src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Library/144661301_3848954361828404_11807926071068695_o.jpg" alt="PPIU Reading Club" class="img-fluid">
+        <img style="width: 400px; height: 300px;" src="../img/144661301_3848954361828404_11807926071068695_o.jpg" alt="PPIU Reading Club" class="img-fluid">
     </div>
     
     <p class="mt-3" id="reading-club-first-meeting"><strong>First meeting:</strong> 13th February 2021 at 3 p.m. at the PPIU Library (7th Floor).</p>

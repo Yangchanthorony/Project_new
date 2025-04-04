@@ -3,6 +3,7 @@
 <head>
     <?php 
     include("../components/header.php");
+    include("../js/Professor.php");
     ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -102,19 +103,19 @@
     </style>
 </head>
 <body>
-    <div style="margin-top: 180px;" class="container">
+<div style="margin-top: 180px;" class="container">
         <a href="Professor.php" class="back-button">
-            <i class="fas fa-arrow-left"></i> BACK
+            <i class="fas fa-arrow-left"></i> <span id="back-label">BACK</span>
         </a>
         <div class="row">
             <!-- Faculty Image -->
             <div class="col-md-4">
                 <img src="../img/photo_2019-08-05_07-42-29.jpg" alt="Casey Barnett" class="faculty-image">
                 <div style="margin-top: 20px;" class="contact">
-                    <h3>Contact Info</h3>
+                    <h3 id="contact-info-title">Contact Info</h3>
                     <div class="contact-info">
                         <i class="fas fa-phone"></i>
-                        <span> +885 *********</span>
+                        <span>+885 *********</span>
                     </div>
                     <div class="contact-info">
                         <i class="fas fa-envelope"></i>
@@ -122,7 +123,7 @@
                     </div>
                     <a class="linkedin-link" href="https://kh.linkedin.com/in/tanseryvuth" target="_blank">
                         <i class="fab fa-linkedin"></i>
-                        <span>LinkedIn Profile</span>
+                        <span id="linkedin-label">LinkedIn Profile</span>
                     </a>
                 </div>
             </div>
@@ -131,127 +132,121 @@
             <div class="col-md-8">
                 <!-- Name and Title -->
                 <h1 class="faculty-name">Tan Sareyvuth</h1>
-                <h2 class="faculty-title">Professor</h2>
+                <h2 class="faculty-title" id="professor-title">Professor</h2>
 
                 <!-- Profile Section -->
-               
-                <div class="section-heading">+ Experience</div>
-                
-                <div  class="section-heading">. Deputy Director</div>
-                <p class="section-content">
-                - Data Management Center of MPTC <br>
-                        - 2014 - Present . 11 years<br>
-                        - Phnom Penh <br>
+                <div class="section-heading" id="experience-title">+ Experience</div>
+                <div class="section-heading" id="deputy-director-title">. Deputy Director</div>
+                <p class="section-content" id="deputy-director-content">
+                    - Data Management Center of MPTC <br>
+                    - 2014 - Present . 11 years<br>
+                    - Phnom Penh <br>
                 </p>
 
                 <!-- Nationality Section -->
-                <div class="section-heading">. Nationality</div>
-                <p class="section-content">Cambodian</p>
+                <div class="section-heading" id="nationality-title">. Nationality</div>
+                <p class="section-content" id="nationality-content">Cambodian</p>
 
                 <!-- Subjects Taught Section -->
-                <div class="section-heading">. Deputy Director of E-Government Department</div>
-                <p class="section-content"> 
-                        - General ICT Department<br>
-                        - Nov 2013 - Present . 11 years 5 months<br>
-                        - Phnom Penh<br></p>
+                <div class="section-heading" id="deputy-director-egov-title">. Deputy Director of E-Government Department</div>
+                <p class="section-content" id="deputy-director-egov-content">
+                    - General ICT Department<br>
+                    - Nov 2013 - Present . 11 years 5 months<br>
+                    - Phnom Penh<br>
+                </p>
 
                 <!-- Qualifications Section -->
-                <div class="section-heading">. Lecturer</div>
-                <p class="section-content">
-                       - Phnom Penh International University <br>
-                        - 2013 - Present . 12 years<br>
-                        - Phnom Penh <br></p>
+                <div class="section-heading" id="lecturer-title">. Lecturer</div>
+                <p class="section-content" id="lecturer-content">
+                    - Phnom Penh International University <br>
+                    - 2013 - Present . 12 years<br>
+                    - Phnom Penh <br>
+                </p>
 
                 <!-- Publications Section -->
-                <div class="section-heading">. ICT Government Official</div>
-                <p class="section-content"> 
-                         - Royal Government of Cambodia <br>
-                        - 2007 - Present . 18 years <br>
-                        - Phnom Penh, Cambodia  <br>
-                        - The National Information Communications Technology Development Authority (NiDA) is a government agency responsible for managing the development of the information technology industry in Cambodia. Among the agency's projects are the computerization of government function and training of internet personnel.
+                <div class="section-heading" id="ict-official-title">. ICT Government Official</div>
+                <p class="section-content" id="ict-official-content">
+                    - Royal Government of Cambodia <br>
+                    - 2007 - Present . 18 years <br>
+                    - Phnom Penh, Cambodia <br>
+                    - The National Information Communications Technology Development Authority (NiDA) is a government agency responsible for managing the development of the information technology industry in Cambodia. Among the agency's projects are the computerization of government function and training of internet personnel.
                 </p>
-                <div class="section-heading">National ICT Development Authority (NiDA)</div>
-                <p class="section-content">
-                - 18 years<br>
+                <div class="section-heading" id="nida-title">National ICT Development Authority (NiDA)</div>
+                <p class="section-content" id="nida-content">
+                    - 18 years<br>
                 </p>
-                <div class="section-heading">. Web Developer</div>
-                <p class="section-content">
-                - 2007 - Present . 18 years <br>
-                        - Phnom Penh, Cambodia <br>
-                        - Analyze, Design and Develop Web Application, Web Site UI and Content Management System (CMS) using PHP, MySQL, JavaScript, JQuery, XML and some of other web-based technologies and databases.<br>
-
+                <div class="section-heading" id="web-dev-title">. Web Developer</div>
+                <p class="section-content" id="web-dev-content">
+                    - 2007 - Present . 18 years <br>
+                    - Phnom Penh, Cambodia <br>
+                    - Analyze, Design and Develop Web Application, Web Site UI and Content Management System (CMS) using PHP, MySQL, JavaScript, JQuery, XML and some of other web-based technologies and databases.<br>
                 </p>
-                <div class="section-heading">. Network Administrator</div>
-                <p class="section-content">
-                - Phnom Penh, Cambodia <br>
-                        - Server Administration, Maintenance and Security including Web Server, DNS Server, Mail Server, File Server and some of other servers. <br>
-                        - Technologies involved are Microsoft Operating System, Linux Operating System, Apache and Tomcat Web Server, MySQL, CUBRID, Authentication and Policy. <br>
-                        - Cooperate with KISAN Telecom Co., Ltd, Seoul, Korea. <br>
-
+                <div class="section-heading" id="net-admin-title">. Network Administrator</div>
+                <p class="section-content" id="net-admin-content">
+                    - Phnom Penh, Cambodia <br>
+                    - Server Administration, Maintenance and Security including Web Server, DNS Server, Mail Server, File Server and some of other servers. <br>
+                    - Technologies involved are Microsoft Operating System, Linux Operating System, Apache and Tomcat Web Server, MySQL, CUBRID, Authentication and Policy. <br>
+                    - Cooperate with KISAN Telecom Co., Ltd, Seoul, Korea. <br>
                 </p>
-                <div class="section-heading">. Application Developer</div>
-                <p class="section-content">
-                - 2009 - 2011 . 2 years <br>
-                        - Phnom Penh, Cambodia <br>
-                        - Joined with PAIS (Provincial Administration Information System) project that cooperated with Korean experts as a application developer for development and maintenance of resident registration application system. <br>
-                        - Technologies involved are Virtual Basic dot Net, CUBRID. <br>
+                <div class="section-heading" id="app-dev-title">. Application Developer</div>
+                <p class="section-content" id="app-dev-content">
+                    - 2009 - 2011 . 2 years <br>
+                    - Phnom Penh, Cambodia <br>
+                    - Joined with PAIS (Provincial Administration Information System) project that cooperated with Korean experts as a application developer for development and maintenance of resident registration application system. <br>
+                    - Technologies involved are Virtual Basic dot Net, CUBRID. <br>
                 </p>
-                <div class="section-heading">Software Intern</div>
-                <p class="section-content">
-                - Netpia Company (넷피아) <br>
-                        - Jul 2012 - Aug 2012 . 2 months <br>
-                        - Seoul, Korea <br>
-                        - Project planning for two month internship period. <br>
-                        - Develop a Smart TV application named NLIA Browser providing the Internet addressing service of Netpia. <br>
-                        - Samsung and LG Smart TV application development process and SDK. <br>
-                        - Technologies involved are JavaScript, JSON, HTML5, WebSocket, and other web-based technologies. <br>
-                        - Build, deploy, and test the application with the real environment. <br>
-
+                <div class="section-heading" id="intern-title">Software Intern</div>
+                <p class="section-content" id="intern-content">
+                    - Netpia Company (넷피아) <br>
+                    - Jul 2012 - Aug 2012 . 2 months <br>
+                    - Seoul, Korea <br>
+                    - Project planning for two month internship period. <br>
+                    - Develop a Smart TV application named NLIA Browser providing the Internet addressing service of Netpia. <br>
+                    - Samsung and LG Smart TV application development process and SDK. <br>
+                    - Technologies involved are JavaScript, JSON, HTML5, WebSocket, and other web-based technologies. <br>
+                    - Build, deploy, and test the application with the real environment. <br>
                 </p>
-                <div class="section-heading">. Computer Instructor</div>
-                <p class="section-content">
-                - SACHAK ASIA DEVELOPMENT INSTITUTE<br>
-                        - 2011 - 2012 . 1 year<br>
-                        - Phnom Penh, Cambodia <br>
+                <div class="section-heading" id="instructor-title">. Computer Instructor</div>
+                <p class="section-content" id="instructor-content">
+                    - SACHAK ASIA DEVELOPMENT INSTITUTE<br>
+                    - 2011 - 2012 . 1 year<br>
+                    - Phnom Penh, Cambodia <br>
                 </p>
-                
-                <div class="section-heading">. Team Leader</div>
-                <p class="section-content">
-                - Khmer Invent Technology <br>
-                        - an 2011 - Aug 2011 . 8 months <br>
-                        - Phnom Penh, Cambodia <br>
-                        - Provides web and software application development services. <br>
+                <div class="section-heading" id="team-leader-title">. Team Leader</div>
+                <p class="section-content" id="team-leader-content">
+                    - Khmer Invent Technology <br>
+                    - Jan 2011 - Aug 2011 . 8 months <br>
+                    - Phnom Penh, Cambodia <br>
+                    - Provides web and software application development services. <br>
                 </p>
-                
-                <div class="section-heading">+ Education</div>
-                 <div class="section-heading">. 건국대학교 / Konkuk University</div>
-                 <p class="section-content">
-                 - Master of Science in Computer and Information Communication Engineering <br>
-                        - 2011 - 2013 <br>
-                        + Research Interests: <br>
-                        - Mobile Ad-hoc Network (MANET) <br>
-                        - Mobile Computing and Applications  <br>
-                        - Wireless Communication  <br>
-                        - Wireless Sensor Network  <br>
-                        - Computer and Network Security  <br>
-                        - Cloud Computing  <br>
-                        - Smart Application Devices  <br>
-                        - Future Internet  <br>
-                        - Internet of Think <br>
-
-                 </p>
-                 <div class="section-heading">. Build Bright University</div>
-                 <p class="section-content">
-                 - Bachelor Degree of Information Technology Information Technology  <br>
-                        - 2002 - 2006  <br>
-                        + Course Interests:  <br>
-                        - Programming  <br>
-                        - Database Management System  <br>
-                        - Network and Computer Security  <br>
-                        - Linux Operating System  <br>
-                        - Windows Operating System  <br>
-                        - System Analysis and Design  <br>
-                 </p>
+                <div class="section-heading" id="education-title">+ Education</div>
+                <div class="section-heading" id="konkuk-title">. 건국대학교 / Konkuk University</div>
+                <p class="section-content" id="konkuk-content">
+                    - Master of Science in Computer and Information Communication Engineering <br>
+                    - 2011 - 2013 <br>
+                    + Research Interests: <br>
+                    - Mobile Ad-hoc Network (MANET) <br>
+                    - Mobile Computing and Applications <br>
+                    - Wireless Communication <br>
+                    - Wireless Sensor Network <br>
+                    - Computer and Network Security <br>
+                    - Cloud Computing <br>
+                    - Smart Application Devices <br>
+                    - Future Internet <br>
+                    - Internet of Things <br>
+                </p>
+                <div class="section-heading" id="bbu-title">. Build Bright University</div>
+                <p class="section-content" id="bbu-content">
+                    - Bachelor Degree of Information Technology <br>
+                    - 2002 - 2006 <br>
+                    + Course Interests: <br>
+                    - Programming <br>
+                    - Database Management System <br>
+                    - Network and Computer Security <br>
+                    - Linux Operating System <br>
+                    - Windows Operating System <br>
+                    - System Analysis and Design <br>
+                </p>
             </div>
         </div>
     </div>
@@ -259,6 +254,7 @@
     <!-- Bootstrap JS (Optional, for interactivity) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
 <?php 
 include("../components/footer.php");
 ?>

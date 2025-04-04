@@ -1308,7 +1308,537 @@
         "project-coordinator-title": {
             "en": "Project Coordinator & Member",
             "kh": "អ្នកសម្របសម្រួលគម្រោង និងសមាជិក"
+        },
+
+        //teacher vuth
+
+        "back-label": { "en": "BACK", "kh": "ត្រឡប់ក្រោយ" },
+                "contact-info-title": { "en": "Contact Info", "kh": "ព័ត៌មានទំនាក់ទំនង" },
+                "linkedin-label": { "en": "LinkedIn Profile", "kh": "ប្រវត្តិរូប LinkedIn" },
+                "professor-title": { "en": "Professor", "kh": "សាស្ត្រាចារ្យ" },
+                "experience-title": { "en": "+ Experience", "kh": "+ បទពិសោធន៍" },
+                "deputy-director-title": { "en": ". Deputy Director", "kh": ". អនុប្រធាន" },
+                "deputy-director-content": { 
+                    "en": "- Data Management Center of MPTC <br>- 2014 - Present . 11 years<br>- Phnom Penh <br>",
+                    "kh": "- មជ្ឈមណ្ឌលគ្រប់គ្រងទិន្នន័យនៃ MPTC <br>- ២០១៤ - បច្ចុប្បន្ន . ១១ ឆ្នាំ<br>- ភ្នំពេញ <br>"
+                },
+                "nationality-title": { "en": ". Nationality", "kh": ". សញ្ជាតិ" },
+                "nationality-content": { "en": "Cambodian", "kh": "កម្ពុជា" },
+                "deputy-director-egov-title": { "en": ". Deputy Director of E-Government Department", "kh": ". អនុនាយកនាយកដ្ឋានរដ្ឋបាលអេឡិចត្រូនិក" },
+                "deputy-director-egov-content": { 
+                    "en": "- General ICT Department<br>- Nov 2013 - Present . 11 years 5 months<br>- Phnom Penh<br>",
+                    "kh": "- នាយកដ្ឋាន ICT ទូទៅ<br>- វិច្ឆិកា ២០១៣ - បច្ចុប្បន្ន . ១១ ឆ្នាំ ៥ ខែ<br>- ភ្នំពេញ<br>"
+                },
+                "lecturer-title": { "en": ". Lecturer", "kh": ". សាស្ត្រាចារ្យ" },
+                "lecturer-content": { 
+                    "en": "- Phnom Penh International University <br>- 2013 - Present . 12 years<br>- Phnom Penh <br>",
+                    "kh": "- សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ <br>- ២០១៣ - បច្ចុប្បន្ន . ១២ ឆ្នាំ<br>- ភ្នំពេញ <br>"
+                },
+                "ict-official-title": { "en": ". ICT Government Official", "kh": ". មន្ត្រីរដ្ឋាភិបាលផ្នែក ICT" },
+                "ict-official-content": { 
+                    "en": "- Royal Government of Cambodia <br>- 2007 - Present . 18 years <br>- Phnom Penh, Cambodia <br>- The National Information Communications Technology Development Authority (NiDA) is a government agency responsible for managing the development of the information technology industry in Cambodia. Among the agency's projects are the computerization of government function and training of internet personnel.",
+                    "kh": "- រាជរដ្ឋាភិបាលកម្ពុជា <br>- ២០០៧ - បច្ចុប្បន្ន . ១៨ ឆ្នាំ <br>- ភ្នំពេញ កម្ពុជា <br>- អាជ្ញាធរអភិវឌ្ឍន៍បច្ចេកវិទ្យាទំនាក់ទំនងព័ត៌មានជាតិ (NiDA) គឺជាទីភ្នាក់ងាររដ្ឋាភិបាលដែលទទួលខុសត្រូវក្នុងការគ្រប់គ្រងការអភិវឌ្ឍឧស្សាហកម្មបច្ចេកវិទ្យាព័ត៌មាននៅកម្ពុជា។ ក្នុងចំណោមគម្រោងរបស់ទីភ្នាក់ងារនេះមានការធ្វើឱ្យមុខងាររដ្ឋាភិបាលទៅជាកុំព្យូទ័រ និងការបណ្តុះបណ្តាលបុគ្គលិកអ៊ីនធឺណិត។"
+                },
+                "nida-title": { "en": "National ICT Development Authority (NiDA)", "kh": "អាជ្ញាធរអភិវឌ្ឍន៍បច្ចេកវិទ្យាទំនាក់ទំនងព័ត៌មានជាតិ (NiDA)" },
+                "nida-content": { "en": "- 18 years<br>", "kh": "- ១៨ ឆ្នាំ<br>" },
+                "web-dev-title": { "en": ". Web Developer", "kh": ". អ្នកអភិវឌ្ឍន៍គេហទំព័រ" },
+                "web-dev-content": { 
+                    "en": "- 2007 - Present . 18 years <br>- Phnom Penh, Cambodia <br>- Analyze, Design and Develop Web Application, Web Site UI and Content Management System (CMS) using PHP, MySQL, JavaScript, JQuery, XML and some of other web-based technologies and databases.<br>",
+                    "kh": "- ២០០៧ - បច្ចុប្បន្ន . ១៨ ឆ្នាំ <br>- ភ្នំពេញ កម្ពុជា <br>- វិភាគ រចនា និងអភិវឌ្ឍកម្មវិធីគេហទំព័រ ចំណុចប្រទាក់គេហទំព័រ (UI) និងប្រព័ន្ធគ្រប់គ្រងមាតិកា (CMS) ដោយប្រើ PHP, MySQL, JavaScript, JQuery, XML និងបច្ចេកវិទ្យា និងមូលដ្ឋានទិន្នន័យផ្អែកលើគេហទំព័រផ្សេងទៀត។<br>"
+                },
+                "net-admin-title": { "en": ". Network Administrator", "kh": ". អ្នកគ្រប់គ្រងបណ្តាញ" },
+                "net-admin-content": { 
+                    "en": "- Phnom Penh, Cambodia <br>- Server Administration, Maintenance and Security including Web Server, DNS Server, Mail Server, File Server and some of other servers. <br>- Technologies involved are Microsoft Operating System, Linux Operating System, Apache and Tomcat Web Server, MySQL, CUBRID, Authentication and Policy. <br>- Cooperate with KISAN Telecom Co., Ltd, Seoul, Korea. <br>",
+                    "kh": "- ភ្នំពេញ កម្ពុជា <br>- ការគ្រប់គ្រង ថែទាំ និងសុវត្ថិភាពម៉ាស៊ីនមេ រួមមាន ម៉ាស៊ីនមេគេហទំព័រ, DNS Server, Mail Server, File Server និងម៉ាស៊ីនមេផ្សេងទៀត។ <br>- បច្ចេកវិទ្យាដែលពាក់ព័ន្ធរួមមាន Microsoft Operating System, Linux Operating System, Apache និង Tomcat Web Server, MySQL, CUBRID, ការផ្ទៀងផ្ទាត់ និងគោលនយោបាយ។ <br>- សហការជាមួយ KISAN Telecom Co., Ltd, សេអ៊ូល កូរ៉េ។ <br>"
+                },
+                "app-dev-title": { "en": ". Application Developer", "kh": ". អ្នកអភិវឌ្ឍន៍កម្មវិធី" },
+                "app-dev-content": { 
+                    "en": "- 2009 - 2011 . 2 years <br>- Phnom Penh, Cambodia <br>- Joined with PAIS (Provincial Administration Information System) project that cooperated with Korean experts as a application developer for development and maintenance of resident registration application system. <br>- Technologies involved are Virtual Basic dot Net, CUBRID. <br>",
+                    "kh": "- ២០០៩ - ២០១១ . ២ ឆ្នាំ <br>- ភ្នំពេញ កម្ពុជា <br>- ចូលរួមជាមួយគម្រោង PAIS (ប្រព័ន្ធព័ត៌មានរដ្ឋបាលខេត្ត) ដែលសហការជាមួយអ្នកជំនាញកូរ៉េក្នុងនាមជាអ្នកអភិវឌ្ឍន៍កម្មវិធីសម្រាប់ការអភិវឌ្ឍ និងថែទាំប្រព័ន្ធកម្មវិធីចុះឈ្មោះប្រជាពលរដ្ឋ។ <br>- បច្ចេកវិទ្យាដែលពាក់ព័ន្ធគឺ Virtual Basic dot Net, CUBRID។ <br>"
+                },
+                "intern-title": { "en": "Software Intern", "kh": "អ្នកហ្វឹកហាត់ផ្នែកកម្មវិធី" },
+                "intern-content": { 
+                    "en": "- Netpia Company (넷피아) <br>- Jul 2012 - Aug 2012 . 2 months <br>- Seoul, Korea <br>- Project planning for two month internship period. <br>- Develop a Smart TV application named NLIA Browser providing the Internet addressing service of Netpia. <br>- Samsung and LG Smart TV application development process and SDK. <br>- Technologies involved are JavaScript, JSON, HTML5, WebSocket, and other web-based technologies. <br>- Build, deploy, and test the application with the real environment. <br>",
+                    "kh": "- ក្រុមហ៊ុន Netpia (넷피아) <br>- កក្កដា ២០១២ - សីហា ២០១២ . ២ ខែ <br>- សេអ៊ូល កូរ៉េ <br>- ការរៀបចំផែនការគម្រោងសម្រាប់រយៈពេលហ្វឹកហាត់ ២ ខែ។ <br>- អភិវឌ្ឍកម្មវិធី Smart TV ឈ្មោះ NLIA Browser ដែលផ្តល់សេវាអាសយដ្ឋានអ៊ីនធឺណិតរបស់ Netpia។ <br>- ដំណើរការអភិវឌ្ឍកម្មវិធី Smart TV របស់ Samsung និង LG និង SDK។ <br>- បច្ចេកវិទ្យាដែលពាក់ព័ន្ធគឺ JavaScript, JSON, HTML5, WebSocket និងបច្ចេកវិទ្យាផ្អែកលើគេហទំព័រផ្សេងទៀត។ <br>- បង្កើត ដាក់ឱ្យប្រើប្រាស់ និងសាកល្បងកម្មវិធីជាមួយបរិស្ថានពិត។ <br>"
+                },
+                "instructor-title": { "en": ". Computer Instructor", "kh": ". គ្រូបង្រៀនកុំព្យូទ័រ" },
+                "instructor-content": { 
+                    "en": "- SACHAK ASIA DEVELOPMENT INSTITUTE<br>- 2011 - 2012 . 1 year<br>- Phnom Penh, Cambodia <br>",
+                    "kh": "- វិទ្យាស្ថានអភិវឌ្ឍន៍អាស៊ីសច្ចៈ<br>- ២០១១ - ២០១២ . ១ ឆ្នាំ<br>- ភ្នំពេញ កម្ពុជា <br>"
+                },
+                "team-leader-title": { "en": ". Team Leader", "kh": ". ប្រធានក្រុម" },
+                "team-leader-content": { 
+                    "en": "- Khmer Invent Technology <br>- Jan 2011 - Aug 2011 . 8 months <br>- Phnom Penh, Cambodia <br>- Provides web and software application development services. <br>",
+                    "kh": "- Khmer Invent Technology <br>- មករា ២០១១ - សីហា ២០១១ . ៨ ខែ <br>- ភ្នំពេញ កម្ពុជា <br>- ផ្តល់សេវាអភិវឌ្ឍន៍កម្មវិធីគេហទំព័រ និងកម្មវិធីទន់។ <br>"
+                },
+                "education-title": { "en": "+ Education", "kh": "+ ការអប់រំ" },
+                "konkuk-title": { "en": ". 건국대학교 / Konkuk University", "kh": ". សាកលវិទ្យាល័យ Konkuk (건국대학교)" },
+                "konkuk-content": { 
+                    "en": "- Master of Science in Computer and Information Communication Engineering <br>- 2011 - 2013 <br>+ Research Interests: <br>- Mobile Ad-hoc Network (MANET) <br>- Mobile Computing and Applications <br>- Wireless Communication <br>- Wireless Sensor Network <br>- Computer and Network Security <br>- Cloud Computing <br>- Smart Application Devices <br>- Future Internet <br>- Internet of Things <br>",
+                    "kh": "- អនុបណ្ឌិតវិទ្យាសាស្ត្រផ្នែកវិស្វកម្មកុំព្យូទ័រ និងទំនាក់ទំនងព័ត៌មាន <br>- ២០១១ - ២០១៣ <br>+ ចំណាប់អារម្មណ៍ស្រាវជ្រាវ៖ <br>- បណ្តាញ Ad-hoc ចល័ត (MANET) <br>- ការគណនាចល័ត និងកម្មវិធី <br>- ទំនាក់ទំនងឥតខ្សែ <br>- បណ្តាញឧបករណ៍ចាប់សញ្ញាឥតខ្សែ <br>- សុវត្ថិភាពកុំព្យូទ័រ និងបណ្តាញ <br>- ការគណនាលើពពក <br>- ឧបករណ៍កម្មវិធីឆ្លាតវៃ <br>- អ៊ីនធឺណិតនាពេលអនាគត <br>- អ៊ីនធឺណិតនៃវត្ថុ (Internet of Things) <br>"
+                },
+                "bbu-title": { "en": ". Build Bright University", "kh": ". សាកលវិទ្យាល័យ Build Bright" },
+                "bbu-content": { 
+                    "en": "- Bachelor Degree of Information Technology <br>- 2002 - 2006 <br>+ Course Interests: <br>- Programming <br>- Database Management System <br>- Network and Computer Security <br>- Linux Operating System <br>- Windows Operating System <br>- System Analysis and Design <br>",
+                    "kh": "- បរិញ្ញាបត្រផ្នែកបច្ចេកវិទ្យាព័ត៌មាន <br>- ២០០២ - ២០០៦ <br>+ ចំណាប់អារម្មណ៍វគ្គសិក្សា៖ <br>- ការសរសេរកម្មវិធី <br>- ប្រព័ន្ធគ្រប់គ្រងមូលដ្ឋានទិន្នន័យ <br>- សុវត្ថិភាពបណ្តាញ និងកុំព្យូទ័រ <br>- ប្រព័ន្ធប្រតិបត្តិការ Linux <br>- ប្រព័ន្ធប្រតិបត្តិការ Windows <br>- ការវិភាគ និងរចនាប្រព័ន្ធ <br>"
+                },
+
+                //teacher tola
+
+                "back-label": { "en": "BACK", "kh": "ត្រឡប់ក្រោយ" },
+                "contact-info-title": { "en": "Contact Info", "kh": "ព័ត៌មានទំនាក់ទំនង" },
+                "linkedin-label": { "en": "LinkedIn Profile", "kh": "ប្រវត្តិរូប LinkedIn" },
+                "professor-title": { "en": "Professor", "kh": "សាស្ត្រាចារ្យ" },
+                "experience-title": { "en": "+ Experience", "kh": "+ បទពិសោធន៍" },
+                "assistant-title": { "en": "Assistant to Secretary of State", "kh": "ជំនួយការរដ្ឋលេខាធិការ" },
+                "assistant-content": { 
+                    "en": "- Ministry of Post and Telecommunications · Full-time<br>- Present · 3 yrs 4 mos Jan 2022 to Present<br>- Manage ICT, Administration, Finance<br>- Manage and develop Cybersecurity administration and reporting <br>",
+                    "kh": "- ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ · ពេញម៉ោង<br>- បច្ចុប្បន្ន · ៣ ឆ្នាំ ៤ ខែ មករា ២០២២ ដល់ បច្ចុប្បន្ន<br>- គ្រប់គ្រង ICT រដ្ឋបាល ហិរញ្ញវត្ថុ<br>- គ្រប់គ្រង និងអភិវឌ្ឍរដ្ឋបាលសុវត្ថិភាពតាមអ៊ីនធឺណិត និងរបាយការណ៍ <br>"
+                },
+                "nationality-title": { "en": ". Nationality", "kh": ". សញ្ជាតិ" },
+                "nationality-content": { "en": "Cambodian", "kh": "កម្ពុជា" },
+                "it-lecturer-ppiu-title": { "en": ". Information Technology Lecturer", "kh": ". គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាន" },
+                "it-lecturer-ppiu-content": { 
+                    "en": "- Phnom Penh International University · Part-time <br>- Present · 3 yrs 4 mos Jan 2022 to Present<br>- Nov 2013 - Present . 11 years 5 months<br>",
+                    "kh": "- សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ · ក្រៅម៉ោង <br>- បច្ចុប្បន្ន · ៣ ឆ្នាំ ៤ ខែ មករា ២០២២ ដល់ បច្ចុប្បន្ន<br>- វិច្ឆិកា ២០១៣ - បច្ចុប្បន្ន . ១១ ឆ្នាំ ៥ ខែ<br>"
+                },
+                "it-lecturer-spi-title": { "en": ". Information Technology Lecturer", "kh": ". គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាន" },
+                "it-lecturer-spi-content": { 
+                    "en": "- Saint Paul Institute (SPI) · Part-time <br>- Aug 2017 - Present · 7 yrs 9 mos <br>",
+                    "kh": "- វិទ្យាស្ថាន Saint Paul (SPI) · ក្រៅម៉ោង <br>- សីហា ២០១៧ - បច្ចុប្បន្ន · ៧ ឆ្នាំ ៩ ខែ <br>"
+                },
+                "education-title": { "en": "+ Education", "kh": "+ ការអប់រំ" },
+                "uc-title": { "en": ". University of Cambodia", "kh": ". សាកលវិទ្យាល័យកម្ពុជា" },
+                "uc-content": { 
+                    "en": "- Master of Business Administration <br>- MBA, International Business <br>- Sep 2016 - Dec 2019 <br>- Grade: 3.5 <br>",
+                    "kh": "- អនុបណ្ឌិតផ្នែកគ្រប់គ្រងពាណិជ្ជកម្ម <br>- MBA ពាណិជ្ជកម្មអន្តរជាតិ <br>- កញ្ញា ២០១៦ - ធ្នូ ២០១៩ <br>- ពិន្ទុ៖ ៣.៥ <br>"
+                },
+                "cmu-title": { "en": ". Cambodian Mekong University", "kh": ". សាកលវិទ្យាល័យមេគង្គកម្ពុជា" },
+                "cmu-content": { 
+                    "en": "- Bachelor of Technology - BTech <br>- BTech Jan 2006 - Dec 2011 <br>- Grade: 3.0 <br>",
+                    "kh": "- បរិញ្ញាបត្រផ្នែកបច្ចេកវិទ្យា - BTech <br>- BTech មករា ២០០៦ - ធ្នូ ២០១១ <br>- ពិន្ទុ៖ ៣.០ <br>"
+                },
+                "norton-title": { "en": ". Norton University", "kh": ". សាកលវិទ្យាល័យ Norton" },
+                "norton-content": { 
+                    "en": "- Master of IT, Information Technology <br>- May 2012 <br>",
+                    "kh": "- អនុបណ្ឌិតផ្នែក IT បច្ចេកវិទ្យាព័ត៌មាន <br>- ឧសភា ២០១២ <br>"
+                },
+                "skills-title": { "en": "+ Skills", "kh": "+ ជំនាញ" },
+                "systems-analysis-title": { "en": ". Systems Analysis", "kh": ". ការវិភាគប្រព័ន្ធ" },
+                "systems-analysis-content": { 
+                    "en": "- Information Technology Lecturer at Saint Paul Institute (SPI) <br>",
+                    "kh": "- គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាននៅវិទ្យាស្ថាន Saint Paul (SPI) <br>"
+                },
+                "e-commerce-title": { "en": ". E-Commerce", "kh": ". ពាណិជ្ជកម្មអេឡិចត្រូនិក" },
+                "e-commerce-content": { 
+                    "en": "- Information Technology Lecturer at Saint Paul Institute (SPI) <br>",
+                    "kh": "- គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាននៅវិទ្យាស្ថាន Saint Paul (SPI) <br>"
+                },
+                "pmis-title": { "en": ". Project Management Information Systems (PMIS)", "kh": ". ប្រព័ន្ធព័ត៌មានគ្រប់គ្រងគម្រោង (PMIS)" },
+                "pmis-content": { 
+                    "en": "- Information Technology Lecturer at Saint Paul Institute (SPI) <br>",
+                    "kh": "- គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាននៅវិទ្យាស្ថាន Saint Paul (SPI) <br>"
+                },
+                "data-structures-title": { "en": ". Data Structures", "kh": ". រចនាសម្ព័ន្ធទិន្នន័យ" },
+                "data-structures-content": { 
+                    "en": "- Information Technology Lecturer at Saint Paul Institute (SPI) <br>",
+                    "kh": "- គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាននៅវិទ្យាស្ថាន Saint Paul (SPI) <br>"
+                },
+                "uni-lecturing-title": { "en": ". University Lecturing", "kh": ". ការបង្រៀននៅសាកលវិទ្យាល័យ" },
+                "uni-lecturing-content": { 
+                    "en": "- Information Technology Lecturer at Phnom Penh International University <br>",
+                    "kh": "- គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាននៅសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ <br>"
+                },
+                "ict-global-commerce-title": { "en": ". ICT and Global Commerce", "kh": ". ICT និងពាណិជ្ជកម្មសកល" },
+                "ict-global-commerce-content": { 
+                    "en": "- Information Technology Lecturer at Phnom Penh International University <br>",
+                    "kh": "- គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាននៅសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ <br>"
+                },
+                "db-admin-title": { "en": ". Database Administration", "kh": ". ការគ្រប់គ្រងមូលដ្ឋានទិន្នន័យ" },
+                "db-admin-content": { 
+                    "en": "- Information Technology Lecturer at Phnom Penh International University <br>",
+                    "kh": "- គ្រូបង្រៀនបច្ចេកវិទ្យាព័ត៌មាននៅសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ <br>"
+                },
+                "business-planning-title": { "en": ". Business Planning", "kh": ". ការធ្វើផែនការអាជីវកម្ម" },
+                "business-planning-content": { 
+                    "en": "- University of Cambodia <br>",
+                    "kh": "- សាកលវិទ្យាល័យកម្ពុជា <br>"
+                },
+                "managerial-finance-title": { "en": ". Managerial Finance", "kh": ". ហិរញ្ញវត្ថុគ្រប់គ្រង" },
+                "managerial-finance-content": { 
+                    "en": "- University of Cambodia <br>",
+                    "kh": "- សាកលវិទ្យាល័យកម្ពុជា <br>"
+                },
+                "intl-relations-title": { "en": ". International Relations", "kh": ". ទំនាក់ទំនងអន្តរជាតិ" },
+                "intl-relations-content": { 
+                    "en": "- University of Cambodia <br>",
+                    "kh": "- សាកលវិទ្យាល័យកម្ពុជា <br>"
+                },
+                "economics-title": { "en": ". Economics", "kh": ". សេដ្ឋកិច្ច" },
+                "economics-content": { 
+                    "en": "- University of Cambodia <br>",
+                    "kh": "- សាកលវិទ្យាល័យកម្ពុជា <br>"
+                },
+                "net-admin-title": { "en": ". Network Administration", "kh": ". ការគ្រប់គ្រងបណ្តាញ" },
+                "net-admin-content": { 
+                    "en": "- Cambodian Mekong University <br>",
+                    "kh": "- សាកលវិទ្យាល័យមេគង្គកម្ពុជា <br>"
+                },
+                "c-sharp-title": { "en": ". C#", "kh": ". C#" },
+                "c-sharp-content": { 
+                    "en": "- Cambodian Mekong University <br>",
+                    "kh": "- សាកលវិទ្យាល័យមេគង្គកម្ពុជា <br>"
+                },
+                "db-programming-title": { "en": ". Database Programming", "kh": ". ការសរសេរកម្មវិធីមូលដ្ឋានទិន្នន័យ" },
+                "db-programming-content": { 
+                    "en": "- Cambodian Mekong University <br>",
+                    "kh": "- សាកលវិទ្យាល័យមេគង្គកម្ពុជា <br>"
+                },
+                "net-security-title": { "en": ". Network Security", "kh": ". សុវត្ថិភាពបណ្តាញ" },
+                "net-security-content": { 
+                    "en": "- Cambodian Mekong University <br>",
+                    "kh": "- សាកលវិទ្យាល័យមេគង្គកម្ពុជា <br>"
+                },
+                "web-dev-title": { "en": ". Web Development", "kh": ". ការអភិវឌ្ឍគេហទំព័រ" },
+                "web-dev-content": { 
+                    "en": "- Cambodian Mekong University <br>",
+                    "kh": "- សាកលវិទ្យាល័យមេគង្គកម្ពុជា <br>"
+                },
+                "proj-management-title": { "en": ". Project Management", "kh": ". ការគ្រប់គ្រងគម្រោង" },
+                "proj-management-content": { 
+                    "en": "- 2 experiences across ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- Ministry of Post and Telecommunications <br>- University of Cambodia <br>",
+                    "kh": "- បទពិសោធន៍ ២ នៅក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- សាកលវិទ្យាល័យកម្ពុជា <br>"
+                },
+                "communication-title": { "en": ". Communication", "kh": ". ការទំនាក់ទំនង" },
+                "communication-content": { 
+                    "en": "- Assistant to Secretary of State at ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- Ministry of Post and Telecommunications <br>",
+                    "kh": "- ជំនួយការរដ្ឋលេខាធិការនៅក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>"
+                },
+                "finance-title": { "en": ". Finance", "kh": ". ហិរញ្ញវត្ថុ" },
+                "finance-content": { 
+                    "en": "- Assistant to Secretary of State at ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- Ministry of Post and Telecommunications <br>",
+                    "kh": "- ជំនួយការរដ្ឋលេខាធិការនៅក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>"
+                },
+                "cybersecurity-title": { "en": ". Cybersecurity", "kh": ". សុវត្ថិភាពតាមអ៊ីនធឺណិត" },
+                "cybersecurity-content": { 
+                    "en": "- 2 experiences across ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- Ministry of Post and Telecommunications <br>",
+                    "kh": "- បទពិសោធន៍ ២ នៅក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>"
+                },
+                "sdlc-title": { "en": ". Software Development Life Cycle (SDLC)", "kh": ". វដ្តជីវិតនៃការអភិវឌ្ឍកម្មវិធី (SDLC)" },
+                "sdlc-content": { 
+                    "en": "- Assistant to Secretary of State at ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- Ministry of Post and Telecommunications <br>",
+                    "kh": "- ជំនួយការរដ្ឋលេខាធិការនៅក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>- ក្រសួងប្រៃសណីយ៍និងទូរគមនាគមន៍ <br>"
+                },
+
+                //teacher samart
+
+                "back-label": { "en": "BACK", "kh": "ត្រឡប់ក្រោយ" },
+            "contact-info-title": { "en": "Contact Info", "kh": "ព័ត៌មានទំនាក់ទំនង" },
+            "linkedin-label": { "en": "LinkedIn Profile", "kh": "ប្រវត្តិរូប LinkedIn" },
+            "professor-title": { "en": "Professor", "kh": "សាស្ត្រាចារ្យ" },
+            "experience-title": { "en": "+ Experience", "kh": "+ បទពិសោធន៍" },
+            "senior-vice-rector-title": { "en": ". Senior Vice Rector", "kh": ". អនុសាកលវិទ្យាធិការជាន់ខ្ពស់" },
+            "senior-vice-rector-content": { 
+                "en": "- Phnom Penh International University (PPIU)<br>- May 2011 to Present · 14 yrs<br>- In charge of university general affair.<br>",
+                "kh": "- សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU)<br>- ឧសភា ២០១១ ដល់ បច្ចុប្បន្ន · ១៤ ឆ្នាំ<br>- ទទួលខុសត្រូវលើកិច្ចការទូទៅរបស់សាកលវិទ្យាល័យ។<br>"
+            },
+            "nationality-title": { "en": ". Nationality", "kh": ". សញ្ជាតិ" },
+            "nationality-content": { "en": "Cambodian", "kh": "កម្ពុជា" },
+            "chief-accounting-title": { "en": ". Chief of Accounting & Finance dept.", "kh": ". ប្រធានផ្នែកគណនេយ្យ និងហិរញ្ញវត្ថុ" },
+            "chief-accounting-content": { 
+                "en": "- PPIU<br>- 2006 - 2014 · 8 yrs<br>",
+                "kh": "- PPIU<br>- ២០០៦ - ២០១៤ · ៨ ឆ្នាំ<br>"
+            },
+            "hacl-title": { "en": ". Hello Axiata Company Limited (HACL)", "kh": ". ក្រុមហ៊ុន Hello Axiata Limited (HACL)" },
+            "hacl-content": { 
+                "en": "- 3 yrs 6 mos<br>",
+                "kh": "- ៣ ឆ្នាំ ៦ ខែ<br>"
+            },
+            "head-ict-title": { "en": ". Head of Information & Communication Technology (ICT)", "kh": ". ប្រធានផ្នែកបច្ចេកវិទ្យាព័ត៌មាន និងទំនាក់ទំនង (ICT)" },
+            "head-ict-content": { 
+                "en": "- Jan 2010 - Jun 2011 · 1 yr 6 mos <br>",
+                "kh": "- មករា ២០១០ - មិថុនា ២០១១ · ១ ឆ្នាំ ៦ ខែ <br>"
+            },
+            "head-intl-business-title": { "en": ". Head of International Business & Billing", "kh": ". ប្រធានផ្នែកអាជីវកម្មអន្តរជាតិ និងវិក្កយបត្រ" },
+            "head-intl-business-content": { 
+                "en": "- Jan 2008 - Dec 2009 · 2 yrs <br>",
+                "kh": "- មករា ២០០៨ - ធ្នូ ២០០៩ · ២ ឆ្នាំ <br>"
+            },
+            "billing-roaming-title": { "en": ". Billing & International Roaming Manager", "kh": ". អ្នកគ្រប់គ្រងវិក្កយបត្រ និងសេវារ៉ូមីងអន្តរជាតិ" },
+            "billing-roaming-content": { 
+                "en": "- SAMART <br>- Jan 2000 - Mar 2008 · 8 yrs 3 mos <br>- Head quarter <br>",
+                "kh": "- SAMART <br>- មករា ២០០០ - មីនា ២០០៨ · ៨ ឆ្នាំ ៣ ខែ <br>- ទីស្នាក់ការកណ្តាល <br>"
+            },
+            "education-title": { "en": "+ Education", "kh": "+ ការអប់រំ" },
+            "ait-title": { "en": ". Asian Institute of Technology, Thailand (December 1996)", "kh": ". វិទ្យាស្ថានបច្ចេកវិទ្យាអាស៊ី ប្រទេសថៃ (ធ្នូ ១៩៩៦)" },
+            "ait-content": { 
+                "en": "- Master of Science, Computer Science 1995 - 1996 <br>- Activities and societies: AIT Alumni <br>",
+                "kh": "- អនុបណ្ឌិតវិទ្យាសាស្ត្រ ផ្នែកវិទ្យាសាស្ត្រកុំព្យូទ័រ ១៩៩៥ - ១៩៩៦ <br>- សកម្មភាព និងសមាគម៖ អតីតនិស្សិត AIT <br>"
+            },
+            "skills-title": { "en": "+ Skills", "kh": "+ ជំនាញ" },
+            "telecom-title": { "en": ". Telecommunications", "kh": ". ទូរគមនាគមន៍" },
+            "three-g-title": { "en": ". 3G", "kh": ". 3G" },
+            "management-title": { "en": ". Management", "kh": ". ការគ្រប់គ្រង" },
+            "project-management-title": { "en": ". Project Management", "kh": ". ការគ្រប់គ្រងគម្រោង" },
+            "vas-title": { "en": ". VAS", "kh": ". VAS" },
+            "team-management-title": { "en": ". Team Management", "kh": ". ការគ្រប់គ្រងក្រុម" },
+            "business-planning-title": { "en": ". Business Planning", "kh": ". ការធ្វើផែនការអាជីវកម្ម" },
+            "project-planning-title": { "en": ". Project Planning", "kh": ". ការធ្វើផែនការគម្រោង" },
+            "team-leadership-title": { "en": ". Team Leadership", "kh": ". ភាពជាអ្នកដឹកនាំក្រុម" },
+            "intl-relations-title": { "en": ". International Relations", "kh": ". ទំនាក់ទំនងអន្តរជាតិ" },
+            "intl-relations-content": { 
+                "en": "- University of Cambodia <br>",
+                "kh": "- សាកលវិទ្យាល័យកម្ពុជា <br>"
+            },
+            "training-title": { "en": ". Training", "kh": ". ការបណ្តុះបណ្តាល" },
+            "networking-title": { "en": ". Networking", "kh": ". បណ្តាញ" },
+            "product-management-title": { "en": ". Product Management", "kh": ". ការគ្រប់គ្រងផលិតផល" },
+            "analysis-title": { "en": ". Analysis", "kh": ". ការវិភាគ" },
+            "strategic-leadership-title": { "en": ". Strategic Leadership", "kh": ". ភាពជាអ្នកដឹកនាំជាយុទ្ធសាស្ត្រ" },
+        
+            //teacher sity
+
+            "back-label": { "en": "BACK", "kh": "ត្រឡប់ក្រោយ" },
+            "contact-info-title": { "en": "Contact Info", "kh": "ព័ត៌មានទំនាក់ទំនង" },
+            "linkedin-label": { "en": "LinkedIn Profile", "kh": "ប្រវត្តិរូប LinkedIn" },
+            "professor-title": { "en": "Professor", "kh": "សាស្ត្រាចារ្យ" },
+            "experience-title": { "en": "+ Experience", "kh": "+ បទពិសោធន៍" },
+            "exec-director-title": { "en": ". Executive Director", "kh": ". នាយកប្រតិបត្តិ" },
+            "exec-director-content": { 
+                "en": "- SVI (Specialized Vocational Institute) · Full-time <br>- Dec 2023 - Present · 1 yr 5 mos<br>- Poitpet, Banteay Meanchey, Cambodia<br>",
+                "kh": "- SVI (វិទ្យាស្ថានជំនាញវិជ្ជាជីវៈ) · ពេញម៉ោង <br>- ធ្នូ ២០២៣ - បច្ចុប្បន្ន · ១ ឆ្នាំ ៥ ខែ<br>- ប៉ោយប៉ែត បន្ទាយមានជ័យ កម្ពុជា<br>"
+            },
+            "nationality-title": { "en": ". Nationality", "kh": ". សញ្ជាតិ" },
+            "nationality-content": { "en": "Cambodian", "kh": "កម្ពុជា" },
+            "it-lecturer-title": { "en": ". IT Lecturer", "kh": ". គ្រូបង្រៀនផ្នែក IT" },
+            "it-lecturer-content": { 
+                "en": "- PPIU <br>- Sep 2002 - Nov 2023 · 21 yrs 3 mos Phnom Penh<br>- C/C++ Programming, DBMS, E-Commerce, UML<br>",
+                "kh": "- PPIU <br>- កញ្ញា ២០០២ - វិច្ឆិកា ២ៀ២៣ · ២១ ឆ្នាំ ៣ ខែ ភ្នំពេញ<br>- ការសរសេរកម្មវិធី C/C++ ប្រព័ន្ធគ្រប់គ្រងទិន្នន័យ (DBMS) ពាណិជ្ជកម្មអេឡិចត្រូនិក និង UML<br>"
+            },
+            "freelance-consultant-title": { "en": ". Freelance IT Consultant", "kh": ". អ្នកប្រឹក្សា IT ឯករាជ្យ" },
+            "freelance-consultant-content": { 
+                "en": "- Self Employed <br>- Jun 2002 - Nov 2023 · 21 yrs 6 mos <br>- Cambodia <br>- Provide consultancy service in the field of IT infrastructure, system analysis and design, software development, database management system and related IT work. <br>",
+                "kh": "- ធ្វើការដោយខ្លួនឯង <br>- មិថុនា ២០០២ - វិច្ឆិកា ២០២៣ · ២១ ឆ្នាំ ៦ ខែ <br>- កម្ពុជា <br>- ផ្តល់សេវាប្រឹក្សាក្នុងវិស័យហេដ្ឋារចនាសម្ព័ន្ធ IT ការវិភាគនិងរចនាប្រព័ន្ធ ការអភិវឌ្ឍកម្មវិធី ប្រព័ន្ធគ្រប់គ្រងទិន្នន័យ និងការងារ IT ពាក់ព័ន្ធ។ <br>"
+            },
+            "moe-title": { "en": ". Ministry of Education", "kh": ". ក្រសួងអប់រំ" },
+            "moe-content": { "en": "- 1 yr 7 mos <br>", "kh": "- ១ ឆ្នាំ ៧ ខែ <br>" },
+            "ec-consultant-title": { "en": ". IT Specialist Consultant - EC (European Commission) - HRMIS Database Security", "kh": ". អ្នកប្រឹក្សាឯកទេស IT - EC (គណៈកម្មការអឺរ៉ុប) - សុវត្ថិភាពទិន្នន័យ HRMIS" },
+            "ec-consultant-content": { 
+                "en": "- Nov 2010 - Mar 2011 · 5 mos <br>- Design a master plan for database security for the Department of Personnel for the Ministry of Education <br>",
+                "kh": "- វិច្ឆិកា ២០១០ - មីនា ២០១១ · ៥ ខែ <br>- រចនាផែនការមេសម្រាប់សុវត្ថិភាពទិន្នន័យសម្រាប់នាយកដ្ឋានបុគ្គលិកនៃក្រសួងអប់រំ <br>"
+            },
+            "adb-consultant-title": { "en": ". IT Specialist Consultant - ADB (Enhancing Education Quality Project)", "kh": ". អ្នកប្រឹក្សាឯកទេស IT - ADB (គម្រោងបង្កើនគុណភាពអប់រំ)" },
+            "adb-consultant-content": { 
+                "en": "- Sep 2009 - Jan 2011 · 1 yr 5 mos <br>- Funded by ADB for the Ministry of Education working on three database management systems. 1. HRMIS (Human Resource Management Information System), EMIS (Education Management Information System) and FMIS (Financial Management Information System) <br>",
+                "kh": "- កញ្ញា ២០០៩ - មករា ២០១១ · ១ ឆ្នាំ ៥ ខែ <br>- ឧបត្ថម្ភដោយ ADB សម្រាប់ក្រសួងអប់រំ ធ្វើការលើប្រព័ន្ធគ្រប់គ្រងទិន្នន័យចំនួនបី៖ ១. HRMIS (ប្រព័ន្ធព័ត៌មានគ្រប់គ្រងធនធានមនុស្ស) EMIS (ប្រព័ន្ធព័ត៌មានគ្រប់គ្រងអប់រំ) និង FMIS (ប្រព័ន្ធព័ត៌មានគ្រប់គ្រងហិរញ្ញវត្ថុ) <br>"
+            },
+            "managing-director-title": { "en": ". Managing Director", "kh": ". នាយកគ្រប់គ្រង" },
+            "managing-director-content": { 
+                "en": "- K Digital Solutions <br>- Nov 2007 - Mar 2009 · 1 yr 7 mos <br>- KDS is an IT firm equipped with pools of professionals with mass experiences in the field of IT and businesses <br>",
+                "kh": "- K Digital Solutions <br>- វិច្ឆិកា ២០០៧ - មីនា ២០០៩ · ១ ឆ្នាំ ៧ ខែ <br>- KDS ជាក្រុមហ៊ុន IT ដែលបំពាក់ដោយក្រុមអ្នកជំនាញដែលមានបទពិសោធន៍ច្រើនក្នុងវិស័យ IT និងអាជីវកម្ម <br>"
+            },
+            "khmer-handicraft-title": { "en": ". Co-Founder", "kh": ". សហស្ថាបនិក" },
+            "khmer-handicraft-content": { 
+                "en": "- Khmer Handicraft <br>- Jan 2007 - Mar 2009 · 2 yr 3 mos <br>- Khmer Handicraft is an e-commerce site to promote art and craft products produce by the poor Cambodian and handicapped people. <br>- Helping to buy Khmer Handicraft products mean helping an orphan or a handicapped person <br>",
+                "kh": "- ខ្មែរហេនឌីខាហ្វ <br>- មករា ២០០៧ - មីនា ២០០៩ · ២ ឆ្នាំ ៣ ខែ <br>- ខ្មែរហេនឌីខាហ្វ ជាគេហទំព័រពាណិជ្ជកម្មអេឡិចត្រូនិកដើម្បីផ្សព្វផ្សាយផលិតផលសិល្បៈ និងសិប្បកម្មដែលផលិតដោយជនក្រីក្រ និងជនពិការកម្ពុជា។ <br>- ការជួយទិញផលិតផលខ្មែរហេនឌីខាហ្វ មានន័យថាជួយកុមារកំព្រា ឬជនពិការម្នាក់ <br>"
+            },
+            "morodok-title": { "en": ". Co-Founder", "kh": ". សហស្ថាបនិក" },
+            "morodok-content": { 
+                "en": "- Morodok <br>- Jan 2007 - Mar 2009 · 2 yrs 3 mos <br>- IT Lecturer. Freelance IT Consultant. <br>",
+                "kh": "- មរតក <br>- មករា ២០០៧ - មីនា ២០០៩ · ២ ឆ្នាំ ៣ ខែ <br>- គ្រូបង្រៀន IT។ អ្នកប្រឹក្សា IT ឯករាជ្យ។ <br>"
+            },
+            "general-manager-title": { "en": ". General Manager", "kh": ". អ្នកគ្រប់គ្រងទូទៅ" },
+            "general-manager-content": { 
+                "en": "- Net I Solutions <br>- Dec 2006 - Nov 2007 · 1 yr <br>- Overseeing 3 core departments: Software Development, Professional Training, and Hardware Installation and Maintenance <br>",
+                "kh": "- Net I Solutions <br>- ធ្នូ ២០០៦ - វិច្ឆិកា ២០០៧ · ១ ឆ្នាំ <br>- ត្រួតពិនិត្យនាយកដ្ឋានស្នូលចំនួន ៣៖ ការអភិវឌ្ឍកម្មវិធី ការបណ្តុះបណ្តាលវិជ្ជាជីវៈ និងការដំឡើងនិងថែទាំផ្នែករឹង <br>"
+            },
+            "dean-it-title": { "en": ". Dean of IT", "kh": ". ព្រឹទ្ធបុរសផ្នែក IT" },
+            "dean-it-content": { 
+                "en": "- Phnom Penh International University (Former ASEAN University) <br>- 2002 - 2006 · 4 yrs <br>- Recruitment of IT Lecturers, Scheduling of course offering, Curriculum Development, and Strategic Formulation to strengthen the U <br>",
+                "kh": "- សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (អតីតសាកលវិទ្យាល័យអាស៊ាន) <br>- ២០០២ - ២០០៦ · ៤ ឆ្នាំ <br>- ការជ្រើសរើសគ្រូបង្រៀន IT ការកំណត់កាលវិភាគវគ្គសិក្សា ការអភិវឌ្ឍកម្មវិធីសិក្សា និងការបង្កើតយុទ្ធសាស្ត្រដើម្បីពង្រឹងសាកលវិទ្យាល័យ <br>"
+            },
+            "prog-developer-title": { "en": ". Program Developer/Sun Accounting System Administrator", "kh": ". អ្នកអភិវឌ្ឍកម្មវិធី/អ្នកគ្រប់គ្រងប្រព័ន្ធគណនេយ្យ Sun" },
+            "prog-developer-content": { 
+                "en": "- CamGSM <br>- Nov 1997 - Apr 2002 · 4 yrs 6 mos <br>- Develop Several Applications for Helpline Center, Customer Service Dept, Finance, Warehouse and Cashier maintain Sun Accounting System and ongoing Database Management System <br>",
+                "kh": "- CamGSM <br>- វិច្ឆិកា ១៩៩៧ - មេសា ២០០២ · ៤ ឆ្នាំ ៦ ខែ <br>- អភិវឌ្ឍកម្មវិធីជាច្រើនសម្រាប់មជ្ឈមណ្ឌលជំនួយ នាយកដ្ឋានសេវាអតិថិជន ហិរញ្ញវត្ថុ ឃ្លាំង និងអ្នកគិតលុយ ថែទាំប្រព័ន្ធគណនេយ្យ Sun និងប្រព័ន្ធគ្រប់គ្រងទិន្នន័យដែលកំពុងដំណើរការ <br>"
+            },
+            "education-title": { "en": "+ Education", "kh": "+ ការអប់រំ" },
+            "seau-title": { "en": ". Southeast Asia Union College, Singapore", "kh": ". មហាវិទ្យាល័យសហភាពអាស៊ីអាគ្នេយ៍ សិង្ហបុរី" },
+            "seau-content": { 
+                "en": "- Bachelor, Business Administration/Computer Science <br>- 1990 - 1995 <br>- Activities and societies: One of the outstanding students <br>- Recipient of several awards while studying there. <br>",
+                "kh": "- បរិញ្ញាបត្រ រដ្ឋបាលពាណិជ្ជកម្ម/វិទ្យាសាស្ត្រកុំព្យូទ័រ <br>- ១៩៩០ - ១៩៩៥ <br>- សកម្មភាពនិងសមាគម៖ ជានិស្សិតឆ្នើមម្នាក់ <br>- ទទួលបានពានរង្វាន់ជាច្រើនពេលសិក្សានៅទីនោះ។ <br>"
+            },
+            "wwc-title": { "en": ". Walla Walla College, Washington, USA", "kh": ". មហាវិទ្យាល័យ Walla Walla វ៉ាស៊ីនតោន សហរដ្ឋអាមេរិក" },
+            "wwc-content": { 
+                "en": "- Bachelor, Business Administration <br>- 1990 - 1995 <br>- Activities and societies: One of the outstanding students. <br>",
+                "kh": "- បរិញ្ញាបត្រ រដ្ឋបាលពាណិជ្ជកម្ម <br>- ១៩៩០ - ១៩៩៥ <br>- សកម្មភាពនិងសមាគម៖ ជានិស្សិតឆ្នើមម្នាក់។ <br>"
+            },
+            "skills-title": { "en": "+ Skills", "kh": "+ ជំនាញ" },
+            "telecom-title": { "en": ". Telecommunications", "kh": ". ទូរគមនាគមន៍" },
+            "analysis-title": { "en": ". Analysis", "kh": ". ការវិភាគ" },
+            "strategic-planning-title": { "en": ". Strategic Planning", "kh": ". ការធ្វើផែនការជាយុទ្ធសាស្ត្រ" },
+            "software-dev-title": { "en": ". Software Development", "kh": ". ការអភិវឌ្ឍកម្មវិធី" },
+            "project-management-title": { "en": ". Project Management", "kh": ". ការគ្រប់គ្រងគម្រោង" },
+            "business-analysis-title": { "en": ". Business Analysis", "kh": ". ការវិភាគអាជីវកម្ម" },
+            "db-admin-title": { "en": ". Database Administration", "kh": ". ការគ្រប់គ្រងមូលដ្ឋានទិន្នន័យ" },
+            "team-leadership-title": { "en": ". Team Leadership", "kh": ". ភាពជាអ្នកដឹកនាំក្រុម" },
+            "business-strategy-title": { "en": ". Business Strategy", "kh": ". យុទ្ធសាស្ត្រអាជីវកម្ម" },
+            "strategy-title": { "en": ". Strategy", "kh": ". យុទ្ធសាស្ត្រ" },
+            "program-management-title": { "en": ". Program Management", "kh": ". ការគ្រប់គ្រងកម្មវិធី" },
+            "management-title": { "en": ". Management", "kh": ". ការគ្រប់គ្រង" },
+            "e-commerce-title": { "en": ". E-commerce", "kh": ". ពាណិជ្ជកម្មអេឡិចត្រូនិក" },
+            "project-planning-title": { "en": ". Project Planning", "kh": ". ការធ្វើផែនការគម្រោង" },
+            "business-planning-title": { "en": ". Business Planning", "kh": ". ការធ្វើផែនការអាជីវកម្ម" },
+            "management-consulting-title": { "en": ". Management Consulting", "kh": ". ការប្រឹក្សាគ្រប់គ្រង" },
+            "team-management-title": { "en": ". Team Management", "kh": ". ការគ្រប់គ្រងក្រុម" },
+            "risk-management-title": { "en": ". Risk Management", "kh": ". ការគ្រប់គ្រងហានិភ័យ" },
+            "business-intelligence-title": { "en": ". Business Intelligence", "kh": ". បញ្ញាអាជីវកម្ម" },
+            "entrepreneurship-title": { "en": ". Entrepreneurship", "kh": ". សហគ្រិនភាព" },
+            "change-management-title": { "en": ". Change Management", "kh": ". ការគ្រប់គ្រងការផ្លាស់ប្តូរ" },
+            "negotiation-title": { "en": ". Negotiation", "kh": ". ការចរចា" },
+            "marketing-strategy-title": { "en": ". Marketing Strategy", "kh": ". យុទ្ធសាស្ត្រទីផ្សារ" },
+            "operations-management-title": { "en": ". Operations Management", "kh": ". ការគ្រប់គ្រងប្រតិបត្តិការ" },
+            "new-business-dev-title": { "en": ". New Business Development", "kh": ". ការអភិវឌ្ឍអាជីវកម្មថ្មី" },
+            "business-dev-title": { "en": ". Business Development", "kh": ". ការអភិវឌ្ឍអាជីវកម្ម" },
+            "crm-title": { "en": ". CRM", "kh": ". CRM" },
+            "budgets-title": { "en": ". Budgets", "kh": ". ថវិកា" },
+            "business-process-title": { "en": ". Business Process Improvement", "kh": ". ការកែលម្អដំណើរការអាជីវកម្ម" },
+            "org-dev-title": { "en": ". Organizational Development", "kh": ". ការអភិវឌ្ឍអង្គភាព" },
+            "recruiting-title": { "en": ". Recruiting", "kh": ". ការជ្រើសរើសបុគ្គលិក" },
+            "hr-title": { "en": ". Human Resources", "kh": ". ធនធានមនុស្ស" },
+            "leadership-title": { "en": ". Leadership", "kh": ". ភាពជាអ្នកដឹកនាំ" },
+            "training-title": { "en": ". Training", "kh": ". ការបណ្តុះបណ្តាល" },
+            "startups-title": { "en": ". Start-ups", "kh": ". ការចាប់ផ្តើមអាជីវកម្ម" },
+            "coaching-title": { "en": ". Coaching", "kh": ". ការបង្វឹក" },
+            "data-analysis-title": { "en": ". Data Analysis", "kh": ". ការវិភាគទិន្នន័យ" },
+            "team-building-title": { "en": ". Team Building", "kh": ". ការកសាងក្រុម" },
+            "performance-management-title": { "en": ". Performance Management", "kh": ". ការគ្រប់គ្រងប្រសិទ្ធភាព" },
+            "system-admin-title": { "en": ". System Administration", "kh": ". ការគ្រប់គ្រងប្រព័ន្ធ" },
+            "market-research-title": { "en": ". Market Research", "kh": ". ការស្រាវជ្រាវទីផ្សារ" },
+            "leadership-dev-title": { "en": ". Leadership Development", "kh": ". ការអភិវឌ្ឍភាពជាអ្នកដឹកនាំ" },
+            "policy-title": { "en": ". Policy", "kh": ". គោលនយោបាយ" },
+            "customer-service-title": { "en": ". Customer Service", "kh": ". សេវាអតិថិជន" },
+            "networking-title": { "en": ". Networking", "kh": ". បណ្តាញ" },
+            "it-title": { "en": ". Information Technology", "kh": ". បច្ចេកវិទ្យាព័ត៌មាន" },
+            "systems-analysis-title": { "en": ". Systems Analysis", "kh": ". ការវិភាគប្រព័ន្ធ" },
+            "vendor-management-title": { "en": ". Vendor Management", "kh": ". ការគ្រប់គ្រងអ្នកផ្គត់ផ្គង់" },
+            "governance-title": { "en": ". Governance", "kh": ". អភិបាលកិច្ច" },
+            "it-management-title": { "en": ". IT Management", "kh": ". ការគ្រប់គ្រង IT" },
+
+            //teacher Buntha
+
+            "back-label": { "en": "BACK", "kh": "ត្រឡប់ក្រោយ" },
+            "contact-info-title": { "en": "Contact Info", "kh": "ព័ត៌មានទំនាក់ទំនង" },
+            "linkedin-label": { "en": "LinkedIn Profile", "kh": "ប្រវត្តិរូប LinkedIn" },
+            "professor-title": { "en": "Professor", "kh": "សាស្ត្រាចារ្យ" },
+            "experience-title": { "en": "+ Experience", "kh": "+ បទពិសោធន៍" },
+            "experience-content": {
+                "en": "- 2011: Digital Convergence Technology and Policy Seoul, South Korea. Master of Technology in Computer Technology (Base on Networking).<br>- 2010: At Indian Institute of Technology Delhi (IITD), India. <br>- 2009: English Fluency and IT Skill training at CMC, Ltd New Delhi, India. <br>- 2008: International Leadership Skills, Phnom Penh, Cambodia. <br>- 2007: Bachelor degree at BBU in Network Technology. Phnom Penh, Cambodia. <br>+ Mr. Buntha used to work an Internet Gateway technical support (DIX/IIX). Open connection port (VLAN) for leased line customers through fiber optic. (CISCO router and Zyxel switch). Support to leased line customers. IT-Coordinator at University of Cambodia.",
+                "kh": "- ២០១១៖ បច្ចេកវិទ្យាបញ្ចូលឌីជីថល និងគោលនយោបាយ ទីក្រុងសេអ៊ូល កូរ៉េខាងត្បូង។ អនុបណ្ឌិតផ្នែកបច្ចេកវិទ្យាកុំព្យូទ័រ (ផ្អែកលើបណ្តាញ)។<br>- ២០១០៖ នៅវិទ្យាស្ថានបច្ចេកវិទ្យាឥណ្ឌា ទីក្រុងដេលី (IITD) ប្រទេសឥណ្ឌា។ <br>- ២០០៩៖ ការបណ្តុះបណ្តាលភាសាអង់គ្លេស និងជំនាញ IT នៅ CMC, Ltd ទីក្រុងញូវដេលី ប្រទេសឥណ្ឌា។ <br>- ២០០៨៖ ជំនាញភាពជាអ្នកដឹកនាំអន្តរជាតិ ភ្នំពេញ កម្ពុជា។ <br>- ២០០៧៖ បរិញ្ញាបត្រនៅ BBU ផ្នែកបច្ចេកវិទ្យាបណ្តាញ។ ភ្នំពេញ កម្ពុជា។ <br>+ លោក ប៊ុនថា ធ្លាប់ធ្វើការជាអ្នកគាំទ្របច្ចេកទេស Internet Gateway (DIX/IIX)។ បើកច្រកតភ្ជាប់ (VLAN) សម្រាប់អតិថិជនខ្សែជួលតាមរយៈ Fiber Optic (CISCO router និង Zyxel switch)។ គាំទ្រដល់អតិថិជនខ្សែជួល។ អ្នកសម្របសម្រួល IT នៅសាកលវិទ្យាល័យកម្ពុជា។"
+            },
+
+            //professor
+
+            // Header Section
+        "license-header": {
+            "en": "IT Department",
+            "kh": "នាយកដ្ឋានបច្ចេកវិទ្យាព័ត៌មាន"
+        },
+        // Section Title
+        "section-title": {
+            "en": "PROFESSOR",
+            "kh": "សាស្ត្រាចារ្យ"
+        },
+        // Faculty Member 1 - Tansareyvuth
+        "faculty-name-1": {
+            "en": "Tansareyvuth",
+            "kh": "តាន់ សារីវុធ"
+        },
+        "faculty-title-1": {
+            "en": "Professor",
+            "kh": "សាស្ត្រាចារ្យ"
+        },
+        "nationality-1": {
+            "en": "Cambodian",
+            "kh": "ខ្មែរ"
+        },
+        "faculty-qualifications-1": {
+            "en": "건국대학교 / Konkuk University <br> Master of Science, in Computer and Information Communication Engineering",
+            "kh": "សាកលវិទ្យាល័យកុនគុក (Konkuk University) <br> អនុបណ្ឌិតវិទ្យាសាស្ត្រ ផ្នែកវិស្វកម្មកុំព្យូទ័រនិងទំនាក់ទំនងព័ត៌មាន"
+        },
+        // Faculty Member 2 - Hem Tola
+        "faculty-name-2": {
+            "en": "Hem Tola",
+            "kh": "ហែម តុលា"
+        },
+        "faculty-title-2": {
+            "en": "Professor",
+            "kh": "សាស្ត្រាចារ្យ"
+        },
+        "nationality-2": {
+            "en": "Cambodian",
+            "kh": "ខ្មែរ"
+        },
+        "faculty-qualifications-2": {
+            "en": "University of Cambodia<br>Cambodian Mekong University<br>Norton University",
+            "kh": "សាកលវិទ្យាល័យកម្ពុជា<br>សាកលវិទ្យាល័យមេគង្គកម្ពុជា<br>សាកលវិទ្យាល័យន័រតុន"
+        },
+        // Faculty Member 3 - Hin SamArt
+        "faculty-name-3": {
+            "en": "Hin SamArt",
+            "kh": "ហ៊ិន សមអាត"
+        },
+        "faculty-title-3": {
+            "en": "Professor",
+            "kh": "សាស្ត្រាចារ្យ"
+        },
+        "nationality-3": {
+            "en": "Cambodian",
+            "kh": "ខ្មែរ"
+        },
+        "faculty-qualifications-3a": {
+            "en": "PhD",
+            "kh": "បណ្ឌិត"
+        },
+        "faculty-qualifications-3b": {
+            "en": "Asian Institute of Technology, Thailand (December 1996)<br>",
+            "kh": "វិទ្យាស្ថានបច្ចេកវិទ្យាអាស៊ី ប្រទេសថៃ (ធ្នូ ១៩៩៦)<br>"
+        },
+        // Faculty Member 4 - Sithy Cheam
+        "faculty-name-4": {
+            "en": "Sithy Cheam",
+            "kh": "ស៊ីធី ជាម"
+        },
+        "faculty-title-4": {
+            "en": "Professor",
+            "kh": "សាស្ត្រាចារ្យ"
+        },
+        "nationality-4": {
+            "en": "Cambodian",
+            "kh": "ខ្មែរ"
+        },
+        "faculty-qualifications-4": {
+            "en": "Southeast Asia Union College, Singapore<br>Walla Walla College, Washington, USA<br>Several of certificates from Microsoft Virtual Academy (MVA) Free Training Center",
+            "kh": "មហាវិទ្យាល័យសហភាពអាស៊ីអាគ្នេយ៍ សិង្ហបុរី<br>មហាវិទ្យាល័យវ៉លឡា វ៉លឡា វ៉ាស៊ីនតោន សហរដ្ឋអាមេរិក<br>វិញ្ញាបនបត្រជាច្រើនពីមជ្ឈមណ្ឌលបណ្តុះបណ្តាលឥតគិតថ្លៃ Microsoft Virtual Academy (MVA)"
+        },
+        // Faculty Member 5 - Chhay Buntha
+        "faculty-name-5": {
+            "en": "Chhay Buntha",
+            "kh": "ឆាយ ប៊ុនថា"
+        },
+        "faculty-title-5": {
+            "en": "Professor",
+            "kh": "សាស្ត្រាចារ្យ"
+        },
+        "nationality-5": {
+            "en": "Cambodian",
+            "kh": "ខ្មែរ"
+        },
+        "faculty-qualifications-5": {
+            "en": "Institute of Technology Delhi(IITD), India. <br>Bachelor degree at BBU in Network Technology. Phnom Penh, Cambodia.<br>",
+            "kh": "វិទ្យាស្ថានបច្ចេកវិទ្យាដេលី (IITD) ប្រទេសឥណ្ឌា <br>បរិញ្ញាបត្រផ្នែកបច្ចេកវិទ្យាបណ្តាញនៅ BBU ភ្នំពេញ កម្ពុជា<br>"
         }
+
 
     };
 

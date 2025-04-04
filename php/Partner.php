@@ -28,7 +28,7 @@
 </head>
 <body>
     <div class="header-pattern">
-        <div class="header" id="license-header">Partner</div>
+        <div class="header">Partner</div>
     </div>
 
     <div class="container py-5">
