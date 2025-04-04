@@ -157,7 +157,7 @@ label {
                                     
                                     
                                     <div class="form-group">
-                                        <button type="submit" name="btn_update" class="btn btn-primary">Submit</button>
+                                        <button type="submit" name="btn_update" class="btn btn-primary">Update</button>
                                        
                                     </div>
                                 </form>

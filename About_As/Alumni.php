@@ -29,7 +29,7 @@
         <!-- Alumni Card 1 -->
         <div class="col-md-3">
             <div class="card alumni-card">
-                <a href="./Alumni_pic1.php">
+                <a href="../Alumni_pages/Alumni_pic1.php">
                     <img style="height: 220px; width:100%;" src="../img/481279560_122228173070200745_420989743270165767_n.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
@@ -43,7 +43,7 @@
         <!-- Alumni Card 2 -->
         <div class="col-md-3">
             <div class="card alumni-card">
-                <a href="./Alumni_pic2.php">
+                <a href="../Alumni_pages/Alumni_pic2.php">
                     <img style="height: 220px; width:100%;" src="../img/70912167_2661242813926307_3583202459553628160_n.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
@@ -57,7 +57,7 @@
         <!-- Alumni Card 3 -->
         <div class="col-md-3">
             <div class="card alumni-card">
-                <a href="./Alumni_pic3.php">
+                <a href="../Alumni_pages/Alumni_pic3.php">
                     <img src="../img/10875129986.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">
@@ -71,7 +71,7 @@
         <!-- Alumni Card 4 -->
         <div class="col-md-3">
             <div class="card alumni-card">
-                <a href="./Alumni_pic4.php">
+                <a href="../Alumni_pages/Alumni_pic4.php">
                     <img src="../img/18643079976.jpg" class="card-img-top" alt="Alumni Image">
                 </a>
                 <div class="card-body">

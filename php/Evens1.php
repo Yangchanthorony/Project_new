@@ -40,9 +40,9 @@ include("../js/index.php");
     <div class="social-share mt-4">
         <p class="fw-bold" id="share-event-title">Share this Event</p>
        <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam"> <button class="btn btn-primary"><i class="fab fa-facebook-f"></i></button></a>
-        <button class="btn btn-dark"><i class="fab fa-x-twitter"></i></button>
-        <button class="btn btn-info text-white"><i class="fab fa-linkedin-in"></i></button>
-        <button class="btn btn-success"><i class="fab fa-whatsapp"></i></button>
+        <a href=""><button class="btn btn-dark"><i class="fab fa-x-twitter"></i></button></a>
+        <a href="https://www.linkedin.com/company/phnompenh-international-university/"><button class="btn btn-info text-white"><i class="fab fa-linkedin-in"></i></button></a>
+        <a href=""><button class="btn btn-success"><i class="fab fa-whatsapp"></i></button></a>
     </div>
 </div>
 <?php 

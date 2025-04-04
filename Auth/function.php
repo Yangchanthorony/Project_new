@@ -55,7 +55,7 @@ function view_register(){
             <td ><?php echo $row[11];?></td>
             
             <td style="display: flex;    ">
-                <a style="margin-left: 20px;"  href="../admin/update_name.php?id=<?php echo $row[0] ?>"  class="btn btn btn-primary" >update</a>
+                <a style="margin-left: 20px;"  href="../admin/update_name.php?id=<?php echo $row[0] ?>"  class="btn btn btn-primary" >Edit</a>
                 <button style="margin-left: 20px;"  type="button"  onclick="remove_register(<?php echo$row[0]?>)" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#delete_post">Delete</button>
                 <button style="margin-left: 20px;" type="button" class="btn btn-success" onclick="window.open('../admin/invoice_admin.php?id=<?php echo $row[0]; ?>', '_blank')">Print Invoice</button>
             </td>

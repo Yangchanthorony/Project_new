@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <?php 
-include("../components/header.php");
-
-include("../js/index.php");
+  include("../components/header.php");
+    
+  include("../js/index.php");
 
 ?>
 <html lang="en">

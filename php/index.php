@@ -160,7 +160,7 @@ include("../js/index.php");
                             </div>
                         </div>
 
-                        <a href="Project_ Coordinator.php">
+                        <a href="Community.php">
                         <h4 style="margin-top: 10px; width: 300px; color: white; display: inline-flex;" id="see"data-aos="fade-up"  data-aos-delay="200"> view more</h4></a>
 
                         <h2 style="margin-top: 30px;" class="gallery-title" id="project-coordinator-title">Project Coordinator & Member</h2>

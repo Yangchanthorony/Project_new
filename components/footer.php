@@ -103,28 +103,28 @@
             <div class="col-md-3">
                 <h5 id="quick-links-title">Quick Links</h5>
                 <ul class="list-unstyled">
-                    <li><a href="history.php" id="link-history">History</a></li>
-                    <li><a href="Vision_Mission_and_Values.php" id="link-vision">Vision - Mission - Value</a></li>
-                    <li><a href="Career_Opportunities.php" id="link-career">Career Opportunities</a></li>
+                    <li><a href="../About_As/history.php" id="link-history">History</a></li>
+                    <li><a href="../About_As/Vision_Mission_and_Values.php" id="link-vision">Vision - Mission - Value</a></li>
+                    <li><a href="../About_As/Career_Opportunities.php" id="link-career">Career Opportunities</a></li>
                     <li><a href="#" id="link-weather">Current Weather at PPIU</a></li>
                 </ul>
             </div>
             <div class="col-md-3">
                 <h5 id="explore-title">Explore</h5>
                 <ul class="list-unstyled">
-                    <li><a href="job.php" id="link-student-life">Job Announcements</a></li>
-                    <li><a href="Evens.php" id="link-news"> Events</a></li>
-                    <li><a href="news_page1.php" id="link-news">News</a></li>
-                    <li><a href="loan.php" id="link-tuition">student loan</a></li>
+                    <li><a href="../New/job.php" id="link-student-life">Job Announcements</a></li>
+                    <li><a href="../New/Evens.php" id="link-news"> Events</a></li>
+                    <li><a href="../New/news_page1.php" id="link-news">News</a></li>
+                    <li><a href="../New/loan.php" id="link-tuition">student loan</a></li>
                 </ul>
             </div>
             <div class="col-md-3">
                 <h5 id="faculty-title">FACULTY</h5>
                 <ul class="list-unstyled">
-                    <li><a href="cse.php" id="faculty-fsit">FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY (FSIT)</a></li>
-                    <li><a href="Business.php" id="faculty-business">FACULTY OF BUSINESS AND TOURISM</a></li>
-                    <li><a href="law.php" id="faculty-law">FACULTY OF LAW AND ECONOMIC</a></li>
-                    <li><a href="education.php" id="faculty-education">FACULTY OF EDUCATION SCIENCE</a></li>
+                    <li><a href="../Academics/cse.php" id="faculty-fsit">FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY (FSIT)</a></li>
+                    <li><a href="../Academics/Business.php" id="faculty-business">FACULTY OF BUSINESS AND TOURISM</a></li>
+                    <li><a href="../Academics/law.php" id="faculty-law">FACULTY OF LAW AND ECONOMIC</a></li>
+                    <li><a href="../Academics/education.php " id="faculty-education">FACULTY OF EDUCATION SCIENCE</a></li>
                     <li><a href="#" id="faculty-news">FACULTY OF NEWS AND VIEWS</a></li>
                 </ul>
             </div>

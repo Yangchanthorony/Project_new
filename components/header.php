@@ -445,7 +445,7 @@ ul {
        <nav style="height: 132px;  margin-top: 10px ; position: fixed; justify-content: space-evenly;   "  class="navbar">
            <img src="../img/download (22).png " alt="">
            <ul class="nav-links">
-               <li><a  href="index.php" class="nav-link active"><i class="fas fa-home"></i> </a></li>
+               <li><a  href="../php/index.php" class="nav-link active"><i class="fas fa-home"></i> </a></li>
                
 
              <li style="margin-top: 3px;" class="dropdown">
@@ -453,15 +453,15 @@ ul {
                 About Us <i class="fas fa-chevron-down"></i>
             </a>
             <ul class="dropdown-menu">
-                <li><a id="History" href="history.php"><i class="fas fa-history"></i> History</a></li>
+                <li><a id="History" href="../About_As/history.php"><i class="fas fa-history"></i> History</a></li>
                 <li class="divider"></li>
-                <li><a id="License" href="PPIU_License_and_Accreditation.php"><i class="fas fa-certificate"></i> PPIU License and Accreditation</a></li>
+                <li><a id="License" href="../About_As/PPIU_License_and_Accreditation.php"><i class="fas fa-certificate"></i> PPIU License and Accreditation</a></li>
                 <li class="divider"></li>
-                <li><a href="Vision_Mission_and_Values.php" id="vision-mission-values"><i class="fas fa-eye"></i> Vision, Mission, and Values</a></li>
+                <li><a href="../About_As/Vision_Mission_and_Values.php" id="vision-mission-values"><i class="fas fa-eye"></i> Vision, Mission, and Values</a></li>
                 <li class="divider"></li>
-                <li><a href="Career_Opportunities.php" id="career-opportunities-link"><i class="fas fa-briefcase"></i> Career Opportunities</a></li>
+                <li><a href="../About_As/Career_Opportunities.php" id="career-opportunities-link"><i class="fas fa-briefcase"></i> Career Opportunities</a></li>
                 <li class="divider"></li>
-                <li><a href="Alumni.php" id="alumni"><i class="fas fa-users"></i> ALUMNI</a></li>
+                <li><a href="../About_As/Alumni.php" id="alumni"><i class="fas fa-users"></i> ALUMNI</a></li>
             </ul>
         </li>
                    
@@ -472,37 +472,37 @@ ul {
                      
                     <ul class="dropdown-menu">
                             <li class="has-dropright">
-                            <a href="degree.php" id="degree"><i class="fas fa-graduation-cap"></i> DEGREE</a>
+                            <a href="../Academics/degree.php" id="degree"><i class="fas fa-graduation-cap"></i> DEGREE</a>
                                 <ul class="drop-right">
-                                <li><a href="professional.php" id="professional"><i class="fas fa-chalkboard-teacher"></i>  PROFESSIONAL/ SHORT COURSE</a></li>
+                                <li><a href="../Academics/professional.php" id="professional"><i class="fas fa-chalkboard-teacher"></i>  PROFESSIONAL/ SHORT COURSE</a></li>
                                 <li class="divider"></li>
-                                <li><a href="associate.php" id="associate"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
+                                <li><a href="../Academics/associate.php" id="associate"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
                                 <li class="divider"></li>
-                                <li><a href="master_degree.php" id="masters-degree"><i class="fas fa-university"></i> MASTER'S DEGREE</a></li>
+                                <li><a href="../Academics/master_degree.php" id="masters-degree"><i class="fas fa-university"></i> MASTER'S DEGREE</a></li>
                                 <li class="divider"></li>
-                                <a href="bachelor.php" id="bachelor"><i class="fas fa-user-graduate"></i> BACHELOR</a>
+                                <a href="../Academics/bachelor.php" id="bachelor"><i class="fas fa-user-graduate"></i> BACHELOR</a>
                                 <li class="divider"></li>
-                                <li><a href="doctoral.php" id="doctoral"><i class="fas fa-award"></i> DOCTORAL</a></li>
+                                <li><a href="../Academics/doctoral.php" id="doctoral"><i class="fas fa-award"></i> DOCTORAL</a></li>
                                 </ul>
                                 
                             </li>
                            <li class="divider"></li>
                            
                             <li class="has-dropright">
-                            <a href="faculty.php" id="faculties"><i class="fas fa-building"></i> FACULTIES</a>
+                            <a href="../Academics/faculty.php" id="faculties"><i class="fas fa-building"></i> FACULTIES</a>
                                     
                                     <ul class="drop-right">
-                                    <li><a href="cse.php" id="faculty-science-it"><i class="fas fa-flask"></i> FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY</a></li>
+                                    <li><a href="../Academics/cse.php" id="faculty-science-it"><i class="fas fa-flask"></i> FACULTY OF SCIENCE AND INFORMATION TECHNOLOGY</a></li>
                                         <li class="divider"></li>
-                                        <a href="Business.php" id="faculty-business-tourismmo">
+                                        <a href="../Academics/Business.php" id="faculty-business-tourismmo">
                                             <i class="fas fa-briefcase"></i> FACULTY OF BUSINESS AND TOURISM
                                         </a>
                                         <li class="divider"></li>
-                                        <li> <a href="law.php" id="faculty-law-economicso">
+                                        <li> <a href="../Academics/law.php" id="faculty-law-economicso">
                                             <i class="fas fa-balance-scale"></i> FACULTY OF LAW AND ECONOMICS
                                         </a></li>
                                         <li class="divider"></li>
-                                        <li><a href="education.php" id="faculty-education"><i class="fas fa-book"></i> FACULTY OF EDUCATION SCIENCE</a></li>
+                                        <li><a href="../Academics/education.php" id="faculty-education"><i class="fas fa-book"></i> FACULTY OF EDUCATION SCIENCE</a></li>
                                         <li class="divider"></li>
                                         <!-- <li><a href="#" id="faculty-news-views"><i class="fas fa-newspaper"></i> FACULTY OF NEWS AND VIEWS</a></li> -->
                                     </ul>
@@ -510,7 +510,7 @@ ul {
                             </li>
 
                                     <li class="has-dropright">
-                                    <li><a href="program.php" id="study-programs"><i class="fas fa-book"></i> STUDY PROGRAMS - PPIU</a></li>
+                                    <li><a href="../Academics/program.php" id="study-programs"><i class="fas fa-book"></i> STUDY PROGRAMS - PPIU</a></li>
                                     </li>
                         </ul>
                    </li>
@@ -520,16 +520,16 @@ ul {
                    <a id="New" data-bs-toggle="collapse" href="#">New <i class="fas fa-chevron-down"></i></a>
 
                        <ul class="dropdown-menu">
-                       <li><a href="Evens.php" id="events"><i class="fas fa-calendar-alt"></i> EVENTS</a></li>
+                       <li><a href="../New/Evens.php" id="events"><i class="fas fa-calendar-alt"></i> EVENTS</a></li>
                        <li class="divider"></li>
-                        <li><a href="news_page1.php" id="news"><i class="fas fa-newspaper"></i> News</a></li>
+                        <li><a href="../New/news_page1.php" id="news"><i class="fas fa-newspaper"></i> News</a></li>
                         <li class="divider"></li>
-                        <li><a href="scholarship.php" id="scholarship"><i class="fas fa-graduation-cap"></i> 
+                        <li><a href="../New/scholarship.php" id="scholarship"><i class="fas fa-graduation-cap"></i> 
                         SCHOLARSHIP</a></li>
                         <li class="divider"></li>
-                        <li><a href="job.php" id="job-announcements"><i class="fas fa-briefcase"></i> Job Announcements</a></li>
+                        <li><a href="../New/job.php" id="job-announcements"><i class="fas fa-briefcase"></i> Job Announcements</a></li>
                         <li class="divider"></li>
-                        <li><a href="loan.php" id="student-loan"><i class="fas fa-hand-holding-usd"></i> Student Loan</a></li>
+                        <li><a href="../New/loan.php" id="student-loan"><i class="fas fa-hand-holding-usd"></i> Student Loan</a></li>
                        </ul>
                    </li>
                    
@@ -537,13 +537,13 @@ ul {
                    <li style="margin-top: 3px;" class="dropdown">
                    <a id="Library" data-bs-toggle="collapse" href="#">LIBRARY <i class="fas fa-chevron-down"></i></a>
                        <ul class="dropdown-menu">
-                       <li><a href="reading_club.php" id="reading-club"><i class="fas fa-book-reader"></i> PPIU Reading Club</a></li>
+                       <li><a href="../Libraly/reading_club.php" id="reading-club"><i class="fas fa-book-reader"></i> PPIU Reading Club</a></li>
                        <li class="divider"></li>
-                       <li><a href="music_club.php"><i class="fas fa-music"></i> <span id="music-club">Music Club</span></a></li>
+                       <li><a href="../Libraly/music_club.php"><i class="fas fa-music"></i> <span id="music-club">Music Club</span></a></li>
                        <li class="divider"></li>
-                        <li><a href="Library.php" id="library-materials"><i class="fas fa-book"></i> LIBRARY MATERIALS</a></li>
+                        <li><a href="../Libraly/Library.php" id="library-materials"><i class="fas fa-book"></i> LIBRARY MATERIALS</a></li>
                         <li class="divider"></li>
-                        <li><a href="about_library.php" id="about-library"><i class="fas fa-info-circle"></i> ABOUT LIBRARY</a></li>
+                        <li><a href="../Libraly/about_library.php" id="about-library"><i class="fas fa-info-circle"></i> ABOUT LIBRARY</a></li>
                        </ul>
                    </li>    
                    
@@ -552,16 +552,16 @@ ul {
                 Admissions <i class="fas fa-chevron-down"></i>
                     </a>
                        <ul class="dropdown-menu">
-                       <li><a href="admition_AA.php" id="admission-associate"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
+                       <li><a href="../Admission/admition_AA.php" id="admission-associate"><i class="fas fa-user-graduate"></i> ASSOCIATE</a></li>
                         <li class="divider"></li>
-                        <li><a href="admition_master.php" id="admission-master"><i class="fas fa-user-tie"></i> MASTER</a></li>
+                        <li><a href="../Admission/admition_master.php" id="admission-master"><i class="fas fa-user-tie"></i> MASTER</a></li>
                         <li class="divider"></li>
-                        <li><a href="admition_BA.php" id="admission-bachelor"><i class="fas fa-user"></i> BACHELOR</a></li>
+                        <li><a href="../Admission/admition_BA.php" id="admission-bachelor"><i class="fas fa-user"></i> BACHELOR</a></li>
                         <li class="divider"></li>
-                        <li><a href="admition_doctor.php" id="admission-doctoral"><i class="fas fa-graduation-cap"></i> DOCTORAL</a></li>
+                        <li><a href="../Admission/admition_doctor.php" id="admission-doctoral"><i class="fas fa-graduation-cap"></i> DOCTORAL</a></li>
                        </ul>
                    </li>
-                   <li><a style="margin-top: 3px;" href="contact.php" id="contact">Contact</a></li>
+                   <li><a style="margin-top: 3px;" href="../Contact/contact.php" id="contact">Contact</a></li>
                    
                </ul>
            
