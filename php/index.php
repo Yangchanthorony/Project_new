@@ -439,7 +439,7 @@ include("../js/index.php");
                 data-aos-duration="1000" 
                 data-aos-delay="200"
             >The university was renamed "Phnom Penh International University - PPIU" in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia</p>
-            <a href="history.php#carouselExampleIndicators">
+            <a href="../About_As/history.php">
                 <button 
                     class="btn btn-custom btn-outline-danger" 
                     id="about-ppiu-left-readmore" 
