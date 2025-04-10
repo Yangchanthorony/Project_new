@@ -89,7 +89,7 @@ function Login(){
        $res=$con->query($sql);
        if($res->num_rows>0){
         // $_SESSION['user']=['id'];
-        header("Location: view_list_register.php");
+        header("Location: Dashboard.php");
        }else{
         header("Location:Login.php");
         // echo "error";
@@ -97,6 +97,95 @@ function Login(){
     }
 }
 Login();
+
+function upload_img($type){
+    $file_name = date('YmdHis').'-'.$_FILES[$type]['name'];
+    $path = '../admin/images/'.$file_name;
+    move_uploaded_file($_FILES[$type]['tmp_name'],$path);
+    return $file_name;
+}
+function events_post(){
+    global $con;
+    if(isset($_POST['publish'])){
+  $title = $_POST['title'];
+     $date = $_POST['date'];
+   $time = $_POST['time'];
+      $location = $_POST['location'];
+     $image = upload_img('image');
+     $banner = upload_img('banner');
+     $new_type = $_POST['news_type'];
+     $title_one = $_POST['word'];
+     $title_two = $_POST['small'];
+     $desc = $_POST['desc'];
+       $sql = "INSERT INTO `events`(`id`, `title`, `date`, `time`, `location`, `thumbnail`, `news_type`,`banner`, `word`, `small`, `description`) 
+       VALUES (null,'$title','$date','$time','$location','$image','$new_type','$banner','$title_one','$title_two','$desc')";
+       $res = $con->query($sql);
+    }
+}
+
+events_post();
+
+function view_events(){
+    global $con;
+    $sql = "SELECT * FROM `events`";
+    $res = $con->query($sql);
+    while($row = mysqli_fetch_array($res)){
+        ?>
+        <tr >
+            <td><?php echo $row[0];?></td>
+            <td><?php echo $row[1];?></td>
+            <td><?php echo $row[2];?></td>
+            <td><?php echo $row[3];?></td>
+            <td><?php echo $row[4];?></td>
+         
+            <td><img style=" width: 100px; margin-left: 100px; " src="../admin/images/<?php echo $row[5];?>" alt="" width="100px " height="100"></td>
+            <td><?php echo $row[6];?></td>
+            <td>
+                <a href="../admin/Events_update_post.php?id=<?php echo $row[0] ?>" class="btn btn-primary">Edit</a>
+                <button class="btn btn-danger" onclick="confirmDelete(<?php echo $row[0]; ?>)">Delete</button>
+            </td>
+
+
+        </tr>
+        <?php
+    }
+}
+
+function update_event(){
+    global $con;
+    if(isset($_POST['update_event'])){
+        $id = $_POST['edit_id'];
+        $title = $_POST['title'];
+        $date = $_POST['date'];
+        $time = $_POST['time'];
+         $location = $_POST['location'];
+         $news_type = $_POST['news_type'];
+         $title_one = $_POST['word'];
+         $title_two = $_POST['small'];
+         $desc = $_POST['desc'];
+        // $image = upload_img('image');
+        $image = $_FILES['image']['name'];
+        $banner = $_FILES['banner']['name'];
+        if(empty($image)){
+            $image = $_POST['old_img'];
+       
+        }else{
+            $image =  upload_img('image');
+        }
+        if(empty($banner)){
+            $banner = $_POST['old_banner'];
+       
+        }else{
+            $banner =  upload_img('banner');
+        }
+        $sql = "UPDATE `events` SET `title`='$title',`date`='$date',`time`='$time',`location`='$location',`thumbnail`='$image',`news_type`='$news_type',`banner`='$banner',`word`='$title_one',`small`='$title_two',`description`='$desc' 
+        WHERE id = '$id'"; 
+        $con->query($sql);
+    }
+}
+
+update_event();
+
 
 
 

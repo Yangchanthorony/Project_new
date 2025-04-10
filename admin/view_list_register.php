@@ -22,7 +22,10 @@ include("../js/search.php");
     </div>
 
     <div style=" margin-top: 70px;" class="container-fluid ">
-        <table class="table table-bordered text-center align-middle box " id="registerTable">
+    <a href="Dashboard.php" class="btn btn-outline-danger">
+        Back to Dashboard
+    </a>
+        <table class="table table-bordered text-center align-middle box mt-2 " id="registerTable">
             <thead class="table-light">
                 <tr class="table-danger">
                     <th>ID</th>

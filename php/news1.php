@@ -1,6 +1,6 @@
 <?php 
 include("../components/header.php");
-include("./js/Evens1.php");
+
 include("../js/index.php");
 
 ?>
@@ -19,22 +19,22 @@ include("../js/index.php");
 <body>
 
 <div class="container text-center mt-5">
-    <h3 class="event-title" id="new-enrollment-title">New Enrollment!</h3>
-    
-    <!-- Event Image -->
-    <div class="event-image">
-        <img src="../img/482985561_1071063881729008_5082609035351126105_n.jpg" class="img-fluid" alt="Alumni Engagement Event">
-    </div>
+<h3 style="margin-top: 220px;" class="event-title" id="event-titleb">New Enrollment!</h3>
+        
+        <!-- Event Image -->
+        <div class="event-image">
+            <img src="../img/482985561_1071063881729008_5082609035351126105_n.jpg" class="img-fluid" alt="Alumni Engagement Event">
+        </div>
 
-    <!-- Event Information -->
-    <div class="event-info mt-4">
-        <h5 class="text-danger fw-bold" id="event-info-title">Event Information:</h5>
-        <p id="event-info-desc1">📌 Open exclusively to PPIU students</p>
-        <p id="event-info-date">📅 Date: 05 May 2025</p>
-        <p id="event-info-time">⏰ Time: 2:00 PM - 5:00 PM</p>
-        <p id="event-info-location">📍 Location: PPIU Center</p>
-        <p id="event-info-desc2">For more information, please visit the Information Office on the 5th floor of Phnom Penh International University (In front of Bak Touk High School), or you can contact us directly through Telegram PPIU: 071 333 6777 Facebook Page: Phnom Penh International University (official).</p>
-    </div>
+        <!-- Event Information -->
+        <div class="event-info mt-4">
+            <h5 class="text-danger fw-bold" id="event-info-titleb">Event Information:</h5>
+            <p id="event-info-desc1b">📌 Open exclusively to PPIU students</p>
+            <p id="event-dateb">📅 Date: 05 May 2025</p>
+            <p id="event-timeb">⏰ Time: 2:00 PM - 5:00 PM</p>
+            <p id="event-locationb">📍 Location: PPIU Center</p>
+            <p id="event-info-desc2b">For more information, please visit the Information Office on the 5th floor of Phnom Penh International University (In front of Bak Touk High School), or you can contact us directly through Telegram PPIU: 071 333 6777 Facebook Page: Phnom Penh International University (official).</p>
+        </div>
 
     <!-- Social Media Share Buttons -->
     <div class="social-share mt-4">

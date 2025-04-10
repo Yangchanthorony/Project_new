@@ -1,6 +1,6 @@
 <?php 
 include("../components/header.php");
-include("./js/Evens1.php");
+
 include("../js/index.php");
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ include("../js/index.php");
 <body>
 
 <div class="container text-center mt-5">
-    <h3 class="event-title" id="cpp-event-title">Cambodia in charge of the General Department of CPP..</h3>
+    <h3  style="margin-top: 220px;" class="event-title" id="cpp-event-title">Cambodia in charge of the General Department of CPP..</h3>
     
     <!-- Event Image -->
     <div class="event-image">
@@ -27,13 +27,13 @@ include("../js/index.php");
 
     <!-- Event Information -->
     <div class="event-info mt-4">
-        <h5 class="text-danger fw-bold" id="event-info-title">Event Information:</h5>
-        <p id="event-info-desc1">📌 Phnom Penh International University PPIU and General General of the CPP</p>
-        <p id="event-info-date">📅 Date: 27 February 2025</p>
-        <p id="event-info-time">⏰ Time: 2:00 PM - 5:00 PM</p>
-        <p id="event-info-location">📍 Location: PPIU Center</p>
-        <p id="event-info-desc2">Phnom Penh International University PPIU and General General of the CPP Has organized the "Musting Program of Knowledge of the user's rights and benefits to university students" aim to build a CEO of Cambodia in Cambodia in charge of the General Department of CPP.. High representative of Lok Chumteav Chamber, Minister of Commerce, held in Phnom Penh International University. Seminar on consumer protection laws and mechanisms to file a complaint with the General Department of General C.. And understanding the rights and protection in both online and non-online markets as well as the reporting steps of reporting to obtain solutions and requires the permissions you have.</p>
-    </div>
+            <h5 class="text-danger fw-bold" id="event-info-titlej">Event Information:</h5>
+            <p id="event-info-desc1j">📌 Phnom Penh International University PPIU and General General of the CPP</p>
+            <p id="event-info-datej">📅 Date: 27 February 2025</p>
+            <p id="event-info-timej">⏰ Time: 2:00 PM - 5:00 PM</p>
+            <p id="event-info-locationj">📍 Location: PPIU Center</p>
+            <p id="event-info-desc2j">Phnom Penh International University (PPIU) and the General Department of the CPP have organized the "Musting Program of Knowledge of the User's Rights and Benefits to University Students" to build a CEO of Cambodia in charge of the General Department of CPP. A high representative of Lok Chumteav, Minister of Commerce, held this event at Phnom Penh International University. The seminar focuses on consumer protection laws, mechanisms to file complaints with the General Department of CPP, understanding rights and protections in both online and offline markets, and the reporting steps to obtain solutions, requiring the permissions you have.</p>
+        </div>
 
     <!-- Social Media Share Buttons -->
     <div class="social-share mt-4">

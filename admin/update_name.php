@@ -6,6 +6,43 @@ $sql = "SELECT * FROM `register` WHERE `id` = '$up_id'";
 $res = $con->query($sql);
 $row = mysqli_fetch_array($res);
 
+$selected_BA = '';
+$selected_AA = '';
+if($row['Degree'] == 'Bachelor') {
+    $selected_BA = "selected";
+
+}else{
+    $selected_AA = "selected";
+}
+
+$selected_Male = '';
+$selected_Female = '';
+if($row['gender'] == 'male') {
+    $selected_Male = "selected";
+
+}else{
+    $selected_Female = "selected";
+}
+
+// Select skill
+
+$selected_Web = '';
+$selected_Acc = '';
+$selected_Eng = '';
+
+if($row['Skill'] == 'Computer Sciences'){
+    $selected_Web = "selected";
+   
+}else if($row['Skill'] == 'Accounting'){
+    $selected_Acc = "selected";
+   
+}else{
+    $selected_Eng = "selected";
+   
+}
+
+
+
 ?>
 
 
@@ -86,8 +123,8 @@ label {
                                     <div class="form-group">
                                         <label>Gender</label>
                                         <select name="gender" value="<?php echo $row[3]?>" class="form-select">
-                                            <option value="Male">Male</option>
-                                            <option value="Female">Female</option>
+                                            <option value="Male"<?php echo $selected_Male?>>Male</option>
+                                            <option value="Female"<?php echo $selected_Female?>>Female</option>
                                             <option value="other">other</option>
                                         </select>
                                     </div>
@@ -106,8 +143,8 @@ label {
                                     <label for="Degree">Degree</label>
                                     <select id="Degree" name="Degree" value="<?php echo $row[6]?>" class="form-control" required>
                                         <option value="">Select</option>
-                                        <option value="Bachelor">Bachelor</option>
-                                        <option value="Associate">Associate</option>
+                                        <option value="Bachelor"<?php echo $selected_BA?>>Bachelor</option>
+                                        <option value="Associate"<?php echo $selected_AA?>>Associate</option>
                                         <option value="other">Other</option>
                                     </select>
                                 </div>
@@ -116,7 +153,7 @@ label {
                                     <label for="Skill">Skill</label>
                                     <select id="Skill" name="Skill" value="<?php echo $row[7]?>" class="form-control" required>
                                         <option value="">Select</option>
-                                        <option value="Accounting">Accounting</option>
+                                        <option value="Accounting" <?php echo $selected_Acc?>>Accounting</option>
                                         <option value="Management">Management</option>
                                         <option value="Law">Law</option>
                                         <option value="Marketing">Marketing</option>
@@ -126,10 +163,10 @@ label {
                                         <option value="Hotel & Tourism Management">Hotel & Tourism Management</option>
                                         <option value="Fiance & Banking">Fiance & Banking</option>
                                         <option value="Management Information System">Management Information System</option>
-                                        <option value="English for Education">English for Education</option>
+                                        <option value="English for Education"<?php echo $selected_Eng?>>English for Education</option>
                                         <option value="English for Business">English for Business</option>
                                         <option value="International Business">International Business</option>
-                                        <option value="Computer Sciences">Computer Sciences</option>
+                                        <option value="Computer Sciences" <?php echo $selected_Web?>>Computer Sciences</option>
                                         <option value="Logistics Management ">Logistics Management</option>
                                     </select>
                                 </div>

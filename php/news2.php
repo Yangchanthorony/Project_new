@@ -1,6 +1,6 @@
 <?php 
 include("../components/header.php");
-include("./js/Evens1.php");
+
 include("../js/index.php");
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ include("../js/index.php");
 <body>
 
 <div class="container text-center mt-5">
-    <h3 class="event-title" id="postgraduate-activities-title">Postgraduate school activities</h3>
+    <h3  style="margin-top: 220px;" class="event-title" id="postgraduate-activities-title">Postgraduate school activities</h3>
     
     <!-- Event Image -->
     <div class="event-image">
@@ -27,14 +27,13 @@ include("../js/index.php");
 
     <!-- Event Information -->
     <div class="event-info mt-4">
-        <h5 class="text-danger fw-bold" id="event-info-title">Event Information:</h5>
-        <p id="event-info-desc1">📌 Open exclusively to PPIU students</p>
-        <p id="event-info-date">📅 Date: 15 March 2025</p>
-        <p id="event-info-time">⏰ Time: 2:00 PM - 5:00 PM</p>
-        <p id="event-info-location">📍 Location: PPIU Center</p>
-        <p id="event-info-desc2">Postgraduate School Activities organized entrance exams for postgraduate students of Phnom Penh International University (PPIU).</p>
-    </div>
-
+            <h5 class="text-danger fw-bold" id="event-info-titlen">Event Information:</h5>
+            <p id="event-info-desc1n">📌 Open exclusively to PPIU students</p>
+            <p id="event-info-daten">📅 Date: 15 March 2025</p>
+            <p id="event-info-timen">⏰ Time: 2:00 PM - 5:00 PM</p>
+            <p id="event-info-locationn">📍 Location: PPIU Center</p>
+            <p id="event-info-desc2n">Postgraduate School Activities organized entrance exams for postgraduate students of Phnom Penh International University (PPIU).</p>
+        </div>
     <!-- Social Media Share Buttons -->
     <div class="social-share mt-4">
         <p class="fw-bold" id="share-event-title">Share this Event</p>

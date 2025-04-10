@@ -1,6 +1,8 @@
 <?php 
  include("../components/header.php");
 include("../js/index.php");
+//  include("function.php");
+
 
 ?>
 <!DOCTYPE html>
@@ -86,18 +88,22 @@ include("../js/index.php");
          
             <div class="container my-3">
                 <div class="row g-4">
-                        <!-- Event Cards -->
-                        <div  class="col-md-3" data-aos="fade-up" data-aos-delay="100">
+                 
+                          <!-- Event Cards -->
+                      
+
+                      <div class="col-md-3" data-aos="fade-up" data-aos-delay="200">
                             <div class="event-card">
-                                <a href="Evens1.php"><img src="../img/486295357_1083683420467054_96073237029920477_n.jpg" alt="Event 1"></a>
+                                <a href="Evens1.php"><img src="../img/20250408074510-486295357_1083683420467054_96073237029920477_n (1).jpg" alt="Event 2"></a>
                                 <div class="event-card-body">
                                     <h5 id="event1-title">Course at the Faculty of Law and Economics</h5>
-                                    <p id="event1-date">📅 Date: 11 Feb 2025 | ⏰ Time: 5:30 PM - 7:00 PM</p>
+                                    <p id="event1-date">📅 Date: 11 Feb 2025  | ⏰ Time: 5:30 PM - 7:00 PM</p>
                                     <p id="event1-location">📍 Location: PPIU Center</p>
-                                    <a href="Evens1.php" class="read-more" id="event1-readmore">Read More</a>
+                                    <a href="Evens1.php" class="read-more" id="event2-readmore">Read More</a>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="200">
                             <div class="event-card">
                                 <a href="Evens2.php"><img src="../img/11195036069.jpg" alt="Event 2"></a>
@@ -109,17 +115,7 @@ include("../js/index.php");
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
-                            <div class="event-card">
-                                <a href="Evens3.php"><img src="../img/482095635_1071006088401454_3389041062273094251_n.jpg" alt="Event 3"></a>
-                                <div class="event-card-body">
-                                    <h5 id="event3-title">PIU student activities to celebrate</h5>
-                                    <p id="event3-date">📅 Date: 8 March 2025 | ⏰ Time: 2 PM - 5 PM</p>
-                                    <p id="event3-location">📍 Location: PPIU Center</p>
-                                    <a href="Evens3.php" class="read-more" id="event3-readmore">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="400"   >
                             <div class="event-card">
                                 <a href="Evens4.php"><img src="../img/486643352_1085236973645032_6184732671856785796_n.jpg" alt="Event 4"></a>
@@ -130,8 +126,21 @@ include("../js/index.php");
                                     <a href="Evens4.php" class="read-more" id="event4-readmore">Read More</a>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
+
+                         <div class="col-md-3" data-aos="fade-up" data-aos-delay="300">
+                            <div class="event-card">
+                                <a href="Evens3.php"><img src="../img/482095635_1071006088401454_3389041062273094251_n.jpg" alt="Event 3"></a>
+                                <div class="event-card-body">
+                                    <h5 id="event3-title">PIU student activities to celebrate</h5>
+                                    <p id="event3-date">📅 Date: 8 March 2025 | ⏰ Time: 2 PM - 5 PM</p>
+                                    <p id="event3-location">📍 Location: PPIU Center</p>
+                                    <a href="Evens3.php" class="read-more" id="event3-readmore">Read More</a>
+                                </div>
+                            </div>
+                        </div> 
                     </div>
+                 
             </div>
 
                 <div class="container my-5">

@@ -1,6 +1,6 @@
 <?php 
 include("../components/header.php");
-include("./js/Evens1.php");
+
 include("../js/index.php");
 ?>
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ include("../js/index.php");
 <body>
 
 <div class="container text-center mt-5">
-    <h3 class="event-title" id="exam-wishes-title">Wishing you the upcoming high school passage exams</h3>
+    <h3  style="margin-top: 220px;" class="event-title" id="exam-wishes-title">Wishing you the upcoming high school passage exams</h3>
     
     <!-- Event Image -->
     <div class="event-image">
@@ -26,14 +26,14 @@ include("../js/index.php");
     </div>
 
     <!-- Event Information -->
-    <div class="event-info mt-4">
-        <h5 class="text-danger fw-bold" id="event-info-title">Event Information:</h5>
-        <p id="event-info-desc1">📌 Phnom Penh International University PPIU and General General of the CPP</p>
-        <p id="event-info-date">📅 Date: 18 February 2025</p>
-        <p id="event-info-time">⏰ Time: 8:00 AM - 11:00 AM</p>
-        <p id="event-info-location">📍 Stung Treng,</p>
-        <p id="event-info-desc2">Phnom Penh International University of Helds Sok Phone, the Governor of Stung Treng, and the missionary studies the scholarships and sharing the opportunity to you. Wishing you the upcoming high school passage exams.</p>
-    </div>
+    <div  class="event-info mt-4">
+            <h5 class="text-danger fw-bold" id="event-info-titlel">Event Information:</h5>
+            <p id="event-info-desc1l">📌 Phnom Penh International University PPIU and General General of the CPP</p>
+            <p id="event-info-datel">📅 Date: 18 February 2025</p>
+            <p id="event-info-timel">⏰ Time: 8:00 AM - 11:00 AM</p>
+            <p id="event-info-locationl">📍 Stung Treng</p>
+            <p id="event-info-desc2l">Phnom Penh International University (PPIU) hosts Sok Phone, the Governor of Stung Treng, and missionary studies to discuss scholarships and share opportunities with you. Wishing you success in the upcoming high school passage exams.</p>
+        </div>
 
     <!-- Social Media Share Buttons -->
     <div class="social-share mt-4">

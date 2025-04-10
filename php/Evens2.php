@@ -1,6 +1,5 @@
 <?php 
 include("../components/header.php");
-include("./js/Evens1.php");
 include("../js/index.php");
 
 ?>
@@ -19,26 +18,26 @@ include("../js/index.php");
 <body>
 
 <div class="container text-center mt-5">
-    <h3 class="event-title" id="welcome-back-title">Welcome back to class!!</h3>
-    
-    <!-- Event Image -->
-    <div class="event-image">
-        <img src="../img/11195036069.jpg" class="img-fluid" alt="Alumni Engagement Event">
-    </div>
+<h3 style="margin-top: 220px;" class="event-title" id="event-title1">Welcome back to class!!</h3>
+        
+        <!-- Event Image -->
+        <div class="event-image">
+            <img src="../img/11195036069.jpg" class="img-fluid" alt="Alumni Engagement Event">
+        </div>
 
-    <!-- Event Information -->
-    <div class="event-info mt-4">
-        <h5 class="text-danger fw-bold" id="event-info-title">Event Information:</h5>
-        <p id="event-info-desc1">📌 Open exclusively to PPIU students</p>
-        <p id="event-info-date">📅 Date: 10 Dec 2022</p>
-        <p id="event-info-time">⏰ Time: 1:00 PM - 5:00 PM</p>
-        <p id="event-info-location">📍 Location: PPIU Center</p>
-        <p id="event-info-desc2">The management of the Phnom Penh International University (PPIU) is honored to be welcomed HE Carpent Naron and the organization of the high school.</p>
-    </div>
+        <!-- Event Information -->
+        <div class="event-info mt-4">
+            <h5 class="text-danger fw-bold" id="event-info-title1">Event Information:</h5>
+            <p id="event-info-desc11">📌 Open exclusively to PPIU students</p>
+            <p id="event-date1">📅 Date: 10 Dec 2022</p>
+            <p id="event-time1">⏰ Time: 1:00 PM - 5:00 PM</p>
+            <p id="event-location1">📍 Location: PPIU Center</p>
+            <p id="event-info-desc21">The management of the Phnom Penh International University (PPIU) is honored to be welcomed HE Carpent Naron and the organization of the high school.</p>
+        </div>
 
-    <!-- Social Media Share Buttons -->
-    <div class="social-share mt-4">
-        <p class="fw-bold" id="share-event-title">Share this Event</p>
+        <!-- Social Media Share Buttons -->
+        <div class="social-share mt-4">
+            <p class="fw-bold" id="share-event-title1">Share this Event</p>
         <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam"> <button class="btn btn-primary"><i class="fab fa-facebook-f"></i></button></a>
         <button class="btn btn-dark"><i class="fab fa-x-twitter"></i></button>
         <button class="btn btn-info text-white"><i class="fab fa-linkedin-in"></i></button>

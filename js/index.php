@@ -241,7 +241,7 @@
         "about-ppiu-left-desc": { "en": "The university was renamed Phnom Penh International University - PPIU in 2006 by Sub-Decree No. 111 ANKr. BK dated October 24, 2006, of the Royal Government of Cambodia", "kh": "សាកលវិទ្យាល័យនេះត្រូវបានប្តូរឈ្មោះជា សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) ក្នុងឆ្នាំ 2006 ដោយអនុក្រឹត្យ លេខ 111 អង្គ.បក ចុះថ្ងៃទី 24 ខែតុលា ឆ្នាំ 2006 របស់រាជរដ្ឋាភិបាលកម្ពុជា។" },
         "about-ppiu-left-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
         "about-ppiu-right-title": { "en": "Professor", "kh": "សាស្រ្តាចារ្យ" },
-        "about-ppiu-right-desc": { "en": "PPIU hires highly qualified and experienced faculty. Ninety percent of the faculty hold Ph.D.’s from American and other western universities and have extensive university-level teaching experience.", "kh": "PPIU ជួលមហាវិទ្យាល័យដែលមានសមត្ថភាព និងបទពិសោធន៍ខ្ពស់។ កៅសិបភាគរយនៃមហាវិទ្យាល័យទទួលបានបណ្ឌិតពីសាកលវិទ្យាល័យអាមេរិក និងបស្ចិមប្រទេសផ្សេងទៀត និងមានបទពិសោធន៍បង្រៀនកម្រិតសាកលវិទ្យាល័យយ៉ាងទូលំទូលាយ។" },
+        "about-ppiu-right-desc": { "en": "PPIU hires highly qualified and experienced faculty. Ninety percent of the faculty hold Ph.D.’s from American and other western universities and have extensive university-level teaching experience.", "kh": "PPIU ជាមហាវិទ្យាល័យដែលមានសមត្ថភាព និងបទពិសោធន៍ខ្ពស់។ កៅសិបភាគរយនៃមហាវិទ្យាល័យទទួលបានបណ្ឌិតពីសាកលវិទ្យាល័យអាមេរិក និងបស្ចិមប្រទេសផ្សេងទៀត និងមានបទពិសោធន៍បង្រៀនកម្រិតសាកលវិទ្យាល័យយ៉ាងទូលំទូលាយ។" },
         "about-ppiu-right-readmore": { "en": "Read More", "kh": "អានបន្ថែម" },
         "view": { "en": "View More", "kh": "មើលបន្ថែម" },
         "see": { "en": "View More", "kh": "មើលបន្ថែម" },
@@ -1837,9 +1837,266 @@
         "faculty-qualifications-5": {
             "en": "Institute of Technology Delhi(IITD), India. <br>Bachelor degree at BBU in Network Technology. Phnom Penh, Cambodia.<br>",
             "kh": "វិទ្យាស្ថានបច្ចេកវិទ្យាដេលី (IITD) ប្រទេសឥណ្ឌា <br>បរិញ្ញាបត្រផ្នែកបច្ចេកវិទ្យាបណ្តាញនៅ BBU ភ្នំពេញ កម្ពុជា<br>"
-        }
+        },
 
 
+
+        "event-titleddd": {
+                    "en": "Universal Declaration of Human Rights (UDHR)",
+                    "kh": "សេចក្តីប្រកាសជាសកលស្តីពីសិទ្ធិមនុស្ស (UDHR)"
+                },
+                "event-info-titleo": {
+                    "en": "Event Information:",
+                    "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:"
+                },
+                "event-info-desc1o": {
+                    "en": "📌 students from the Human Rights Course at the Faculty of Law and Economics of Phnom Penh International University (PPIU)",
+                    "kh": "📌 និស្សិតមកពីវគ្គសិទ្ធិមនុស្សនៅមហាវិទ្យាល័យច្បាប់ និងសេដ្ឋកិច្ចនៃសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU)"
+                },
+                "event-dateo": {
+                    "en": "📅 Date: 11 Feb 2025",
+                    "kh": "📅 កាលបរិច្ឆេទ: ១១ កុម្ភៈ ២០២៥"
+                },
+                "event-timeo": {
+                    "en": "⏰ Time: 5:30 PM - 7:00 PM",
+                    "kh": "⏰ ម៉ោង: ៥:៣០ ល្ងាច - ៧:០០ ល្ងាច"
+                },
+                "event-locationo": {
+                    "en": "📍 Location: PPIU Center",
+                    "kh": "📍 ទីតាំង: មជ្ឈមណ្ឌល PPIU"
+                },
+                "event-info-desc2o": {
+                    "en": "Adopted by the UN General Assembly on December 10, 1948, the UDHR continues to serve as a crucial framework for promoting and protecting human dignity worldwide. This event provided an excellent opportunity for students to deepen their understanding of these vital principles.",
+                    "kh": "ត្រូវបានអនុម័តដោយមហាសន្និបាតអង្គការសហប្រជាជាតិនៅថ្ងៃទី ១០ ធ្នូ ១៩៤៨ UDHR នៅតែបន្តដើរតួជាក្របខ័ណ្ឌដ៏សំខាន់សម្រាប់ការលើកកម្ពស់ និងការពារសេចក្តីថ្លៃថ្នូររបស់មនុស្សទូទាំងពិភពលោក។ ព្រឹត្តិការណ៍នេះបានផ្តល់ឱកាសដ៏ល្អសម្រាប់និស្សិតក្នុងការស្វែងយល់កាន់តែស៊ីជម្រៅអំពីគោលការណ៍សំខាន់ៗទាំងនេះ។"
+                },
+                "share-event-titleo": {
+                    "en": "Share this Event",
+                    "kh": "ចែករំលែកព្រឹត្តិការណ៍នេះ"
+                },
+
+
+
+
+
+                "event-title1": {
+                    "en": "Welcome back to class!!",
+                    "kh": "សូមស្វាគមន៍ត្រឡប់មកថ្នាក់រៀនវិញ!!"
+                },
+                "event-info-title1": {
+                    "en": "Event Information:",
+                    "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:"
+                },
+                "event-info-desc11": {
+                    "en": "📌 Open exclusively to PPIU students",
+                    "kh": "📌 បើកផ្តាច់មុខសម្រាប់និស្សិត PPIU"
+                },
+                "event-date1": {
+                    "en": "📅 Date: 10 Dec 2022",
+                    "kh": "📅 កាលបរិច្ឆេទ: ១០ ធ្នូ ២០២២"
+                },
+                "event-time1": {
+                    "en": "⏰ Time: 1:00 PM - 5:00 PM",
+                    "kh": "⏰ ម៉ោង: ១:០០ រសៀល - ៥:ៀ០០ ល្ងាច"
+                },
+                "event-location1": {
+                    "en": "📍 Location: PPIU Center",
+                    "kh": "📍 ទីតាំង: មជ្ឈមណ្ឌល PPIU"
+                },
+                "event-info-desc21": {
+                    "en": "The management of the Phnom Penh International University (PPIU) is honored to be welcomed HE Carpent Naron and the organization of the high school.",
+                    "kh": "ក្រុមគ្រប់គ្រងនៃសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) មានកិត្តិយសដែលបានស្វាគមន៍ឯកឧត្តម កាប៉ែន ណារ៉ុន និងអង្គការនៃវិទ្យាល័យ។"
+                },
+                "share-event-title1": {
+                    "en": "Share this Event",
+                    "kh": "ចែករំលែកព្រឹត្តិការណ៍នេះ"
+                },
+
+
+
+
+
+                "event-titleq": {
+                    "en": "The management of (PPIU) share experiences...",
+                    "kh": "ក្រុមគ្រប់គ្រងនៃ (PPIU) ចែករំលែកបទពិសោធន៍..."
+                },
+                "event-info-titleq": {
+                    "en": "Event Information:",
+                    "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:"
+                },
+                "event-info-desc1q": {
+                    "en": "The management of the scholarships and shared the opportunity to you.",
+                    "kh": "ក្រុមគ្រប់គ្រងនៃអាហារូបករណ៍ និងចែករំលែកឱកាសជូនអ្នក។"
+                },
+                "event-dateq": {
+                    "en": "📅 Date: 21 February 2025",
+                    "kh": "📅 កាលបរិច្ឆេទ: ២១ កុម្ភៈ ២០២៥"
+                },
+                "event-timeq": {
+                    "en": "⏰ Time: 2:00 PM - 5:00 PM",
+                    "kh": "⏰ ម៉ោង: ២:០០ រសៀល - ៥:០០ ល្ងាច"
+                },
+                "event-locationq": {
+                    "en": "📍 Location: Bun Rany Hun Sen High School",
+                    "kh": "📍 ទីតាំង: វិទ្យាល័យ ប៊ុន រ៉ានី ហ៊ុនសែន"
+                },
+                "event-info-desc2q": {
+                    "en": "The Phnom Penh International University (PPIU) management shares experiences at Bun Rany Hun Sen High School, highlighting scholarship opportunities for students. Wishing you success in the upcoming high school passage exams. 🙏🙏🙏",
+                    "kh": "ក្រុមគ្រប់គ្រងនៃសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) ចែករំលែកបទពិសោធន៍នៅវិទ្យាល័យ ប៊ុន រ៉ានី ហ៊ុនសែន ដោយផ្តល់ព័ត៌មានអំពីឱកាសអាហារូបករណ៍សម្រាប់និស្សិត។ សូមជូនពរឱ្យអ្នកទទួលជោគជ័យក្នុងការប្រឡងឆ្លងថ្នាក់វិទ្យាល័យនាពេលខាងមុខ។ 🙏🙏🙏"
+                },
+
+
+
+
+
+
+                "event-titlez": {
+                    "en": "PPIU students participate in the Cambodia-Thai Youth",
+                    "kh": "និស្សិត PPIU ចូលរួមក្នុងកម្មវិធីយុវជនកម្ពុជា-ថៃ"
+                },
+                "event-info-titlez": {
+                    "en": "Event Information:",
+                    "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:"
+                },
+                "event-info-desc1z": {
+                    "en": "📌 PPIU students participate in the Cambodia-Thai Youth",
+                    "kh": "📌 និស្សិត PPIU ចូលរួមក្នុងកម្មវិធីយុវជនកម្ពុជា-ថៃ"
+                },
+                "event-datez": {
+                    "en": "📅 Date: 08 March 2025",
+                    "kh": "📅 កាលបរិច្ឆេទ: ០៨ មីនា ២០២៥"
+                },
+                "event-timez": {
+                    "en": "⏰ Time: 2:00 PM - 5:00 PM",
+                    "kh": "⏰ ម៉ោង: ២:០០ រសៀល - ៥:ៀ០០ ល្ងាច"
+                },
+                "event-locationz": {
+                    "en": "📍 Location: PPIU Center",
+                    "kh": "📍 ទីតាំង: មជ្ឈមណ្ឌល PPIU"
+                },
+                "event-info-desc2z": {
+                    "en": "PPIU student activities to celebrate the Cambodia-Thailand friendship football event at the National Olympic Stadium",
+                    "kh": "សកម្មភាពរបស់និស្សិត PPIU ដើម្បីអបអរព្រឹត្តិការណ៍បាល់ទាត់មិត្តភាពកម្ពុជា-ថៃ នៅកីឡដ្ឋានជាតិអូឡាំពិក"
+                },
+
+
+
+
+
+
+                //news
+
+
+                "event-titleb": {
+                    "en": "New Enrollment!",
+                    "kh": "ការចុះឈ្មោះថ្មី!"
+                },
+                "event-info-titleb": {
+                    "en": "Event Information:",
+                    "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:"
+                },
+                "event-info-desc1b": {
+                    "en": "📌 Open exclusively to PPIU students",
+                    "kh": "📌 បើកផ្តាច់មុខសម្រាប់និស្សិត PPIU"
+                },
+                "event-dateb": {
+                    "en": "📅 Date: 05 May 2025",
+                    "kh": "📅 កាលបរិច្ឆេទ: ០៥ ឧសភា ២០២៥"
+                },
+                "event-timeb": {
+                    "en": "⏰ Time: 2:00 PM - 5:00 PM",
+                    "kh": "⏰ ម៉ោង: ២:០០ រសៀល - ៥:០០ ល្ងាច"
+                },
+                "event-locationb": {
+                    "en": "📍 Location: PPIU Center",
+                    "kh": "📍 ទីតាំង: មជ្ឈមណ្ឌល PPIU"
+                },
+                "event-info-desc2b": {
+                    "en": "For more information, please visit the Information Office on the 5th floor of Phnom Penh International University (In front of Bak Touk High School), or you can contact us directly through Telegram PPIU: 071 333 6777 Facebook Page: Phnom Penh International University (official).",
+                    "kh": "សម្រាប់ព័ត៌មានបន្ថែម សូមទៅទស្សនាការិយាល័យព័ត៌មាននៅជាន់ទី៥ នៃសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (នៅមុខវិទ្យាល័យបាក់ទូក) ឬអ្នកអាចទាក់ទងមកយើងដោយផ្ទាល់តាម Telegram PPIU: 071 333 6777 ទំព័រហ្វេសប៊ុក: សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (ផ្លូវការ)។"
+                },
+
+
+
+
+                "event-info-titlen": {
+                    "en": "Event Information:",
+                    "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:"
+                },
+                "event-info-desc1n": {
+                    "en": "📌 Open exclusively to PPIU students",
+                    "kh": "📌 បើកផ្តាច់មុខសម្រាប់និស្សិត PPIU"
+                },
+                "event-info-daten": {
+                    "en": "📅 Date: 15 March 2025",
+                    "kh": "📅 កាលបរិច្ឆេទ: ១៥ មីនា ២០២៥"
+                },
+                "event-info-timen": {
+                    "en": "⏰ Time: 2:00 PM - 5:00 PM",
+                    "kh": "⏰ ម៉ោង: ២:០០ រសៀល - ៥:០០ ល្ងាច"
+                },
+                "event-info-locationn": {
+                    "en": "📍 Location: PPIU Center",
+                    "kh": "📍 ទីតាំង: មជ្ឈមណ្ឌល PPIU"
+                },
+                "event-info-desc2n": {
+                    "en": "Postgraduate School Activities organized entrance exams for postgraduate students of Phnom Penh International University (PPIU).",
+                    "kh": "សកម្មភាពសាលាក្រោយបរិញ្ញាបត្របានរៀបចំការប្រឡងចូលរៀនសម្រាប់និស្សិតក្រោយបរិញ្ញាបត្រនៃសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU)។"
+                },
+
+
+
+                "event-info-titlej": {
+                    "en": "Event Information:",
+                    "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:"
+                },
+                "event-info-desc1j": {
+                    "en": "📌 Phnom Penh International University PPIU and General General of the CPP",
+                    "kh": "📌 សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ PPIU និងនាយកដ្ឋានទូទៅនៃ CPP"
+                },
+                "event-info-datej": {
+                    "en": "📅 Date: 27 February 2025",
+                    "kh": "📅 កាលបរិច្ឆេទ: ២៧ កុម្ភៈ ២០២៥"
+                },
+                "event-info-timej": {
+                    "en": "⏰ Time: 2:00 PM - 5:00 PM",
+                    "kh": "⏰ ម៉ោង: ២:០០ រសៀល - ៥:០០ ល្ងាច"
+                },
+                "event-info-locationj": {
+                    "en": "📍 Location: PPIU Center",
+                    "kh": "📍 ទីតាំង: មជ្ឈមណ្ឌល PPIU"
+                },
+                "event-info-desc2j": {
+                    "en": "Phnom Penh International University (PPIU) and the General Department of the CPP have organized the \"Musting Program of Knowledge of the User's Rights and Benefits to University Students\" to build a CEO of Cambodia in charge of the General Department of CPP. A high representative of Lok Chumteav, Minister of Commerce, held this event at Phnom Penh International University. The seminar focuses on consumer protection laws, mechanisms to file complaints with the General Department of CPP, understanding rights and protections in both online and offline markets, and the reporting steps to obtain solutions, requiring the permissions you have.",
+                    "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) និងនាយកទូទៅនៃ CPP បានរៀបចំ \"កម្មវិធីចំណេះដឹងស្តីពីសិទ្ធិ និងអត្ថប្រយោជន៍របស់អ្នកប្រើប្រាស់សម្រាប់និស្សិតសាកលវិទ្យាល័យ\" ដើម្បីបង្កើតនាយកប្រតិបត្តិនៃកម្ពុជាដែលទទួលខុសត្រូវលើនាយកដ្ឋានទូទៅនៃ CPP។ តំណាងជាន់ខ្ពស់នៃលោកជំទាវ រដ្ឋមន្ត្រីក្រសួងពាណិជ្ជកម្ម បានរៀបចំព្រឹត្តិការណ៍នេះនៅសាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ។ សិក្ខាសាលាផ្តោតលើច្បាប់ការពារអ្នកប្រើប្រាស់ យន្តការដាក់ពាក្យបណ្តឹងទៅនាយកដ្ឋានទូទៅនៃ CPP ការយល់ដឹងអំពីសិទ្ធិ និងការការពារទាំងនៅក្នុងទីផ្សារអនឡាញ និងក្រៅអនឡាញ ព្រមទាំងជំហានរាយការណ៍ដើម្បីទទួលបានដំណោះស្រាយ ដែលតម្រូវឱ្យមានការអនុញ្ញាតដែលអ្នកមាន។"
+                },
+
+
+
+                "event-info-titlel": {
+                    "en": "Event Information:",
+                    "kh": "ព័ត៌មានអំពីព្រឹត្តិការណ៍:"
+                },
+                "event-info-desc1l": {
+                    "en": "📌 Phnom Penh International University PPIU and General General of the CPP",
+                    "kh": "📌 សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ PPIU និងនាយកដ្ឋានទូទៅនៃ CPP"
+                },
+                "event-info-datel": {
+                    "en": "📅 Date: 18 February 2025",
+                    "kh": "📅 កាលបរិច្ឆេទ: ១៨ កុម្ភៈ ២០២៥"
+                },
+                "event-info-timel": {
+                    "en": "⏰ Time: 8:00 AM - 11:00 AM",
+                    "kh": "⏰ ម៉ោង: ៨:០០ ព្រឹក - ១១:០០ ព្រឹក"
+                },
+                "event-info-locationl": {
+                    "en": "📍 Stung Treng",
+                    "kh": "📍 ស្ទឹងត្រែង"
+                },
+                "event-info-desc2l": {
+                    "en": "Phnom Penh International University (PPIU) hosts Sok Phone, the Governor of Stung Treng, and missionary studies to discuss scholarships and share opportunities with you. Wishing you success in the upcoming high school passage exams.",
+                    "kh": "សាកលវិទ្យាល័យអន្តរជាតិភ្នំពេញ (PPIU) រៀបចំទទួលឯកឧត្តម សុខ ផុន អភិបាលខេត្តស្ទឹងត្រែង និងការសិក្សាផ្នែកបេសកកម្មដើម្បីពិភាក្សាអំពីអាហារូបករណ៍ និងចែករំលែកឱកាសជូនអ្នក។ សូមជូនពរឱ្យអ្នកទទួលជោគជ័យក្នុងការប្រឡងឆ្លងថ្នាក់វិទ្យាល័យនាពេលខាងមុខ។"
+                }
+       
     };
 
     

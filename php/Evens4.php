@@ -1,8 +1,24 @@
 <?php 
 include("../components/header.php");
-include("./js/Evens1.php");
 include("../js/index.php");
 
+// include("function.php");
+
+
+// $id = $_GET['id'];
+// $sql = "SELECT * FROM `events` WHERE id = '$id'";
+// $res = $con->query($sql);
+
+// $row =mysqli_fetch_assoc($res);
+
+// $title = $row['title'];
+// $banner = $row['banner'];
+// $word = $row['word'];
+// $small = $row['small'];
+// $date = $row['date'];
+// $time = $row['time'];
+// $location = $row['location'];
+// $desc = $row['description'];
 ?>
 <!DOCTYPE html>
 
@@ -18,22 +34,22 @@ include("../js/index.php");
 </head>
 <body>
 <div class="container text-center mt-5">
-    <h3 class="event-title" id="scholarship-title">Share scholarship opportunities with your children as well.</h3>
-    
-    <!-- Event Image -->
-    <div class="event-image">
-        <img src="../img/487203215_1085235110311885_8707928451971242358_n.jpg" class="img-fluid" alt="Alumni Engagement Event">
-    </div>
+<h3 style="margin-top: 220px;" class="event-title" id="event-titleq">The management of (PPIU) share experiences...</h3>
+        
+        <!-- Event Image -->
+        <div class="event-image">
+            <img src="../img/487203215_1085235110311885_8707928451971242358_n.jpg" class="img-fluid" alt="Alumni Engagement Event">
+        </div>
 
-    <!-- Event Information -->
-    <div class="event-info mt-4">
-        <h5 class="text-danger fw-bold" id="event-info-title">Event Information:</h5>
-        <p id="event-info-desc1">📌 well as share scholarship opportunities with the students.</p>
-        <p id="event-info-date">📅 Date: 21 February 2025</p>
-        <p id="event-info-time">⏰ Time: 2:00 PM - 5:00 PM</p>
-        <p id="event-info-location">📍 Location: Bunrany High School, Hun Sen Speu</p>
-        <p id="event-info-desc2">The management of Phnom Penh International University shared their experiences in studying and choosing academic majors with students at Bunrany, Hun Sen, Speu and Bos Knoor High School and encourage the students to continue their higher education after completing secondary school, as well as share scholarship opportunities with the students. Wishing the students to pass the secondary school exam in the future. 🙏🙏🙏</p>
-    </div>
+        <!-- Event Information -->
+        <div class="event-info mt-4">
+            <h5 class="text-danger fw-bold" id="event-info-titleq">Event Information:</h5>
+            <p id="event-info-desc1q">The management of the scholarships and shared the opportunity to you.</p>
+            <p id="event-dateq">📅 Date: 21 February 2025</p>
+            <p id="event-timeq">⏰ Time: 2:00 PM - 5:00 PM</p>
+            <p id="event-locationq">📍 Location: Bun Rany Hun Sen High School</p>
+            <p id="event-info-desc2q">The Phnom Penh International University (PPIU) management shares experiences at Bun Rany Hun Sen High School, highlighting scholarship opportunities for students. Wishing you success in the upcoming high school passage exams. 🙏🙏🙏</p>
+        </div>
 
     <!-- Social Media Share Buttons -->
     <div class="social-share mt-4">
