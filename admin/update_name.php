@@ -6,8 +6,11 @@ $sql = "SELECT * FROM `register` WHERE `id` = '$up_id'";
 $res = $con->query($sql);
 $row = mysqli_fetch_array($res);
 
+// Select degree
+
 $selected_BA = '';
 $selected_AA = '';
+
 if($row['Degree'] == 'Bachelor') {
     $selected_BA = "selected";
 
@@ -15,8 +18,11 @@ if($row['Degree'] == 'Bachelor') {
     $selected_AA = "selected";
 }
 
+// Select gender
+
 $selected_Male = '';
 $selected_Female = '';
+
 if($row['gender'] == 'male') {
     $selected_Male = "selected";
 
@@ -29,6 +35,18 @@ if($row['gender'] == 'male') {
 $selected_Web = '';
 $selected_Acc = '';
 $selected_Eng = '';
+$selected_Mgt = '';
+$selected_Law = '';
+$selected_Mkt = '';
+$selected_IR = '';
+$selected_Public = '';
+$selected_Economic = '';
+$selected_Fiance = '';
+$selected_Business = '';
+$selected_IB = '';
+$selected_Logistics = '';
+$selected_Mis = '';
+$selected_Htm = '';
 
 if($row['Skill'] == 'Computer Sciences'){
     $selected_Web = "selected";
@@ -36,12 +54,58 @@ if($row['Skill'] == 'Computer Sciences'){
 }else if($row['Skill'] == 'Accounting'){
     $selected_Acc = "selected";
    
-}else{
+}
+else if($row['Skill'] == 'Management'){
+    $selected_Mgt = "selected";
+   
+}
+else if($row['Skill'] == 'Law'){
+    $selected_Law = "selected";
+   
+}else if($row['Skill'] == 'Marketing'){
+    $selected_Mkt = "selected";
+   
+}
+else if($row['Skill'] == 'InternationalRelation'){
+    $selected_IR = "selected";
+   
+}
+else if($row['Skill'] == 'Public Adminstation'){
+    $selected_Public = "selected";
+   
+}
+else if($row['Skill'] == 'Economic Development'){
+    $selected_Economic = "selected";
+   
+}
+else if($row['Skill'] == 'Hotel & Tourism Management'){
+    $selected_Htm = "selected";
+   
+}
+else if($row['Skill'] == 'Fiance & Banking'){
+    $selected_Fiance = "selected";
+   
+}
+else if($row['Skill'] == 'Management Information System'){
+    $selected_Mis = "selected";
+   
+}
+else if($row['Skill'] == 'English for Business'){
+    $selected_Business = "selected";
+   
+}
+else if($row['Skill'] == 'International Business'){
+    $selected_IB = "selected";
+   
+}
+else if($row['Skill'] == 'Logistics Management'){
+    $selected_Logistics = "selected";
+   
+}
+else{
     $selected_Eng = "selected";
    
 }
-
-
 
 ?>
 
@@ -154,20 +218,20 @@ label {
                                     <select id="Skill" name="Skill" value="<?php echo $row[7]?>" class="form-control" required>
                                         <option value="">Select</option>
                                         <option value="Accounting" <?php echo $selected_Acc?>>Accounting</option>
-                                        <option value="Management">Management</option>
-                                        <option value="Law">Law</option>
-                                        <option value="Marketing">Marketing</option>
-                                        <option value="InternationalRelation">InternationalRelation</option>
-                                        <option value="Public Adminstation">Public Adminstation</option>
-                                        <option value="Economic Development">Economic Development</option>
-                                        <option value="Hotel & Tourism Management">Hotel & Tourism Management</option>
-                                        <option value="Fiance & Banking">Fiance & Banking</option>
-                                        <option value="Management Information System">Management Information System</option>
+                                        <option value="Management"<?php echo $selected_Mgt?>>Management</option>
+                                        <option value="Law"<?php echo $selected_Law?>>Law</option>
+                                        <option value="Marketing"<?php echo $selected_Mkt?>>Marketing</option>
+                                        <option value="InternationalRelation"<?php echo $selected_IR?>>InternationalRelation</option>
+                                        <option value="Public Adminstation"<?php echo $selected_Public?>>Public Adminstation</option>
+                                        <option value="Economic Development"<?php echo $selected_Economic?>>Economic Development</option>
+                                        <option value="Hotel & Tourism Management"<?php echo $selected_Htm?>>Hotel & Tourism Management</option>
+                                        <option value="Fiance & Banking"<?php echo $selected_Fiance?>>Fiance & Banking</option>
+                                        <option value="Management Information System"<?php echo $selected_Mis?>>Management Information System</option>
                                         <option value="English for Education"<?php echo $selected_Eng?>>English for Education</option>
-                                        <option value="English for Business">English for Business</option>
-                                        <option value="International Business">International Business</option>
+                                        <option value="English for Business"<?php echo $selected_Business?>>English for Business</option>
+                                        <option value="International Business"<?php echo $selected_IB?>>International Business</option>
                                         <option value="Computer Sciences" <?php echo $selected_Web?>>Computer Sciences</option>
-                                        <option value="Logistics Management ">Logistics Management</option>
+                                        <option value="Logistics Management "<?php echo $selected_Logistics?>>Logistics Management</option>
                                     </select>
                                 </div>
 
