@@ -70,7 +70,7 @@
 
             <section class="image-section">
                 <div class="image-container">
-                    <img src="https://www.ppiu.edu.kh/public/ckeditor/kcfinder/upload/images/Student%20Loan/149348854_3885379021519271_51603838440473892_o.jpg" alt="Graduate Image">
+                    <img src="../img/149348854_3885379021519271_51603838440473892_o.jpg" alt="Graduate Image">
                     <div class="overlay-text">
                         <p id="overlay-student-loan">STUDENT LOAN</p>
                         <p id="overlay-amount">Up to $3,200</p>
