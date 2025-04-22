@@ -125,7 +125,7 @@
                     <li><a href="../Academics/Business.php" id="faculty-business">FACULTY OF BUSINESS AND TOURISM</a></li>
                     <li><a href="../Academics/law.php" id="faculty-law">FACULTY OF LAW AND ECONOMIC</a></li>
                     <li><a href="../Academics/education.php " id="faculty-education">FACULTY OF EDUCATION SCIENCE</a></li>
-                    <li><a href="#" id="faculty-news">FACULTY OF NEWS AND VIEWS</a></li>
+        
                 </ul>
             </div>
             <div class="col-md-3">
@@ -138,7 +138,7 @@
                 <div class="social-icons">
                     <a href="https://web.facebook.com/ppiu.edu.kh.ppiucam" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.tiktok.com/@user1817292188292?_t=ZS-8v6iFTxDgKj&_r=1" aria-label="TikTok"><i class="fab fa-tiktok"></i></a>
-                    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fofficialppiu%2F&is_from_rle" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
         </div>
